@@ -46,7 +46,7 @@ A curated list of high-quality, reusable AI agents and tools that can act autono
     - `description` (string, required): A brief description of the agent.
     - `purpose` (string): The primary purpose or goal of the agent.
     - `repository` (string, required, format: uri): The GitHub (or other VCS) link to the agent's source code.
-    - `stars` (integer, required, minimum: 0): The number of stars the repository has. (Note: for inclusion in Awesome AI Agents Hub, 50+ stars are generally expected, but this is not a strict schema validation).
+    - `stars` (integer, required, minimum: 50): The number of stars the repository has.
     - `category` (string, required, enum: `commerce`, `payment`, `productivity`, `education`, `infra`, `meta`, `experimental`): The primary category the agent belongs to.
     - `originator` (string): The original creator or organization behind the agent.
     - `principle` (string): Core principles or design philosophy of the agent.

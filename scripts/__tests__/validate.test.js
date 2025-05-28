@@ -40,11 +40,16 @@ describe("Agent Data Validation", () => {
   });
 
   test("should invalidate data with stars less than minimum", () => {
-    const data = { ...baseValidData, stars: -1 };
+    const data = { ...baseValidData, stars: 49 };
     const errors = validateAgentData(data);
     expect(errors).not.toBeNull();
     expect(errors[0].instancePath).toBe("/stars");
-    expect(errors[0].message).toBe("must be >= 0");
+    expect(errors[0].message).toBe("must be >= 50");
+  });
+
+  test("should validate data with stars equal to minimum", () => {
+    const data = { ...baseValidData, stars: 50 };
+    expect(validateAgentData(data)).toBeNull();
   });
 
   test("should invalidate data with invalid category enum", () => {

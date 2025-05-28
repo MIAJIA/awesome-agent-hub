@@ -30,7 +30,7 @@
     },
     "stars": {
       "type": "integer",
-      "minimum": 0
+      "minimum": 50
     },
     "category": {
       "type": "string",

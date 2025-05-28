@@ -1,2 +1,143 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Agent Entry Schema",
+  "type": "object",
+  "required": [
+    "name",
+    "slug",
+    "description",
+    "repository",
+    "stars",
+    "category"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "description": {
+      "type": "string"
+    },
+    "purpose": {
+      "type": "string"
+    },
+    "repository": {
+      "type": "string",
+      "format": "uri"
+    },
+    "stars": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "commerce",
+        "payment",
+        "productivity",
+        "education",
+        "infra",
+        "meta",
+        "experimental"
+      ]
+    },
+    "originator": {
+      "type": "string"
+    },
+    "principle": {
+      "type": "string"
+    },
+    "stack": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "reusability": {
+      "type": "string"
+    },
+    "limitations": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "alpha",
+        "beta",
+        "production"
+      ]
+    },
+    "open_source": {
+      "type": "boolean"
+    },
+    "license": {
+      "type": "string"
+    },
+    "demo_links": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "badge": {
+      "type": "string",
+      "enum": [
+        "official",
+        "community",
+        "experimental"
+      ]
+    },
+    "security_grade": {
+      "type": "string",
+      "enum": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "license_grade": {
+      "type": "string",
+      "enum": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "quality_grade": {
+      "type": "string",
+      "enum": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date"
+    },
+    "language": {
+      "type": "string"
+    },
+    "platforms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "maintainer_verified": {
+      "type": "boolean"
+    }
+  }
+}
 
 

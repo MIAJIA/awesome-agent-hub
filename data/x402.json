@@ -4,7 +4,7 @@
   "description": "A payment protocol enabling AI agents to perform blockchain payments via HTTP 402 extensions.",
   "purpose": "Allow AI agents to autonomously pay for API access using stablecoins.",
   "repository": "https://github.com/coinbase/x402",
-  "stars": 527,
+  "stars": 532,
   "category": "payment",
   "originator": "Coinbase",
   "principle": "Extends HTTP 402 with X-PAYMENT headers, defines a standard payment interaction model.",
@@ -33,7 +33,7 @@
   "security_grade": "A",
   "license_grade": "A",
   "quality_grade": "A",
-  "last_updated": "2025-05-23",
+  "last_updated": "2025-05-28",
   "language": "TypeScript",
   "platforms": [
     "Web",

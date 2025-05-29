@@ -7,12 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go"
-  ],
+  "stack": [],
   "name": "solana-agent-kit",
   "slug": "sendaifun-solana-agent-kit",
   "description": "connect any ai agents to solana protocols",

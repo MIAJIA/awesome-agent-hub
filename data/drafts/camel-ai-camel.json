@@ -7,12 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go"
-  ],
+  "stack": [],
   "name": "camel",
   "slug": "camel-ai-camel",
   "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",

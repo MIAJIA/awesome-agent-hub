@@ -7,12 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go"
-  ],
+  "stack": [],
   "name": "ai-agent-cognitivedriftt",
   "slug": "dabit3-ai-agent-cognitivedriftt",
   "description": "Cognitive Drift AI Agent",

@@ -7,12 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go"
-  ],
+  "stack": [],
   "name": "Memary",
   "slug": "kingjulio8238-memary",
   "description": "The Open Source Memory Layer For Autonomous Agents",

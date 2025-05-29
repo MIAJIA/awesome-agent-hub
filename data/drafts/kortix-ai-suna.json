@@ -7,13 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust"
-  ],
+  "stack": [],
   "name": "suna",
   "slug": "kortix-ai-suna",
   "description": "Suna - Open Source Generalist AI Agent",

@@ -7,11 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook"
-  ],
+  "stack": [],
   "name": "Autonomous-Agents",
   "slug": "tmgthb-autonomous-agents",
   "description": "Autonomous Agents (LLMs) research papers. Updated Daily.",

@@ -7,11 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook"
-  ],
+  "stack": [],
   "name": "awesome-llm-apps",
   "slug": "shubhamsaboo-awesome-llm-apps",
   "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",

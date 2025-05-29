@@ -7,15 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML",
-    "JavaScript"
-  ],
+  "stack": [],
   "name": "agenticSeek",
   "slug": "fosowl-agenticseek",
   "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",

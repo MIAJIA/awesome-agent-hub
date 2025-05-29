@@ -7,11 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook"
-  ],
+  "stack": [],
   "name": "awesome-langchain",
   "slug": "kyrolabs-awesome-langchain",
   "description": "😎 Awesome list of tools and projects with the awesome LangChain framework",

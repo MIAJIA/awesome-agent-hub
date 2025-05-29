@@ -7,14 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML"
-  ],
+  "stack": [],
   "name": "web-ui",
   "slug": "browser-use-web-ui",
   "description": "🖥️ Run AI Agent in your browser.",

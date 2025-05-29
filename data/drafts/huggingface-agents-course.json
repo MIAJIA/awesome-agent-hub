@@ -7,16 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML",
-    "JavaScript",
-    "MDX"
-  ],
+  "stack": [],
   "name": "agents-course",
   "slug": "huggingface-agents-course",
   "description": "This repository contains the Hugging Face Agents Course. ",

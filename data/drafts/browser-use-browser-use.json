@@ -7,15 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML",
-    "JavaScript"
-  ],
+  "stack": [],
   "name": "browser-use",
   "slug": "browser-use-browser-use",
   "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",

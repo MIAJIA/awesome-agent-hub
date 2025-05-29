@@ -7,15 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML",
-    "JavaScript"
-  ],
+  "stack": [],
   "name": "core",
   "slug": "cheshire-cat-ai-core",
   "description": "AI agent microservice",

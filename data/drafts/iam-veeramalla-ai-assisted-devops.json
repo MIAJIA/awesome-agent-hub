@@ -7,13 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust"
-  ],
+  "stack": [],
   "name": "ai-assisted-devops",
   "slug": "iam-veeramalla-ai-assisted-devops",
   "description": "Learn how DevOps Engineers can use Gen AI to enhance their productivity in day to day tasks.",

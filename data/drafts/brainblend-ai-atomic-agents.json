@@ -7,15 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML",
-    "JavaScript"
-  ],
+  "stack": [],
   "name": "atomic-agents",
   "slug": "brainblend-ai-atomic-agents",
   "description": "Building AI agents, atomically",

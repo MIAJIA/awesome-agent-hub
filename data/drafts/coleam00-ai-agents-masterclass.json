@@ -7,12 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go"
-  ],
+  "stack": [],
   "name": "ai-agents-masterclass",
   "slug": "coleam00-ai-agents-masterclass",
   "description": "Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!",

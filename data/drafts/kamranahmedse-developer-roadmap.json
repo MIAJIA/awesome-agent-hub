@@ -7,15 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML",
-    "JavaScript"
-  ],
+  "stack": [],
   "name": "developer-roadmap",
   "slug": "kamranahmedse-developer-roadmap",
   "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",

@@ -7,11 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook"
-  ],
+  "stack": [],
   "name": "FinRobot",
   "slug": "ai4finance-foundation-finrobot",
   "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 ",

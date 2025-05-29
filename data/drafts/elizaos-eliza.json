@@ -7,9 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript"
-  ],
+  "stack": [],
   "name": "eliza",
   "slug": "elizaos-eliza",
   "description": "Autonomous agents for everyone",

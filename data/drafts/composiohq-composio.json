@@ -7,12 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go"
-  ],
+  "stack": [],
   "name": "composio",
   "slug": "composiohq-composio",
   "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",

@@ -7,10 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python"
-  ],
+  "stack": [],
   "name": "SuperAGI",
   "slug": "transformeroptimus-superagi",
   "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",

@@ -10,15 +10,7 @@
     "Web",
     "Local Development"
   ],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML",
-    "JavaScript"
-  ],
+  "stack": [],
   "name": "Agently",
   "slug": "agentera-agently",
   "description": "[GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent in code using structure data and chained-calls syntax 🧩 Use Agently Workflow to manage complex GenAI working logic 🔀 Switch to any model without rewrite application code",

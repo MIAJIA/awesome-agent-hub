@@ -12,11 +12,7 @@
     "Web",
     "Docker"
   ],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook"
-  ],
+  "stack": [],
   "name": "activepieces",
   "slug": "activepieces-activepieces",
   "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",

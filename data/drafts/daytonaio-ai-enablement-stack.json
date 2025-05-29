@@ -7,14 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML"
-  ],
+  "stack": [],
   "name": "ai-enablement-stack",
   "slug": "daytonaio-ai-enablement-stack",
   "description": "A Community-Driven Mapping of AI Development Tools",

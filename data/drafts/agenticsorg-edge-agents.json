@@ -14,16 +14,7 @@
     "Google Cloud Functions",
     "Azure Functions"
   ],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML",
-    "JavaScript",
-    "MDX"
-  ],
+  "stack": [],
   "name": "edge-agents",
   "slug": "agenticsorg-edge-agents",
   "description": "serverless agents",

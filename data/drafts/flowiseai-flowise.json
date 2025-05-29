@@ -7,11 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook"
-  ],
+  "stack": [],
   "name": "Flowise",
   "slug": "flowiseai-flowise",
   "description": "Build AI Agents, Visually",

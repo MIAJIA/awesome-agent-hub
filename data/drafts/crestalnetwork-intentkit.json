@@ -7,10 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python"
-  ],
+  "stack": [],
   "name": "intentkit",
   "slug": "crestalnetwork-intentkit",
   "description": "An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!",

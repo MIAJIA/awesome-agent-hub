@@ -7,11 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook"
-  ],
+  "stack": [],
   "name": "ai-agents-for-beginners",
   "slug": "microsoft-ai-agents-for-beginners",
   "description": "11 Lessons to Get Started Building AI Agents",

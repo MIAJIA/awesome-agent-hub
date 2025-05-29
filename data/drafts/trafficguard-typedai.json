@@ -7,11 +7,7 @@
   "limitations": "",
   "demo_links": [],
   "platforms": [],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook"
-  ],
+  "stack": [],
   "name": "typedai",
   "slug": "trafficguard-typedai",
   "description": "TypeScript AI platform with AI chat, Autonomous agents, Software developer agents, chatbots and more",

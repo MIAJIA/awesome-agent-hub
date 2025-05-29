@@ -13,21 +13,7 @@
     "Windows",
     "macOS"
   ],
-  "stack": [
-    "TypeScript",
-    "Python",
-    "Jupyter Notebook",
-    "Go",
-    "Rust",
-    "HTML",
-    "JavaScript",
-    "MDX",
-    "Kotlin",
-    "Ruby",
-    "C",
-    "Shell",
-    "Handlebars"
-  ],
+  "stack": [],
   "name": "ag2",
   "slug": "ag2ai-ag2",
   "description": "AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ",

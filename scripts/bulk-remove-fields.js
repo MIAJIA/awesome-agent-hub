@@ -9,10 +9,12 @@ const FIELDS_TO_REMOVE = [
   'security_grade',
   'badge'
 ];
+const FIELDS_TO_EMPTY = ['stack']; // Fields to set to empty array
 
 async function bulkRemoveFields() {
   console.log(`Starting bulk field removal from JSON files in ${DRAFTS_DIR}...`);
   console.log(`Fields to remove: ${FIELDS_TO_REMOVE.join(', ')}`);
+  console.log(`Fields to empty: ${FIELDS_TO_EMPTY.join(', ')}`);
 
   let filesProcessed = 0;
   let filesModified = 0;
@@ -40,10 +42,20 @@ async function bulkRemoveFields() {
         let jsonData = JSON.parse(fileContent);
         let modified = false;
 
+        // Remove specified fields
         for (const field of FIELDS_TO_REMOVE) {
           if (jsonData.hasOwnProperty(field)) {
             delete jsonData[field];
             console.log(`  - Removed field: ${field}`);
+            modified = true;
+          }
+        }
+
+        // Empty specified fields (set to empty array)
+        for (const field of FIELDS_TO_EMPTY) {
+          if (jsonData.hasOwnProperty(field)) {
+            jsonData[field] = [];
+            console.log(`  - Emptied field: ${field}`);
             modified = true;
           }
         }
@@ -53,7 +65,7 @@ async function bulkRemoveFields() {
           console.log(`  Successfully updated ${fileName}.`);
           filesModified++;
         } else {
-          console.log(`  No fields to remove in ${fileName}. Skipped writing.`);
+          console.log(`  No fields to modify in ${fileName}. Skipped writing.`);
         }
       } catch (error) {
         console.error(`  Error processing ${fileName}: ${error.message}`);
@@ -69,7 +81,7 @@ async function bulkRemoveFields() {
     process.exit(1);
   }
 
-  console.log('\nBulk field removal complete.');
+  console.log('\nBulk field modification complete.');
   console.log(`Total files scanned: ${filesProcessed}`);
   console.log(`Files modified: ${filesModified}`);
   console.log(`Files failed: ${filesFailed}`);
@@ -82,4 +94,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { bulkRemoveFields, FIELDS_TO_REMOVE }; // Export for potential testing
+module.exports = { bulkRemoveFields, FIELDS_TO_REMOVE, FIELDS_TO_EMPTY }; // Export for potential testing

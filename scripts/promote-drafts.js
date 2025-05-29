@@ -78,7 +78,22 @@ async function callLLMToFillEmptyFields(agentData, repositoryUrl) {
     }
 
     console.log(`[LLM] Analyzing ${repositoryUrl} for agent: ${agentData.name}`);
-    const fieldsToRequestFromLLM = LLM_TARGET_FIELDS.filter(f => isFieldEmpty(agentData[f.name], f.type));
+
+    const fieldsToRequestFromLLM = [];
+    for (const field of LLM_TARGET_FIELDS) {
+        if (field.name === 'category') {
+            if (isFieldEmpty(agentData[field.name], field.type) || agentData[field.name] === 'experimental') {
+                fieldsToRequestFromLLM.push({ name: field.name, type: field.type, isEnum: field.isEnum });
+            }
+        } else if (field.name === 'stack' && field.type === 'array') {
+            // Always try to get stack from LLM if current is empty or only has one item (likely just the language)
+            if (isFieldEmpty(agentData[field.name], field.type) || (Array.isArray(agentData[field.name]) && agentData[field.name].length <= 1)) {
+                fieldsToRequestFromLLM.push({ name: field.name, type: field.type, isEnum: field.isEnum });
+            }
+        } else if (isFieldEmpty(agentData[field.name], field.type)) {
+            fieldsToRequestFromLLM.push({ name: field.name, type: field.type, isEnum: field.isEnum });
+        }
+    }
 
     if (fieldsToRequestFromLLM.length === 0) {
         console.log(`[LLM] No empty target fields found for ${agentData.name}. Skipping LLM call.`);
@@ -189,6 +204,11 @@ async function promoteDrafts() {
         if (draftFiles.length === 0) {
             console.log("No JSON files found in drafts directory.");
             return;
+        }
+        // Slice the array to process only the first 2 files for testing
+        if (draftFiles.length > 2) {
+            console.log(`Processing only the first 2 files out of ${draftFiles.length} available.`);
+            draftFiles = draftFiles.slice(0, 2);
         }
         // console.log(`Testing with the first ${draftFiles.length} JSON files: ${draftFiles.join(', ')}`); // Optional: for logging all files
     } catch (err) {

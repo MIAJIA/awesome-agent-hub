@@ -9,6 +9,33 @@ Existing Data:
 
 Please generate content for the following empty fields based on your understanding of the repository's README and code.
 Focus on extracting factual information and capabilities from the repository.
+
+CATEGORY SELECTION GUIDANCE:
+When selecting a category, analyze the agent's PRIMARY purpose and choose the most specific applicable category:
+
+- **commerce**: E-commerce agents (shopping, product search, checkout automation, marketplace tools)
+- **payment**: Payment processing, transaction handling, payment gateways, crypto payments
+- **finance**: Financial analysis, trading, investment management, accounting, budgeting tools
+- **productivity**: Task management, workflow optimization, note-taking, calendar management, general productivity tools
+- **education**: Learning platforms, tutoring, educational content creation, skill assessment
+- **infra-tools**: Development infrastructure, APIs, databases, deployment tools, monitoring
+- **meta-agents**: Agent orchestration, multi-agent systems, agent management platforms
+- **writing**: Content generation, editing, documentation, copywriting, creative writing
+- **research-and-analysis**: Data analysis, research automation, report generation, information gathering
+- **lifestyle**: Health, wellness, personal assistants, hobby tools, entertainment
+- **programming**: Code generation, debugging, software development, code analysis
+- **art**: Creative design, image generation, music, visual arts, creative tools
+- **iot**: Hardware integration, device control, sensor data, embedded systems
+- **data-visualization**: Charts, dashboards, reporting, visual analytics
+- **social-media**: Social platform automation, content scheduling, engagement tools
+- **gaming**: Game development, NPCs, game mechanics, player assistance
+- **workflow-automation**: Business process automation, RPA, integration platforms
+- **marketing**: Campaign management, SEO, analytics, lead generation, advertising
+- **communication**: Chat systems, messaging, collaboration tools, customer support
+- **experimental**: ONLY use if the agent is clearly in early research phase or doesn't fit other categories
+
+AVOID "experimental" unless the agent is genuinely experimental/research-focused. Most agents have a clear primary domain.
+
 Fields to fill:
 {{fieldsToFillList}}
 
@@ -19,6 +46,7 @@ Return the response as a valid JSON object containing ONLY the fields you've gen
   "purpose": "To autonomously manage and optimize cloud infrastructure based on real-time metrics.",
   "stack": ["Python", "Terraform", "AWS SDK", "Prometheus"],
   "status": "beta",
-  "platforms": ["AWS", "Docker"]
+  "platforms": ["AWS", "Docker"],
+  "category": "infra-tools"
 }
 Ensure the output is a single JSON object. If you cannot find information for a requested field, omit it from your response JSON.

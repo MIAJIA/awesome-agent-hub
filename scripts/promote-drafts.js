@@ -79,7 +79,10 @@ async function callLLMToFillEmptyFields(agentData, repositoryUrl) {
     const fieldsToRequestFromLLM = [];
     for (const field of LLM_TARGET_FIELDS) {
         if (field.name === 'category') {
-            if (isFieldEmpty(agentData[field.name], field.type) || agentData[field.name] === 'experimental') {
+            // Force category update if it's experimental OR empty, since we want better categorization
+            if (isFieldEmpty(agentData[field.name], field.type) ||
+                agentData[field.name] === 'experimental' ||
+                !agentData[field.name]) {
                 fieldsToRequestFromLLM.push({ name: field.name, type: field.type, isEnum: field.isEnum });
             }
         } else if (field.name === 'stack' && field.type === 'array') {
@@ -100,9 +103,14 @@ async function callLLMToFillEmptyFields(agentData, repositoryUrl) {
     const fieldDescriptionsForPrompt = fieldsToRequestFromLLM.map(f => {
         const schemaProp = agentSchema.properties[f.name];
         let description = schemaProp && schemaProp.description ? schemaProp.description : `Provide content for ${f.name}`;
-        if (f.isEnum && schemaProp && schemaProp.enum) {
+
+        // Special handling for category to provide better guidance
+        if (f.name === 'category' && f.isEnum && schemaProp && schemaProp.enum) {
+            description = `Analyze the repository's README, code, and purpose to determine the most appropriate category. Look at keywords, dependencies, use cases, and main functionality. Available categories: ${schemaProp.enum.join(', ')}. Choose the most SPECIFIC category that matches the agent's PRIMARY purpose - avoid 'experimental' unless it's genuinely research-focused.`;
+        } else if (f.isEnum && schemaProp && schemaProp.enum) {
             description += ` (Allowed values: ${schemaProp.enum.join(', ')})`;
         }
+
         return `- ${f.name} (${f.type}): ${description}`;
     }).join('\\n');
 
@@ -183,6 +191,29 @@ async function callLLMToFillEmptyFields(agentData, repositoryUrl) {
 
 async function promoteDrafts() {
     console.log('Starting draft promotion process...');
+
+    // Parse command line arguments for number of files to process
+    const args = process.argv.slice(2);
+    let maxFiles = 1; // Default to 1 file
+
+    // Look for --count or -c parameter
+    const countIndex = args.findIndex(arg => arg === '--count' || arg === '-c');
+    if (countIndex !== -1 && args[countIndex + 1]) {
+        const parsedCount = parseInt(args[countIndex + 1], 10);
+        if (!isNaN(parsedCount) && parsedCount > 0) {
+            maxFiles = parsedCount;
+        } else {
+            console.error('Invalid count parameter. Using default of 1.');
+        }
+    }
+
+    // Also check for --all flag to process all files
+    if (args.includes('--all')) {
+        maxFiles = Infinity;
+    }
+
+    console.log(`Max files to process: ${maxFiles === Infinity ? 'all' : maxFiles}`);
+
     if (!process.env.OPENAI_API_KEY) {
         console.error("OPENAI_API_KEY is not set in .env file. Cannot proceed with LLM enrichment.");
         return;
@@ -202,12 +233,16 @@ async function promoteDrafts() {
             console.log("No JSON files found in drafts directory.");
             return;
         }
-        // Slice the array to process only the first 2 files for testing
-        if (draftFiles.length > 2) {
-            console.log(`Processing only the first 2 files out of ${draftFiles.length} available.`);
-            draftFiles = draftFiles.slice(0, 2);
+
+        // Limit the number of files to process
+        if (maxFiles !== Infinity && draftFiles.length > maxFiles) {
+            console.log(`Processing only the first ${maxFiles} files out of ${draftFiles.length} available.`);
+            draftFiles = draftFiles.slice(0, maxFiles);
+        } else if (maxFiles === Infinity) {
+            console.log(`Processing all ${draftFiles.length} files.`);
+        } else {
+            console.log(`Processing ${draftFiles.length} files (requested ${maxFiles}).`);
         }
-        // console.log(`Testing with the first ${draftFiles.length} JSON files: ${draftFiles.join(', ')}`); // Optional: for logging all files
     } catch (err) {
         if (err.code === 'ENOENT') {
             console.log(`Drafts directory ${DRAFTS_DIR} not found. Nothing to promote.`);

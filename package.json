@@ -7,7 +7,8 @@
     "test": "jest",
     "validate-data": "node scripts/validate.js",
     "fetch-github-meta": "node scripts/fetch-github-meta.js",
-    "summarize-drafts": "node scripts/summarize-drafts.js"
+    "summarize-drafts": "node scripts/summarize-drafts.js",
+    "promote-drafts": "node scripts/promote-drafts.js"
   },
   "keywords": [
     "ai",
@@ -21,7 +22,8 @@
     "ajv": "^8.12.0",
     "ajv-formats": "^2.1.1",
     "dotenv": "^16.5.0",
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^2.7.0",
+    "openai": "^4.103.0"
   },
   "devDependencies": {
     "jest": "^29.7.0"

@@ -1,0 +1,24 @@
+Given the following AI agent information and its repository:
+Name: {{agentName}}
+Description: {{agentDescription}}
+Repository: {{repositoryUrl}}
+Existing Data:
+```json
+{{existingDataJson}}
+```
+
+Please generate content for the following empty fields based on your understanding of the repository's README and code.
+Focus on extracting factual information and capabilities from the repository.
+Fields to fill:
+{{fieldsToFillList}}
+
+Only provide content for these fields if they are currently empty or have placeholder values as defined (null, "", "N/A", "TODO", or empty array []).
+Do not modify other fields that already have content.
+Return the response as a valid JSON object containing ONLY the fields you've generated content for, with their respective generated values. For example, if you were asked to fill 'purpose', 'stack', 'status', and 'platforms', your response might look like:
+{
+  "purpose": "To autonomously manage and optimize cloud infrastructure based on real-time metrics.",
+  "stack": ["Python", "Terraform", "AWS SDK", "Prometheus"],
+  "status": "beta",
+  "platforms": ["AWS", "Docker"]
+}
+Ensure the output is a single JSON object. If you cannot find information for a requested field, omit it from your response JSON.

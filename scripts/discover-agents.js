@@ -35,7 +35,10 @@ async function fetchGithubApi(url, options = {}) {
   }
 
   const headers = { ...(options.headers || {}) };
-  const currentToken = process.env.GITHUB_API_TOKEN;
+  // Read GITHUB_API_TOKEN first, then API_TOKEN as a fallback
+  const githubToken = process.env.GITHUB_API_TOKEN;
+  const apiToken = process.env.API_TOKEN;
+  const currentToken = githubToken || apiToken;
 
   if (currentToken) {
     headers["Authorization"] = `token ${currentToken}`;
@@ -44,6 +47,7 @@ async function fetchGithubApi(url, options = {}) {
 
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
+      // console.log(`Fetching (attempt ${attempt}): ${url}`);
       const response = await fetch(url, { ...options, headers });
 
       if (response.status === 403 && response.headers.get('x-ratelimit-remaining') === '0') {
@@ -52,8 +56,8 @@ async function fetchGithubApi(url, options = {}) {
         const waitTime = rateLimitResetTime - Date.now();
         console.warn(`GitHub API rate limit exceeded. Waiting for ${Math.ceil(waitTime / 1000)}s to retry...`);
         if (attempt < MAX_RETRIES) {
-          await sleep(waitTime > 0 ? waitTime : RETRY_DELAY_MS);
-          continue;
+          await sleep(waitTime > 0 ? waitTime : RETRY_DELAY_MS); // Ensure positive wait time
+          continue; // Retry the request
         } else {
           console.error("GitHub API rate limit exceeded. Max retries reached.");
           return { error: "Rate limit exceeded", status: response.status, data: null, headers: response.headers };
@@ -61,14 +65,15 @@ async function fetchGithubApi(url, options = {}) {
       }
 
       if (!response.ok) {
-        const errorBody = await response.text();
+        const errorBody = await response.text(); // Read error body for more details
         console.error(
           `Error fetching ${url}: ${response.status} ${response.statusText}. Body: ${errorBody}`
         );
          if (attempt === MAX_RETRIES) {
+          // Return a structured error object or throw
           return { error: `API error: ${response.statusText}`, status: response.status, data: null, headers: response.headers };
         }
-        await sleep(RETRY_DELAY_MS * attempt);
+        await sleep(RETRY_DELAY_MS * attempt); // Exponential backoff might be better
         continue;
       }
       const data = await response.json();
@@ -76,7 +81,7 @@ async function fetchGithubApi(url, options = {}) {
     } catch (error) {
       console.error(`Network or other error fetching ${url} (attempt ${attempt}):`, error);
       if (attempt === MAX_RETRIES) {
-        return { error: `Network error: ${error.message}`, status: 0, data: null, headers: null };
+        return { error: `Network error: ${error.message}`, status: 0, data: null, headers: null }; // status 0 for network error
       }
       await sleep(RETRY_DELAY_MS * attempt);
     }

@@ -11,28 +11,28 @@
     "category"
   ],
   "properties": {
-    "name": {
+    "name": { // Human-readable name of the agent project
       "type": "string"
     },
-    "slug": {
+    "slug": { // URL-safe identifier (e.g., kebab-case)
       "type": "string",
       "pattern": "^[a-z0-9-]+$"
     },
-    "description": {
+    "description": { // Short summary of what the agent does
       "type": "string"
     },
-    "purpose": {
+    "purpose": { // High-level purpose of this agent
       "type": "string"
     },
-    "repository": {
+    "repository": { // GitHub repository URL
       "type": "string",
       "format": "uri"
     },
-    "stars": {
+    "stars": { // GitHub stars, minimum required for inclusion
       "type": "integer",
       "minimum": 50
     },
-    "category": {
+    "category": { // One main category defining the agent's domain
       "type": "string",
       "enum": [
         "commerce",
@@ -56,29 +56,31 @@
         "experimental"
       ]
     },
-    "originator": {
+    "originator": { // Creator name or organization
       "type": "string"
     },
-    "principle": {
+    "principle": { // How it works or what tech it builds on
       "type": "string"
     },
     "stack": {
       "type": "array",
       "items": {
         "type": "string"
-      }
+      },
+      "default": [] // Default to empty array
     },
     "tags": {
       "type": "array",
       "items": {
         "type": "string"
-      }
+      },
+      "default": [] // User-defined labels
     },
     "reusability": {
-      "type": "string"
+      "type": "string" // Notes on composability, plug-and-play, API support etc.
     },
     "limitations": {
-      "type": "string"
+      "type": "string" // Known issues, coverage limits, or usage scope
     },
     "status": {
       "type": "string",
@@ -86,68 +88,37 @@
         "alpha",
         "beta",
         "production"
-      ]
+      ],
+      "default": "experimental" // Conservative assumption
     },
     "open_source": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false // Only true if LICENSE is clearly found or declared
     },
     "license": {
-      "type": "string"
+      "type": "string" // E.g., MIT, Apache-2.0
     },
     "demo_links": {
       "type": "array",
       "items": {
         "type": "string",
         "format": "uri"
-      }
-    },
-    "badge": {
-      "type": "string",
-      "enum": [
-        "official",
-        "community",
-        "experimental"
-      ]
-    },
-    "security_grade": {
-      "type": "string",
-      "enum": [
-        "A",
-        "B",
-        "C"
-      ]
-    },
-    "license_grade": {
-      "type": "string",
-      "enum": [
-        "A",
-        "B",
-        "C"
-      ]
-    },
-    "quality_grade": {
-      "type": "string",
-      "enum": [
-        "A",
-        "B",
-        "C"
-      ]
+      },
+      "default": [] // Optional demo page or sandbox
     },
     "last_updated": {
       "type": "string",
-      "format": "date"
+      "format": "date" // e.g., "2024-12-01"
     },
     "language": {
-      "type": "string"
+      "type": "string" // Main programming language
     },
     "platforms": {
       "type": "array",
       "items": {
         "type": "string"
-      }
-    },
-    "maintainer_verified": {
-      "type": "boolean"
+      },
+      "default": [] // Supported runtime or OS
     }
   }
 }

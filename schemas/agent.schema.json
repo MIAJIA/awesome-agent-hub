@@ -43,7 +43,8 @@
       "description": "One main category defining the agent's domain",
       "enum": [
         "commerce",
-        "payment-and-finance",
+        "payment",
+        "finance",
         "productivity",
         "education",
         "infra-tools",

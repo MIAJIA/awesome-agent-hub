@@ -6,12 +6,27 @@ A curated list of high-quality, reusable AI agents and tools that can act autono
 
 ## 🧭 Categories
 
-- 🛒 **Commerce & Checkout**
-- 💳 **Payment & Finance**
-- 🎓 **Education**
-- ⚙️ **Productivity**
-- 🤖 **Agent Frameworks & Toolkits**
-- 🧪 **Experimental / Research**
+This project uses the following categories to classify AI agents. When contributing, please select the most appropriate primary category for your agent from this list. This helps maintain consistency and improves discoverability.
+
+1. **Commerce**: E-commerce agents for shopping, checkout, recommendation, etc.
+2. **Payment**: Agents for payment processing, transfers, and transaction handling.
+3. **Finance**: Agents for financial analysis, planning, and investment management.
+4. **Productivity**: Tools to increase efficiency, summarize, organize tasks.
+5. **Education**: AI tutors, learning aids, academic tools.
+6. **Infra Tools**: Agent infrastructure such as memory, browser, APIs.
+7. **Meta Agents**: Agents that orchestrate or manage other agents.
+8. **Writing**: Tools focused on content generation and editing.
+9. **Research and Analysis**: Agents that gather, analyze or report information.
+10. **Lifestyle**: Assistants for life tasks, wellness, hobbies, etc.
+11. **Programming**: Code generation, analysis, or AI coding assistants.
+12. **Art**: Agents used in visual arts, music, creative design.
+13. **IoT**: Interfaces with physical devices or embedded systems.
+14. **Data Visualization**: Charts, dashboards, visual summaries.
+15. **Social Media**: Tools for creating, managing, or automating social presence.
+16. **Gaming**: Agents for games, game development, or NPCs.
+17. **Workflow Automation**: Automate repetitive digital workflows.
+18. **Marketing**: Market analysis, campaign automation, sales assistance.
+19. **Communication**: Enhancing or automating messaging and collaboration.
 
 ---
 
@@ -47,7 +62,7 @@ A curated list of high-quality, reusable AI agents and tools that can act autono
     - `purpose` (string): The primary purpose or goal of the agent.
     - `repository` (string, required, format: uri): The GitHub (or other VCS) link to the agent's source code.
     - `stars` (integer, required, minimum: 50): The number of stars the repository has.
-    - `category` (string, required, enum: `commerce`, `payment`, `productivity`, `education`, `infra`, `meta`, `experimental`): The primary category the agent belongs to.
+    - `category` (string, required, enum: `commerce`, `payment`, `finance`, `productivity`, `education`, `infra-tools`, `meta-agents`, `writing`, `research-and-analysis`, `lifestyle`, `programming`, `art`, `iot`, `data-visualization`, `social-media`, `gaming`, `workflow-automation`, `marketing`, `communication`, `experimental`): The primary category the agent belongs to.
     - `originator` (string): The original creator or organization behind the agent.
     - `principle` (string): Core principles or design philosophy of the agent.
     - `stack` (array of strings): Key technologies or frameworks used (e.g., "LangChain", "Puppeteer", "GPT-4").
@@ -66,32 +81,6 @@ A curated list of high-quality, reusable AI agents and tools that can act autono
     - `language` (string): Primary programming language.
     - `platforms` (array of strings): Supported platforms (e.g., "Web", "iOS", "CLI").
     - `maintainer_verified` (boolean): Whether the maintainer of this list has verified the entry.
-
----
-
-## 🌟 Available Categories
-
-This project uses the following categories to classify AI agents. When contributing, please select the most appropriate primary category for your agent from this list. This helps maintain consistency and improves discoverability.
-
-1.  **Commerce**: E-commerce agents for shopping, checkout, recommendation, etc.
-2.  **Payment & Finance**: Agents for payments, transfers, financial planning.
-3.  **Productivity**: Tools to increase efficiency, summarize, organize tasks.
-4.  **Education**: AI tutors, learning aids, academic tools.
-5.  **Infra Tools**: Agent infrastructure such as memory, browser, APIs.
-6.  **Meta Agents**: Agents that orchestrate or manage other agents.
-7.  **Writing**: Tools focused on content generation and editing.
-8.  **Research and Analysis**: Agents that gather, analyze or report information.
-9.  **Lifestyle**: Assistants for life tasks, wellness, hobbies, etc.
-10. **Programming**: Code generation, analysis, or AI coding assistants.
-11. **Art**: Agents used in visual arts, music, creative design.
-12. **IoT**: Interfaces with physical devices or embedded systems.
-13. **Data Visualization**: Charts, dashboards, visual summaries.
-14. **Finance**: Analysis and management of financial data. *(Note: This seems to overlap with "Payment & Finance". Consider clarifying or merging if they represent the same scope. For now, both are included as provided.)*
-15. **Social Media**: Tools for creating, managing, or automating social presence.
-16. **Gaming**: Agents for games, game development, or NPCs.
-17. **Workflow Automation**: Automate repetitive digital workflows.
-18. **Marketing**: Market analysis, campaign automation, sales assistance.
-19. **Communication**: Enhancing or automating messaging and collaboration.
 
 ---
 

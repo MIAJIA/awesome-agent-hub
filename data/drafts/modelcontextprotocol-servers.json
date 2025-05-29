@@ -1,0 +1,30 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "servers",
+  "slug": "modelcontextprotocol-servers",
+  "description": "Model Context Protocol Servers",
+  "repository": "https://github.com/modelcontextprotocol/servers",
+  "stars": 49670,
+  "originator": "modelcontextprotocol",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "JavaScript"
+}

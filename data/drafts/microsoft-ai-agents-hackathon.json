@@ -1,0 +1,38 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell"
+  ],
+  "name": "AI_Agents_Hackathon",
+  "slug": "microsoft-ai-agents-hackathon",
+  "description": "A free virtual hackathon for building AI agents with Microsoft and Azure.",
+  "repository": "https://github.com/microsoft/AI_Agents_Hackathon",
+  "stars": 275,
+  "originator": "microsoft",
+  "tags": [
+    "agents",
+    "azure"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": ""
+}

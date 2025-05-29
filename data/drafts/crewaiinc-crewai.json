@@ -1,0 +1,32 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "name": "crewAI",
+  "slug": "crewaiinc-crewai",
+  "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+  "repository": "https://github.com/crewAIInc/crewAI",
+  "stars": 32170,
+  "originator": "crewAIInc",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "aiagentframework",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python"
+}

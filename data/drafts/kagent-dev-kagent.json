@@ -1,0 +1,40 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C"
+  ],
+  "name": "kagent",
+  "slug": "kagent-dev-kagent",
+  "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+  "repository": "https://github.com/kagent-dev/kagent",
+  "stars": 821,
+  "originator": "kagent-dev",
+  "tags": [
+    "agents",
+    "ai",
+    "cncf",
+    "devops",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Python"
+}

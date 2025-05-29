@@ -1,0 +1,30 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "name": "awesome-llm-apps",
+  "slug": "shubhamsaboo-awesome-llm-apps",
+  "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+  "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "stars": 32887,
+  "originator": "Shubhamsaboo",
+  "tags": [
+    "llms",
+    "python",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Python"
+}

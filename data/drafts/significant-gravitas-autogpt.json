@@ -1,0 +1,35 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "AutoGPT",
+  "slug": "significant-gravitas-autogpt",
+  "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "repository": "https://github.com/Significant-Gravitas/AutoGPT",
+  "stars": 175696,
+  "originator": "Significant-Gravitas",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "gpt-4",
+    "llama-api",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "Python"
+}

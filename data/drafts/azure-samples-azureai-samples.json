@@ -1,0 +1,38 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars"
+  ],
+  "name": "azureai-samples",
+  "slug": "azure-samples-azureai-samples",
+  "description": "Official community-driven Azure AI Examples",
+  "repository": "https://github.com/Azure-Samples/azureai-samples",
+  "stars": 354,
+  "originator": "Azure-Samples",
+  "tags": [
+    "azure"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "Jupyter Notebook"
+}

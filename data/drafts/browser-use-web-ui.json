@@ -1,0 +1,29 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML"
+  ],
+  "name": "web-ui",
+  "slug": "browser-use-web-ui",
+  "description": "🖥️ Run AI Agent in your browser.",
+  "repository": "https://github.com/browser-use/web-ui",
+  "stars": 13327,
+  "originator": "browser-use",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "Python"
+}

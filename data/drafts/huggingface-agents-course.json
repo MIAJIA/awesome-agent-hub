@@ -1,0 +1,39 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX"
+  ],
+  "name": "agents-course",
+  "slug": "huggingface-agents-course",
+  "description": "This repository contains the Hugging Face Agents Course. ",
+  "repository": "https://github.com/huggingface/agents-course",
+  "stars": 19047,
+  "originator": "huggingface",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "course",
+    "huggingface",
+    "langchain",
+    "llamaindex",
+    "smolagents"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "MDX"
+}

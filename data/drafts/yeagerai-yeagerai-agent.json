@@ -1,0 +1,38 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars"
+  ],
+  "name": "yeagerai-agent",
+  "slug": "yeagerai-yeagerai-agent",
+  "description": "N/A",
+  "repository": "https://github.com/yeagerai/yeagerai-agent",
+  "stars": 590,
+  "originator": "yeagerai",
+  "tags": [
+    "yeager-squad-dev"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-18",
+  "language": "Python"
+}

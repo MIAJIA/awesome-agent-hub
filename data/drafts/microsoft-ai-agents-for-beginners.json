@@ -1,0 +1,35 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "name": "ai-agents-for-beginners",
+  "slug": "microsoft-ai-agents-for-beginners",
+  "description": "11 Lessons to Get Started Building AI Agents",
+  "repository": "https://github.com/microsoft/ai-agents-for-beginners",
+  "stars": 21914,
+  "originator": "microsoft",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-rag",
+    "ai-agents",
+    "ai-agents-framework",
+    "autogen",
+    "generative-ai",
+    "semantic-kernel"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Jupyter Notebook"
+}

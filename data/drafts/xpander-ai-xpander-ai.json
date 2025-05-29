@@ -1,0 +1,41 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby"
+  ],
+  "name": "xpander.ai",
+  "slug": "xpander-ai-xpander-ai",
+  "description": "Backend-as-a-Service for AI Agents. Equip any AI Agent with tools, memory, multi-agent collaboration, state, triggering, storage, and more.",
+  "repository": "https://github.com/xpander-ai/xpander.ai",
+  "stars": 197,
+  "originator": "xpander-ai",
+  "tags": [
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "aiagents",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "Archon",
+  "slug": "coleam00-archon",
+  "description": "Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.",
+  "repository": "https://github.com/coleam00/Archon",
+  "stars": 4538,
+  "originator": "coleam00",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Python"
+}

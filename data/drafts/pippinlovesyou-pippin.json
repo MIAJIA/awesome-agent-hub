@@ -1,0 +1,33 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby"
+  ],
+  "name": "pippin",
+  "slug": "pippinlovesyou-pippin",
+  "description": "The Digital Being Framework for Autonomous Agents",
+  "repository": "https://github.com/pippinlovesyou/pippin",
+  "stars": 525,
+  "originator": "pippinlovesyou",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-26",
+  "language": "Python"
+}

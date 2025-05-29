@@ -1,0 +1,37 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "GenAI_Agents",
+  "slug": "nirdiamant-genai-agents",
+  "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+  "repository": "https://github.com/NirDiamant/GenAI_Agents",
+  "stars": 12449,
+  "originator": "NirDiamant",
+  "tags": [
+    "agents",
+    "ai",
+    "genai",
+    "langchain",
+    "langgraph",
+    "llm",
+    "llms",
+    "openai",
+    "tutorials"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-14",
+  "language": "Jupyter Notebook"
+}

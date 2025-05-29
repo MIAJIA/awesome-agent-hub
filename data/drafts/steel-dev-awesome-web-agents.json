@@ -1,0 +1,36 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "awesome-web-agents",
+  "slug": "steel-dev-awesome-web-agents",
+  "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
+  "repository": "https://github.com/steel-dev/awesome-web-agents",
+  "stars": 407,
+  "originator": "steel-dev",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "browser-automation",
+    "llms",
+    "llms-benchmarking"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-04-08",
+  "language": ""
+}

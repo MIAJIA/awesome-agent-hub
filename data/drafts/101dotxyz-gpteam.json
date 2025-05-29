@@ -1,0 +1,62 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "To provide a framework for simulating and managing multiple AI agents in various scenarios, enabling research and development in multi-agent systems.",
+  "principle": "The GPTeam framework operates on principles of modularity and extensibility, allowing users to create, configure, and manage agents with diverse capabilities and interactions.",
+  "reusability": "Components of the GPTeam framework are designed for reusability across different simulations and scenarios, promoting efficient development and integration of new agents.",
+  "limitations": "Currently, GPTeam is in alpha status, which means it may have incomplete features, potential bugs, and limited documentation, making it less suitable for production use.",
+  "demo_links": [
+    "https://github.com/101dotxyz/GPTeam#demo"
+  ],
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars",
+    "Java",
+    "C#",
+    "C++",
+    "Julia",
+    "PHP",
+    "Bicep",
+    "Scala",
+    "Dart",
+    "Svelte",
+    "PowerShell",
+    "GDScript",
+    "Elixir",
+    "Ballerina",
+    "Vue",
+    "SCSS"
+  ],
+  "name": "GPTeam",
+  "slug": "101dotxyz-gpteam",
+  "description": "GPTeam: An open-source multi-agent simulation",
+  "repository": "https://github.com/101dotxyz/GPTeam",
+  "stars": 1687,
+  "originator": "101dotxyz",
+  "tags": [
+    "agents",
+    "ai",
+    "autogpt",
+    "gpt-4"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-22",
+  "language": "Python"
+}

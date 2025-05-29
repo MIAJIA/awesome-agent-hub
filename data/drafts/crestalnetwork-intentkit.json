@@ -1,0 +1,35 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python"
+  ],
+  "name": "intentkit",
+  "slug": "crestalnetwork-intentkit",
+  "description": "An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!",
+  "repository": "https://github.com/crestalnetwork/intentkit",
+  "stars": 6417,
+  "originator": "crestalnetwork",
+  "tags": [
+    "agentic-workflow",
+    "ai",
+    "ai-agent",
+    "ai-agent-framework",
+    "blockchain",
+    "intents",
+    "launchpad",
+    "python",
+    "web3"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python"
+}

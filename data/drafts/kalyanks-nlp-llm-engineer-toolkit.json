@@ -1,0 +1,33 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "llm-engineer-toolkit",
+  "slug": "kalyanks-nlp-llm-engineer-toolkit",
+  "description": "A curated list of  120+ LLM libraries category wise. ",
+  "repository": "https://github.com/KalyanKS-NLP/llm-engineer-toolkit",
+  "stars": 3623,
+  "originator": "KalyanKS-NLP",
+  "tags": [
+    "ai-engineer",
+    "generative-ai",
+    "large-language-models",
+    "llm-engineer",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-13",
+  "language": ""
+}

@@ -1,0 +1,29 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML"
+  ],
+  "name": "ai-enablement-stack",
+  "slug": "daytonaio-ai-enablement-stack",
+  "description": "A Community-Driven Mapping of AI Development Tools",
+  "repository": "https://github.com/daytonaio/ai-enablement-stack",
+  "stars": 450,
+  "originator": "daytonaio",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-11",
+  "language": "HTML"
+}

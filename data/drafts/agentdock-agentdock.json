@@ -1,0 +1,55 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "To provide a flexible framework for building and deploying AI agents that can perform a variety of tasks across different domains.",
+  "principle": "Empower users to create customized AI agents that can collaborate and execute workflows effectively, leveraging modular components and integrations.",
+  "reusability": "Designed with modularity in mind, allowing developers to reuse components and workflows across different AI agent projects.",
+  "limitations": "Currently in alpha stage, which may include incomplete features, potential bugs, and limited documentation. Users should expect a learning curve and the need for experimentation.",
+  "demo_links": [
+    "https://agentdock.example.com/demo"
+  ],
+  "platforms": [
+    "Web",
+    "Docker",
+    "Kubernetes"
+  ],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars",
+    "Java",
+    "C#",
+    "C++",
+    "Julia"
+  ],
+  "name": "AgentDock",
+  "slug": "agentdock-agentdock",
+  "description": "Build Anything with AI Agents",
+  "repository": "https://github.com/AgentDock/AgentDock",
+  "stars": 1262,
+  "originator": "AgentDock",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "ai-agents",
+    "llm",
+    "natural-language-inference",
+    "nextjs",
+    "typescript",
+    "workflows"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript"
+}

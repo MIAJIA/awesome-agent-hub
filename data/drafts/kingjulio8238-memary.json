@@ -1,0 +1,34 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "Memary",
+  "slug": "kingjulio8238-memary",
+  "description": "The Open Source Memory Layer For Autonomous Agents",
+  "repository": "https://github.com/kingjulio8238/Memary",
+  "stars": 2230,
+  "originator": "kingjulio8238",
+  "tags": [
+    "agents",
+    "knowledge-graph",
+    "memory",
+    "multiagent-systems",
+    "rag",
+    "self-improvement"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-10-22",
+  "language": "Jupyter Notebook"
+}

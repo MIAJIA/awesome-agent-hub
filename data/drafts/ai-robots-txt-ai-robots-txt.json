@@ -1,0 +1,50 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive list of AI agents and robots that should be blocked from accessing specific web resources, enhancing privacy and control over data exposure.",
+  "principle": "To respect the privacy and preferences of users and website owners by preventing unwanted automated access to their content.",
+  "reusability": "The repository can be reused by developers and website administrators to implement access controls for their web resources, allowing for easy integration into existing systems.",
+  "limitations": "The effectiveness of the list depends on the accuracy of the entries and the compliance of AI agents and robots with the specified directives.",
+  "demo_links": [],
+  "platforms": [
+    "Web",
+    "Cloud"
+  ],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars",
+    "Java",
+    "C#",
+    "C++",
+    "Julia",
+    "PHP",
+    "Bicep"
+  ],
+  "name": "ai.robots.txt",
+  "slug": "ai-robots-txt-ai-robots-txt",
+  "description": "A list of AI agents and robots to block.",
+  "repository": "https://github.com/ai-robots-txt/ai.robots.txt",
+  "stars": 2641,
+  "originator": "ai-robots-txt",
+  "tags": [
+    "ai",
+    "crawlers",
+    "crawling",
+    "privacy"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "Python"
+}

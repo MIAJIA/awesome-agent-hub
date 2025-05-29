@@ -1,0 +1,41 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "voltagent",
+  "slug": "voltagent-voltagent",
+  "description": "Open Source TypeScript AI Agent Framework",
+  "repository": "https://github.com/VoltAgent/voltagent",
+  "stars": 1775,
+  "originator": "VoltAgent",
+  "tags": [
+    "agents",
+    "ai",
+    "autogen",
+    "chatbots",
+    "framework",
+    "javascript",
+    "llm",
+    "llm-observability",
+    "mcp",
+    "nodejs",
+    "observability",
+    "tts",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript"
+}

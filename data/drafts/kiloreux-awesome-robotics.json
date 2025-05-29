@@ -1,0 +1,43 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars",
+    "Java",
+    "C#",
+    "C++",
+    "Julia",
+    "PHP"
+  ],
+  "name": "awesome-robotics",
+  "slug": "kiloreux-awesome-robotics",
+  "description": "A list of awesome Robotics resources",
+  "repository": "https://github.com/kiloreux/awesome-robotics",
+  "stars": 4867,
+  "originator": "kiloreux",
+  "tags": [
+    "robotics"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-09-22",
+  "language": ""
+}

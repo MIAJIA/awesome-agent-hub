@@ -1,0 +1,40 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "humanlayer",
+  "slug": "humanlayer-humanlayer",
+  "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+  "repository": "https://github.com/humanlayer/humanlayer",
+  "stars": 806,
+  "originator": "humanlayer",
+  "tags": [
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "approval-process",
+    "escalation-policy",
+    "function-calling",
+    "human-as-tool",
+    "human-in-the-loop",
+    "humanlayer",
+    "llm",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "Python"
+}

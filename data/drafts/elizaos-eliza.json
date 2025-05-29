@@ -1,0 +1,40 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript"
+  ],
+  "name": "eliza",
+  "slug": "elizaos-eliza",
+  "description": "Autonomous agents for everyone",
+  "repository": "https://github.com/elizaOS/eliza",
+  "stars": 15952,
+  "originator": "elizaOS",
+  "tags": [
+    "agent",
+    "agentic",
+    "ai",
+    "autonomous",
+    "chatbot",
+    "crypto",
+    "discord",
+    "eliza",
+    "elizaos",
+    "framework",
+    "plugins",
+    "rag",
+    "slack",
+    "swarm",
+    "telegram"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript"
+}

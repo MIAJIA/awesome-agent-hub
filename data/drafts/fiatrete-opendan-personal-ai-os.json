@@ -1,0 +1,43 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars"
+  ],
+  "name": "OpenDAN-Personal-AI-OS",
+  "slug": "fiatrete-opendan-personal-ai-os",
+  "description": "OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.",
+  "repository": "https://github.com/fiatrete/OpenDAN-Personal-AI-OS",
+  "stars": 1836,
+  "originator": "fiatrete",
+  "tags": [
+    "agent",
+    "ai",
+    "autogpt",
+    "llm",
+    "openai",
+    "os"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-08-19",
+  "language": "Python"
+}

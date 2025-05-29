@@ -1,0 +1,30 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "genworlds",
+  "slug": "yeagerai-genworlds",
+  "description": "A framework for event based autonomous multi-agent systems.",
+  "repository": "https://github.com/yeagerai/genworlds",
+  "stars": 305,
+  "originator": "yeagerai",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-18",
+  "language": "Jupyter Notebook"
+}

@@ -1,0 +1,39 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "AgentGPT",
+  "slug": "reworkd-agentgpt",
+  "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+  "repository": "https://github.com/reworkd/AgentGPT",
+  "stars": 34186,
+  "originator": "reworkd",
+  "tags": [
+    "agent",
+    "agentgpt",
+    "agi",
+    "autogpt",
+    "baby-agi",
+    "gpt",
+    "langchain",
+    "next",
+    "openai",
+    "t3",
+    "t3-stack"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-04-29",
+  "language": "TypeScript"
+}

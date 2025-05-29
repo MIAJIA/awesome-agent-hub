@@ -29,16 +29,11 @@
     "https://github.com/coinbase/x402",
     "https://www.coinbase.com/blog/introducing-x402-agentic-commerce"
   ],
-  "badge": "official",
-  "security_grade": "A",
-  "license_grade": "A",
-  "quality_grade": "A",
   "last_updated": "2025-05-28",
   "language": "TypeScript",
   "platforms": [
     "Web",
     "API",
     "Blockchain"
-  ],
-  "maintainer_verified": true
+  ]
 }

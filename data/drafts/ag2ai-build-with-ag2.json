@@ -1,0 +1,59 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive collection of sample code and application examples that facilitate the understanding and implementation of AG2 (AutoGen) capabilities.",
+  "principle": "To enhance developer productivity by offering practical demonstrations and templates that can be easily adapted for various applications using AG2.",
+  "reusability": "The code samples and applications are designed to be modular and reusable, allowing developers to integrate them into their own projects with minimal modifications.",
+  "limitations": "The repository is in alpha status, which may indicate incomplete features and potential issues. Users should expect limited documentation and support as it is still under active development.",
+  "demo_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ],
+  "platforms": [
+    "Web",
+    "Local Development"
+  ],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars",
+    "Java",
+    "C#",
+    "C++",
+    "Julia",
+    "PHP",
+    "Bicep",
+    "Scala",
+    "Dart",
+    "Svelte",
+    "PowerShell",
+    "GDScript"
+  ],
+  "name": "build-with-ag2",
+  "slug": "ag2ai-build-with-ag2",
+  "description": "Sample code and application showcases to get you going with AG2 (formally AutoGen)",
+  "repository": "https://github.com/ag2ai/build-with-ag2",
+  "stars": 120,
+  "originator": "ag2ai",
+  "tags": [
+    "AG2",
+    "AutoGen",
+    "sample code",
+    "application showcase",
+    "development tools"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python"
+}

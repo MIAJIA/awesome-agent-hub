@@ -1,0 +1,30 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "ai-legion",
+  "slug": "eumemic-ai-legion",
+  "description": "An LLM-powered autonomous agent platform",
+  "repository": "https://github.com/eumemic/ai-legion",
+  "stars": 1408,
+  "originator": "eumemic",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript"
+}

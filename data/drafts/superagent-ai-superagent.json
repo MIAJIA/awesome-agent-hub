@@ -1,0 +1,39 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "superagent",
+  "slug": "superagent-ai-superagent",
+  "description": "🥷 Run AI-agents with an API",
+  "repository": "https://github.com/superagent-ai/superagent",
+  "stars": 5857,
+  "originator": "superagent-ai",
+  "tags": [
+    "agent",
+    "ai",
+    "assistant",
+    "generative-ai",
+    "llm",
+    "open-source",
+    "python",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-01",
+  "language": "TypeScript"
+}

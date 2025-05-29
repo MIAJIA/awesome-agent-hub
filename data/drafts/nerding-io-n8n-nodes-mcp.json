@@ -1,0 +1,30 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "n8n-nodes-mcp",
+  "slug": "nerding-io-n8n-nodes-mcp",
+  "description": "n8n custom node for MCP",
+  "repository": "https://github.com/nerding-io/n8n-nodes-mcp",
+  "stars": 1767,
+  "originator": "nerding-io",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "TypeScript"
+}

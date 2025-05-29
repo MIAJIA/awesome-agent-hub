@@ -1,0 +1,52 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "AgentStack aims to simplify the development of AI agents by providing a robust framework that allows developers to quickly build, test, and deploy intelligent agents across various applications.",
+  "principle": "The core principle of AgentStack is to leverage modularity and extensibility, enabling developers to customize and enhance their AI agents easily while promoting best practices in AI development.",
+  "reusability": "AgentStack promotes reusability by providing a library of pre-built components and modules that can be easily integrated into different projects, reducing development time and effort.",
+  "limitations": "As an alpha project, AgentStack may have incomplete features, limited documentation, and potential bugs that could affect stability and performance in production environments.",
+  "demo_links": [
+    "https://agentstack-demo.example.com"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars",
+    "Java",
+    "C#",
+    "C++",
+    "Julia"
+  ],
+  "name": "AgentStack",
+  "slug": "agentops-ai-agentstack",
+  "description": "The fastest way to build robust AI agents",
+  "repository": "https://github.com/AgentOps-AI/AgentStack",
+  "stars": 1818,
+  "originator": "AgentOps-AI",
+  "tags": [
+    "AI",
+    "agents",
+    "development",
+    "framework",
+    "modular"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-06",
+  "language": "Python"
+}

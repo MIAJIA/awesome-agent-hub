@@ -1,0 +1,37 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "camel",
+  "slug": "camel-ai-camel",
+  "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+  "repository": "https://github.com/camel-ai/camel",
+  "stars": 12686,
+  "originator": "camel-ai",
+  "tags": [
+    "agent",
+    "ai-societies",
+    "artificial-intelligence",
+    "communicative-ai",
+    "cooperative-ai",
+    "deep-learning",
+    "large-language-models",
+    "multi-agent-systems",
+    "natural-language-processing"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python"
+}

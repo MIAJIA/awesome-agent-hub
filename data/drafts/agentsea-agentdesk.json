@@ -1,0 +1,59 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive desktop environment for managing and interacting with AI agents, facilitating their development and deployment.",
+  "principle": "Designed to enhance collaboration between various AI agents by providing a unified interface and tools for monitoring and controlling their interactions.",
+  "reusability": "The modular architecture allows for easy integration and reuse of components across different AI projects and applications.",
+  "limitations": "Currently in alpha stage, which may result in instability and incomplete features; not all AI agent types may be fully supported.",
+  "demo_links": [
+    "https://github.com/agentsea/agentdesk#demo"
+  ],
+  "platforms": [
+    "Windows",
+    "Linux",
+    "MacOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars",
+    "Java",
+    "C#",
+    "C++",
+    "Julia",
+    "PHP",
+    "Bicep",
+    "Scala",
+    "Dart",
+    "Svelte",
+    "PowerShell",
+    "GDScript",
+    "Elixir"
+  ],
+  "name": "agentdesk",
+  "slug": "agentsea-agentdesk",
+  "description": "A desktop for AI agents",
+  "repository": "https://github.com/agentsea/agentdesk",
+  "stars": 157,
+  "originator": "agentsea",
+  "tags": [
+    "AI",
+    "agent management",
+    "development tools",
+    "experimental"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python"
+}

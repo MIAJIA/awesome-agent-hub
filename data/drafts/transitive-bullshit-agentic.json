@@ -1,0 +1,40 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell"
+  ],
+  "name": "agentic",
+  "slug": "transitive-bullshit-agentic",
+  "description": "AI agent stdlib that works with any LLM and TypeScript AI SDK.",
+  "repository": "https://github.com/transitive-bullshit/agentic",
+  "stars": 17579,
+  "originator": "transitive-bullshit",
+  "tags": [
+    "agents",
+    "ai",
+    "llms",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript"
+}

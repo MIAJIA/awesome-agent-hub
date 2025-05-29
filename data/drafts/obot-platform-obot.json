@@ -1,0 +1,27 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "obot",
+  "slug": "obot-platform-obot",
+  "description": "Open source AI Agent Platform",
+  "repository": "https://github.com/obot-platform/obot",
+  "stars": 182,
+  "originator": "obot-platform",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Go"
+}

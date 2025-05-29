@@ -1,0 +1,39 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C"
+  ],
+  "name": "OpenAIWorkshop",
+  "slug": "microsoft-openaiworkshop",
+  "description": "workshop materials to build intelligent solutions on Open AI",
+  "repository": "https://github.com/microsoft/OpenAIWorkshop",
+  "stars": 582,
+  "originator": "microsoft",
+  "tags": [
+    "azure",
+    "cognitive-services",
+    "machine-learning",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-13",
+  "language": "Python"
+}

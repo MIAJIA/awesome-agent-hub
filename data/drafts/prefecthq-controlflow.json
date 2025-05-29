@@ -1,0 +1,40 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin"
+  ],
+  "name": "ControlFlow",
+  "slug": "prefecthq-controlflow",
+  "description": "🦾 Take control of your AI agents",
+  "repository": "https://github.com/PrefectHQ/ControlFlow",
+  "stars": 1308,
+  "originator": "PrefectHQ",
+  "tags": [
+    "agent",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "llm",
+    "prefect",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-01",
+  "language": "Python"
+}

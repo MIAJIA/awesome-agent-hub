@@ -1,0 +1,34 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "awesome-ai-agents",
+  "slug": "slavakurilyak-awesome-ai-agents",
+  "description": "Awesome list of 300+ agentic AI resources",
+  "repository": "https://github.com/slavakurilyak/awesome-ai-agents",
+  "stars": 708,
+  "originator": "slavakurilyak",
+  "tags": [
+    "agent",
+    "agentic",
+    "agents"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-09",
+  "language": "Python"
+}

@@ -1,0 +1,63 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "To provide a flexible framework for building and managing agentic schemas that enhance the capabilities of AI agents.",
+  "principle": "Adopt a modular architecture that promotes interoperability and extensibility, allowing developers to create custom agents tailored to specific tasks.",
+  "reusability": "Designed to enable the reuse of components across different projects, facilitating quicker development cycles and reducing redundancy.",
+  "limitations": "Currently in alpha stage, which may result in incomplete features and potential instability. Limited documentation and community support may also pose challenges for new users.",
+  "demo_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars",
+    "Java",
+    "C#",
+    "C++",
+    "Julia",
+    "PHP",
+    "Bicep",
+    "Scala",
+    "Dart",
+    "Svelte",
+    "PowerShell",
+    "GDScript",
+    "Elixir",
+    "Ballerina",
+    "Vue"
+  ],
+  "name": "oasf",
+  "slug": "agntcy-oasf",
+  "description": "Open Agentic Schema Framework",
+  "repository": "https://github.com/agntcy/oasf",
+  "stars": 170,
+  "originator": "agntcy",
+  "tags": [
+    "agentic",
+    "framework",
+    "AI",
+    "modular",
+    "schema"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Elixir"
+}

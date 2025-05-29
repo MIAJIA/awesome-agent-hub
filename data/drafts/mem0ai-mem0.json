@@ -1,0 +1,43 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "mem0",
+  "slug": "mem0ai-mem0",
+  "description": "Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.",
+  "repository": "https://github.com/mem0ai/mem0",
+  "stars": 32955,
+  "originator": "mem0ai",
+  "tags": [
+    "agent",
+    "ai",
+    "aiagent",
+    "application",
+    "chatbots",
+    "chatgpt",
+    "embeddings",
+    "llm",
+    "long-term-memory",
+    "memory",
+    "memory-management",
+    "python",
+    "rag",
+    "state-management",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Python"
+}

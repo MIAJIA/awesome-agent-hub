@@ -1,0 +1,37 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin"
+  ],
+  "name": "graphiti",
+  "slug": "getzep-graphiti",
+  "description": "Build Real-Time Knowledge Graphs for AI Agents",
+  "repository": "https://github.com/getzep/graphiti",
+  "stars": 9916,
+  "originator": "getzep",
+  "tags": [
+    "agents",
+    "graph",
+    "llms",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python"
+}

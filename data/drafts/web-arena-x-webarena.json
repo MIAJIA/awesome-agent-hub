@@ -1,0 +1,43 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript",
+    "MDX",
+    "Kotlin",
+    "Ruby",
+    "C",
+    "Shell",
+    "Handlebars",
+    "Java",
+    "C#",
+    "C++",
+    "Julia"
+  ],
+  "name": "webarena",
+  "slug": "web-arena-x-webarena",
+  "description": "Code repo for \"WebArena: A Realistic Web Environment for Building Autonomous Agents\"",
+  "repository": "https://github.com/web-arena-x/webarena",
+  "stars": 1009,
+  "originator": "web-arena-x",
+  "tags": [
+    "agent",
+    "nlp"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-02-07",
+  "language": "Python"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go"
+  ],
+  "name": "ai-agents-masterclass",
+  "slug": "coleam00-ai-agents-masterclass",
+  "description": "Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!",
+  "repository": "https://github.com/coleam00/ai-agents-masterclass",
+  "stars": 2166,
+  "originator": "coleam00",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-14",
+  "language": "Python"
+}

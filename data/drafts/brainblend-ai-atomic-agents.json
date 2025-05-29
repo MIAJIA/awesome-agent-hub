@@ -1,0 +1,38 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "demo_links": [],
+  "platforms": [],
+  "stack": [
+    "TypeScript",
+    "Python",
+    "Jupyter Notebook",
+    "Go",
+    "Rust",
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "atomic-agents",
+  "slug": "brainblend-ai-atomic-agents",
+  "description": "Building AI agents, atomically",
+  "repository": "https://github.com/BrainBlend-AI/atomic-agents",
+  "stars": 3809,
+  "originator": "BrainBlend-AI",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "large-language-model",
+    "large-language-models",
+    "llms",
+    "openai",
+    "openai-api"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python"
+}

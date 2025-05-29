@@ -41,7 +41,7 @@
     },
     "category": {
       "type": "string",
-      "description": "One main category defining the agent's domain",
+      "description": "Primary category defining the agent's domain. Choose the most specific applicable category: commerce (e-commerce, shopping), payment (transactions, gateways), finance (analysis, trading), productivity (task mgmt, workflows), education (learning, tutoring), infra-tools (dev tools, APIs), meta-agents (orchestration), writing (content generation), research-and-analysis (data analysis, reports), lifestyle (personal, wellness), programming (code tools), art (creative tools), iot (hardware integration), data-visualization (charts, dashboards), social-media (platform automation), gaming (game dev, NPCs), workflow-automation (business processes), marketing (campaigns, SEO), communication (chat, collaboration), experimental (research-only projects)",
       "enum": [
         "commerce",
         "payment",

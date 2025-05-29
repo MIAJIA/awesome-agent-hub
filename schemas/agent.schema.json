@@ -11,29 +11,36 @@
     "category"
   ],
   "properties": {
-    "name": { // Human-readable name of the agent project
-      "type": "string"
-    },
-    "slug": { // URL-safe identifier (e.g., kebab-case)
+    "name": {
       "type": "string",
-      "pattern": "^[a-z0-9-]+$"
+      "description": "Human-readable name of the agent project"
     },
-    "description": { // Short summary of what the agent does
-      "type": "string"
-    },
-    "purpose": { // High-level purpose of this agent
-      "type": "string"
-    },
-    "repository": { // GitHub repository URL
+    "slug": {
       "type": "string",
-      "format": "uri"
+      "pattern": "^[a-z0-9-]+$",
+      "description": "URL-safe identifier (e.g., kebab-case)"
     },
-    "stars": { // GitHub stars, minimum required for inclusion
+    "description": {
+      "type": "string",
+      "description": "Short summary of what the agent does"
+    },
+    "purpose": {
+      "type": "string",
+      "description": "High-level purpose of this agent"
+    },
+    "repository": {
+      "type": "string",
+      "format": "uri",
+      "description": "GitHub repository URL"
+    },
+    "stars": {
       "type": "integer",
-      "minimum": 50
+      "minimum": 50,
+      "description": "GitHub stars, minimum required for inclusion"
     },
-    "category": { // One main category defining the agent's domain
+    "category": {
       "type": "string",
+      "description": "One main category defining the agent's domain",
       "enum": [
         "commerce",
         "payment-and-finance",
@@ -56,31 +63,36 @@
         "experimental"
       ]
     },
-    "originator": { // Creator name or organization
-      "type": "string"
+    "originator": {
+      "type": "string",
+      "description": "Creator name or organization"
     },
-    "principle": { // How it works or what tech it builds on
-      "type": "string"
+    "principle": {
+      "type": "string",
+      "description": "How it works or what tech it builds on"
     },
     "stack": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "default": [] // Default to empty array
+      "default": []
     },
     "tags": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "default": [] // User-defined labels
+      "default": [],
+      "description": "User-defined labels"
     },
     "reusability": {
-      "type": "string" // Notes on composability, plug-and-play, API support etc.
+      "type": "string",
+      "description": "Notes on composability, plug-and-play, API support etc."
     },
     "limitations": {
-      "type": "string" // Known issues, coverage limits, or usage scope
+      "type": "string",
+      "description": "Known issues, coverage limits, or usage scope"
     },
     "status": {
       "type": "string",
@@ -89,14 +101,17 @@
         "beta",
         "production"
       ],
-      "default": "experimental" // Conservative assumption
+      "default": "experimental",
+      "description": "Conservative assumption"
     },
     "open_source": {
       "type": "boolean",
-      "default": false // Only true if LICENSE is clearly found or declared
+      "default": false,
+      "description": "Only true if LICENSE is clearly found or declared"
     },
     "license": {
-      "type": "string" // E.g., MIT, Apache-2.0
+      "type": "string",
+      "description": "E.g., MIT, Apache-2.0"
     },
     "demo_links": {
       "type": "array",
@@ -104,21 +119,25 @@
         "type": "string",
         "format": "uri"
       },
-      "default": [] // Optional demo page or sandbox
+      "default": [],
+      "description": "Optional demo page or sandbox"
     },
     "last_updated": {
       "type": "string",
-      "format": "date" // e.g., "2024-12-01"
+      "format": "date",
+      "description": "e.g., \"2024-12-01\""
     },
     "language": {
-      "type": "string" // Main programming language
+      "type": "string",
+      "description": "Main programming language"
     },
     "platforms": {
       "type": "array",
       "items": {
         "type": "string"
       },
-      "default": [] // Supported runtime or OS
+      "default": [],
+      "description": "Supported runtime or OS"
     }
   }
 }

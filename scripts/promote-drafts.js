@@ -22,6 +22,7 @@ const openai = new OpenAI({
 
 // Define which fields the LLM should attempt to fill if they are empty
 const LLM_TARGET_FIELDS = [
+    { name: 'highlight', type: 'string' },
     { name: 'purpose', type: 'string' },
     { name: 'principle', type: 'string' },
     { name: 'reusability', type: 'string' },

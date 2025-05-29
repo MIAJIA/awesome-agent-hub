@@ -109,6 +109,7 @@ Repository: {{repositoryUrl}}
 {{fieldsToFillList}}
 
 **FIELD DEFINITIONS:**
+- **highlight**: Key standout feature, differentiator, or notable capability that makes this agent unique (concise, compelling)
 - **purpose**: What problem does this agent solve? What is its main objective?
 - **principle**: How does it work? What methodology, algorithms, or approach does it use?
 - **reusability**: How can others use/integrate it? APIs, plugins, composability notes

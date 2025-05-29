@@ -25,6 +25,10 @@
       "type": "string",
       "description": "Short summary of what the agent does"
     },
+    "highlight": {
+      "type": "string",
+      "description": "Key standout feature, differentiator, or notable capability that makes this agent unique"
+    },
     "purpose": {
       "type": "string",
       "description": "High-level purpose of this agent"

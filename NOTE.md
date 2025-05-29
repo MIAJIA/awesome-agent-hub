@@ -33,7 +33,7 @@ language: repo.language
 category: "experimental"
 stack: 初始加入 repo.language，尝试从 topics 提取。
 status: "alpha"
-人工填充 (留空或默认): purpose, principle, reusability, limitations, useful_links, badge, security_grade, license_grade, quality_grade, platforms.
+人工填充 (留空或默认): highlight, purpose, principle, reusability, limitations, useful_links, badge, security_grade, license_grade, quality_grade, platforms.
 maintainer_verified: false
 文件生成位置: data/drafts/
 文件名: slug.json

@@ -46,6 +46,7 @@ module.exports = {
   defaultAgentProperties: {
     category: "experimental",
     status: "alpha",
+    highlight: "",
     purpose: "",
     principle: "",
     reusability: "",

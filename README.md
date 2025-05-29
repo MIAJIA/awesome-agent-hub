@@ -59,6 +59,7 @@ This project uses the following categories to classify AI agents. When contribut
     - `name` (string, required): The display name of the agent.
     - `slug` (string, required, pattern: `^[a-z0-9-]+$`): A unique identifier for the agent, used as the filename.
     - `description` (string, required): A brief description of the agent.
+    - `highlight` (string): Key standout feature, differentiator, or notable capability that makes this agent unique.
     - `purpose` (string): The primary purpose or goal of the agent.
     - `repository` (string, required, format: uri): The GitHub (or other VCS) link to the agent's source code.
     - `stars` (integer, required, minimum: 50): The number of stars the repository has.

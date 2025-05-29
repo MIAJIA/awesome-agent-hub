@@ -36,5 +36,6 @@
   "language": "Python",
   "useful_links": [
     "https://github.com/0russwest0/Agent-R1#demo"
-  ]
+  ],
+  "highlight": "Agent-R1 leverages end-to-end reinforcement learning to autonomously train large language model agents for complex task execution."
 }

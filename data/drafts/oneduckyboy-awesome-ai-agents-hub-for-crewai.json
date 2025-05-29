@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "Awesome-AI-Agents-HUB-for-CrewAI",
@@ -23,5 +22,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-04-07",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

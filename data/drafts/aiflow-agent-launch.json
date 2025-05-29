@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "Launch",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "GPL-3.0",
   "last_updated": "2025-03-23",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": []
 }

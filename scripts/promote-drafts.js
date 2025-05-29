@@ -31,7 +31,7 @@ const LLM_TARGET_FIELDS = [
     { name: 'language', type: 'string' },
     { name: 'stack', type: 'array' },
     { name: 'tags', type: 'array' },
-    { name: 'demo_links', type: 'array' }, // Should contain URI strings
+    { name: 'useful_links', type: 'array' }, // Renamed from demo_links - broader scope for important repository links
     { name: 'platforms', type: 'array' }
 ];
 

@@ -5,7 +5,6 @@
   "principle": "Agently operates on the principle of modularity and flexibility, allowing developers to switch between different AI models without the need to rewrite application code, thereby enhancing productivity and reducing development time.",
   "reusability": "The framework promotes reusability by providing a set of predefined components and workflows that can be easily integrated and reused across various Generative AI applications.",
   "limitations": "As an alpha version, Agently may have limited stability and feature completeness, and it may not yet support all AI models or use cases, which could affect its performance in production environments.",
-  "demo_links": [],
   "platforms": [
     "Web",
     "Local Development"
@@ -41,5 +40,6 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2025-05-04",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

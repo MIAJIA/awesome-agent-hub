@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "babyagi-2o",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2024-10-19",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

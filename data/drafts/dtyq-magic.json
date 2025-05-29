@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "magic",
@@ -29,5 +28,6 @@
   "open_source": true,
   "license": "NOASSERTION",
   "last_updated": "2025-05-25",
-  "language": "PHP"
+  "language": "PHP",
+  "useful_links": []
 }

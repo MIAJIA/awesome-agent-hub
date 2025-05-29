@@ -5,9 +5,6 @@
   "principle": "The core principle of AG-UI is to enable intuitive and efficient communication between agents and users, leveraging modern web technologies to create responsive and interactive interfaces.",
   "reusability": "AG-UI components are designed to be modular and reusable across different projects, allowing developers to easily integrate agent functionalities into various frontend applications.",
   "limitations": "As an experimental framework, AG-UI may have limited support for certain advanced AI functionalities and may not yet be fully optimized for performance in production environments.",
-  "demo_links": [
-    "https://ag-ui-demo.example.com"
-  ],
   "platforms": [
     "Web",
     "Node.js",
@@ -30,5 +27,8 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-28",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": [
+    "https://ag-ui-demo.example.com"
+  ]
 }

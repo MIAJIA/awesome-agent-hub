@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "project-oagents",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "CC-BY-4.0",
   "last_updated": "2025-04-29",
-  "language": "C#"
+  "language": "C#",
+  "useful_links": []
 }

@@ -5,10 +5,6 @@
   "principle": "Built on modular architecture, allowing users to create, modify, and integrate different simulation components seamlessly.",
   "reusability": "Designed to promote code reusability through modular components and extensive documentation, enabling developers to leverage existing simulations for new projects.",
   "limitations": "Currently in alpha status, which may include incomplete features, potential bugs, and limited community support.",
-  "demo_links": [
-    "https://example.com/demo1",
-    "https://example.com/demo2"
-  ],
   "platforms": [
     "Linux",
     "Windows",
@@ -30,5 +26,9 @@
   "open_source": true,
   "license": "MPL-2.0",
   "last_updated": "2025-05-22",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ]
 }

@@ -10,7 +10,8 @@
     "summarize-drafts": "node scripts/summarize-drafts.js",
     "promote-drafts": "node scripts/promote-drafts.js",
     "revert-promotion": "node scripts/revert-promotion.js",
-    "bulk-remove-fields": "node scripts/bulk-remove-fields.js"
+    "bulk-remove-fields": "node scripts/bulk-remove-fields.js",
+    "bulk-rename-field": "node scripts/bulk-rename-field.js"
   },
   "keywords": [
     "ai",

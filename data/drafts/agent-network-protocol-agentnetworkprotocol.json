@@ -5,7 +5,6 @@
   "principle": "The protocol is designed to be open and extensible, allowing for the integration of various agent types and communication methods while ensuring security and efficiency.",
   "reusability": "The protocol promotes reusability by providing a standardized framework that can be adapted for various agent applications and use cases.",
   "limitations": "As an experimental protocol in alpha status, it may lack comprehensive documentation and support for all potential agent interactions, and performance may vary across different implementations.",
-  "demo_links": [],
   "platforms": [
     "Web",
     "Cross-platform"
@@ -25,5 +24,6 @@
   "open_source": true,
   "license": "NOASSERTION",
   "last_updated": "2025-05-21",
-  "language": "HTML"
+  "language": "HTML",
+  "useful_links": []
 }

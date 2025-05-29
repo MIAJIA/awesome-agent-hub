@@ -5,9 +5,6 @@
   "principle": "The agent operates on the principle of leveraging natural language processing and machine learning to understand user-defined specifications and translate them into actionable test cases.",
   "reusability": "The codebase is designed with modularity in mind, allowing components to be reused across different testing scenarios and projects, which promotes efficiency and reduces redundancy.",
   "limitations": "As an alpha version, the agent may have incomplete features, potential bugs, and limited support for certain web technologies or testing frameworks. Continuous improvements are expected as development progresses.",
-  "demo_links": [
-    "https://agentlabs-dev.github.io/auto-inspector/demo"
-  ],
   "platforms": [
     "Web",
     "Node.js",
@@ -30,5 +27,8 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2025-02-14",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": [
+    "https://agentlabs-dev.github.io/auto-inspector/demo"
+  ]
 }

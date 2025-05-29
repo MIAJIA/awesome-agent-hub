@@ -5,7 +5,6 @@
   "principle": "To enhance the efficiency and effectiveness of AI agents by providing tools that facilitate monitoring, evaluation, and cost management while ensuring seamless integration with popular LLMs and agent frameworks.",
   "reusability": "Designed to be modular and extensible, allowing developers to integrate the SDK into various projects and frameworks without significant modifications.",
   "limitations": "Currently in alpha status, which may imply incomplete features, potential instability, and the need for further testing before production use.",
-  "demo_links": [],
   "platforms": [
     "Linux",
     "Windows",
@@ -40,5 +39,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-28",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

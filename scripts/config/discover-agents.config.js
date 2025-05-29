@@ -50,7 +50,7 @@ module.exports = {
     principle: "",
     reusability: "",
     limitations: "",
-    demo_links: [],
+    useful_links: [],
     badge: "",
     security_grade: "",
     license_grade: "",

@@ -5,7 +5,6 @@
   "principle": "To curate high-quality, developer-first tools that prioritize user experience and efficiency.",
   "reusability": "The tools listed are designed to be reusable across various projects and can be integrated into different development environments.",
   "limitations": "The list may not cover every available tool, and the quality of tools can vary; users are encouraged to evaluate tools based on their specific needs.",
-  "demo_links": [],
   "platforms": [
     "Web",
     "Cross-platform"
@@ -26,5 +25,6 @@
   "open_source": true,
   "license": "NOASSERTION",
   "last_updated": "2025-05-26",
-  "language": "English"
+  "language": "English",
+  "useful_links": []
 }

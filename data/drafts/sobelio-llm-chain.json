@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "llm-chain",
@@ -26,5 +25,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2024-10-31",
-  "language": "Rust"
+  "language": "Rust",
+  "useful_links": []
 }

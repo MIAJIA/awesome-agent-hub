@@ -1,19 +1,22 @@
 {
-  "category": "experimental",
+  "category": "research-and-analysis",
   "status": "alpha",
   "purpose": "To train large language model (LLM) agents using end-to-end reinforcement learning techniques, enabling them to perform complex tasks autonomously.",
   "principle": "The agent is designed to learn from interactions with its environment, optimizing its performance through reinforcement signals to improve decision-making capabilities over time.",
   "reusability": "The framework is modular and designed for easy integration with various machine learning workflows, allowing developers to adapt and extend its functionalities for different applications.",
   "limitations": "The current implementation is in alpha stage, which may lead to instability and limited functionality. Performance may vary based on the complexity of tasks and the quality of training data.",
-  "demo_links": [
-    "https://github.com/0russwest0/Agent-R1#demo"
-  ],
   "platforms": [
     "Linux",
     "Windows",
     "macOS"
   ],
-  "stack": [],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "OpenAI Gym",
+    "NumPy"
+  ],
   "name": "Agent-R1",
   "slug": "0russwest0-agent-r1",
   "description": "Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning",
@@ -30,5 +33,8 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-27",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/0russwest0/Agent-R1#demo"
+  ]
 }

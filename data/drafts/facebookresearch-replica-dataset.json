@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "Replica-Dataset",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "NOASSERTION",
   "last_updated": "2024-07-22",
-  "language": "C++"
+  "language": "C++",
+  "useful_links": []
 }

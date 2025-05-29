@@ -5,10 +5,6 @@
   "principle": "To enable seamless communication and interaction between agents, facilitating collaboration and enhanced capabilities.",
   "reusability": "The components and tools within the repository are designed to be modular and reusable across various A2A projects.",
   "limitations": "Currently in alpha status, which may imply incomplete features and potential instability. Some integrations may not be fully developed or tested.",
-  "demo_links": [
-    "https://example.com/demo1",
-    "https://example.com/demo2"
-  ],
   "platforms": [
     "Web",
     "Local Development",
@@ -30,5 +26,9 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-28",
-  "language": "Multi-language support including TypeScript, Python, Go, and more."
+  "language": "Multi-language support including TypeScript, Python, Go, and more.",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ]
 }

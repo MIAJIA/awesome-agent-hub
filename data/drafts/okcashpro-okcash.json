@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "okcash",
@@ -32,5 +31,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2024-12-23",
-  "language": "C++"
+  "language": "C++",
+  "useful_links": []
 }

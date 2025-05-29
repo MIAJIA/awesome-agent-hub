@@ -5,7 +5,6 @@
   "principle": "To enhance the efficiency and transparency of AI agent operations by providing detailed insights and analytics, allowing developers to make informed decisions.",
   "reusability": "The SDK is designed to be modular, enabling developers to integrate it easily into existing workflows and applications across different programming environments.",
   "limitations": "As an alpha version, the SDK may have incomplete features and potential bugs. Users should expect limited documentation and support as the project evolves.",
-  "demo_links": [],
   "platforms": [
     "Linux",
     "Windows",
@@ -40,5 +39,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-28",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

@@ -5,7 +5,6 @@
   "principle": "Operit operates on the principle of leveraging artificial intelligence to understand user behavior and preferences, allowing for seamless interaction with mobile applications.",
   "reusability": "The codebase is designed to be modular, enabling developers to reuse components for various mobile automation tasks.",
   "limitations": "Operit may face challenges with device compatibility and may not support all applications due to varying permissions and API restrictions inherent in different Android versions.",
-  "demo_links": [],
   "platforms": [
     "Android"
   ],
@@ -26,5 +25,6 @@
   "open_source": true,
   "license": "NOASSERTION",
   "last_updated": "2025-05-28",
-  "language": "Kotlin"
+  "language": "Kotlin",
+  "useful_links": []
 }

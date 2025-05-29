@@ -5,9 +5,6 @@
   "principle": "The principle behind LangDrive is to provide an accessible and efficient API that abstracts the complexities of training LLMs, allowing users to focus on their data and desired outcomes without deep technical knowledge.",
   "reusability": "LangDrive promotes reusability by allowing users to leverage existing models and datasets for training, enabling iterative improvements and adaptations for various applications.",
   "limitations": "As an alpha product, LangDrive may have limitations in terms of stability, feature completeness, and support for certain data formats or model types. Users should be aware of potential performance issues and the need for further enhancements.",
-  "demo_links": [
-    "https://github.com/addy-ai/langdrive#demo"
-  ],
   "platforms": [
     "Web",
     "API"
@@ -29,5 +26,8 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2024-08-09",
-  "language": "JavaScript"
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/addy-ai/langdrive#demo"
+  ]
 }

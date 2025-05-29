@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "electric",
@@ -29,5 +28,6 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2025-05-28",
-  "language": "Elixir"
+  "language": "Elixir",
+  "useful_links": []
 }

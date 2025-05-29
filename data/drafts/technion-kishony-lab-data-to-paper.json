@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "data-to-paper",
@@ -25,5 +24,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-04-09",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

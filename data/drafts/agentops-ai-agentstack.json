@@ -5,9 +5,6 @@
   "principle": "The core principle of AgentStack is to leverage modularity and extensibility, enabling developers to customize and enhance their AI agents easily while promoting best practices in AI development.",
   "reusability": "AgentStack promotes reusability by providing a library of pre-built components and modules that can be easily integrated into different projects, reducing development time and effort.",
   "limitations": "As an alpha project, AgentStack may have incomplete features, limited documentation, and potential bugs that could affect stability and performance in production environments.",
-  "demo_links": [
-    "https://agentstack-demo.example.com"
-  ],
   "platforms": [
     "Windows",
     "macOS",
@@ -30,5 +27,8 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-06",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": [
+    "https://agentstack-demo.example.com"
+  ]
 }

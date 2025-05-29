@@ -72,7 +72,7 @@ This project uses the following categories to classify AI agents. When contribut
     - `status` (string, enum: `alpha`, `beta`, `production`): The development status of the agent.
     - `open_source` (boolean): Whether the agent is open source.
     - `license` (string): The license under which the agent is distributed (e.g., "MIT", "Apache 2.0").
-    - `demo_links` (array of strings, format: uri): Links to live demos or examples.
+    - `useful_links` (array of strings, format: uri): Important repository links including demos, documentation, tutorials, live applications, API docs, community resources, or other valuable references.
     - `badge` (string, enum: `official`, `community`, `experimental`): A badge to display, if applicable.
     - `security_grade` (string, enum: `A`, `B`, `C`): Self-assessed security grade.
     - `license_grade` (string, enum: `A`, `B`, `C`): Self-assessed license clarity/permissiveness.

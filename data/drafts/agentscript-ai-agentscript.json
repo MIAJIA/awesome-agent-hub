@@ -5,9 +5,6 @@
   "principle": "The execution engine is built on an Abstract Syntax Tree (AST) model, allowing for dynamic code execution and manipulation while maintaining the integrity of workflows.",
   "reusability": "The SDK is designed to be modular, enabling developers to reuse components across different projects and workflows.",
   "limitations": "Currently in alpha status, which may imply incomplete features and potential instability in certain functionalities.",
-  "demo_links": [
-    "https://github.com/AgentScript-AI/agentscript#demo"
-  ],
   "platforms": [
     "Web",
     "Cross-platform"
@@ -27,5 +24,8 @@
   "open_source": true,
   "license": "NOASSERTION",
   "last_updated": "2025-05-28",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/AgentScript-AI/agentscript#demo"
+  ]
 }

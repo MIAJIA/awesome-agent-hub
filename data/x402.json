@@ -25,15 +25,15 @@
   "status": "alpha",
   "open_source": true,
   "license": "Apache-2.0",
-  "demo_links": [
-    "https://github.com/coinbase/x402",
-    "https://www.coinbase.com/blog/introducing-x402-agentic-commerce"
-  ],
   "last_updated": "2025-05-28",
   "language": "TypeScript",
   "platforms": [
     "Web",
     "API",
     "Blockchain"
+  ],
+  "useful_links": [
+    "https://github.com/coinbase/x402",
+    "https://www.coinbase.com/blog/introducing-x402-agentic-commerce"
   ]
 }

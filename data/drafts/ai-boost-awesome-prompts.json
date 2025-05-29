@@ -5,7 +5,6 @@
   "principle": "To curate high-quality, effective prompts that improve user engagement and response quality in AI-driven conversations.",
   "reusability": "The prompts are designed to be reusable across different applications and contexts, allowing users to adapt and modify them for various use cases.",
   "limitations": "The effectiveness of the prompts may vary based on the specific implementation of GPT models and the context in which they are used.",
-  "demo_links": [],
   "platforms": [
     "Web",
     "Desktop",
@@ -32,5 +31,6 @@
   "open_source": true,
   "license": "GPL-3.0",
   "last_updated": "2025-05-27",
-  "language": "Multi-language support including TypeScript, Python, Go, and more."
+  "language": "Multi-language support including TypeScript, Python, Go, and more.",
+  "useful_links": []
 }

@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "Awesome-LLMOps",
@@ -23,5 +22,6 @@
   "open_source": true,
   "license": "CC0-1.0",
   "last_updated": "2025-05-10",
-  "language": "Shell"
+  "language": "Shell",
+  "useful_links": []
 }

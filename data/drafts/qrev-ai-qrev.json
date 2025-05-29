@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "qrev",
@@ -23,5 +22,6 @@
   "open_source": true,
   "license": "AGPL-3.0",
   "last_updated": "2025-05-19",
-  "language": "JavaScript"
+  "language": "JavaScript",
+  "useful_links": []
 }

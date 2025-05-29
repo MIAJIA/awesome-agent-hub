@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "TaskingAI",
@@ -30,5 +29,6 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2024-12-02",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

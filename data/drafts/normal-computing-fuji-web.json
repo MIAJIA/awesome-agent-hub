@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "fuji-web",
@@ -26,5 +25,6 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2024-12-15",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": []
 }

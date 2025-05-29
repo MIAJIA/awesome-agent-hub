@@ -1,20 +1,22 @@
 {
-  "category": "experimental",
+  "category": "infra-tools",
   "status": "alpha",
   "purpose": "To provide an intuitive and user-friendly web interface for managing Nginx configurations and monitoring server performance.",
   "principle": "The project is built on the principle of simplifying Nginx management through a graphical interface, making it accessible for users with varying levels of technical expertise.",
   "reusability": "The code is designed to be modular, allowing developers to easily integrate or extend its functionalities within their own projects.",
   "limitations": "Currently in alpha status, the application may have incomplete features and potential bugs that need to be addressed.",
-  "demo_links": [
-    "https://nginx-ui.example.com/demo"
-  ],
   "platforms": [
     "Linux",
     "macOS",
     "Windows",
     "Docker"
   ],
-  "stack": [],
+  "stack": [
+    "Go",
+    "Vue.js",
+    "Docker",
+    "Nginx"
+  ],
   "name": "nginx-ui",
   "slug": "0xjacky-nginx-ui",
   "description": "Yet another WebUI for Nginx",
@@ -43,5 +45,8 @@
   "open_source": true,
   "license": "AGPL-3.0",
   "last_updated": "2025-05-28",
-  "language": "Go"
+  "language": "Go",
+  "useful_links": [
+    "https://nginx-ui.example.com/demo"
+  ]
 }

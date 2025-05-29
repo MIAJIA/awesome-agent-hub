@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "llm-engineer-toolkit",
@@ -24,5 +23,6 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2025-04-13",
-  "language": ""
+  "language": "",
+  "useful_links": []
 }

@@ -5,9 +5,6 @@
   "principle": "Fastagency operates on the principle of modularity, allowing developers to easily integrate and customize agent workflows tailored to specific tasks and environments.",
   "reusability": "The framework promotes reusability by providing a set of pre-built agents and workflows that can be easily adapted and reused across different projects.",
   "limitations": "As an alpha-level project, fastagency may have incomplete features and potential bugs. It may not yet support all use cases for complex multi-agent interactions.",
-  "demo_links": [
-    "https://github.com/ag2ai/fastagency#demo"
-  ],
   "platforms": [
     "Linux",
     "Windows",
@@ -29,5 +26,8 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2025-05-19",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ag2ai/fastagency#demo"
+  ]
 }

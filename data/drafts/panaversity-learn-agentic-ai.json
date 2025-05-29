@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "learn-agentic-ai",
@@ -39,5 +38,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-26",
-  "language": "Jupyter Notebook"
+  "language": "Jupyter Notebook",
+  "useful_links": []
 }

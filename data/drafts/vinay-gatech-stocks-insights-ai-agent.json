@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "stocks-insights-ai-agent",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "NOASSERTION",
   "last_updated": "2024-12-08",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

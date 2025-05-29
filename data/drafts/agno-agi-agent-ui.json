@@ -5,9 +5,6 @@
   "principle": "Designed to facilitate seamless interactions between users and AI agents, focusing on clarity, responsiveness, and modern UI design.",
   "reusability": "The architecture allows for easy integration and customization, enabling developers to adapt the chat interface for various AI applications.",
   "limitations": "Currently in alpha stage, which may result in incomplete features and potential instability; not all AI agents may be fully supported.",
-  "demo_links": [
-    "https://agent-ui-demo.example.com"
-  ],
   "platforms": [
     "Web"
   ],
@@ -28,5 +25,8 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-14",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": [
+    "https://agent-ui-demo.example.com"
+  ]
 }

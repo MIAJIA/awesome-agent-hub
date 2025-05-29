@@ -5,10 +5,6 @@
   "principle": "Adopt a modular architecture that promotes interoperability and extensibility, allowing developers to create custom agents tailored to specific tasks.",
   "reusability": "Designed to enable the reuse of components across different projects, facilitating quicker development cycles and reducing redundancy.",
   "limitations": "Currently in alpha stage, which may result in incomplete features and potential instability. Limited documentation and community support may also pose challenges for new users.",
-  "demo_links": [
-    "https://example.com/demo1",
-    "https://example.com/demo2"
-  ],
   "platforms": [
     "Linux",
     "Windows",
@@ -31,5 +27,9 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2025-05-26",
-  "language": "Elixir"
+  "language": "Elixir",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ]
 }

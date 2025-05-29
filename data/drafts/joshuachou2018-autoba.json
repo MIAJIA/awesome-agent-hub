@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "AutoBA",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2024-11-04",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

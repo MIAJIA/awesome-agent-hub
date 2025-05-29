@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "mcp-openai-gemini-llama-example",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2025-02-17",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

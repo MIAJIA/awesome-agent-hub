@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "pipecat",
@@ -25,5 +24,6 @@
   "open_source": true,
   "license": "BSD-2-Clause",
   "last_updated": "2025-05-29",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

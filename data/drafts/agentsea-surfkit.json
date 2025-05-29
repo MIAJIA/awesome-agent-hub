@@ -5,7 +5,6 @@
   "principle": "Surfkit is built on the principle of modularity, allowing developers to easily integrate various components and libraries to enhance AI agent functionality.",
   "reusability": "The toolkit promotes reusability by providing well-documented modules and components that can be easily shared and integrated into different projects.",
   "limitations": "As an alpha project, Surfkit may have incomplete features and limited stability. Users should expect potential bugs and a lack of extensive documentation.",
-  "demo_links": [],
   "platforms": [
     "Windows",
     "Linux",
@@ -27,5 +26,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-28",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

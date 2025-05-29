@@ -115,7 +115,7 @@ Repository: {{repositoryUrl}}
 - **limitations**: What are the known constraints, scope limits, or current issues?
 - **stack**: Key technologies, frameworks, and dependencies (be specific)
 - **platforms**: Operating systems, cloud platforms, or runtime environments supported
-- **demo_links**: Working demos, sandbox environments, or live examples (URLs only)
+- **useful_links**: Important repository links including demos, documentation, tutorials, live applications, API docs, community resources, or other valuable references (URLs only)
 - **status**: alpha (early development), beta (functional but evolving), production (stable release)
 
 **OUTPUT FORMAT:**

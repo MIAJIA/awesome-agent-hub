@@ -5,10 +5,6 @@
   "principle": "Focused on practical applications of AI, emphasizing experimentation and real-world use cases to facilitate understanding.",
   "reusability": "Designed to be modular, allowing users to reuse components and code snippets across different projects and experiments.",
   "limitations": "Currently in alpha stage, which may result in incomplete features and potential bugs. Not all concepts may be fully explored or documented.",
-  "demo_links": [
-    "https://example.com/demo1",
-    "https://example.com/demo2"
-  ],
   "platforms": [
     "Web",
     "Local Environment",
@@ -34,5 +30,9 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-23",
-  "language": "Jupyter Notebook"
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ]
 }

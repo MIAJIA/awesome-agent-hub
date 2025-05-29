@@ -5,10 +5,6 @@
   "principle": "To empower developers with a flexible and extensible platform that promotes creativity and innovation in AI agent design, leveraging a wide range of programming languages and tools.",
   "reusability": "The platform is designed to allow developers to reuse components and modules across different AI projects, enhancing productivity and reducing development time.",
   "limitations": "As an alpha version, the platform may have incomplete features, limited documentation, and potential stability issues that could affect development workflows.",
-  "demo_links": [
-    "https://example.com/demo1",
-    "https://example.com/demo2"
-  ],
   "platforms": [
     "Web",
     "Desktop"
@@ -31,5 +27,9 @@
   "open_source": true,
   "license": "GPL-3.0",
   "last_updated": "2024-08-05",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ]
 }

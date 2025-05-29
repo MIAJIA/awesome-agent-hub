@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "perplexideez",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "AGPL-3.0",
   "last_updated": "2024-11-17",
-  "language": "Svelte"
+  "language": "Svelte",
+  "useful_links": []
 }

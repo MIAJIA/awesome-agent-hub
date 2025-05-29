@@ -5,7 +5,6 @@
   "principle": "The repository is built on the principle of open-source education, allowing learners to access resources freely and contribute to the knowledge base.",
   "reusability": "The materials and resources provided in this repository are designed to be reusable across different learning scenarios, enabling users to adapt content for personal or educational use.",
   "limitations": "The repository is currently in alpha status, which means that some resources may be incomplete or in development. Users should be aware that the learning path may evolve over time.",
-  "demo_links": [],
   "platforms": [
     "Web",
     "Jupyter Notebook"
@@ -36,5 +35,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-03-16",
-  "language": "The repository includes content in multiple programming languages such as Python, TypeScript, and Java, among others, catering to a wide audience with varying preferences."
+  "language": "The repository includes content in multiple programming languages such as Python, TypeScript, and Java, among others, catering to a wide audience with varying preferences.",
+  "useful_links": []
 }

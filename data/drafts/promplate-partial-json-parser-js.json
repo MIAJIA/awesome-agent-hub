@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "partial-json-parser-js",
@@ -26,5 +25,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2024-09-17",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": []
 }

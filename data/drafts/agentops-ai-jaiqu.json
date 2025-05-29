@@ -5,10 +5,6 @@
   "principle": "Utilizes AI algorithms to intelligently map and convert JSON structures, ensuring accuracy and adherence to specified schemas.",
   "reusability": "Designed to be modular and adaptable, allowing users to easily apply the tool across different projects and data formats.",
   "limitations": "Currently in alpha stage, which may result in incomplete features and potential bugs. Performance may vary based on complex schemas.",
-  "demo_links": [
-    "https://example.com/demo1",
-    "https://example.com/demo2"
-  ],
   "platforms": [
     "Web",
     "Local Development"
@@ -30,5 +26,9 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-03-14",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ]
 }

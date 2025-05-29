@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "Mastering-GitHub-Copilot-for-Paired-Programming",
@@ -39,5 +38,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-27",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "athena-core",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "BSD-3-Clause",
   "last_updated": "2025-05-19",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": []
 }

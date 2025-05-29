@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "kiroku",
@@ -18,5 +17,6 @@
   "open_source": true,
   "license": "Apache-2.0",
   "last_updated": "2024-11-15",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

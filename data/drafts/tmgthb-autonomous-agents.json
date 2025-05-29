@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "Autonomous-Agents",
@@ -33,5 +32,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-21",
-  "language": ""
+  "language": "",
+  "useful_links": []
 }

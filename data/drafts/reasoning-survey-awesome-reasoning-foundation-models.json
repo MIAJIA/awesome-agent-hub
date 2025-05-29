@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "Awesome-Reasoning-Foundation-Models",
@@ -26,5 +25,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-04-25",
-  "language": ""
+  "language": "",
+  "useful_links": []
 }

@@ -5,10 +5,6 @@
   "principle": "The agent operates on principles of modularity and adaptability, allowing developers to customize and extend functionalities according to their needs.",
   "reusability": "Robbie-g2 promotes code reusability through a modular architecture, enabling components to be reused across different projects and applications.",
   "limitations": "As an experimental project in alpha status, Robbie-g2 may lack comprehensive documentation and support, and it may not be fully stable for production use.",
-  "demo_links": [
-    "https://example.com/demo1",
-    "https://example.com/demo2"
-  ],
   "platforms": [
     "Linux",
     "Windows",
@@ -31,5 +27,9 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-01-23",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ]
 }

@@ -1,6 +1,6 @@
 总结一下最终的设计要点：
 新脚本名称 (暂定): scripts/discover-agents.js
-1. “高质量 AI Agent”标准:
+1. "高质量 AI Agent"标准:
 GitHub Stars: >= 100
 Pushed At: 最近 1 年内
 必须有 README.md
@@ -13,9 +13,9 @@ archived == false, disabled == false, visibility == "public"
 阶段 1: 候选项目搜集与初步过滤
 从配置文件加载 GitHub API 查询、门槛值。
 执行搜索，去重，对照 data/ 中现有数据。
-阶段 2: 详细元数据获取与“高质量”标准校验
+阶段 2: 详细元数据获取与"高质量"标准校验
 获取仓库详情 (/repos/{owner}/{repo}) 和 README 信息 (/repos/{owner}/{repo}/readme)。
-应用详细的“高质量”标准进行筛选。
+应用详细的"高质量"标准进行筛选。
 阶段 3: Agent JSON 文件生成
 自动填充字段:
 name: repo.name
@@ -33,7 +33,7 @@ language: repo.language
 category: "experimental"
 stack: 初始加入 repo.language，尝试从 topics 提取。
 status: "alpha"
-人工填充 (留空或默认): purpose, principle, reusability, limitations, demo_links, badge, security_grade, license_grade, quality_grade, platforms.
+人工填充 (留空或默认): purpose, principle, reusability, limitations, useful_links, badge, security_grade, license_grade, quality_grade, platforms.
 maintainer_verified: false
 文件生成位置: data/drafts/
 文件名: slug.json

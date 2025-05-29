@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "KaibanJS",
@@ -30,5 +29,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-21",
-  "language": "JavaScript"
+  "language": "JavaScript",
+  "useful_links": []
 }

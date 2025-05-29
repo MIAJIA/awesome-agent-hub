@@ -115,14 +115,14 @@
       "type": "string",
       "description": "E.g., MIT, Apache-2.0"
     },
-    "demo_links": {
+    "useful_links": {
       "type": "array",
       "items": {
         "type": "string",
         "format": "uri"
       },
       "default": [],
-      "description": "Optional demo page or sandbox"
+      "description": "Important links from repository including demos, documentation, tutorials, live applications, API docs, community resources, or other valuable references"
     },
     "last_updated": {
       "type": "string",

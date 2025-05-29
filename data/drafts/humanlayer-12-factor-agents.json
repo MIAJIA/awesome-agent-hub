@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "12-factor-agents",
@@ -30,5 +29,6 @@
   "open_source": true,
   "license": "NOASSERTION",
   "last_updated": "2025-05-25",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": []
 }

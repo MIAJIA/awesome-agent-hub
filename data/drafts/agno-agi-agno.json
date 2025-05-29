@@ -5,7 +5,6 @@
   "principle": "Agno emphasizes modularity and performance, allowing developers to easily integrate and customize agent behaviors while maintaining high efficiency.",
   "reusability": "Agno promotes code reusability through its modular architecture, enabling developers to share and reuse components across different agent implementations.",
   "limitations": "Currently in alpha status, Agno may have incomplete features and potential bugs that could affect stability and performance.",
-  "demo_links": [],
   "platforms": [
     "Windows",
     "Linux",
@@ -29,5 +28,6 @@
   "open_source": true,
   "license": "MPL-2.0",
   "last_updated": "2025-05-28",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": []
 }

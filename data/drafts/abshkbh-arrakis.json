@@ -5,9 +5,6 @@
   "principle": "The core principle of arrakis is to ensure isolation and security while allowing comprehensive customization for various AI agent applications.",
   "reusability": "Arrakis promotes reusability by allowing developers to create modular and customizable workflows that can be easily shared and adapted for different AI tasks.",
   "limitations": "As an experimental project in alpha status, arrakis may have limited stability, incomplete features, and potential security vulnerabilities that need to be addressed in future releases.",
-  "demo_links": [
-    "https://github.com/abshkbh/arrakis#demo"
-  ],
   "platforms": [
     "Docker",
     "Linux",
@@ -31,5 +28,8 @@
   "open_source": true,
   "license": "AGPL-3.0",
   "last_updated": "2025-05-27",
-  "language": "Go"
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/abshkbh/arrakis#demo"
+  ]
 }

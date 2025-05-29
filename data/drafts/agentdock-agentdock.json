@@ -5,9 +5,6 @@
   "principle": "Empower users to create customized AI agents that can collaborate and execute workflows effectively, leveraging modular components and integrations.",
   "reusability": "Designed with modularity in mind, allowing developers to reuse components and workflows across different AI agent projects.",
   "limitations": "Currently in alpha stage, which may include incomplete features, potential bugs, and limited documentation. Users should expect a learning curve and the need for experimentation.",
-  "demo_links": [
-    "https://agentdock.example.com/demo"
-  ],
   "platforms": [
     "Web",
     "Docker",
@@ -33,5 +30,8 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-27",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": [
+    "https://agentdock.example.com/demo"
+  ]
 }

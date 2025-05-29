@@ -5,7 +5,6 @@
   "principle": "The SPARC Framework emphasizes a methodical progression through specification, pseudocode development, architectural design, iterative refinement, and completion to ensure high-quality software delivery.",
   "reusability": "The framework encourages code reusability by promoting modular design and adherence to best practices, allowing developers to leverage existing components across multiple projects.",
   "limitations": "As an alpha version, the SPARC Framework may have limited features and stability, and it may not yet support all programming languages or paradigms effectively.",
-  "demo_links": [],
   "platforms": [
     "Web",
     "Cross-platform"
@@ -27,5 +26,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-04-29",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": []
 }

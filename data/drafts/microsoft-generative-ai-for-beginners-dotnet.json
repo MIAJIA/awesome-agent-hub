@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "Generative-AI-for-beginners-dotnet",
@@ -24,5 +23,6 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-27",
-  "language": "C#"
+  "language": "C#",
+  "useful_links": []
 }

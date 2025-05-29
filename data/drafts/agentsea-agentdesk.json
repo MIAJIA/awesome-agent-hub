@@ -5,9 +5,6 @@
   "principle": "Designed to enhance collaboration between various AI agents by providing a unified interface and tools for monitoring and controlling their interactions.",
   "reusability": "The modular architecture allows for easy integration and reuse of components across different AI projects and applications.",
   "limitations": "Currently in alpha stage, which may result in instability and incomplete features; not all AI agent types may be fully supported.",
-  "demo_links": [
-    "https://github.com/agentsea/agentdesk#demo"
-  ],
   "platforms": [
     "Windows",
     "Linux",
@@ -29,5 +26,8 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-05-28",
-  "language": "Python"
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/agentsea/agentdesk#demo"
+  ]
 }

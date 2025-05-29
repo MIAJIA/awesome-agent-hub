@@ -5,10 +5,6 @@
   "principle": "Designed to operate independently while leveraging cloud resources for scalability and efficiency.",
   "reusability": "Agents are built with modular components that can be reused across different projects and applications.",
   "limitations": "Currently in alpha status, which may imply incomplete features and potential instability. Limited to specific cloud environments.",
-  "demo_links": [
-    "https://example.com/demo1",
-    "https://example.com/demo2"
-  ],
   "platforms": [
     "AWS Lambda",
     "Google Cloud Functions",
@@ -30,5 +26,9 @@
   "open_source": true,
   "license": "MIT",
   "last_updated": "2025-04-13",
-  "language": "TypeScript"
+  "language": "TypeScript",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ]
 }

@@ -5,7 +5,6 @@
   "principle": "",
   "reusability": "",
   "limitations": "",
-  "demo_links": [],
   "platforms": [],
   "stack": [],
   "name": "claude-squad",
@@ -24,5 +23,6 @@
   "open_source": true,
   "license": "AGPL-3.0",
   "last_updated": "2025-05-28",
-  "language": "Go"
+  "language": "Go",
+  "useful_links": []
 }

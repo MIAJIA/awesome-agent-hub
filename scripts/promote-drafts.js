@@ -32,9 +32,6 @@ const LLM_TARGET_FIELDS = [
     { name: 'stack', type: 'array' },
     { name: 'tags', type: 'array' },
     { name: 'demo_links', type: 'array' }, // Should contain URI strings
-    { name: 'license_grade', type: 'string', isEnum: true }, // Mark as enum
-    { name: 'quality_grade', type: 'string', isEnum: true }, // Mark as enum
-    { name: 'security_grade', type: 'string', isEnum: true }, // Mark as enum
     { name: 'platforms', type: 'array' }
 ];
 

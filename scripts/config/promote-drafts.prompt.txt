@@ -1,52 +1,134 @@
-Given the following AI agent information and its repository:
+You are an expert AI agent analyst tasked with enriching agent metadata by analyzing GitHub repositories.
+
+**AGENT INFORMATION:**
 Name: {{agentName}}
 Description: {{agentDescription}}
 Repository: {{repositoryUrl}}
-Existing Data:
+
+**CURRENT DATA:**
 ```json
 {{existingDataJson}}
 ```
 
-Please generate content for the following empty fields based on your understanding of the repository's README and code.
-Focus on extracting factual information and capabilities from the repository.
+**ANALYSIS INSTRUCTIONS:**
+1. **Repository Analysis**: Examine the README, dependencies (package.json, requirements.txt, etc.), code structure, and documentation
+2. **Technology Detection**: Look for framework imports, dependencies, and API integrations to understand the tech stack
+3. **Use Case Understanding**: Analyze examples, demos, and documentation to understand real-world applications
+4. **Category Classification**: Choose the MOST SPECIFIC category based on the agent's PRIMARY purpose and domain
 
-CATEGORY SELECTION GUIDANCE:
-When selecting a category, analyze the agent's PRIMARY purpose and choose the most specific applicable category:
+**CATEGORY SELECTION GUIDE:**
 
-- **commerce**: E-commerce agents (shopping, product search, checkout automation, marketplace tools)
-- **payment**: Payment processing, transaction handling, payment gateways, crypto payments
-- **finance**: Financial analysis, trading, investment management, accounting, budgeting tools
-- **productivity**: Task management, workflow optimization, note-taking, calendar management, general productivity tools
-- **education**: Learning platforms, tutoring, educational content creation, skill assessment
-- **infra-tools**: Development infrastructure, APIs, databases, deployment tools, monitoring
-- **meta-agents**: Agent orchestration, multi-agent systems, agent management platforms
-- **writing**: Content generation, editing, documentation, copywriting, creative writing
-- **research-and-analysis**: Data analysis, research automation, report generation, information gathering
-- **lifestyle**: Health, wellness, personal assistants, hobby tools, entertainment
-- **programming**: Code generation, debugging, software development, code analysis
-- **art**: Creative design, image generation, music, visual arts, creative tools
-- **iot**: Hardware integration, device control, sensor data, embedded systems
-- **data-visualization**: Charts, dashboards, reporting, visual analytics
-- **social-media**: Social platform automation, content scheduling, engagement tools
-- **gaming**: Game development, NPCs, game mechanics, player assistance
-- **workflow-automation**: Business process automation, RPA, integration platforms
-- **marketing**: Campaign management, SEO, analytics, lead generation, advertising
-- **communication**: Chat systems, messaging, collaboration tools, customer support
-- **experimental**: ONLY use if the agent is clearly in early research phase or doesn't fit other categories
+**🛒 COMMERCE**: E-commerce platforms, shopping bots, product search, price comparison, marketplace automation
+- *Indicators*: Shopify, WooCommerce, Amazon API, product catalogs, shopping cart
+- *Example*: "AutoShop Agent for product recommendations and price tracking"
 
-AVOID "experimental" unless the agent is genuinely experimental/research-focused. Most agents have a clear primary domain.
+**💳 PAYMENT**: Payment processing, transaction handling, payment gateways, billing, invoicing
+- *Indicators*: Stripe, PayPal, crypto payments, wallet integrations, transaction APIs
+- *Example*: "Payment processor agent with multi-gateway support"
 
-Fields to fill:
+**💰 FINANCE**: Financial analysis, trading bots, investment management, budgeting, accounting
+- *Indicators*: Trading APIs, financial data feeds, portfolio management, market analysis
+- *Example*: "AI trading agent for cryptocurrency portfolio optimization"
+
+**⚡ PRODUCTIVITY**: Task management, workflow optimization, note-taking, calendar scheduling, general productivity
+- *Indicators*: Notion, Todoist, calendar APIs, project management, time tracking
+- *Example*: "Personal assistant agent for task automation and scheduling"
+
+**🎓 EDUCATION**: Learning platforms, tutoring, educational content, skill assessment, training
+- *Indicators*: LMS integration, course content, assessment tools, educational APIs
+- *Example*: "AI tutor for personalized learning paths and progress tracking"
+
+**🔧 INFRA-TOOLS**: Development infrastructure, APIs, databases, deployment, monitoring, DevOps
+- *Indicators*: Docker, Kubernetes, AWS/Azure, CI/CD, monitoring tools, infrastructure code
+- *Example*: "Infrastructure automation agent for cloud deployment"
+
+**🤖 META-AGENTS**: Agent orchestration, multi-agent systems, agent frameworks, coordination platforms
+- *Indicators*: Agent frameworks, multi-agent coordination, orchestration patterns
+- *Example*: "Framework for coordinating multiple specialized AI agents"
+
+**✍️ WRITING**: Content generation, editing, documentation, copywriting, creative writing
+- *Indicators*: Text generation, content management, writing tools, editorial workflows
+- *Example*: "AI writing assistant for blog content and documentation"
+
+**📊 RESEARCH-AND-ANALYSIS**: Data analysis, research automation, report generation, information gathering
+- *Indicators*: Data processing, analytics tools, research methodologies, report generation
+- *Example*: "Research agent for academic paper analysis and synthesis"
+
+**🏃 LIFESTYLE**: Health, wellness, personal assistants, hobby tools, entertainment, personal care
+- *Indicators*: Health tracking, fitness apps, personal care, entertainment platforms
+- *Example*: "Personal wellness agent for health tracking and recommendations"
+
+**💻 PROGRAMMING**: Code generation, debugging, software development, code analysis, IDE tools
+- *Indicators*: Code editors, compilers, debugging tools, code analysis, programming frameworks
+- *Example*: "Code review agent for automated quality assessment"
+
+**🎨 ART**: Creative design, image generation, music composition, visual arts, creative tools
+- *Indicators*: Image generation, design tools, creative software, art platforms
+- *Example*: "AI artist agent for generating custom artwork and designs"
+
+**🏠 IOT**: Hardware integration, device control, sensor data, embedded systems, smart homes
+- *Indicators*: IoT protocols, sensor APIs, hardware interfaces, embedded programming
+- *Example*: "Smart home automation agent for device coordination"
+
+**📈 DATA-VISUALIZATION**: Charts, dashboards, reporting, visual analytics, business intelligence
+- *Indicators*: Chart libraries, dashboard frameworks, BI tools, data visualization
+- *Example*: "Analytics dashboard agent for real-time business metrics"
+
+**📱 SOCIAL-MEDIA**: Social platform automation, content scheduling, engagement, social analytics
+- *Indicators*: Social media APIs, content scheduling, engagement tools, social analytics
+- *Example*: "Social media management agent for content automation"
+
+**🎮 GAMING**: Game development, NPCs, game mechanics, player assistance, game AI
+- *Indicators*: Game engines, NPC behavior, gaming APIs, player interaction systems
+- *Example*: "AI game master agent for dynamic story generation"
+
+**🔄 WORKFLOW-AUTOMATION**: Business process automation, RPA, integration platforms, workflow engines
+- *Indicators*: Workflow engines, RPA tools, business process management, integration platforms
+- *Example*: "Business process automation agent for document workflows"
+
+**📢 MARKETING**: Campaign management, SEO, analytics, lead generation, advertising automation
+- *Indicators*: Marketing platforms, SEO tools, ad networks, campaign management, analytics
+- *Example*: "Marketing campaign agent for automated lead generation"
+
+**💬 COMMUNICATION**: Chat systems, messaging, collaboration tools, customer support, communication platforms
+- *Indicators*: Chat APIs, messaging platforms, collaboration tools, support systems
+- *Example*: "Customer support agent for automated ticket resolution"
+
+**🧪 EXPERIMENTAL**: ONLY for genuine research projects, proof-of-concepts, or agents that don't clearly fit other categories
+- *Use sparingly*: Most agents have a clear domain - avoid this unless truly experimental
+
+**TECHNOLOGY STACK DETECTION:**
+- **Python**: Look for requirements.txt, setup.py, imports like pandas, tensorflow, fastapi
+- **JavaScript/Node.js**: Check package.json, imports like express, react, next.js
+- **Frameworks**: FastAPI, Flask, Express, React, Vue, Angular, Django
+- **AI/ML**: OpenAI, Anthropic, Hugging Face, LangChain, LlamaIndex, TensorFlow, PyTorch
+- **Cloud**: AWS, Azure, GCP, Vercel, Netlify
+- **Databases**: PostgreSQL, MongoDB, Redis, Vector DBs (Pinecone, Weaviate)
+
+**FIELDS TO COMPLETE:**
 {{fieldsToFillList}}
 
-Only provide content for these fields if they are currently empty or have placeholder values as defined (null, "", "N/A", "TODO", or empty array []).
-Do not modify other fields that already have content.
-Return the response as a valid JSON object containing ONLY the fields you've generated content for, with their respective generated values. For example, if you were asked to fill 'purpose', 'stack', 'status', and 'platforms', your response might look like:
+**FIELD DEFINITIONS:**
+- **purpose**: What problem does this agent solve? What is its main objective?
+- **principle**: How does it work? What methodology, algorithms, or approach does it use?
+- **reusability**: How can others use/integrate it? APIs, plugins, composability notes
+- **limitations**: What are the known constraints, scope limits, or current issues?
+- **stack**: Key technologies, frameworks, and dependencies (be specific)
+- **platforms**: Operating systems, cloud platforms, or runtime environments supported
+- **demo_links**: Working demos, sandbox environments, or live examples (URLs only)
+- **status**: alpha (early development), beta (functional but evolving), production (stable release)
+
+**OUTPUT FORMAT:**
+Return ONLY a valid JSON object with the fields you can confidently determine from the repository analysis. If you cannot find clear evidence for a field, omit it. Ensure accuracy over completeness.
+
+Example output:
 {
-  "purpose": "To autonomously manage and optimize cloud infrastructure based on real-time metrics.",
-  "stack": ["Python", "Terraform", "AWS SDK", "Prometheus"],
+  "purpose": "Automate customer support responses using natural language understanding and knowledge base integration",
+  "principle": "Uses RAG (Retrieval-Augmented Generation) with vector embeddings to match customer queries with relevant documentation",
+  "stack": ["Python", "FastAPI", "OpenAI", "Pinecone", "PostgreSQL"],
+  "platforms": ["Linux", "Docker", "AWS"],
+  "category": "communication",
   "status": "beta",
-  "platforms": ["AWS", "Docker"],
-  "category": "infra-tools"
+  "reusability": "Provides REST API for integration, supports custom knowledge bases, configurable response templates",
+  "limitations": "Currently limited to English language, requires manual knowledge base setup, no real-time learning"
 }
-Ensure the output is a single JSON object. If you cannot find information for a requested field, omit it from your response JSON.

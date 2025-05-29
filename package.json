@@ -8,7 +8,9 @@
     "validate-data": "node scripts/validate.js",
     "fetch-github-meta": "node scripts/fetch-github-meta.js",
     "summarize-drafts": "node scripts/summarize-drafts.js",
-    "promote-drafts": "node scripts/promote-drafts.js"
+    "promote-drafts": "node scripts/promote-drafts.js",
+    "revert-promotion": "node scripts/revert-promotion.js",
+    "bulk-remove-fields": "node scripts/bulk-remove-fields.js"
   },
   "keywords": [
     "ai",

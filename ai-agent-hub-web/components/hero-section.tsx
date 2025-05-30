@@ -65,93 +65,106 @@ export default function HeroSection() {
           Find, use, and build reusable AI agents across domains
         </p>
 
-        {/* Search Bar */}
-        <div className="max-w-2xl mx-auto mb-8">
-          <div className="relative">
-            <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-              <Search className="h-5 w-5 text-gray-400" />
-            </div>
-            <input
-              type="text"
-              placeholder="Search agents, categories, or tech stacks..."
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-12 pr-16 py-4 bg-gray-800/50 border border-gray-700 rounded-2xl text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent backdrop-blur-sm"
-            />
-            <div className="absolute inset-y-0 right-0 pr-2 flex items-center">
-              <Button
-                variant="ghost"
-                size="sm"
-                onClick={() => setShowFilters(!showFilters)}
-                className="text-gray-400 hover:text-white"
-              >
-                <Filter className="h-4 w-4" />
-              </Button>
-            </div>
-          </div>
-
-          {/* Filters */}
-          {showFilters && (
-            <div className="mt-4 p-4 bg-gray-800/50 rounded-xl backdrop-blur-sm border border-gray-700">
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                <div>
-                  <label className="block text-sm font-medium text-gray-300 mb-2">Category</label>
-                  <select className="w-full bg-gray-700 border border-gray-600 rounded-lg px-3 py-2 text-white">
-                    <option>All Categories</option>
-                    <option>Commerce</option>
-                    <option>Gaming</option>
-                    <option>Productivity</option>
-                    <option>Data Analysis</option>
-                  </select>
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-gray-300 mb-2">Tech Stack</label>
-                  <select className="w-full bg-gray-700 border border-gray-600 rounded-lg px-3 py-2 text-white">
-                    <option>Any Stack</option>
-                    <option>Python</option>
-                    <option>JavaScript</option>
-                    <option>LangChain</option>
-                    <option>OpenAI</option>
-                  </select>
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-gray-300 mb-2">Status</label>
-                  <select className="w-full bg-gray-700 border border-gray-600 rounded-lg px-3 py-2 text-white">
-                    <option>All</option>
-                    <option>Production Ready</option>
-                    <option>Beta</option>
-                    <option>Experimental</option>
-                  </select>
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-gray-300 mb-2">License</label>
-                  <select className="w-full bg-gray-700 border border-gray-600 rounded-lg px-3 py-2 text-white">
-                    <option>Any License</option>
-                    <option>Open Source</option>
-                    <option>MIT</option>
-                    <option>Apache 2.0</option>
-                  </select>
-                </div>
+        {/*
+          Search Bar - Conditionally rendered to null (effectively commented out)
+          The following block contains the search input and filter elements.
+          It is hidden by rendering 'false && (...)' to avoid JSX comment parsing issues.
+        */}
+        {false && (
+          <div className="max-w-2xl mx-auto mb-8">
+            <div className="relative">
+              <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                <Search className="h-5 w-5 text-gray-400" />
+              </div>
+              <input
+                type="text"
+                placeholder="Search agents, categories, or tech stacks..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="w-full pl-12 pr-16 py-4 bg-gray-800/50 border border-gray-700 rounded-2xl text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent backdrop-blur-sm"
+              />
+              <div className="absolute inset-y-0 right-0 pr-2 flex items-center">
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  onClick={() => setShowFilters(!showFilters)}
+                  className="text-gray-400 hover:text-white"
+                >
+                  <Filter className="h-4 w-4" />
+                </Button>
               </div>
             </div>
-          )}
-        </div>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <Button
-            size="lg"
-            className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 rounded-xl"
-          >
-            Explore Agents
-          </Button>
-          <Button
-            size="lg"
-            variant="outline"
-            className="border-gray-600 text-gray-300 hover:bg-gray-800 px-8 py-3 rounded-xl"
-          >
-            Submit Your Agent
-          </Button>
-        </div>
+            {/* Filters */}
+            {showFilters && (
+              <div className="mt-4 p-4 bg-gray-800/50 rounded-xl backdrop-blur-sm border border-gray-700">
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                  <div>
+                    <label className="block text-sm font-medium text-gray-300 mb-2">Category</label>
+                    <select className="w-full bg-gray-700 border border-gray-600 rounded-lg px-3 py-2 text-white">
+                      <option>All Categories</option>
+                      <option>Commerce</option>
+                      <option>Gaming</option>
+                      <option>Productivity</option>
+                      <option>Data Analysis</option>
+                    </select>
+                  </div>
+                  <div>
+                    <label className="block text-sm font-medium text-gray-300 mb-2">Tech Stack</label>
+                    <select className="w-full bg-gray-700 border border-gray-600 rounded-lg px-3 py-2 text-white">
+                      <option>Any Stack</option>
+                      <option>Python</option>
+                      <option>JavaScript</option>
+                      <option>LangChain</option>
+                      <option>OpenAI</option>
+                    </select>
+                  </div>
+                  <div>
+                    <label className="block text-sm font-medium text-gray-300 mb-2">Status</label>
+                    <select className="w-full bg-gray-700 border border-gray-600 rounded-lg px-3 py-2 text-white">
+                      <option>All</option>
+                      <option>Production Ready</option>
+                      <option>Beta</option>
+                      <option>Experimental</option>
+                    </select>
+                  </div>
+                  <div>
+                    <label className="block text-sm font-medium text-gray-300 mb-2">License</label>
+                    <select className="w-full bg-gray-700 border border-gray-600 rounded-lg px-3 py-2 text-white">
+                      <option>Any License</option>
+                      <option>Open Source</option>
+                      <option>MIT</option>
+                      <option>Apache 2.0</option>
+                    </select>
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/*
+          Action Buttons - Conditionally rendered to null (effectively commented out)
+          The following block contains the 'Explore Agents' and 'Submit Your Agent' buttons.
+          It is hidden by rendering 'false && (...)' to avoid JSX comment parsing issues.
+        */}
+        {false && (
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Button
+              size="lg"
+              className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 rounded-xl"
+            >
+              Explore Agents
+            </Button>
+            <Button
+              size="lg"
+              variant="outline"
+              className="border-gray-600 text-gray-300 hover:bg-gray-800 px-8 py-3 rounded-xl"
+            >
+              Submit Your Agent
+            </Button>
+          </div>
+        )}
       </div>
     </section>
   )

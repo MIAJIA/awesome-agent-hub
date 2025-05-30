@@ -30,26 +30,6 @@ This project uses the following categories to classify AI agents. When contribut
 
 ---
 
-## 📦 Featured Agents
-
-### 🛒 Commerce
-
-- **[ShopGPT](https://github.com/user/shopgpt)**
-  🟊 150+ stars
-  A GPT-powered shopping assistant that can browse and compare products, optimized for Amazon & eBay.
-  ✅ Reusable as a LangChain agent
-  ⚠️ Currently limited to English-only sites
-
-- **[AutoCheckout Agent](https://github.com/user/autocheckout-agent)**
-  🟊 75 stars
-  Automates checkout flows using Puppeteer + GPT + Stripe API.
-  ✅ Built-in Stripe Vault integration
-  🚧 Limited support for Captcha-based flows
-
-...
-
----
-
 ## 🛠️ How to Contribute
 
 1. Fork and star the repo ⭐
@@ -92,7 +72,7 @@ Contributions welcome!
 
 
 <!-- featured-start -->
-## 🌟 Featured Agents by Category
+## 📦 Featured Agents
 
 ### 🗂 research-and-analysis
 

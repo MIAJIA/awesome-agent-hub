@@ -51,7 +51,7 @@ function generateFeaturedMarkdown(groupedAgents) {
   const blocks = Object.entries(groupedAgents).map(
     ([category, agents]) => generateMarkdownBlock(category, agents)
   );
-  return `<!-- featured-start -->\n## 🌟 Featured Agents by Category\n\n${blocks.join('\n\n')}\n\n<!-- featured-end -->`;
+  return `<!-- featured-start -->\n## 📦 Featured Agents\n\n${blocks.join('\n\n')}\n\n<!-- featured-end -->`;
 }
 
 function updateReadme(markdownBlock) {

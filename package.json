@@ -11,7 +11,8 @@
     "promote-drafts": "node scripts/promote-drafts.js",
     "revert-promotion": "node scripts/revert-promotion.js",
     "bulk-remove-fields": "node scripts/bulk-remove-fields.js",
-    "bulk-rename-field": "node scripts/bulk-rename-field.js"
+    "bulk-rename-field": "node scripts/bulk-rename-field.js",
+    "generate-featured-agents": "node scripts/generate-featured-agents.js"
   },
   "keywords": [
     "ai",

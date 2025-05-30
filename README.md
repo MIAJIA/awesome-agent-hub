@@ -6,15 +6,59 @@ This is the **development repository** for the Awesome AI Agents Hub project. It
 
 ```
 awesome-agent-hub/
-├── public/awesome-agent-hub/    # 🌍 PUBLIC VERSION (for community)
-│   ├── README.md               # Community-facing documentation
-│   ├── CONTRIBUTING.md         # Contribution guidelines
-│   ├── schemas/               # JSON schema for validation
-│   └── LICENSE                # MIT License
-├── data/                      # 🔒 PRIVATE: Agent data files (845+ agents)
-├── scripts/                   # 🔒 PRIVATE: Development automation tools
-├── package.json              # 🔒 PRIVATE: Node.js dependencies
-└── README.md                 # 🔒 PRIVATE: This development documentation
+├── public/awesome-agent-hub/ # 🌍 PUBLIC VERSION (for community)
+│ ├── README.md # Community-facing documentation
+│ ├── CONTRIBUTING.md # Contribution guidelines
+│ ├── schemas/ # JSON schema for validation
+│ └── LICENSE # MIT License
+├── data/ # 🔒 PRIVATE: Agent data files (JSON, drafts/)
+├── scripts/ # 🔒 PRIVATE: Development automation tools
+│ ├── tests/ # Script tests
+│ ├── config/ # Script prompt/config files
+│ ├── validate-gates.js
+│ ├── generate-featured-agents.js
+│ ├── promote-drafts.js
+│ ├── discover-agents.js
+│ ├── bulk-rename-field.js
+│ ├── bulk-remove-fields.js
+│ ├── summarize-drafts.js
+│ ├── revert-promotion.js
+│ ├── validate.js
+│ └── fetch-github-meta.js
+├── schemas/ # 🔒 PRIVATE: JSON schema definitions
+│ └── agent.schema.json
+├── ai-agent-hub-web/ # 🌐 Next.js 15 + React 19 frontend (SSR/CSR)
+│ ├── app/ # Next.js app directory (routing, pages, API)
+│ │ ├── page.tsx # Home page
+│ │ ├── layout.tsx # Root layout
+│ │ ├── globals.css # Global styles
+│ │ ├── agent/ # Agent detail pages ([id]/page.tsx)
+│ │ └── api/ # API routes (agents, data)
+│ ├── components/ # React UI components
+│ │ ├── featured-agents.tsx
+│ │ ├── hero-section.tsx
+│ │ ├── agent-card.tsx
+│ │ ├── agent-detail-modal.tsx
+│ │ ├── navigation.tsx
+│ │ ├── theme-provider.tsx
+│ │ └── ui/ # Design system (button, card, dialog, etc.)
+│ ├── hooks/ # Custom React hooks
+│ ├── lib/ # Frontend utility functions
+│ ├── styles/ # Tailwind/global CSS
+│ ├── public/ # Static assets (images, placeholder, etc.)
+│ ├── package.json # Frontend dependencies
+│ ├── tailwind.config.ts # Tailwind CSS config
+│ ├── tsconfig.json # TypeScript config
+│ └── next.config.mjs # Next.js config
+├── .github/ # GitHub workflows and config
+├── .gatesignore # GATES access control ignore file
+├── gates.config.json # GATES access control config
+├── package.json # Root dependencies (scripts/tools)
+├── package-lock.json # Lockfile
+├── LICENSE # License
+├── README.md # This development documentation
+└── NOTE.md # Project notes
+
 ```
 
 ## 🌍 Public Version

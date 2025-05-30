@@ -1,0 +1,47 @@
+{
+  "gates": {
+    "version": "1.0",
+    "name": "awesome-agent-hub-gates",
+    "description": "Access control configuration for Awesome AI Agents Hub",
+    "access_control": {
+      "public_paths": [
+        "public/awesome-agent-hub/**"
+      ],
+      "private_paths": [
+        "scripts/**",
+        "data/**",
+        "node_modules/**",
+        "package.json",
+        "package-lock.json",
+        ".env",
+        ".env.*",
+        "README.md",
+        "NOTE.md",
+        "drafts-summary.md"
+      ],
+      "allowed_files": [
+        "public/awesome-agent-hub/README.md",
+        "public/awesome-agent-hub/CONTRIBUTING.md",
+        "public/awesome-agent-hub/LICENSE",
+        "public/awesome-agent-hub/schemas/agent.schema.json"
+      ]
+    },
+    "rules": {
+      "default_access": "deny",
+      "public_only": true,
+      "serve_from": "public/awesome-agent-hub",
+      "root_redirect": "public/awesome-agent-hub/README.md"
+    },
+    "security": {
+      "hide_development_files": true,
+      "disable_directory_listing": true,
+      "block_sensitive_extensions": [".env", ".log", ".key", ".pem"],
+      "allowed_extensions": [".md", ".json", ".txt", ".html"]
+    },
+    "headers": {
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "DENY",
+      "X-XSS-Protection": "1; mode=block"
+    }
+  }
+}

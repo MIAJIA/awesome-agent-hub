@@ -1,0 +1,44 @@
+# GATES Access Control - Hide Private Development Tools
+# Only public/awesome-agent-hub/ should be accessible
+
+# Private development directories
+scripts/
+data/
+node_modules/
+.git/
+.github/
+
+# Private configuration files
+package.json
+package-lock.json
+.env
+.env.*
+.gitignore
+
+# Private documentation
+README.md
+NOTE.md
+drafts-summary.md
+
+# Development files
+*.log
+*.tmp
+*.cache
+
+# Security sensitive files
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Allow only specific public files
+!public/
+!public/awesome-agent-hub/
+!public/awesome-agent-hub/**
+
+# Explicitly allow public files
+!public/awesome-agent-hub/README.md
+!public/awesome-agent-hub/CONTRIBUTING.md
+!public/awesome-agent-hub/LICENSE
+!public/awesome-agent-hub/schemas/
+!public/awesome-agent-hub/schemas/agent.schema.json

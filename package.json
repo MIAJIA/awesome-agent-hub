@@ -12,7 +12,8 @@
     "revert-promotion": "node scripts/revert-promotion.js",
     "bulk-remove-fields": "node scripts/bulk-remove-fields.js",
     "bulk-rename-field": "node scripts/bulk-rename-field.js",
-    "generate-featured-agents": "node scripts/generate-featured-agents.js"
+    "generate-featured-agents": "node scripts/generate-featured-agents.js",
+    "validate-gates": "node scripts/validate-gates.js"
   },
   "keywords": [
     "ai",

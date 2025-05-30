@@ -1,0 +1,50 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To perform deep diligence on companies by leveraging multiple AI agents for thorough research and analysis.",
+  "principle": "Built on LangGraph and Tavily, using Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 for inference and data processing.",
+  "reusability": "Modular architecture allows integration with different data sources and APIs; supports extensibility for custom research tasks.",
+  "limitations": "Primarily focused on company research; may require extensive configuration for specific domains; limited to supported data sources.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangGraph",
+    "Tavily",
+    "OpenAI GPT-4.1",
+    "Google Gemini 2.0 Flash"
+  ],
+  "name": "company-research-agent",
+  "slug": "pogjester-company-research-agent",
+  "description": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.",
+  "repository": "https://github.com/pogjester/company-research-agent",
+  "stars": 1124,
+  "originator": "pogjester",
+  "tags": [
+    "agents",
+    "ai",
+    "company",
+    "financial-analysis",
+    "gemini",
+    "langchain",
+    "langgraph-python",
+    "multi-agent-systems",
+    "openai",
+    "python",
+    "research",
+    "tavily",
+    "tavily-api",
+    "tavily-search"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/pogjester/company-research-agent#readme",
+    "https://github.com/pogjester/company-research-agent/wiki"
+  ],
+  "highlight": "Utilizes a multi-agent framework to conduct comprehensive company research with advanced AI models."
+}

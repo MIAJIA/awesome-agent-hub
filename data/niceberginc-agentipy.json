@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the integration of AI agents with blockchain applications on the Solana network.",
+  "principle": "Utilizes Python to create a framework that enables AI agents to interact with onchain applications, leveraging Solana's blockchain capabilities.",
+  "reusability": "Designed as a framework with modular components, allowing developers to easily integrate AI agents with Solana-based applications.",
+  "limitations": "Primarily focused on Solana blockchain, may not support other blockchain platforms, and is in early development stages.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Solana"
+  ],
+  "name": "agentipy",
+  "slug": "niceberginc-agentipy",
+  "description": "The #Python framework for connecting AI agents to any onchain app on  @solana-labs  🤖🐍",
+  "repository": "https://github.com/niceberginc/agentipy",
+  "stars": 278,
+  "originator": "niceberginc",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/niceberginc/agentipy#readme",
+    "https://github.com/niceberginc/agentipy/wiki",
+    "https://github.com/niceberginc/agentipy/issues"
+  ],
+  "highlight": "Connects AI agents with onchain applications on Solana using a Python framework."
+}

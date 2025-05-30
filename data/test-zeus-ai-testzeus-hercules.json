@@ -1,0 +1,53 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To automate UI, API, security, accessibility, and visual testing without requiring code or maintenance.",
+  "principle": "Utilizes a no-code approach to automated testing, likely leveraging Playwright for browser automation and Python for scripting.",
+  "reusability": "Designed as a plug-and-play solution for testing automation, with potential API integrations for broader use.",
+  "limitations": "Currently in alpha stage, may have limited features and potential bugs; specific platform dependencies may exist.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Playwright"
+  ],
+  "name": "testzeus-hercules",
+  "slug": "test-zeus-ai-testzeus-hercules",
+  "description": "Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Hercules handle the heavy lifting! ⚡",
+  "repository": "https://github.com/test-zeus-ai/testzeus-hercules",
+  "stars": 538,
+  "originator": "test-zeus-ai",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "autogen",
+    "automation",
+    "browser",
+    "end-to-end-testing",
+    "hercules",
+    "large-action-model",
+    "playwright",
+    "qa-automation",
+    "rpa",
+    "software-testing",
+    "test-automation",
+    "testing",
+    "testing-tools",
+    "testzeus"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-24",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/test-zeus-ai/testzeus-hercules/blob/main/README.md",
+    "https://github.com/test-zeus-ai/testzeus-hercules/wiki",
+    "https://github.com/test-zeus-ai/testzeus-hercules/issues"
+  ],
+  "highlight": "First open-source testing agent enabling comprehensive validations without code or maintenance."
+}

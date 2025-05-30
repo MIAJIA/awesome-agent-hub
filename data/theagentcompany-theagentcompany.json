@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To evaluate and benchmark the performance of AI agents in tasks resembling those in a software company",
+  "principle": "Utilizes simulated environments and tasks to assess agent capabilities and performance metrics",
+  "reusability": "Designed as a benchmark framework, it can be reused to test various AI agents under controlled conditions",
+  "limitations": "Limited to simulated environments, may not fully capture real-world complexities",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Matplotlib"
+  ],
+  "name": "TheAgentCompany",
+  "slug": "theagentcompany-theagentcompany",
+  "description": "An agent benchmark with tasks in a simulated software company.",
+  "repository": "https://github.com/TheAgentCompany/TheAgentCompany",
+  "stars": 373,
+  "originator": "TheAgentCompany",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-benchmark",
+    "ai-research",
+    "benchmark",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-17",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/TheAgentCompany/TheAgentCompany/blob/main/README.md",
+    "https://github.com/TheAgentCompany/TheAgentCompany/wiki",
+    "https://github.com/TheAgentCompany/TheAgentCompany/issues"
+  ],
+  "highlight": "Benchmarking agent performance in a simulated software company environment"
+}

@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and management of durable AI agents with a focus on orchestration and reactivity",
+  "principle": "Built on a reactive runtime architecture, enabling dynamic orchestration and coordination of AI agents",
+  "reusability": "Offers a modular framework for integrating various AI models and supports extension through plugins and APIs",
+  "limitations": "In alpha stage, may have stability issues and limited documentation; primarily suitable for developers familiar with Rust",
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Rust",
+    "Tokio",
+    "Actix",
+    "gRPC"
+  ],
+  "name": "chidori",
+  "slug": "thousandbirdsinc-chidori",
+  "description": "A reactive runtime for building durable AI agents",
+  "repository": "https://github.com/ThousandBirdsInc/chidori",
+  "stars": 1314,
+  "originator": "ThousandBirdsInc",
+  "tags": [
+    "agents",
+    "ai",
+    "debugging",
+    "framework",
+    "llmops",
+    "llms",
+    "orchestration"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-08",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/ThousandBirdsInc/chidori/wiki",
+    "https://github.com/ThousandBirdsInc/chidori/issues",
+    "https://github.com/ThousandBirdsInc/chidori/discussions"
+  ],
+  "highlight": "Reactive runtime designed for building durable AI agents with orchestration capabilities"
+}

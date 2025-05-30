@@ -1,0 +1,50 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a cloud-native, high-performance gateway for managing, distributing, and monitoring AI APIs.",
+  "principle": "Built on cloud-native principles, it supports multiple AI models and APIs, providing unified API requests, load balancing, and disaster recovery.",
+  "reusability": "Offers a plug-and-play deployment with support for all major AI APIs, allowing easy integration into existing systems.",
+  "limitations": "Primarily focused on AI API management; may require customization for non-standard APIs.",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Kubernetes"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Docker",
+    "Kubernetes"
+  ],
+  "name": "APIPark",
+  "slug": "apiparklab-apipark",
+  "description": "🦄云原生、超高性能 AI&API网关，LLM API 管理、分发系统、开放平台，支持所有AI API，不限于OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 请求和返回，API申请与审批，调用统计、负载均衡、多模型灾备。一键部署，开箱即用。Cloud native, ultra-high performance AI&API gateway, LLM API management, distribution system, open platform, supporting all AI APIs.",
+  "repository": "https://github.com/APIParkLab/APIPark",
+  "stars": 1169,
+  "originator": "APIParkLab",
+  "tags": [
+    "ai",
+    "ai-gateway",
+    "api",
+    "api-gateway",
+    "api-platform",
+    "api-portal",
+    "apihub",
+    "claude",
+    "deepseek",
+    "developer-portal",
+    "gateway",
+    "llm-gateway",
+    "openai",
+    "qwen"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/APIParkLab/APIPark/blob/main/README.md",
+    "https://github.com/APIParkLab/APIPark/wiki"
+  ],
+  "highlight": "Cloud native, ultra-high performance AI&API gateway supporting all major AI APIs with unified request handling and load balancing."
+}

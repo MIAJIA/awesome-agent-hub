@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a flexible framework for developing AI agents that can perform complex tasks involving reasoning, memory, and interaction with various technologies including blockchain.",
+  "principle": "Built using Python, the framework leverages modern AI and ML libraries for reasoning and memory, while supporting multi-interface agent development.",
+  "reusability": "Highly modular with support for plugins and APIs, allowing developers to extend functionality and integrate with various tools and platforms.",
+  "limitations": "As an alpha release, it may have stability issues and incomplete documentation. Some features like deep research and MCP might be under development.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "Blockchain APIs"
+  ],
+  "name": "heurist-agent-framework",
+  "slug": "heurist-network-heurist-agent-framework",
+  "description": "A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.",
+  "repository": "https://github.com/heurist-network/heurist-agent-framework",
+  "stars": 554,
+  "originator": "heurist-network",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "ai",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/heurist-network/heurist-agent-framework/blob/main/README.md",
+    "https://github.com/heurist-network/heurist-agent-framework/wiki",
+    "https://github.com/heurist-network/heurist-agent-framework/issues"
+  ],
+  "highlight": "A comprehensive framework for building versatile AI agents with capabilities like reasoning, memory, and blockchain interaction."
+}

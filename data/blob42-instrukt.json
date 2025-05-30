@@ -1,0 +1,46 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a terminal-based environment for developing, testing, and instructing AI agents",
+  "principle": "Leverages terminal user interfaces (TUI) and integrates with AI frameworks like LangChain to facilitate agent orchestration and management",
+  "reusability": "Offers a modular architecture with support for plugins and extensions, allowing integration with various AI models and services",
+  "limitations": "Currently in alpha stage, which may include limited features and potential instability; primarily designed for terminal environments",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "TUI"
+  ],
+  "name": "Instrukt",
+  "slug": "blob42-instrukt",
+  "description": "Integrated AI environment in the terminal. Build, test and instruct agents.",
+  "repository": "https://github.com/blob42/Instrukt",
+  "stars": 311,
+  "originator": "blob42",
+  "tags": [
+    "agent-executor",
+    "agents",
+    "ai",
+    "containers",
+    "developer-tools",
+    "gpt",
+    "langchain",
+    "llm",
+    "rag",
+    "terminal",
+    "tui"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-14",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/blob42/Instrukt#readme",
+    "https://github.com/blob42/Instrukt/wiki"
+  ],
+  "highlight": "Integrated AI environment directly in the terminal for building, testing, and instructing agents"
+}

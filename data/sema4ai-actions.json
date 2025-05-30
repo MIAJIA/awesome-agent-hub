@@ -1,0 +1,39 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitates the integration of AI-driven automation and actions into enterprise systems and applications.",
+  "principle": "Built on Python, leveraging modular components to interface with various enterprise systems, allowing for streamlined automation.",
+  "reusability": "Offers a modular architecture with Python libraries that can be integrated into existing systems, supports API-based interactions for extensibility.",
+  "limitations": "Currently in alpha stage, may have limited support for complex enterprise environments, documentation might be evolving.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "REST API"
+  ],
+  "name": "actions",
+  "slug": "sema4ai-actions",
+  "description": "AI Actions connect Agents to your existing enterprise systems and applications - all in 🐍 Python.",
+  "repository": "https://github.com/Sema4AI/actions",
+  "stars": 116,
+  "originator": "Sema4AI",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-actions",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Sema4AI/actions/blob/main/README.md",
+    "https://github.com/Sema4AI/actions/wiki",
+    "https://github.com/Sema4AI/actions/issues"
+  ],
+  "highlight": "Seamlessly integrates AI-driven actions into existing enterprise systems using Python."
+}

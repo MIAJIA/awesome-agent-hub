@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates secure and autonomous execution of AI-driven tasks within Web3 environments.",
+  "principle": "Built on a chain-agnostic framework using the Move programming language to ensure secure delegation of on-chain actions.",
+  "reusability": "Designed as a modular framework with potential for integration into various Web3 applications, supporting multiple blockchain platforms.",
+  "limitations": "Currently in alpha stage, may have limited documentation and support for newer blockchain ecosystems.",
+  "platforms": [
+    "Ethereum",
+    "Sui"
+  ],
+  "stack": [
+    "Move",
+    "Ethereum",
+    "Sui"
+  ],
+  "name": "world_ai_protocol",
+  "slug": "world3-ai-world-ai-protocol",
+  "description": "A chain-agnostic, secure delegation framework enabling AI Agents to perform autonomous, permissioned on-chain actions across Web3 ecosystems.",
+  "repository": "https://github.com/WORLD3-ai/world_ai_protocol",
+  "stars": 443,
+  "originator": "WORLD3-ai",
+  "tags": [
+    "agentic-ai",
+    "ai",
+    "ethereum",
+    "sui",
+    "web3"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-07",
+  "language": "Move",
+  "useful_links": [
+    "https://github.com/WORLD3-ai/world_ai_protocol/blob/main/README.md",
+    "https://github.com/WORLD3-ai/world_ai_protocol/wiki",
+    "https://github.com/WORLD3-ai/world_ai_protocol/issues"
+  ],
+  "highlight": "Enables autonomous, permissioned on-chain actions across multiple blockchain ecosystems."
+}

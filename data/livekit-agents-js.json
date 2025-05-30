@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development of AI agents capable of processing and responding to multiple types of real-time data streams",
+  "principle": "Built on Node.js, leveraging WebRTC for real-time communication and integration with AI models for multimodal data processing",
+  "reusability": "Modular architecture with reusable components, provides APIs for custom agent development and integration",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and have limited feature set",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "Node.js",
+    "TypeScript",
+    "WebRTC"
+  ],
+  "name": "agents-js",
+  "slug": "livekit-agents-js",
+  "description": "Build realtime multimodal AI agents with Node.js",
+  "repository": "https://github.com/livekit/agents-js",
+  "stars": 418,
+  "originator": "livekit",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/livekit/agents-js#readme",
+    "https://github.com/livekit/agents-js/wiki",
+    "https://github.com/livekit/agents-js/issues"
+  ],
+  "highlight": "Enables the creation of real-time multimodal AI agents using Node.js"
+}

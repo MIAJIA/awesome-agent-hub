@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for developing and simulating large-scale agent-based models that facilitate scientific research and analysis.",
+  "principle": "Built on the principles of agent-based modeling, AgentTorch enables the creation of complex simulations where individual agents interact within a defined environment, allowing for emergent behaviors and insights.",
+  "reusability": "AgentTorch is designed to be modular and extensible, allowing users to reuse components and integrate their own models easily.",
+  "limitations": "As an alpha project, AgentTorch may have stability issues, limited documentation, and incomplete features that could affect its usability in production environments.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Jupyter Notebook"
+  ],
+  "name": "AgentTorch",
+  "slug": "agenttorch-agenttorch",
+  "description": "large population models",
+  "repository": "https://github.com/AgentTorch/AgentTorch",
+  "stars": 346,
+  "originator": "AgentTorch",
+  "tags": [
+    "agent-based-modeling",
+    "ai-agents-framework",
+    "autograd",
+    "differentiable-simulations",
+    "scientific-computing"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-18",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/AgentTorch/AgentTorch#demos"
+  ],
+  "highlight": "Enables the creation and simulation of large-scale agent-based models with emergent behaviors."
+}

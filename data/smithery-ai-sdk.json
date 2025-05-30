@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a standardized interface for AI agents to interact with various external services and APIs",
+  "principle": "Utilizes a modular architecture with plugins to integrate different services via a single SDK",
+  "reusability": "Highly composable with support for plugins and extensions, offering a unified API for various service integrations",
+  "limitations": "Currently in alpha stage, may have limited service integrations and stability issues",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "sdk",
+  "slug": "smithery-ai-sdk",
+  "description": "Smithery helps AI agents access external services via a unified gateway.",
+  "repository": "https://github.com/smithery-ai/sdk",
+  "stars": 208,
+  "originator": "smithery-ai",
+  "tags": [
+    "agentic",
+    "modelcontextprotocol"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/smithery-ai/sdk#readme",
+    "https://github.com/smithery-ai/sdk/wiki",
+    "https://github.com/smithery-ai/sdk/issues",
+    "https://github.com/smithery-ai/sdk/pulls"
+  ],
+  "highlight": "Unified gateway for AI agents to access external services seamlessly"
+}

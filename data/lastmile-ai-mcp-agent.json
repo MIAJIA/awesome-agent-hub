@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable the development of AI agents using a standardized protocol and workflow patterns",
+  "principle": "Leverages the Model Context Protocol to define and manage agent workflows and interactions",
+  "reusability": "Offers a modular framework that supports integration with various AI models and workflows through a unified protocol",
+  "limitations": "As an alpha stage project, it may have limited documentation and stability issues, and it may not support all desired AI models or workflows",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Model Context Protocol"
+  ],
+  "name": "mcp-agent",
+  "slug": "lastmile-ai-mcp-agent",
+  "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+  "repository": "https://github.com/lastmile-ai/mcp-agent",
+  "stars": 4807,
+  "originator": "lastmile-ai",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "llm",
+    "llms",
+    "mcp",
+    "model-context-protocol",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/lastmile-ai/mcp-agent#readme",
+    "https://github.com/lastmile-ai/mcp-agent/wiki"
+  ],
+  "highlight": "Facilitates the creation of effective AI agents using Model Context Protocol for streamlined workflows"
+}

@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enhance AI agent systems by providing a family of large action models for executing complex actions.",
+  "principle": "Builds on large language models (LLMs) to enable AI agents to perform complex actions by integrating action models.",
+  "reusability": "Offers modular components that can be integrated into existing AI agent frameworks, supports extensibility with custom actions.",
+  "limitations": "Being in alpha stage, it may have limited coverage of actions and potential stability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Transformers"
+  ],
+  "name": "xLAM",
+  "slug": "salesforceairesearch-xlam",
+  "description": "xLAM: A Family of Large Action Models to Empower AI Agent Systems",
+  "repository": "https://github.com/SalesforceAIResearch/xLAM",
+  "stars": 445,
+  "originator": "SalesforceAIResearch",
+  "tags": [
+    "actionstudio",
+    "agents",
+    "agentstudio",
+    "llm-agent",
+    "llms",
+    "xlam"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/SalesforceAIResearch/xLAM/blob/main/README.md",
+    "https://github.com/SalesforceAIResearch/xLAM/wiki",
+    "https://github.com/SalesforceAIResearch/xLAM/tree/main/examples"
+  ],
+  "highlight": "Empowers AI agent systems with large action models for complex task execution."
+}

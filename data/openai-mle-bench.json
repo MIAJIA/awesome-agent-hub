@@ -1,0 +1,38 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To benchmark the performance of AI agents in machine learning engineering tasks.",
+  "principle": "Utilizes a set of predefined machine learning tasks and metrics to evaluate the capabilities of AI agents in engineering workflows.",
+  "reusability": "Designed to be extensible with custom tasks and metrics, allowing integration into various ML pipelines.",
+  "limitations": "Currently in alpha, so it may have limited task diversity and lack comprehensive documentation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "scikit-learn"
+  ],
+  "name": "mle-bench",
+  "slug": "openai-mle-bench",
+  "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
+  "repository": "https://github.com/openai/mle-bench",
+  "stars": 723,
+  "originator": "openai",
+  "tags": [
+    "benchmark",
+    "AI agents",
+    "machine learning engineering"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/openai/mle-bench#readme",
+    "https://github.com/openai/mle-bench/wiki",
+    "https://github.com/openai/mle-bench/issues"
+  ],
+  "highlight": "Provides a standardized benchmark for evaluating AI agents in machine learning engineering contexts."
+}

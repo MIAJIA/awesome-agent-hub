@@ -1,0 +1,53 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and orchestration of AI agents with support for large language models and retrieval-augmented generation",
+  "principle": "Built on Python with integration capabilities for OpenAI and LangChain SDK, allowing for extensible agent orchestration",
+  "reusability": "Highly modular with support for custom extensions, provides APIs for seamless integration with existing AI and data frameworks",
+  "limitations": "Primarily in alpha stage, may lack comprehensive documentation and stability for production use",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "FastAPI"
+  ],
+  "name": "open-assistant-api",
+  "slug": "mlt-oss-open-assistant-api",
+  "description": "The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/langchain sdk.",
+  "repository": "https://github.com/MLT-OSS/open-assistant-api",
+  "stars": 339,
+  "originator": "MLT-OSS",
+  "tags": [
+    "agent",
+    "ai",
+    "assistants",
+    "assistants-api",
+    "chatgpt",
+    "gpt",
+    "gpt-4",
+    "gpts",
+    "langchain",
+    "llm",
+    "openai",
+    "openai-api",
+    "openai-assistants",
+    "openai-assistants-api",
+    "python",
+    "rag",
+    "self-hosted"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/MLT-OSS/open-assistant-api#readme",
+    "https://github.com/MLT-OSS/open-assistant-api/wiki",
+    "https://github.com/MLT-OSS/open-assistant-api/issues"
+  ],
+  "highlight": "Self-hosted agent orchestration framework with customizable extensions for LLM and RAG capabilities"
+}

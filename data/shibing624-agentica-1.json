@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation of intelligent agents capable of multimodal interactions and collaboration.",
+  "principle": "Leverages LangChain and LLMs to enable multimodal agent capabilities and reflective learning.",
+  "reusability": "Highly modular with support for custom workflows and multimodal interactions, easily integrated via Python libraries.",
+  "limitations": "Currently in alpha stage, may have limited functionality and stability issues, primarily designed for experimentation.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "LLMs"
+  ],
+  "name": "agentica",
+  "slug": "shibing624-agentica-1",
+  "description": "Agentica: Effortlessly Build Intelligent, Reflective, and Collaborative Multimodal AI Agents! 轻松构建智能、具备反思能力、可协作的多模态AI Agent。",
+  "repository": "https://github.com/shibing624/agentica",
+  "stars": 166,
+  "originator": "shibing624",
+  "tags": [
+    "actionflow",
+    "agent",
+    "agentica",
+    "agents",
+    "langchain",
+    "llm",
+    "multi-agent",
+    "workflows"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/shibing624/agentica#readme",
+    "https://github.com/shibing624/agentica/wiki"
+  ],
+  "highlight": "Effortlessly build intelligent, reflective, and collaborative multimodal AI agents."
+}

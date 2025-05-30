@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development and deployment of AI agents with a focus on modularity and ease of use",
+  "principle": "Leverages Python and various AI/ML libraries to create a flexible framework for building AI agents",
+  "reusability": "Designed for composability with support for modular plugins and APIs to integrate with existing systems",
+  "limitations": "In early development stage, limited documentation, primarily targeted at developers familiar with AI/ML",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "LangChain",
+    "Hugging Face",
+    "Docker"
+  ],
+  "name": "yeagerai-agent",
+  "slug": "yeagerai-yeagerai-agent",
+  "description": "N/A",
+  "repository": "https://github.com/yeagerai/yeagerai-agent",
+  "stars": 590,
+  "originator": "yeagerai",
+  "tags": [
+    "yeager-squad-dev"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-18",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/yeagerai/yeagerai-agent/blob/main/README.md",
+    "https://github.com/yeagerai/yeagerai-agent/wiki"
+  ],
+  "highlight": "Emphasizes modularity and ease of integration for building complex AI agent systems"
+}

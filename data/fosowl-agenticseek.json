@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide an autonomous AI agent that can think, browse the web, and code locally without external dependencies.",
+  "principle": "Operates entirely locally using Python-based modules and libraries, relying on local computation and storage.",
+  "reusability": "Designed for local deployment with no external API requirements, can be customized and extended through Python scripts.",
+  "limitations": "Limited by local hardware capabilities, lacks real-time cloud-based updates or integrations, and may require significant local resources for complex tasks.",
+  "platforms": [
+    "Linux"
+  ],
+  "stack": [
+    "Python"
+  ],
+  "name": "agenticSeek",
+  "slug": "fosowl-agenticseek",
+  "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.",
+  "repository": "https://github.com/Fosowl/agenticSeek",
+  "stars": 11677,
+  "originator": "Fosowl",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "autonomous-agents",
+    "deepseek-r1",
+    "llm",
+    "llm-agents",
+    "voice-assistant"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Fosowl/agenticSeek/blob/main/README.md",
+    "https://github.com/Fosowl/agenticSeek/wiki"
+  ],
+  "highlight": "Fully local autonomous AI agent with no reliance on external APIs or recurring costs."
+}

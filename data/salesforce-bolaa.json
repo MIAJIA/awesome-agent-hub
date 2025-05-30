@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enhance AI agent collaboration and orchestration by providing a framework for multi-agent communication and coordination",
+  "principle": "Leverages a multi-agent architecture to enable communication and task coordination among different AI agents",
+  "reusability": "Offers a modular framework for integrating various AI agents, supports customizable communication protocols",
+  "limitations": "Currently in early development stages, limited documentation, potential scalability issues",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "name": "BOLAA",
+  "slug": "salesforce-bolaa",
+  "description": "N/A",
+  "repository": "https://github.com/salesforce/BOLAA",
+  "stars": 181,
+  "originator": "salesforce",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-01-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/salesforce/BOLAA/blob/main/README.md",
+    "https://github.com/salesforce/BOLAA/wiki"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable users to create, deploy, and manage autonomous agents across multiple communication platforms",
+  "principle": "Built on a plugin-based architecture that allows integration with platforms like Discord, Slack, and Telegram, utilizing TypeScript for core functionality",
+  "reusability": "Highly modular with a plugin system for extending functionality; supports integration with various communication platforms via APIs",
+  "limitations": "In alpha stage, which may include incomplete features and potential bugs; requires technical setup for plugin development",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Discord API",
+    "Slack API",
+    "Telegram API"
+  ],
+  "name": "eliza",
+  "slug": "elizaos-eliza",
+  "description": "Autonomous agents for everyone",
+  "repository": "https://github.com/elizaOS/eliza",
+  "stars": 15952,
+  "originator": "elizaOS",
+  "tags": [
+    "agent",
+    "agentic",
+    "ai",
+    "autonomous",
+    "chatbot",
+    "crypto",
+    "discord",
+    "eliza",
+    "elizaos",
+    "framework",
+    "plugins",
+    "rag",
+    "slack",
+    "swarm",
+    "telegram"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/elizaOS/eliza#readme",
+    "https://github.com/elizaOS/eliza/wiki",
+    "https://github.com/elizaOS/eliza/issues",
+    "https://github.com/elizaOS/eliza/releases"
+  ],
+  "highlight": "Framework for building and orchestrating autonomous agents with plugin support for various platforms"
+}

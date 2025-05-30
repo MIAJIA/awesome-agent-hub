@@ -1,0 +1,34 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "Facilitate the integration and control of AI models within Blender for creative and visual projects",
+  "principle": "Integrates AI-driven capabilities into Blender using Python scripts and external AI frameworks",
+  "reusability": "Offers Blender add-ons and Python scripts for extending functionality, allowing for custom AI model integration",
+  "limitations": "Limited to Blender environments, requires familiarity with Blender scripting and AI model handling",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "Blender",
+    "PyTorch"
+  ],
+  "name": "blender-mcp-vxai",
+  "slug": "vxasi-blender-mcp-vxai",
+  "description": "N/A",
+  "repository": "https://github.com/VxASI/blender-mcp-vxai",
+  "stars": 259,
+  "originator": "VxASI",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/VxASI/blender-mcp-vxai/blob/main/README.md",
+    "https://github.com/VxASI/blender-mcp-vxai/wiki"
+  ],
+  "highlight": "Unique integration of AI models directly within Blender for enhanced creative workflows"
+}

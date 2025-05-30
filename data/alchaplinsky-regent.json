@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and management of AI agents within Ruby applications",
+  "principle": "Utilizes Ruby to provide a framework for defining, orchestrating, and deploying AI agents",
+  "reusability": "Offers a modular framework that can be integrated into Ruby applications to create custom AI agents",
+  "limitations": "Primarily focused on Ruby, limiting use in other programming environments; early-stage development may lack comprehensive documentation",
+  "platforms": [
+    "Ruby environment"
+  ],
+  "stack": [
+    "Ruby"
+  ],
+  "name": "regent",
+  "slug": "alchaplinsky-regent",
+  "description": "✨ Building AI Agents 🤖 with Ruby 💎",
+  "repository": "https://github.com/alchaplinsky/regent",
+  "stars": 110,
+  "originator": "alchaplinsky",
+  "tags": [
+    "AI",
+    "Ruby",
+    "framework",
+    "agents"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-03",
+  "language": "Ruby",
+  "useful_links": [
+    "https://github.com/alchaplinsky/regent#readme",
+    "https://github.com/alchaplinsky/regent/wiki"
+  ],
+  "highlight": "Framework for building AI agents using Ruby"
+}

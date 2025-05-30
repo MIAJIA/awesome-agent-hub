@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a curated list of AI autonomous agents and frameworks for developers and researchers",
+  "principle": "Aggregates and categorizes various AI agent projects and libraries, providing information and links for each",
+  "reusability": "Serves as a reference for developers to explore and integrate different AI agent frameworks and tools",
+  "limitations": "Primarily a static list with links, does not provide direct functionality or integration capabilities",
+  "platforms": [
+    "Any platform with web access"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-ai-agents",
+  "slug": "e2b-dev-awesome-ai-agents",
+  "description": "A list of AI autonomous agents",
+  "repository": "https://github.com/e2b-dev/awesome-ai-agents",
+  "stars": 18191,
+  "originator": "e2b-dev",
+  "tags": [
+    "agent",
+    "ai",
+    "artificial-intelligence",
+    "autogpt",
+    "autonomous-agents",
+    "awesome",
+    "babyagi",
+    "copilot",
+    "gpt",
+    "gpt-4",
+    "gpt-engineer",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-02-26",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/e2b-dev/awesome-ai-agents"
+  ],
+  "highlight": "Comprehensive list and comparison of AI autonomous agents and frameworks"
+}

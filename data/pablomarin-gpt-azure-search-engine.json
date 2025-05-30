@@ -1,0 +1,39 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enhance search capabilities by integrating Azure Cognitive Search with Azure OpenAI for intelligent query understanding and response generation",
+  "principle": "Utilizes Azure Cognitive Search for indexing and searching documents while leveraging Azure OpenAI for natural language processing and query enhancement",
+  "reusability": "Can be integrated into existing Azure environments, supports customization through Azure services, and provides API endpoints for search queries",
+  "limitations": "Dependent on Azure services, requires Azure subscription, primarily supports Azure ecosystem",
+  "platforms": [
+    "Azure",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Azure Cognitive Search",
+    "Azure OpenAI",
+    "Jupyter Notebook"
+  ],
+  "name": "GPT-Azure-Search-Engine",
+  "slug": "pablomarin-gpt-azure-search-engine",
+  "description": "Azure Cognitive Search + Azure OpenAI Accelerator",
+  "repository": "https://github.com/pablomarin/GPT-Azure-Search-Engine",
+  "stars": 397,
+  "originator": "pablomarin",
+  "tags": [
+    "Azure",
+    "Search",
+    "AI",
+    "OpenAI"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/pablomarin/GPT-Azure-Search-Engine/blob/main/README.md",
+    "https://github.com/pablomarin/GPT-Azure-Search-Engine/wiki"
+  ],
+  "highlight": "Combines Azure Cognitive Search with Azure OpenAI for enhanced search capabilities using AI"
+}

@@ -1,0 +1,39 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enhance developer productivity by integrating AI and machine learning tools into Visual Studio Code.",
+  "principle": "Integrates AI-driven features such as code completion, error detection, and model training within the IDE using popular machine learning frameworks.",
+  "reusability": "Designed as a Visual Studio Code extension, easily installable and configurable within the IDE to enhance coding with AI capabilities.",
+  "limitations": "Limited to features supported by the Visual Studio Code environment and specific machine learning frameworks.",
+  "platforms": [
+    "Visual Studio Code"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Visual Studio Code Extensions",
+    "Azure"
+  ],
+  "name": "vscode-ai-toolkit",
+  "slug": "microsoft-vscode-ai-toolkit",
+  "description": "N/A",
+  "repository": "https://github.com/microsoft/vscode-ai-toolkit",
+  "stars": 1454,
+  "originator": "microsoft",
+  "tags": [
+    "AI",
+    "Machine Learning",
+    "Visual Studio Code",
+    "Developer Tools"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/microsoft/vscode-ai-toolkit#readme",
+    "https://github.com/microsoft/vscode-ai-toolkit/wiki",
+    "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai"
+  ],
+  "highlight": "Provides AI and machine learning capabilities directly within the Visual Studio Code environment."
+}

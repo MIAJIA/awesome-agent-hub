@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable the creation of customized software applications through natural language inputs by leveraging multi-agent collaboration.",
+  "principle": "Utilizes large language models (LLMs) to interpret natural language ideas and coordinates multiple agents to collaboratively develop software.",
+  "reusability": "Designed to be extended with new agents and integrated into larger systems, providing APIs for interaction.",
+  "limitations": "Currently in alpha stage, it may have limited functionality and stability issues; specific to software development use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Hugging Face Transformers",
+    "LangChain"
+  ],
+  "name": "ChatDev",
+  "slug": "openbmb-chatdev",
+  "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+  "repository": "https://github.com/OpenBMB/ChatDev",
+  "stars": 26942,
+  "originator": "OpenBMB",
+  "tags": [
+    "multi-agent",
+    "software development",
+    "natural language processing"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-03",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/OpenBMB/ChatDev#readme",
+    "https://github.com/OpenBMB/ChatDev/wiki",
+    "https://github.com/OpenBMB/ChatDev/issues"
+  ],
+  "highlight": "Facilitates multi-agent collaboration for customized software creation using natural language inputs."
+}

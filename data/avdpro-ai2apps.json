@@ -1,0 +1,39 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a framework for deploying AI applications locally with customizable backend features using personal OpenAI keys.",
+  "principle": "Built on JavaScript, it integrates with OpenAI APIs to enable local deployment and customization of AI applications.",
+  "reusability": "Designed for local deployment, allowing users to integrate their own OpenAI keys and extend backend functionality.",
+  "limitations": "Requires users to have their own OpenAI key, and may have limitations in terms of scalability and cloud integration.",
+  "platforms": [
+    "Local System",
+    "Cross-Platform"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "OpenAI API"
+  ],
+  "name": "ai2apps",
+  "slug": "avdpro-ai2apps",
+  "description": "Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.",
+  "repository": "https://github.com/Avdpro/ai2apps",
+  "stars": 423,
+  "originator": "Avdpro",
+  "tags": [
+    "AI",
+    "local deployment",
+    "OpenAI",
+    "customization"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-26",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/Avdpro/ai2apps#readme",
+    "https://github.com/Avdpro/ai2apps/wiki",
+    "https://github.com/Avdpro/ai2apps/issues"
+  ],
+  "highlight": "Allows users to set up and customize AI2Apps locally with their own OpenAI key for enhanced backend features."
+}

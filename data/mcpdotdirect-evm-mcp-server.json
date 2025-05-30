@@ -1,0 +1,42 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the integration of language models with Ethereum blockchain networks to perform various operations.",
+  "principle": "Utilizes TypeScript to create an API server that connects language models with EVM-compatible blockchain networks, leveraging smart contracts and blockchain data.",
+  "reusability": "Offers an API for developers to integrate blockchain interactions into language model applications, supporting customization and extension.",
+  "limitations": "Currently in alpha stage, which may involve stability issues and limited feature set. Primarily focused on EVM networks.",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Ethereum",
+    "EVM"
+  ],
+  "name": "evm-mcp-server",
+  "slug": "mcpdotdirect-evm-mcp-server",
+  "description": "MCP server that provides LLM with tools for interacting with EVM networks",
+  "repository": "https://github.com/mcpdotdirect/evm-mcp-server",
+  "stars": 251,
+  "originator": "mcpdotdirect",
+  "tags": [
+    "agent",
+    "blockchain",
+    "ethereum",
+    "evm",
+    "mcp",
+    "mcp-server"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/mcpdotdirect/evm-mcp-server#readme",
+    "https://github.com/mcpdotdirect/evm-mcp-server/wiki",
+    "https://github.com/mcpdotdirect/evm-mcp-server/issues"
+  ],
+  "highlight": "Enables interaction with Ethereum Virtual Machine (EVM) networks using a language model."
+}

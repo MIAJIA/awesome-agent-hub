@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation of robust language processing agents by structuring them as graphs to improve adaptability and scalability.",
+  "principle": "Builds on graph-based architecture to manage agent interactions and dependencies, leveraging TypeScript for strong typing and maintainability.",
+  "reusability": "Highly composable with modular components, supports integration via APIs, and is designed for extensibility in various language processing tasks.",
+  "limitations": "Currently in alpha stage, potential for incomplete features and bugs, primarily supports TypeScript environment.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Graph Theory",
+    "LangChain"
+  ],
+  "name": "langgraphjs",
+  "slug": "langchain-ai-langgraphjs",
+  "description": "Framework to build resilient language agents as graphs.",
+  "repository": "https://github.com/langchain-ai/langgraphjs",
+  "stars": 1530,
+  "originator": "langchain-ai",
+  "tags": [
+    "agents",
+    "ai",
+    "artificial-intelligence",
+    "generative-ai",
+    "llm",
+    "node",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/langchain-ai/langgraphjs#readme",
+    "https://github.com/langchain-ai/langgraphjs/wiki",
+    "https://github.com/langchain-ai/langgraphjs/examples"
+  ],
+  "highlight": "Framework for constructing language processing agents as interconnected graph structures, enhancing resilience and modularity."
+}

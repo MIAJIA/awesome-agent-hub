@@ -1,0 +1,34 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a centralized repository of curated lists for different aspects of artificial intelligence, making it easier for users to find valuable resources.",
+  "principle": "Aggregates and categorizes various 'awesome lists' related to AI, deep learning, and machine learning.",
+  "reusability": "Can be used as a reference or starting point for AI research, education, and project development.",
+  "limitations": "Content is dependent on external curated lists, which may vary in quality and update frequency.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-awesome-artificial-intelligence",
+  "slug": "zhimin-z-awesome-awesome-artificial-intelligence",
+  "description": "A curated list of awesome curated lists of many topics related to artificial intelligence.",
+  "repository": "https://github.com/zhimin-z/awesome-awesome-artificial-intelligence",
+  "stars": 131,
+  "originator": "zhimin-z",
+  "tags": [
+    "artificial-intelligence",
+    "awesome-list",
+    "deep-learning",
+    "machine-learning"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-31",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/zhimin-z/awesome-awesome-artificial-intelligence"
+  ],
+  "highlight": "A comprehensive collection of curated lists related to various artificial intelligence topics."
+}

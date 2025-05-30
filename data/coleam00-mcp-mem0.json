@@ -1,0 +1,31 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development of MCP servers with a focus on long-term memory capabilities for agents.",
+  "principle": "Built with Python, leveraging modular design to support memory persistence in agent systems.",
+  "reusability": "Can be used as a starting point for developing custom MCP servers, with modular components for easy integration.",
+  "limitations": "Currently in alpha stage, with potential stability and feature completeness issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask"
+  ],
+  "name": "mcp-mem0",
+  "slug": "coleam00-mcp-mem0",
+  "description": "MCP server for long term agent memory with Mem0. Also useful as a template to get you started building your own MCP server with Python!",
+  "repository": "https://github.com/coleam00/mcp-mem0",
+  "stars": 326,
+  "originator": "coleam00",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-13",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/coleam00/mcp-mem0"
+  ],
+  "highlight": "Template for building MCP servers with Python, focused on long-term agent memory."
+}

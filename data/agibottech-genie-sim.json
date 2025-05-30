@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a flexible and extensible framework for simulating various environments and scenarios in AI research and development.",
+  "principle": "Built on modular architecture, allowing users to create, modify, and integrate different simulation components seamlessly.",
+  "reusability": "Designed to promote code reusability through modular components and extensive documentation, enabling developers to leverage existing simulations for new projects.",
+  "limitations": "Currently in alpha status, which may include incomplete features, potential bugs, and limited community support.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "SciPy",
+    "Matplotlib"
+  ],
+  "name": "genie_sim",
+  "slug": "agibottech-genie-sim",
+  "description": "The Simulation Framework from AgiBot",
+  "repository": "https://github.com/AgibotTech/genie_sim",
+  "stars": 148,
+  "originator": "AgibotTech",
+  "tags": [
+    "simulation",
+    "AI",
+    "framework",
+    "research"
+  ],
+  "open_source": true,
+  "license": "MPL-2.0",
+  "last_updated": "2025-05-22",
+  "language": "Python",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ],
+  "highlight": "Modular architecture allowing seamless integration and customization of simulation components."
+}

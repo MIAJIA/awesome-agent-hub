@@ -1,0 +1,37 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide a structured learning path and resources for individuals looking to master large language model (LLM) engineering",
+  "principle": "Utilizes Jupyter Notebooks for interactive learning, with practical exercises and examples demonstrating LLM capabilities and techniques",
+  "reusability": "Includes modular Jupyter Notebooks that can be adapted for different LLM applications and learning scenarios",
+  "limitations": "Primarily focused on educational purposes; may not cover all advanced LLM use cases or industry-specific applications",
+  "platforms": [
+    "Jupyter Notebook"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "Hugging Face Transformers"
+  ],
+  "name": "llm_engineering",
+  "slug": "ed-donner-llm-engineering",
+  "description": "Repo to accompany my mastering LLM engineering course",
+  "repository": "https://github.com/ed-donner/llm_engineering",
+  "stars": 2265,
+  "originator": "ed-donner",
+  "tags": [
+    "LLM",
+    "education",
+    "machine learning",
+    "Jupyter"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/ed-donner/llm_engineering/blob/main/README.md",
+    "https://github.com/ed-donner/llm_engineering/tree/main/notebooks"
+  ],
+  "highlight": "Comprehensive guide and tools for mastering LLM engineering with practical examples and exercises"
+}

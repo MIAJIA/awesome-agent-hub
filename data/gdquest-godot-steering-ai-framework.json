@@ -1,0 +1,44 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To provide a robust framework for creating complex AI motion behaviors in Godot games.",
+  "principle": "Implements steering behaviors and algorithms to simulate realistic AI motion in game environments.",
+  "reusability": "Designed as a plug-and-play solution for Godot projects, easily integrated into existing game code.",
+  "limitations": "Primarily designed for the Godot engine, may not be easily adaptable to other game engines.",
+  "platforms": [
+    "Godot Engine"
+  ],
+  "stack": [
+    "GDScript",
+    "Godot Engine"
+  ],
+  "name": "godot-steering-ai-framework",
+  "slug": "gdquest-godot-steering-ai-framework",
+  "description": "A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.",
+  "repository": "https://github.com/GDQuest/godot-steering-ai-framework",
+  "stars": 1284,
+  "originator": "GDQuest",
+  "tags": [
+    "agents",
+    "ai",
+    "algorithms",
+    "artificial-intelligence",
+    "framework",
+    "game-development",
+    "gdscript",
+    "godot",
+    "godot-engine",
+    "godot-game-engine",
+    "steering-behaviors"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-13",
+  "language": "GDScript",
+  "useful_links": [
+    "https://github.com/GDQuest/godot-steering-ai-framework/wiki",
+    "https://github.com/GDQuest/godot-steering-ai-framework/releases",
+    "https://gdquest.github.io/godot-steering-ai-framework/overview/"
+  ],
+  "highlight": "Comprehensive AI motion framework for Godot supporting both 2D and 3D environments."
+}

@@ -1,0 +1,54 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To simplify the creation and management of AI workflows and agents for users with minimal coding expertise.",
+  "principle": "Leverages visual programming and integration with popular AI frameworks like LangChain and OpenAI to enable users to design complex AI workflows.",
+  "reusability": "Offers a modular design with plug-and-play components, supports integration with various AI models through APIs.",
+  "limitations": "Primarily focused on AI workflow design; may require additional setup for specific AI model integrations.",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "LangChain",
+    "OpenAI"
+  ],
+  "name": "Flowise",
+  "slug": "flowiseai-flowise",
+  "description": "Build AI Agents, Visually",
+  "repository": "https://github.com/FlowiseAI/Flowise",
+  "stars": 39165,
+  "originator": "FlowiseAI",
+  "tags": [
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "artificial-intelligence",
+    "chatbot",
+    "chatgpt",
+    "javascript",
+    "langchain",
+    "large-language-models",
+    "low-code",
+    "multiagent-systems",
+    "no-code",
+    "openai",
+    "rag",
+    "react",
+    "typescript",
+    "workflow-automation"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/FlowiseAI/Flowise#readme",
+    "https://github.com/FlowiseAI/Flowise/wiki",
+    "https://github.com/FlowiseAI/Flowise/issues"
+  ],
+  "highlight": "Visual interface for building and orchestrating AI agents using a low-code/no-code approach."
+}

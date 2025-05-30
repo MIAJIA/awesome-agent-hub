@@ -1,0 +1,42 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitates rapid application development through AI-based automation, reducing the need for traditional coding",
+  "principle": "Leverages AI to automate software development processes, allowing users to create applications using a low-code or no-code approach",
+  "reusability": "Offers a modular and extensible framework with API support for integration with other systems",
+  "limitations": "Still in alpha stage, which may include incomplete features and potential instability; limited support for complex customizations",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "stack": [
+    "C#",
+    ".NET",
+    "AI",
+    "OpenAI"
+  ],
+  "name": "magic",
+  "slug": "polterguy-magic",
+  "description": "An AI-based Low-Code and No-Code software development automation framework",
+  "repository": "https://github.com/polterguy/magic",
+  "stars": 1005,
+  "originator": "polterguy",
+  "tags": [
+    "ai",
+    "automation-framework",
+    "low-code",
+    "machine-learning",
+    "no-code",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/polterguy/magic#readme",
+    "https://github.com/polterguy/magic/wiki",
+    "https://github.com/polterguy/magic/issues"
+  ],
+  "highlight": "Enables AI-driven low-code and no-code software development automation"
+}

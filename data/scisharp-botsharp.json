@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development and deployment of multi-agent systems for AI applications",
+  "principle": "Built on .NET, it leverages agent-based modeling and coordination patterns for creating complex AI systems",
+  "reusability": "Offers a modular framework with extensible components for building custom multi-agent systems, supports integration with various AI models and APIs",
+  "limitations": "Currently in alpha stage, may have limited documentation and stability issues, primarily supports .NET ecosystem",
+  "platforms": [
+    ".NET",
+    "Windows",
+    "Linux"
+  ],
+  "stack": [
+    "C#",
+    ".NET",
+    "Apache-2.0"
+  ],
+  "name": "BotSharp",
+  "slug": "scisharp-botsharp",
+  "description": "AI Multi-Agent Framework in .NET",
+  "repository": "https://github.com/SciSharp/BotSharp",
+  "stars": 2741,
+  "originator": "SciSharp",
+  "tags": [
+    "ai-agent",
+    "chatbot",
+    "multi-agent"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/SciSharp/BotSharp/blob/main/README.md",
+    "https://github.com/SciSharp/BotSharp/wiki",
+    "https://github.com/SciSharp/BotSharp/issues"
+  ],
+  "highlight": "Advanced multi-agent orchestration framework in .NET for AI applications"
+}

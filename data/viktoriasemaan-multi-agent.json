@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Demonstrates the implementation and coordination of AI multi-agent systems.",
+  "principle": "Utilizes agent-based modeling and simulation to explore coordination and interaction of multiple AI agents.",
+  "reusability": "Includes modular code examples and Jupyter Notebooks for easy experimentation and adaptation.",
+  "limitations": "Primarily educational and experimental, not optimized for production environments.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "name": "multi-agent",
+  "slug": "viktoriasemaan-multi-agent",
+  "description": "Examples of AI Multi-Agent Solutions",
+  "repository": "https://github.com/viktoriasemaan/multi-agent",
+  "stars": 182,
+  "originator": "viktoriasemaan",
+  "tags": [
+    "AI",
+    "multi-agent",
+    "simulation",
+    "coordination"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-14",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/viktoriasemaan/multi-agent/blob/main/README.md",
+    "https://github.com/viktoriasemaan/multi-agent/tree/main/examples"
+  ],
+  "highlight": "Showcases various AI multi-agent system implementations and coordination strategies."
+}

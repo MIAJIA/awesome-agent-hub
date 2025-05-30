@@ -1,0 +1,33 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To provide a standardized evaluation system for autonomous driving agents using the CARLA simulator",
+  "principle": "Utilizes the CARLA simulator to assess driving agents based on predefined routes and metrics",
+  "reusability": "Can be integrated with various autonomous driving models for benchmarking via CARLA API",
+  "limitations": "Limited to the CARLA simulator environment; performance metrics depend on simulator accuracy",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "CARLA Simulator"
+  ],
+  "name": "leaderboard",
+  "slug": "carla-simulator-leaderboard",
+  "description": "CARLA Autonomous Driving leaderboard",
+  "repository": "https://github.com/carla-simulator/leaderboard",
+  "stars": 186,
+  "originator": "carla-simulator",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/carla-simulator/leaderboard/blob/master/README.md",
+    "https://carla.org/",
+    "https://carla.readthedocs.io/en/latest/"
+  ],
+  "highlight": "Benchmarking platform for evaluating autonomous driving agents in the CARLA simulator"
+}

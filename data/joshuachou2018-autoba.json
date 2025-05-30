@@ -1,0 +1,35 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To streamline and automate the analysis of multi-omic data, reducing the need for manual data processing and interpretation",
+  "principle": "Leverages machine learning and bioinformatics algorithms to integrate and analyze complex biological data sets",
+  "reusability": "Designed as a modular Python package, allowing integration into existing bioinformatics pipelines; includes command-line interface for ease of use",
+  "limitations": "Currently in alpha stage, may have limited support for certain omics data types and lacks extensive error handling",
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "SciPy",
+    "Scikit-learn"
+  ],
+  "name": "AutoBA",
+  "slug": "joshuachou2018-autoba",
+  "description": "An AI Agent for Fully Automated Multi-omic Analyses",
+  "repository": "https://github.com/JoshuaChou2018/AutoBA",
+  "stars": 183,
+  "originator": "JoshuaChou2018",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-04",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/JoshuaChou2018/AutoBA/blob/main/README.md",
+    "https://github.com/JoshuaChou2018/AutoBA/wiki"
+  ],
+  "highlight": "Fully automates multi-omic analyses with minimal user intervention"
+}

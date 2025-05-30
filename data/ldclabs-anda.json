@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for building AI agents that leverage secure computation and decentralized technologies.",
+  "principle": "Built on Rust, utilizing Trusted Execution Environments (TEEs) for secure computation, and integrates with the Internet Computer Protocol (ICP) for decentralized applications.",
+  "reusability": "Designed as a framework for developers to create secure AI agents, with potential for integration into decentralized applications.",
+  "limitations": "As an alpha version, it may have limited documentation and stability issues. It is also primarily targeted at developers familiar with Rust and secure computation technologies.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "ICP",
+    "TEEs"
+  ],
+  "name": "anda",
+  "slug": "ldclabs-anda",
+  "description": "🤖 An AI agent framework built with Rust, powered by ICP and TEEs.",
+  "repository": "https://github.com/ldclabs/anda",
+  "stars": 343,
+  "originator": "ldclabs",
+  "tags": [
+    "agent",
+    "agi",
+    "autonomous",
+    "decentralize"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-07",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/ldclabs/anda#readme",
+    "https://github.com/ldclabs/anda/wiki",
+    "https://github.com/ldclabs/anda/issues"
+  ],
+  "highlight": "Integrates AI agent functionality with secure computation using Rust and TEEs."
+}

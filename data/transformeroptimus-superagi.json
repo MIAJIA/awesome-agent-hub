@@ -1,0 +1,52 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable developers to quickly build, manage, and run autonomous AI agents.",
+  "principle": "Built on a modular framework using Python and Next.js, integrating with OpenAI and Pinecone for AI capabilities.",
+  "reusability": "Offers a plug-and-play architecture with API support for easy integration and extension.",
+  "limitations": "Currently in alpha stage; may have limited documentation and incomplete features.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Next.js",
+    "OpenAI",
+    "Pinecone",
+    "Docker"
+  ],
+  "name": "SuperAGI",
+  "slug": "transformeroptimus-superagi",
+  "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+  "repository": "https://github.com/TransformerOptimus/SuperAGI",
+  "stars": 16344,
+  "originator": "TransformerOptimus",
+  "tags": [
+    "agents",
+    "agi",
+    "ai",
+    "artificial-general-intelligence",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "gpt-4",
+    "hacktoberfest",
+    "llm",
+    "llmops",
+    "nextjs",
+    "openai",
+    "pinecone",
+    "python",
+    "superagi"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-22",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/TransformerOptimus/SuperAGI",
+    "https://github.com/TransformerOptimus/SuperAGI/wiki",
+    "https://github.com/TransformerOptimus/SuperAGI/blob/main/README.md"
+  ],
+  "highlight": "A dev-first open source framework for building and managing autonomous AI agents efficiently."
+}

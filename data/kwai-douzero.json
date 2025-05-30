@@ -1,0 +1,40 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To develop an AI that can play the Chinese card game DouDizhu at a high skill level using self-play reinforcement learning techniques.",
+  "principle": "Employs deep reinforcement learning with a focus on self-play to iteratively improve the AI's performance in the game of DouDizhu.",
+  "reusability": "Can be used as a foundation for developing AI agents for other card games or similar turn-based strategy games. The codebase is modular, allowing for customization and adaptation.",
+  "limitations": "Primarily focused on DouDizhu, may require significant adaptation for other games; computationally intensive training process.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "NumPy"
+  ],
+  "name": "DouZero",
+  "slug": "kwai-douzero",
+  "description": "[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI",
+  "repository": "https://github.com/kwai/DouZero",
+  "stars": 4323,
+  "originator": "kwai",
+  "tags": [
+    "doudizhu",
+    "game-ai",
+    "poker",
+    "reinforcement-learning"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-06-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/kwai/DouZero#readme",
+    "https://github.com/kwai/DouZero/blob/main/docs/installation.md",
+    "https://github.com/kwai/DouZero/blob/main/docs/usage.md"
+  ],
+  "highlight": "Mastering the Chinese card game DouDizhu using self-play deep reinforcement learning."
+}

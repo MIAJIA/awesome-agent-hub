@@ -1,0 +1,47 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To enable the development and training of embodied AI agents that can perform tasks in simulated environments, facilitating research in AI navigation and interaction.",
+  "principle": "Built on top of PyTorch, it leverages deep reinforcement learning and simulation environments to train agents for various tasks.",
+  "reusability": "Highly modular with API support for integrating custom environments and tasks; compatible with Habitat-Sim for simulation.",
+  "limitations": "Primarily focused on simulated environments, with limited real-world application without sim-to-real transfer techniques.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Habitat-Sim",
+    "NumPy"
+  ],
+  "name": "habitat-lab",
+  "slug": "facebookresearch-habitat-lab",
+  "description": "A modular high-level library to train embodied AI agents across a variety of tasks and environments.",
+  "repository": "https://github.com/facebookresearch/habitat-lab",
+  "stars": 2358,
+  "originator": "facebookresearch",
+  "tags": [
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "deep-reinforcement-learning",
+    "python",
+    "reinforcement-learning",
+    "research",
+    "robotics",
+    "sim2real",
+    "simulator"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/facebookresearch/habitat-lab",
+    "https://aihabitat.org/",
+    "https://aihabitat.org/docs/habitat-lab/"
+  ],
+  "highlight": "Provides a modular framework for training embodied AI agents in simulated environments, focusing on navigation and interaction tasks."
+}

@@ -1,0 +1,39 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Enhance recommendation systems by leveraging the capabilities of Large Language Models (LLMs).",
+  "principle": "Utilizes LLMs to process and analyze user data, improving the relevance and accuracy of recommendations.",
+  "reusability": "Modular design allows integration with existing recommendation systems; supports API-based interaction for seamless integration.",
+  "limitations": "Primarily designed for experimental use, may not be suitable for production environments without further development.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "PyTorch",
+    "Hugging Face Transformers"
+  ],
+  "name": "RecAI",
+  "slug": "microsoft-recai",
+  "description": "Bridging LLM and Recommender System.",
+  "repository": "https://github.com/microsoft/RecAI",
+  "stars": 790,
+  "originator": "microsoft",
+  "tags": [
+    "llm",
+    "recommender"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-12",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/microsoft/RecAI/blob/main/README.md",
+    "https://github.com/microsoft/RecAI/wiki",
+    "https://github.com/microsoft/RecAI/issues"
+  ],
+  "highlight": "Integrates Large Language Models (LLMs) with advanced recommender systems to enhance recommendation capabilities."
+}

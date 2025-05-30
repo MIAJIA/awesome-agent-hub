@@ -1,0 +1,39 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitate deep learning research by providing a modular and configurable framework for model training and evaluation",
+  "principle": "Utilizes a plugin-based architecture to enable flexible configuration and integration with various deep learning libraries and datasets",
+  "reusability": "Offers a modular framework with plugin support, allowing researchers to easily integrate custom models and data processing pipelines",
+  "limitations": "Currently in alpha stage with limited documentation; primarily aimed at experienced users familiar with deep learning concepts",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "name": "deep-research-mcp",
+  "slug": "ozamatash-deep-research-mcp",
+  "description": "N/A",
+  "repository": "https://github.com/Ozamatash/deep-research-mcp",
+  "stars": 109,
+  "originator": "Ozamatash",
+  "tags": [
+    "deep learning",
+    "AI research",
+    "model training",
+    "evaluation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-24",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Ozamatash/deep-research-mcp#readme",
+    "https://github.com/Ozamatash/deep-research-mcp/wiki"
+  ]
+}

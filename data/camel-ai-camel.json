@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To explore and establish the scaling laws of multi-agent systems, facilitating efficient communication and cooperation among AI agents.",
+  "principle": "Utilizes advanced multi-agent coordination techniques and deep learning models to enable communicative and cooperative AI systems.",
+  "reusability": "Designed as a framework for developing and orchestrating multi-agent systems, offering extensibility through its modular architecture.",
+  "limitations": "In its alpha stage, the framework may have stability issues and limited documentation; scalability and performance under large-scale scenarios are still being evaluated.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "OpenAI API"
+  ],
+  "name": "camel",
+  "slug": "camel-ai-camel",
+  "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+  "repository": "https://github.com/camel-ai/camel",
+  "stars": 12686,
+  "originator": "camel-ai",
+  "tags": [
+    "agent",
+    "ai-societies",
+    "artificial-intelligence",
+    "communicative-ai",
+    "cooperative-ai",
+    "deep-learning",
+    "large-language-models",
+    "multi-agent-systems",
+    "natural-language-processing"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/camel-ai/camel#readme",
+    "https://www.camel-ai.org/docs",
+    "https://github.com/camel-ai/camel/issues"
+  ],
+  "highlight": "First and best multi-agent framework focused on scaling laws of agents."
+}

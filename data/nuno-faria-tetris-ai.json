@@ -1,0 +1,40 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To develop an AI agent capable of playing Tetris at a high level using deep reinforcement learning techniques.",
+  "principle": "Employs Q-learning, a type of model-free reinforcement learning algorithm, to optimize the agent's decision-making in the game of Tetris.",
+  "reusability": "The code can be adapted to train reinforcement learning models for other games or applications by modifying the environment and reward structure.",
+  "limitations": "Performance is limited by the complexity of the Tetris game and the computational resources available for training the model.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "NumPy",
+    "OpenAI Gym"
+  ],
+  "name": "tetris-ai",
+  "slug": "nuno-faria-tetris-ai",
+  "description": "A deep reinforcement learning bot that plays tetris",
+  "repository": "https://github.com/nuno-faria/tetris-ai",
+  "stars": 302,
+  "originator": "nuno-faria",
+  "tags": [
+    "deep-reinforcement-learning",
+    "game-ai",
+    "q-learning",
+    "tetris"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-01",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/nuno-faria/tetris-ai/blob/master/README.md",
+    "https://github.com/nuno-faria/tetris-ai/blob/master/requirements.txt"
+  ],
+  "highlight": "A deep reinforcement learning bot specifically designed to master the game of Tetris using Q-learning."
+}

@@ -1,0 +1,38 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "Provide a general AI agent for controlling local and remote MacOS systems without requiring additional API keys.",
+  "principle": "Operates through the Claude Desktop App to interface with MacOS systems, leveraging local system commands and capabilities.",
+  "reusability": "Can be integrated into Claude Desktop App for MacOS control, no external API dependencies needed.",
+  "limitations": "Limited to MacOS environments, requires the Claude Desktop App for full functionality.",
+  "platforms": [
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "MacOS"
+  ],
+  "name": "mcp-remote-macos-use",
+  "slug": "baryhuang-mcp-remote-macos-use",
+  "description": "The only general AI agent that does NOT requires extra API key, giving you full control on your local and remote MacOs from Claude Desktop App",
+  "repository": "https://github.com/baryhuang/mcp-remote-macos-use",
+  "stars": 102,
+  "originator": "baryhuang",
+  "tags": [
+    "claude-desktop",
+    "computer-use",
+    "general-agent",
+    "macos",
+    "macos-use",
+    "mcp-server"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-30",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/baryhuang/mcp-remote-macos-use/blob/main/README.md",
+    "https://github.com/baryhuang/mcp-remote-macos-use/wiki"
+  ],
+  "highlight": "The only general AI agent that does NOT require extra API key, allowing full control on local and remote MacOS from Claude Desktop App."
+}

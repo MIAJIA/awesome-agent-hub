@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates communication and interoperability among opaque agentic applications by providing a standardized protocol.",
+  "principle": "Builds on a protocol-driven approach to enable agentic applications to communicate and interoperate, ensuring seamless interaction.",
+  "reusability": "Offers a protocol that can be integrated into various agentic applications for enhanced interoperability, with potential for broad adoption in multi-agent systems.",
+  "limitations": "Currently in alpha stage, which may include incomplete features or potential instability; limited to applications that can adopt the protocol.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "A2A",
+  "slug": "google-a2a-a2a",
+  "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+  "repository": "https://github.com/google-a2a/A2A",
+  "stars": 16168,
+  "originator": "google-a2a",
+  "tags": [
+    "a2a",
+    "a2a-mcp",
+    "a2a-protocol",
+    "a2a-server",
+    "agents",
+    "generative-ai"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/google-a2a/A2A/blob/main/README.md",
+    "https://github.com/google-a2a/A2A/wiki",
+    "https://github.com/google-a2a/A2A/issues",
+    "https://github.com/google-a2a/A2A/releases"
+  ],
+  "highlight": "Enables seamless communication and interoperability between agentic applications through an open protocol."
+}

@@ -1,0 +1,60 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To simplify the creation of multiplayer web games by managing backend services and networking, allowing developers to focus on game logic and design.",
+  "principle": "Provides a framework for game developers using JavaScript/TypeScript and popular web frameworks, abstracting backend and networking tasks.",
+  "reusability": "Offers a modular architecture with API support for seamless integration into various web game projects, compatible with multiple frontend frameworks.",
+  "limitations": "Currently in alpha, which may include limited features and potential instability. Primarily focused on web-based games.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Svelte",
+    "Vue",
+    "Three.js",
+    "PixiJS",
+    "Phaser"
+  ],
+  "name": "rune",
+  "slug": "rune-rune",
+  "description": "Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web framework such as React, Svelte, Vue, Threejs, PixiJS, Phaser. You can even use plain HTML and CSS. Perfect for web devs interested in gamedev.",
+  "repository": "https://github.com/rune/rune",
+  "stars": 372,
+  "originator": "rune",
+  "tags": [
+    "backend",
+    "css",
+    "dusk",
+    "framework",
+    "frontend",
+    "game",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "html",
+    "javascript",
+    "multiplayer",
+    "networking",
+    "phaser",
+    "react",
+    "rune",
+    "svelte",
+    "threejs",
+    "typescript",
+    "web"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/rune/rune#readme",
+    "https://github.com/rune/rune/wiki",
+    "https://github.com/rune/rune/issues",
+    "https://github.com/rune/rune/releases"
+  ],
+  "highlight": "Facilitates the development of multiplayer web games by handling backend and networking complexities."
+}

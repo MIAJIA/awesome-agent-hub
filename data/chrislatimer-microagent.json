@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development and orchestration of multi-agent systems with support for advanced AI models",
+  "principle": "Builds on the OpenAI Swarm framework, integrating Groq and Anthropic models for enhanced agent collaboration",
+  "reusability": "Offers modular architecture for easy integration and extension, compatible with various AI models",
+  "limitations": "In early development stages; may have limited documentation and support for certain use cases",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Groq",
+    "Anthropic"
+  ],
+  "name": "microagent",
+  "slug": "chrislatimer-microagent",
+  "description": "A fork of OpenAI Swarm that supports Groq and Anthropic",
+  "repository": "https://github.com/chrislatimer/microagent",
+  "stars": 119,
+  "originator": "chrislatimer",
+  "tags": [
+    "multi-agent",
+    "AI orchestration",
+    "Groq",
+    "Anthropic"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-14",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/chrislatimer/microagent/blob/main/README.md",
+    "https://github.com/chrislatimer/microagent/wiki"
+  ],
+  "highlight": "Supports Groq and Anthropic, enhancing multi-agent orchestration capabilities"
+}

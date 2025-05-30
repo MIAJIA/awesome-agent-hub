@@ -1,0 +1,42 @@
+{
+  "category": "data-visualization",
+  "status": "alpha",
+  "purpose": "To provide automated data analysis and visualization capabilities using AI",
+  "principle": "Utilizes Streamlit for interactive UI and Python-based data science libraries for analysis",
+  "reusability": "Can be integrated into data science workflows as a standalone tool or embedded within larger applications using Streamlit",
+  "limitations": "Primarily focused on data visualization and analysis; may require additional customization for specific data science tasks",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Streamlit",
+    "pandas",
+    "numpy",
+    "scikit-learn"
+  ],
+  "name": "Auto-Analyst-Streamlit",
+  "slug": "firebird-technologies-auto-analyst-streamlit",
+  "description": "AI data scientist",
+  "repository": "https://github.com/FireBird-Technologies/Auto-Analyst-Streamlit",
+  "stars": 243,
+  "originator": "FireBird-Technologies",
+  "tags": [
+    "ai",
+    "data",
+    "llm",
+    "science"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-12-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/FireBird-Technologies/Auto-Analyst-Streamlit#readme",
+    "https://github.com/FireBird-Technologies/Auto-Analyst-Streamlit/wiki",
+    "https://github.com/FireBird-Technologies/Auto-Analyst-Streamlit/issues"
+  ],
+  "highlight": "Streamlit-based AI-driven data analysis and visualization tool"
+}

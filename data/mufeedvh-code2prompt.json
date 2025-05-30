@@ -1,0 +1,47 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates the conversion of codebases into structured prompts for large language models, aiding in prompt engineering and token management.",
+  "principle": "Leverages the source tree of a codebase to generate a single prompt using Rust for performance, with built-in token counting and templating for customization.",
+  "reusability": "Can be used as a CLI tool in various development environments, supports custom prompt templates, and integrates with any workflow that requires LLM prompt generation.",
+  "limitations": "Primarily focused on codebases in supported languages, may require additional configuration for complex projects, limited to command-line interface.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Rust"
+  ],
+  "name": "code2prompt",
+  "slug": "mufeedvh-code2prompt",
+  "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+  "repository": "https://github.com/mufeedvh/code2prompt",
+  "stars": 5720,
+  "originator": "mufeedvh",
+  "tags": [
+    "ai",
+    "chatgpt",
+    "claude",
+    "cli",
+    "command-line",
+    "command-line-tool",
+    "gpt",
+    "llm",
+    "prompt",
+    "prompt-engineering",
+    "prompt-generator",
+    "prompt-toolkit",
+    "rust"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "MDX",
+  "useful_links": [
+    "https://github.com/mufeedvh/code2prompt#readme",
+    "https://github.com/mufeedvh/code2prompt/issues",
+    "https://github.com/mufeedvh/code2prompt/releases"
+  ],
+  "highlight": "Transforms entire codebases into optimized LLM prompts with token management and templating capabilities."
+}

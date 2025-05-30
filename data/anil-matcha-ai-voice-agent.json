@@ -1,0 +1,47 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Facilitate voice-based interactions and automate tasks through a self-hosted AI voice agent",
+  "principle": "Leverages speech recognition and natural language processing to understand and respond to voice commands",
+  "reusability": "Designed for easy deployment and customization, supports integration with various APIs for extended functionality",
+  "limitations": "May require significant setup and configuration, limited by the accuracy of speech recognition and NLP capabilities",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "SpeechRecognition",
+    "NLTK",
+    "Flask"
+  ],
+  "name": "AI-Voice-Agent",
+  "slug": "anil-matcha-ai-voice-agent",
+  "description": "Self-hosted AI voice agent",
+  "repository": "https://github.com/Anil-matcha/AI-Voice-Agent",
+  "stars": 106,
+  "originator": "Anil-matcha",
+  "tags": [
+    "ai-agent",
+    "ai-agents",
+    "ai-assistant",
+    "ai-assistants",
+    "ai-voice-assistant",
+    "conversational-agents",
+    "conversational-ai",
+    "virtual-assistant-ai",
+    "voice-agent",
+    "voice-agents",
+    "voice-ai",
+    "voice-assistant"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-08-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Anil-matcha/AI-Voice-Agent#readme",
+    "https://github.com/Anil-matcha/AI-Voice-Agent/wiki"
+  ],
+  "highlight": "Self-hosted AI voice assistant capable of conversational interactions"
+}

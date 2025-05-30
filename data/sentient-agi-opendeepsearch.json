@@ -1,0 +1,40 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Enable deep search capabilities across various data sources using advanced AI techniques",
+  "principle": "Utilizes machine learning models to perform semantic search and information retrieval from unstructured data",
+  "reusability": "Offers a flexible API for integrating deep search functionalities into existing applications, supports plugin-based architecture for extending capabilities",
+  "limitations": "May require substantial computational resources for large datasets, currently optimized for specific data types and formats",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "Flask",
+    "Elasticsearch"
+  ],
+  "name": "OpenDeepSearch",
+  "slug": "sentient-agi-opendeepsearch",
+  "description": "N/A",
+  "repository": "https://github.com/sentient-agi/OpenDeepSearch",
+  "stars": 3367,
+  "originator": "sentient-agi",
+  "tags": [
+    "semantic search",
+    "information retrieval",
+    "AI",
+    "machine learning"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-04",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/sentient-agi/OpenDeepSearch/wiki",
+    "https://github.com/sentient-agi/OpenDeepSearch/issues",
+    "https://github.com/sentient-agi/OpenDeepSearch/releases"
+  ],
+  "highlight": "Advanced semantic search with machine learning for unstructured data"
+}

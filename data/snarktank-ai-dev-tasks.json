@@ -1,0 +1,34 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To manage and organize tasks for AI development teams in a collaborative environment",
+  "principle": "Built on a web-based interface using JavaScript frameworks to facilitate task tracking and collaboration",
+  "reusability": "Offers an API for integration with other project management tools, and supports plugin extensions for customization",
+  "limitations": "Currently in alpha stage, may have limited features and potential bugs, primarily designed for small to medium-sized teams",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "React"
+  ],
+  "name": "ai-dev-tasks",
+  "slug": "snarktank-ai-dev-tasks",
+  "description": "A simple task management system for managing AI dev in Cursor",
+  "repository": "https://github.com/snarktank/ai-dev-tasks",
+  "stars": 503,
+  "originator": "snarktank",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/snarktank/ai-dev-tasks#readme",
+    "https://github.com/snarktank/ai-dev-tasks/wiki",
+    "https://github.com/snarktank/ai-dev-tasks/issues"
+  ],
+  "highlight": "Streamlined task management specifically tailored for AI development projects"
+}

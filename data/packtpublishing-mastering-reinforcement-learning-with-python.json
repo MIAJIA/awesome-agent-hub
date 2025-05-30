@@ -1,0 +1,45 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To teach and demonstrate reinforcement learning concepts and techniques using Python.",
+  "principle": "Utilizes Python libraries and frameworks to implement various reinforcement learning algorithms and environments.",
+  "reusability": "Code examples and Jupyter notebooks can be reused for educational purposes and as a basis for further experimentation.",
+  "limitations": "Primarily educational with focus on learning rather than production-level deployment; may require additional tuning for specific applications.",
+  "platforms": [
+    "Cross-platform",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "NumPy",
+    "TensorFlow",
+    "PyTorch",
+    "OpenAI Gym"
+  ],
+  "name": "Mastering-Reinforcement-Learning-with-Python",
+  "slug": "packtpublishing-mastering-reinforcement-learning-with-python",
+  "description": "Mastering Reinforcement Learning with Python, published by Packt",
+  "repository": "https://github.com/PacktPublishing/Mastering-Reinforcement-Learning-with-Python",
+  "stars": 157,
+  "originator": "PacktPublishing",
+  "tags": [
+    "reinforcement learning",
+    "machine learning",
+    "education",
+    "Python",
+    "tutorial"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-09",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/PacktPublishing/Mastering-Reinforcement-Learning-with-Python/blob/main/README.md",
+    "https://github.com/PacktPublishing/Mastering-Reinforcement-Learning-with-Python/tree/main/Chapter01",
+    "https://github.com/PacktPublishing/Mastering-Reinforcement-Learning-with-Python/tree/main/Chapter02"
+  ],
+  "highlight": "Comprehensive guide to mastering reinforcement learning with practical Python implementations."
+}

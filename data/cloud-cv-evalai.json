@@ -1,0 +1,54 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitate the evaluation and benchmarking of AI models through organized challenges and competitions",
+  "principle": "Leverages Django and AngularJS to create a web-based platform for AI model evaluation and leaderboard management",
+  "reusability": "API support for challenge creation and management, Docker setup for easy deployment, customizable evaluation scripts",
+  "limitations": "Requires manual setup and configuration, primarily focused on AI model evaluation without native support for other domains",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Django",
+    "AngularJS",
+    "Docker",
+    "PostgreSQL"
+  ],
+  "name": "EvalAI",
+  "slug": "cloud-cv-evalai",
+  "description": ":cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI",
+  "repository": "https://github.com/Cloud-CV/EvalAI",
+  "stars": 1856,
+  "originator": "Cloud-CV",
+  "tags": [
+    "ai",
+    "ai-challenges",
+    "angularjs",
+    "artificial-intelligence",
+    "challenge",
+    "codecov",
+    "coveralls",
+    "django",
+    "docker",
+    "evalai",
+    "evaluation",
+    "leaderboard",
+    "machine-learning",
+    "python",
+    "reproducibility",
+    "reproducible-research",
+    "travis-ci"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-07",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Cloud-CV/EvalAI/wiki",
+    "https://evalai.cloudcv.org",
+    "https://github.com/Cloud-CV/EvalAI/tree/master/docs"
+  ],
+  "highlight": "Comprehensive platform for evaluating AI models through challenges and leaderboards"
+}

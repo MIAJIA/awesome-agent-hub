@@ -1,0 +1,32 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and management of autonomous multi-agent systems through event-driven architecture.",
+  "principle": "Utilizes an event-based framework to coordinate interactions and behaviors among multiple autonomous agents.",
+  "reusability": "Designed as a framework that can be extended and customized for specific multi-agent system applications. Offers modular components for agent behavior and communication.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential bugs. Limited documentation on complex use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "name": "genworlds",
+  "slug": "yeagerai-genworlds",
+  "description": "A framework for event based autonomous multi-agent systems.",
+  "repository": "https://github.com/yeagerai/genworlds",
+  "stars": 305,
+  "originator": "yeagerai",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-18",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/yeagerai/genworlds#readme",
+    "https://github.com/yeagerai/genworlds/wiki",
+    "https://github.com/yeagerai/genworlds/issues"
+  ]
+}

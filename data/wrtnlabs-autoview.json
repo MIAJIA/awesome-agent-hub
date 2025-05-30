@@ -1,0 +1,51 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To automate the rendering of UI components, enhancing design efficiency and reducing manual coding",
+  "principle": "Utilizes AI-driven algorithms to interpret design requirements and automatically generate UI components",
+  "reusability": "Designed as a plug-and-play solution for frontend frameworks, supports integration with existing design systems",
+  "limitations": "Limited to specific frontend frameworks, requires initial configuration for optimal use, may not support all custom design elements",
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "OpenAI",
+    "Node.js"
+  ],
+  "name": "autoview",
+  "slug": "wrtnlabs-autoview",
+  "description": "Automatic view component renderer by AI agent",
+  "repository": "https://github.com/wrtnlabs/autoview",
+  "stars": 642,
+  "originator": "wrtnlabs",
+  "tags": [
+    "agent",
+    "agentic-framework",
+    "ai",
+    "automatic",
+    "claude",
+    "component",
+    "design-system",
+    "frontend",
+    "function-calling",
+    "llama",
+    "llm",
+    "openai",
+    "openapi",
+    "typescript",
+    "v0-like"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/wrtnlabs/autoview#readme",
+    "https://github.com/wrtnlabs/autoview/wiki",
+    "https://github.com/wrtnlabs/autoview/issues"
+  ],
+  "highlight": "Automates the rendering of view components using AI, reducing manual design effort"
+}

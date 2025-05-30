@@ -1,0 +1,43 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Demonstrate the capabilities of chat bots using different AI models and frameworks within the Panel ecosystem.",
+  "principle": "Utilizes Panel for creating interactive web apps and integrates with various AI models and frameworks such as LangChain and OpenAI for chat functionalities.",
+  "reusability": "Examples can be adapted for different chat bot implementations using Panel and various AI models; provides a foundation for developing custom chat solutions.",
+  "limitations": "Primarily intended for demonstration and educational purposes; may require additional customization for production use.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Panel",
+    "OpenAI",
+    "LangChain"
+  ],
+  "name": "panel-chat-examples",
+  "slug": "holoviz-topics-panel-chat-examples",
+  "description": "Examples of Chat Bots using Panels chat features: Traditional, LLMs, AI Agents, LangChain, OpenAI etc",
+  "repository": "https://github.com/holoviz-topics/panel-chat-examples",
+  "stars": 119,
+  "originator": "holoviz-topics",
+  "tags": [
+    "chat",
+    "gpt",
+    "llama",
+    "mistral",
+    "openai",
+    "panel",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-12-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/holoviz-topics/panel-chat-examples#readme",
+    "https://panel.holoviz.org/"
+  ],
+  "highlight": "Showcases integration of various chat bot frameworks and AI models using Panel's chat features."
+}

@@ -1,0 +1,49 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To ensure AI agent workflows are monitored and guided by human oversight in real-time, enhancing safety and control.",
+  "principle": "Integrates a human-in-the-loop system that allows for real-time monitoring and approval of AI agent actions, leveraging Rust for performance and Svelte for the user interface.",
+  "reusability": "Offers modular components that can be integrated into existing AI workflows, with a focus on real-time interaction and approval processes.",
+  "limitations": "Currently in alpha stage, which may include limited features and potential stability issues. Requires manual setup and configuration.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "Svelte"
+  ],
+  "name": "phantasm",
+  "slug": "phantasmlabs-phantasm",
+  "description": "Toolkits to create a human-in-the-loop approval layer to monitor and guide AI agents workflow in real-time.",
+  "repository": "https://github.com/phantasmlabs/phantasm",
+  "stars": 176,
+  "originator": "phantasmlabs",
+  "tags": [
+    "ai-agents",
+    "ai-safety",
+    "ai-security",
+    "approval-workflow",
+    "automation-tools",
+    "control-flow",
+    "dashboard",
+    "human-computer-interaction",
+    "human-in-the-loop",
+    "llm",
+    "llm-security",
+    "llmops",
+    "monitoring",
+    "open-source",
+    "rust"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2024-11-28",
+  "language": "Svelte",
+  "useful_links": [
+    "https://github.com/phantasmlabs/phantasm/blob/main/README.md",
+    "https://github.com/phantasmlabs/phantasm/wiki",
+    "https://github.com/phantasmlabs/phantasm/tree/main/examples"
+  ],
+  "highlight": "Provides a human-in-the-loop approval layer for real-time AI agent monitoring and guidance."
+}

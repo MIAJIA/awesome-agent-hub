@@ -1,0 +1,43 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates the automation of software development tasks by leveraging AI and multi-agent systems.",
+  "principle": "Builds on Amazon Bedrock for AI capabilities, using multi-agent orchestration to perform tasks such as file creation/editing, command execution, and web searching.",
+  "reusability": "Designed for extensibility with customizable agents and APIs, supporting integration with existing development workflows.",
+  "limitations": "Currently in alpha stage, may have limited stability and feature completeness, primarily focused on AWS ecosystem.",
+  "platforms": [
+    "AWS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Amazon Bedrock",
+    "AWS SDK"
+  ],
+  "name": "bedrock-engineer",
+  "slug": "aws-samples-bedrock-engineer",
+  "description": "Autonomous software development agent apps using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more.",
+  "repository": "https://github.com/aws-samples/bedrock-engineer",
+  "stars": 284,
+  "originator": "aws-samples",
+  "tags": [
+    "agent",
+    "ai",
+    "aws",
+    "bedrock",
+    "claude",
+    "deepseek-r1",
+    "generative-ai",
+    "llm",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "MIT-0",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/aws-samples/bedrock-engineer/blob/main/README.md",
+    "https://github.com/aws-samples/bedrock-engineer/wiki",
+    "https://github.com/aws-samples/bedrock-engineer/issues"
+  ],
+  "highlight": "Autonomous software development using Amazon Bedrock with multi-agent capabilities and generative features."
+}

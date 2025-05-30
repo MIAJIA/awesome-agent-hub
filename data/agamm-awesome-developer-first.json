@@ -1,0 +1,35 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To provide developers with a comprehensive list of tools that enhance productivity and streamline workflows in software development.",
+  "principle": "To curate high-quality, developer-first tools that prioritize user experience and efficiency.",
+  "reusability": "The tools listed are designed to be reusable across various projects and can be integrated into different development environments.",
+  "limitations": "The list may not cover every available tool, and the quality of tools can vary; users are encouraged to evaluate tools based on their specific needs.",
+  "platforms": [
+    "Web",
+    "Cross-platform"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-developer-first",
+  "slug": "agamm-awesome-developer-first",
+  "description": "A curated list of awesome developer-first tools products.",
+  "repository": "https://github.com/agamm/awesome-developer-first",
+  "stars": 1305,
+  "originator": "agamm",
+  "tags": [
+    "awesome",
+    "awesome-list",
+    "developer-first",
+    "developer-tools"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-26",
+  "language": "English",
+  "useful_links": [
+    "https://github.com/agamm/awesome-developer-first#readme"
+  ],
+  "highlight": "Comprehensive curation of developer-first tools aimed at enhancing productivity and user experience."
+}

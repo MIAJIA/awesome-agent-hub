@@ -1,0 +1,53 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for building and managing swarms of AI agents for complex tasks and decentralized AI systems.",
+  "principle": "Leverages multi-agent systems and decentralized AI principles to enable the coordination and interaction of multiple AI agents.",
+  "reusability": "Offers a modular SDK with APIs for easy integration and customization, allowing developers to create and manage agent swarms.",
+  "limitations": "Currently in alpha stage, may have limited support for certain real-world applications and scalability challenges.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Django",
+    "Celery",
+    "Redis"
+  ],
+  "name": "swarmzero",
+  "slug": "swarmzero-swarmzero",
+  "description": "SwarmZero's SDK for building AI agents, swarms of agents and much more.",
+  "repository": "https://github.com/swarmzero/swarmzero",
+  "stars": 240,
+  "originator": "swarmzero",
+  "tags": [
+    "agent-swarms",
+    "ai",
+    "ai-agent",
+    "ai-agent-framework",
+    "ai-agents",
+    "ai-swarm",
+    "ai-swarms",
+    "artificial-intelligence",
+    "decentralized-ai",
+    "gen-ai",
+    "gennerative-ai",
+    "large-language-models",
+    "llm",
+    "multi-agent-framework",
+    "multi-agent-systems",
+    "swarm",
+    "swarms"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/swarmzero/swarmzero/blob/main/README.md",
+    "https://github.com/swarmzero/swarmzero/wiki",
+    "https://github.com/swarmzero/swarmzero/examples"
+  ],
+  "highlight": "Facilitates the creation and coordination of swarms of AI agents for complex multi-agent systems."
+}

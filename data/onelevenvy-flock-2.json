@@ -1,0 +1,56 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the rapid development and coordination of chatbot and multi-agent applications through a workflow-based approach.",
+  "principle": "Built on LangGraph and Langchain, it allows users to create workflows for multi-agent coordination using FastAPI and NextJS.",
+  "reusability": "Offers a low-code environment with APIs for integrating custom workflows and agents, supporting modular and reusable components.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential stability issues.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "NextJS",
+    "FastAPI",
+    "Langchain",
+    "LangGraph"
+  ],
+  "name": "flock",
+  "slug": "onelevenvy-flock-2",
+  "description": "Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain、FastAPI 和 NextJS 构建。）",
+  "repository": "https://github.com/Onelevenvy/flock",
+  "stars": 863,
+  "originator": "Onelevenvy",
+  "tags": [
+    "agent",
+    "ai",
+    "chatbot",
+    "crewai",
+    "deekseek",
+    "dify",
+    "fastapi",
+    "langchain",
+    "langgraph",
+    "langgraph-gui",
+    "llm",
+    "mcp",
+    "muti-agent",
+    "nextjs",
+    "ollama",
+    "openai",
+    "openapi",
+    "rag",
+    "react-flow",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-14",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Onelevenvy/flock#readme",
+    "https://github.com/Onelevenvy/flock/wiki"
+  ],
+  "highlight": "A low-code platform for building and orchestrating chatbots and multi-agent systems using workflows."
+}

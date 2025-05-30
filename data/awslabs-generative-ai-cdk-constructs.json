@@ -1,0 +1,53 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the deployment and management of generative AI models and applications on AWS using CDK constructs.",
+  "principle": "Utilizes AWS CDK to create reusable infrastructure components for deploying generative AI solutions, leveraging AWS services like SageMaker, Lambda, and Step Functions.",
+  "reusability": "Offers modular CDK constructs that can be easily integrated into existing AWS infrastructure, promoting reusable and scalable AI deployments.",
+  "limitations": "Primarily designed for AWS environments, may not be suitable for non-AWS platforms or on-premise deployments.",
+  "platforms": [
+    "AWS"
+  ],
+  "stack": [
+    "TypeScript",
+    "AWS CDK",
+    "Amazon SageMaker",
+    "AWS Lambda",
+    "AWS Step Functions"
+  ],
+  "name": "generative-ai-cdk-constructs",
+  "slug": "awslabs-generative-ai-cdk-constructs",
+  "description": "AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.",
+  "repository": "https://github.com/awslabs/generative-ai-cdk-constructs",
+  "stars": 467,
+  "originator": "awslabs",
+  "tags": [
+    "agent",
+    "amazon-bedrock",
+    "appsync",
+    "aws",
+    "aws-cdk",
+    "content-generation",
+    "generative-ai",
+    "huggingface",
+    "knowledge-base",
+    "langchain",
+    "llm",
+    "opensearch",
+    "question-answering-system",
+    "retrieval-augmented-generation",
+    "sagemaker",
+    "step-functions",
+    "summarization"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-22",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/awslabs/generative-ai-cdk-constructs#readme",
+    "https://github.com/awslabs/generative-ai-cdk-constructs/tree/main/docs",
+    "https://github.com/awslabs/generative-ai-cdk-constructs/tree/main/examples"
+  ],
+  "highlight": "Provides AWS CDK constructs for implementing common generative AI patterns using AWS services."
+}

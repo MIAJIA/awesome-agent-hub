@@ -1,0 +1,48 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive and curated list of resources related to Generative AI, including tools, models, and references.",
+  "principle": "Aggregates and categorizes links and references to various Generative AI resources, tools, and models available on the internet.",
+  "reusability": "Serves as a reference guide for individuals seeking to explore and utilize Generative AI tools and resources; can be used as a starting point for research or project development.",
+  "limitations": "As a curated list, it does not provide the tools or models directly but rather links to external resources, which may vary in availability and quality.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-generative-ai",
+  "slug": "filipecalegario-awesome-generative-ai",
+  "description": "A curated list of Generative AI tools, works, models, and references",
+  "repository": "https://github.com/filipecalegario/awesome-generative-ai",
+  "stars": 2837,
+  "originator": "filipecalegario",
+  "tags": [
+    "ai-art",
+    "awesome",
+    "awesome-list",
+    "chatgpt",
+    "dall-e",
+    "dalle2",
+    "embeddings",
+    "generative-ai",
+    "gpt-4",
+    "llm",
+    "llm-agent",
+    "midjourney",
+    "openai",
+    "prompt-engineering",
+    "semantic-search",
+    "stable-diffusion",
+    "text-to-image",
+    "txt2img"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-26",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/filipecalegario/awesome-generative-ai#readme"
+  ],
+  "highlight": "An extensive and well-organized collection of Generative AI resources, making it a go-to repository for researchers and developers interested in AI art and models."
+}

@@ -1,0 +1,34 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitate spatial data analysis and visualization in biological research",
+  "principle": "Utilizes spatial transcriptomics data to generate insights and visualizations for biological research",
+  "reusability": "Offers a set of Python libraries and tools for spatial data processing and visualization",
+  "limitations": "Primarily designed for biological spatial data; may require domain-specific knowledge to use effectively",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "Seaborn"
+  ],
+  "name": "SpatialAgent",
+  "slug": "genentech-spatialagent",
+  "description": "N/A",
+  "repository": "https://github.com/Genentech/SpatialAgent",
+  "stars": 105,
+  "originator": "Genentech",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-05",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Genentech/SpatialAgent/blob/main/README.md",
+    "https://github.com/Genentech/SpatialAgent/wiki"
+  ]
+}

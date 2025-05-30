@@ -1,0 +1,44 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To educate and guide users through the process of understanding and implementing Retrieval-Augmented Generation (RAG) techniques.",
+  "principle": "The guide leverages RAG methodology, combining retrieval of relevant information with generative AI models to enhance response accuracy and relevance.",
+  "reusability": "The guide is structured as a series of Jupyter Notebooks, allowing users to interactively engage with the content, modify examples, and apply concepts to their own projects.",
+  "limitations": "Being a guide, it requires users to have a basic understanding of AI and programming. It does not provide a ready-to-deploy solution but rather educational content.",
+  "platforms": [
+    "Jupyter Notebook",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "Hugging Face Transformers",
+    "LangChain"
+  ],
+  "name": "rag-zero-to-hero-guide",
+  "slug": "kalyanks-nlp-rag-zero-to-hero-guide",
+  "description": "Comprehensive guide to learn RAG from basics to advanced. ",
+  "repository": "https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide",
+  "stars": 988,
+  "originator": "KalyanKS-NLP",
+  "tags": [
+    "ai-engineer",
+    "generative-ai",
+    "large-language-models",
+    "llm-engineer",
+    "llm-rag",
+    "llms",
+    "retrieval-augmented-generation"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-29",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide/blob/main/README.md",
+    "https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide/tree/main/notebooks"
+  ],
+  "highlight": "Comprehensive guide to mastering Retrieval-Augmented Generation (RAG) from foundational concepts to advanced implementations."
+}

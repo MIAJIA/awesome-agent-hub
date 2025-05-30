@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Create an agentic environment that is completely free and open-source for developers and researchers",
+  "principle": "Builds on open-source principles and community-driven development to replicate the functionality of commercial agentic environments",
+  "reusability": "Designed as a plug-and-play environment with configurable options for various agentic tasks",
+  "limitations": "In early alpha stage with potential stability issues and limited documentation",
+  "platforms": [
+    "Linux"
+  ],
+  "stack": [
+    "Python"
+  ],
+  "name": "MyManus",
+  "slug": "emsi-mymanus",
+  "description": "100% free agentic environment like Manus",
+  "repository": "https://github.com/emsi/MyManus",
+  "stars": 154,
+  "originator": "emsi",
+  "tags": [
+    "agentic environment",
+    "open-source",
+    "free alternative"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/emsi/MyManus/blob/main/README.md"
+  ],
+  "highlight": "Provides a free and open-source alternative to commercial agentic environments like Manus"
+}

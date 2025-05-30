@@ -1,0 +1,42 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To help individuals prepare for system design interviews by breaking down complex systems into understandable components.",
+  "principle": "Utilizes visual aids and simplified language to explain system design principles and architectures.",
+  "reusability": "Content can be reused for educational purposes, interview preparation, and as reference material for understanding system design concepts.",
+  "limitations": "Primarily focused on system design interviews; may not cover advanced or niche system design topics.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown",
+    "Diagrams.net"
+  ],
+  "name": "system-design-101",
+  "slug": "bytebytegohq-system-design-101",
+  "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+  "repository": "https://github.com/ByteByteGoHq/system-design-101",
+  "stars": 72553,
+  "originator": "ByteByteGoHq",
+  "tags": [
+    "aws",
+    "cloud-computing",
+    "coding-interviews",
+    "computer-science",
+    "interview-questions",
+    "software-architecture",
+    "software-development",
+    "software-engineering",
+    "system-design",
+    "system-design-interview"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-04-04",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/ByteByteGoHq/system-design-101/blob/main/README.md",
+    "https://github.com/ByteByteGoHq/system-design-101/wiki"
+  ],
+  "highlight": "Simplifies complex system design concepts using visuals and straightforward explanations."
+}

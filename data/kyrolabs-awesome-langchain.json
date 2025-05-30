@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Curate and showcase a list of tools and projects built with the LangChain framework.",
+  "principle": "Aggregates and organizes community-contributed projects and tools related to LangChain.",
+  "reusability": "Acts as a directory for discovering LangChain-related projects, facilitating exploration and integration.",
+  "limitations": "Dependent on community contributions for content updates; may not cover all LangChain projects.",
+  "platforms": [],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-langchain",
+  "slug": "kyrolabs-awesome-langchain",
+  "description": "😎 Awesome list of tools and projects with the awesome LangChain framework",
+  "repository": "https://github.com/kyrolabs/awesome-langchain",
+  "stars": 8351,
+  "originator": "kyrolabs",
+  "tags": [
+    "ai",
+    "awesome",
+    "awesome-list",
+    "langchain",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-10",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/kyrolabs/awesome-langchain"
+  ],
+  "highlight": "Comprehensive collection of resources and projects utilizing the LangChain framework."
+}

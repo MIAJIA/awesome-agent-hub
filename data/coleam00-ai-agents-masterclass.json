@@ -1,0 +1,34 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide educational content and practical examples for building AI agents, aligned with a YouTube masterclass series",
+  "principle": "Follows a tutorial-based approach using Python and popular AI/ML libraries to demonstrate AI agent development",
+  "reusability": "Code examples and projects can be extended or modified for personal learning or development projects",
+  "limitations": "Primarily designed for educational purposes, may not be suitable for production environments without further development",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain",
+    "Hugging Face"
+  ],
+  "name": "ai-agents-masterclass",
+  "slug": "coleam00-ai-agents-masterclass",
+  "description": "Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!",
+  "repository": "https://github.com/coleam00/ai-agents-masterclass",
+  "stars": 2166,
+  "originator": "coleam00",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-14",
+  "language": "Python",
+  "useful_links": [
+    "https://www.youtube.com/playlist?list=PLx0iOsdUOUmn7zQXy7h8hW5p0QjKjGm7z"
+  ],
+  "highlight": "Comprehensive learning resource for building AI agents with practical code examples"
+}

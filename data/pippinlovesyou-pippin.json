@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for building autonomous agents that can interact with digital environments.",
+  "principle": "Leverages modular components and a plugin architecture to enable flexible and scalable agent development.",
+  "reusability": "Highly modular with a plugin architecture, allowing for easy integration and extension through custom modules.",
+  "limitations": "Currently in alpha stage, may have stability issues and incomplete features, limited documentation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Celery",
+    "Redis"
+  ],
+  "name": "pippin",
+  "slug": "pippinlovesyou-pippin",
+  "description": "The Digital Being Framework for Autonomous Agents",
+  "repository": "https://github.com/pippinlovesyou/pippin",
+  "stars": 525,
+  "originator": "pippinlovesyou",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/pippinlovesyou/pippin/blob/main/README.md",
+    "https://github.com/pippinlovesyou/pippin/wiki",
+    "https://github.com/pippinlovesyou/pippin/issues"
+  ],
+  "highlight": "A comprehensive framework for developing autonomous digital beings with a focus on modularity and extensibility."
+}

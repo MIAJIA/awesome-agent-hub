@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable users to build and manage a team of AI agents for various tasks using Autogen",
+  "principle": "Utilizes Autogen framework to orchestrate and manage multiple AI agents",
+  "reusability": "Designed for composability with support for Azure services, provides templates and examples for easy integration",
+  "limitations": "Primarily tied to Azure ecosystem, early-stage development with potential stability issues",
+  "platforms": [
+    "Azure"
+  ],
+  "stack": [
+    "TypeScript",
+    "Azure",
+    "Streamlit",
+    "Autogen"
+  ],
+  "name": "dream-team",
+  "slug": "azure-samples-dream-team",
+  "description": "This repo helps you to build a team of AI agents with Autogen",
+  "repository": "https://github.com/Azure-Samples/dream-team",
+  "stars": 195,
+  "originator": "Azure-Samples",
+  "tags": [
+    "autogen",
+    "azd",
+    "azure",
+    "azureopenai",
+    "streamlit"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Azure-Samples/dream-team/blob/main/README.md",
+    "https://github.com/Azure-Samples/dream-team/blob/main/docs",
+    "https://github.com/Azure-Samples/dream-team/blob/main/examples"
+  ],
+  "highlight": "Facilitates the creation and coordination of AI agent teams using Autogen"
+}

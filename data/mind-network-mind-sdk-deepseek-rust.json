@@ -1,0 +1,42 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a Rust SDK for privacy-preserving data analysis and processing using Fully Homomorphic Encryption (FHE) techniques",
+  "principle": "Leverages Fully Homomorphic Encryption (FHE) to allow computations on encrypted data without decryption, ensuring data privacy",
+  "reusability": "Offers a modular SDK with APIs for integrating FHE capabilities into Rust applications",
+  "limitations": "Performance overhead due to encryption/decryption, limited to specific FHE schemes, requires understanding of cryptographic principles",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Rust",
+    "FHE",
+    "Web3"
+  ],
+  "name": "mind-sdk-deepseek-rust",
+  "slug": "mind-network-mind-sdk-deepseek-rust",
+  "description": "Mind Network Rust SDK DeepSeek",
+  "repository": "https://github.com/mind-network/mind-sdk-deepseek-rust",
+  "stars": 304,
+  "originator": "mind-network",
+  "tags": [
+    "agent",
+    "ai",
+    "deepseek",
+    "fhe",
+    "rust",
+    "web3"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-05",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/mind-network/mind-sdk-deepseek-rust/blob/main/README.md",
+    "https://github.com/mind-network/mind-sdk-deepseek-rust/wiki",
+    "https://github.com/mind-network/mind-sdk-deepseek-rust/tree/main/examples"
+  ],
+  "highlight": "Enables privacy-preserving data processing using Fully Homomorphic Encryption (FHE) in Rust"
+}

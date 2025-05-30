@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a curated collection of libraries and tools for engineers working with large language models (LLMs)",
+  "principle": "Compiles and categorizes various LLM libraries to streamline development and experimentation",
+  "reusability": "Offers a categorized repository of libraries that can be easily referenced and integrated into LLM projects",
+  "limitations": "Primarily acts as a reference list; does not include implementations or code examples",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "llm-engineer-toolkit",
+  "slug": "kalyanks-nlp-llm-engineer-toolkit",
+  "description": "A curated list of  120+ LLM libraries category wise. ",
+  "repository": "https://github.com/KalyanKS-NLP/llm-engineer-toolkit",
+  "stars": 3623,
+  "originator": "KalyanKS-NLP",
+  "tags": [
+    "ai-engineer",
+    "generative-ai",
+    "large-language-models",
+    "llm-engineer",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-13",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/KalyanKS-NLP/llm-engineer-toolkit#readme"
+  ],
+  "highlight": "Comprehensive list of 120+ LLM libraries organized by category"
+}

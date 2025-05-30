@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a centralized repository of resources, tools, and frameworks for developing agent-to-agent communication systems",
+  "principle": "Aggregates various open-source tools, frameworks, and libraries that facilitate the development and deployment of agent communication systems",
+  "reusability": "Offers a curated list of tools and frameworks that can be integrated into existing projects to enhance agent communication capabilities",
+  "limitations": "Acts primarily as a resource aggregator; the quality and functionality depend on the individual tools and libraries included",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "JavaScript",
+    "Node.js",
+    "Docker"
+  ],
+  "name": "awesome-a2a",
+  "slug": "pab1it0-awesome-a2a",
+  "description": "Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place. ",
+  "repository": "https://github.com/pab1it0/awesome-a2a",
+  "stars": 116,
+  "originator": "pab1it0",
+  "tags": [
+    "a2a",
+    "agent",
+    "agent2agent",
+    "ai",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-24",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/pab1it0/awesome-a2a#readme",
+    "https://github.com/pab1it0/awesome-a2a/issues",
+    "https://github.com/pab1it0/awesome-a2a/pulls"
+  ],
+  "highlight": "Comprehensive collection of tools and resources for building and managing agent-to-agent systems"
+}

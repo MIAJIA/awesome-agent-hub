@@ -1,0 +1,39 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Serve as a central repository of machine learning libraries and resources for Elixir developers.",
+  "principle": "Curates and organizes links to various machine learning libraries, tools, and articles relevant to Elixir.",
+  "reusability": "Can be used by Elixir developers to quickly find and access machine learning resources and libraries.",
+  "limitations": "Primarily a collection of links; does not include direct implementations or code examples.",
+  "platforms": [
+    "Any platform supporting Elixir"
+  ],
+  "stack": [
+    "Elixir"
+  ],
+  "name": "awesome-ml-gen-ai-elixir",
+  "slug": "georgeguimaraes-awesome-ml-gen-ai-elixir",
+  "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
+  "repository": "https://github.com/georgeguimaraes/awesome-ml-gen-ai-elixir",
+  "stars": 132,
+  "originator": "georgeguimaraes",
+  "tags": [
+    "ai",
+    "awesome",
+    "awesome-list",
+    "elixir",
+    "elixir-lang",
+    "elixir-language",
+    "elixir-programming-language",
+    "machine-learning",
+    "ml"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-04-29",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/georgeguimaraes/awesome-ml-gen-ai-elixir"
+  ],
+  "highlight": "Comprehensive collection of machine learning resources specifically for the Elixir programming language."
+}

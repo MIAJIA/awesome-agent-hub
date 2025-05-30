@@ -1,0 +1,43 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the automation and orchestration of cloud-native infrastructure and DevOps tasks",
+  "principle": "Leverages Kubernetes and cloud-native technologies to automate infrastructure management and DevOps workflows",
+  "reusability": "Offers integration with Kubernetes and other cloud-native tools, supports extensible plugins for custom workflows",
+  "limitations": "Primarily focused on Kubernetes environments; may require adaptation for non-cloud-native infrastructures",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Kubernetes"
+  ],
+  "stack": [
+    "Python",
+    "Kubernetes",
+    "Docker",
+    "Helm",
+    "Prometheus"
+  ],
+  "name": "kagent",
+  "slug": "kagent-dev-kagent",
+  "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+  "repository": "https://github.com/kagent-dev/kagent",
+  "stars": 821,
+  "originator": "kagent-dev",
+  "tags": [
+    "agents",
+    "ai",
+    "cncf",
+    "devops",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/kagent-dev/kagent/wiki",
+    "https://github.com/kagent-dev/kagent/issues",
+    "https://bit.ly/kagentdiscord"
+  ],
+  "highlight": "Cloud-native AI agent designed for DevOps and infrastructure automation"
+}

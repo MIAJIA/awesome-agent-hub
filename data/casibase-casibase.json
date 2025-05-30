@@ -1,0 +1,57 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the management and orchestration of AI models and agents across various platforms, enhancing enterprise AI capabilities.",
+  "principle": "Built on a model-context-protocol (MCP) and agent-to-agent (A2A) management framework, supporting integration with leading AI models like ChatGPT, Claude, and Llama.",
+  "reusability": "Offers an admin UI and APIs for integrating various AI models and agents, supports Single-Sign-On and user management for enterprise use.",
+  "limitations": "Currently in alpha stage, may have stability issues and limited documentation for end-users.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "OpenAI",
+    "Anthropic",
+    "Hugging Face",
+    "PostgreSQL"
+  ],
+  "name": "casibase",
+  "slug": "casibase-casibase",
+  "description": "⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",
+  "repository": "https://github.com/casibase/casibase",
+  "stars": 3668,
+  "originator": "casibase",
+  "tags": [
+    "a2a",
+    "agent",
+    "agi",
+    "casibase",
+    "chatbot",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "gpt",
+    "huggingface",
+    "knowledge-base",
+    "langchain",
+    "llama",
+    "llm",
+    "manus",
+    "mcp",
+    "model-context-protocol",
+    "multi-agent",
+    "openai",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Go",
+  "useful_links": [
+    "https://ai.casibase.com",
+    "https://ai-admin.casibase.com",
+    "https://github.com/casibase/casibase"
+  ],
+  "highlight": "Enterprise-level AI knowledge base and multi-agent management platform with robust admin UI and user management."
+}

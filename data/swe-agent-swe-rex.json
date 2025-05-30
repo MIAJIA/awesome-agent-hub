@@ -1,0 +1,47 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate secure and efficient execution of code for AI agents both locally and in the cloud, supporting parallel processing.",
+  "principle": "Utilizes Docker for containerized execution to ensure isolation and security, with support for cloud deployment on AWS Fargate.",
+  "reusability": "Designed to be easily extendable and integrable with other AI agent frameworks, providing APIs for execution management.",
+  "limitations": "Requires Docker for local execution, cloud deployment limited to AWS services, potential overhead in container management.",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "AWS"
+  ],
+  "stack": [
+    "Python",
+    "Docker",
+    "AWS Fargate",
+    "Flask"
+  ],
+  "name": "SWE-ReX",
+  "slug": "swe-agent-swe-rex",
+  "description": "Sandboxed code execution for AI agents, locally or on the cloud. Massively parallel, easy to extend. Powering SWE-agent and more. ",
+  "repository": "https://github.com/SWE-agent/SWE-ReX",
+  "stars": 199,
+  "originator": "SWE-agent",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "aws",
+    "cloud",
+    "coding-agents",
+    "docker",
+    "fargate",
+    "modal",
+    "swe-agent"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/SWE-agent/SWE-ReX/blob/main/README.md",
+    "https://github.com/SWE-agent/SWE-ReX/wiki",
+    "https://github.com/SWE-agent/SWE-ReX/issues"
+  ],
+  "highlight": "Massively parallel sandboxed code execution for AI agents, enabling secure and scalable computation."
+}

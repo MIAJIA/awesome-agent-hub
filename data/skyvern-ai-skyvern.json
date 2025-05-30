@@ -1,0 +1,47 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Automate browser-based workflows using advanced AI techniques",
+  "principle": "Integrates Large Language Models (LLMs) with Computer Vision to interact and automate tasks within web browsers",
+  "reusability": "Offers a modular architecture with APIs for easy integration into existing systems, supports custom workflow definitions",
+  "limitations": "May encounter limitations with dynamic web content, requires specific browser configurations",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Playwright",
+    "OpenAI"
+  ],
+  "name": "skyvern",
+  "slug": "skyvern-ai-skyvern",
+  "description": "Automate browser-based workflows with LLMs and Computer Vision",
+  "repository": "https://github.com/Skyvern-AI/skyvern",
+  "stars": 13448,
+  "originator": "Skyvern-AI",
+  "tags": [
+    "api",
+    "automation",
+    "browser",
+    "browser-automation",
+    "computer",
+    "gpt",
+    "llm",
+    "playwright",
+    "python",
+    "rpa",
+    "vision",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Skyvern-AI/skyvern/wiki",
+    "https://github.com/Skyvern-AI/skyvern/tree/main/examples"
+  ],
+  "highlight": "Combines LLMs and Computer Vision to automate complex browser workflows"
+}

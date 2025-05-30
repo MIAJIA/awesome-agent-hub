@@ -1,0 +1,57 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "Streamline email management and improve productivity by automating categorization and response drafting.",
+  "principle": "Utilizes large language models (LLMs) to process and analyze email content for efficient management.",
+  "reusability": "Offers integration with Gmail, Outlook, and any IMAP service, potentially through APIs for extensibility.",
+  "limitations": "Dependent on email service permissions; may face limitations with non-standard email configurations.",
+  "platforms": [
+    "Web",
+    "Gmail",
+    "Outlook"
+  ],
+  "stack": [
+    "Vue",
+    "Node.js",
+    "IMAP",
+    "SMTP",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "name": "aomail-app",
+  "slug": "aomail-ai-aomail-app",
+  "description": "Aomail is an AI interface that connects to Gmail, Outlook, or any IMAP service. It leverages LLMs to categorize, summarize, prioritize, and help write & reply to emails faster. Google-verified, TAC Security–assessed",
+  "repository": "https://github.com/aomail-ai/aomail-app",
+  "stars": 134,
+  "originator": "aomail-ai",
+  "tags": [
+    "ai",
+    "anthropic",
+    "automation",
+    "email",
+    "email-automation",
+    "email-management",
+    "emails",
+    "gemini",
+    "gmail",
+    "imap",
+    "mistral",
+    "openai",
+    "outlook",
+    "productivity",
+    "productivity-app",
+    "productivity-tools",
+    "smtp",
+    "workflow-automation"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-04-04",
+  "language": "Vue",
+  "useful_links": [
+    "https://github.com/aomail-ai/aomail-app/blob/main/README.md",
+    "https://github.com/aomail-ai/aomail-app/wiki",
+    "https://github.com/aomail-ai/aomail-app/issues"
+  ],
+  "highlight": "Integrates AI to enhance email management by categorizing, summarizing, and prioritizing emails."
+}

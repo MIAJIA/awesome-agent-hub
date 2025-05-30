@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development of autonomous agents in Java with capabilities for AI integration and multi-agent coordination",
+  "principle": "Utilizes a multi-AI voting mechanism to enhance decision-making and integrates various AI models for diverse functionalities",
+  "reusability": "Offers a Java-based framework with REST API support, enabling easy integration with existing Java applications and workflows",
+  "limitations": "Currently in alpha stage, may have limited documentation and support for non-Java environments",
+  "platforms": [
+    "Java Virtual Machine (JVM)"
+  ],
+  "stack": [
+    "Java",
+    "OpenAI",
+    "Anthropic",
+    "Gemini",
+    "Selenium"
+  ],
+  "name": "Tools4AI",
+  "slug": "vishalmysore-tools4ai",
+  "description": "Agentic Framework for Java, written in 100% Java using  Gemini, OpenAI, LocalAI, Anthropic. Build Autonomous Agents in Java with Multi AI voting mechanism. Convert Prompt to HTTP REST Calls, Java Method calls, Shell script calls or swagger rest api calls. Selenium AI Integration, Image processing with AI, Actions on Images with AI",
+  "repository": "https://github.com/vishalmysore/Tools4AI",
+  "stars": 139,
+  "originator": "vishalmysore",
+  "tags": [
+    "ai",
+    "anthropic",
+    "artificial-intelligence",
+    "gemini",
+    "gemini-api",
+    "java",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/vishalmysore/Tools4AI#readme",
+    "https://github.com/vishalmysore/Tools4AI/wiki"
+  ],
+  "highlight": "Multi AI voting mechanism for building autonomous agents in Java"
+}

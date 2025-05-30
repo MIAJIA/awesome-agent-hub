@@ -1,0 +1,45 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide beginners with a structured learning path for developing AI agents through practical lessons",
+  "principle": "Uses Jupyter Notebooks to deliver interactive lessons and hands-on exercises, leveraging popular AI frameworks and libraries",
+  "reusability": "Lessons can be reused as educational modules or templates for building custom AI agents; open-source under MIT license",
+  "limitations": "Primarily targeted at beginners; may not cover advanced AI agent development concepts or use cases",
+  "platforms": [
+    "Cross-platform",
+    "Jupyter Notebook"
+  ],
+  "stack": [
+    "Jupyter Notebook",
+    "Python",
+    "OpenAI",
+    "LangChain",
+    "Semantic Kernel"
+  ],
+  "name": "ai-agents-for-beginners",
+  "slug": "microsoft-ai-agents-for-beginners",
+  "description": "11 Lessons to Get Started Building AI Agents",
+  "repository": "https://github.com/microsoft/ai-agents-for-beginners",
+  "stars": 21914,
+  "originator": "microsoft",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-rag",
+    "ai-agents",
+    "ai-agents-framework",
+    "autogen",
+    "generative-ai",
+    "semantic-kernel"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/microsoft/ai-agents-for-beginners#readme",
+    "https://github.com/microsoft/ai-agents-for-beginners/issues",
+    "https://github.com/microsoft/ai-agents-for-beginners/wiki"
+  ],
+  "highlight": "Comprehensive educational resource with practical lessons for building AI agents"
+}

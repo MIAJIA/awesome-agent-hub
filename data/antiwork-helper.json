@@ -1,0 +1,38 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Facilitate customer support by automating responses and managing support tickets",
+  "principle": "Built on a TypeScript framework, leveraging machine learning for natural language processing to understand and respond to customer inquiries",
+  "reusability": "Offers API endpoints for integration with existing customer support systems, customizable workflows, and response templates",
+  "limitations": "Limited to predefined response scenarios, requires initial setup of knowledge base and support workflows, may not handle complex support queries effectively",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "name": "helper",
+  "slug": "antiwork-helper",
+  "description": "Customer support agents",
+  "repository": "https://github.com/antiwork/helper",
+  "stars": 375,
+  "originator": "antiwork",
+  "tags": [
+    "customer support",
+    "automation",
+    "NLP",
+    "ticket management"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/antiwork/helper#readme",
+    "https://github.com/antiwork/helper/wiki"
+  ]
+}

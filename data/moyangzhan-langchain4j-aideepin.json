@@ -1,0 +1,39 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To enhance productivity by providing AI-driven tools for communication, creative tasks, and workflow management",
+  "principle": "Leverages AI technologies such as LangChain4j for natural language processing and workflow automation",
+  "reusability": "Offers modular components that can be integrated into existing systems for chat, drawing, and workflow functions",
+  "limitations": "Currently in alpha stage, may have limited functionality and potential bugs",
+  "platforms": [
+    "Java Runtime Environment"
+  ],
+  "stack": [
+    "Java",
+    "LangChain4j",
+    "Spring Boot"
+  ],
+  "name": "langchain4j-aideepin",
+  "slug": "moyangzhan-langchain4j-aideepin",
+  "description": "基于AI的工作效率提升工具（聊天、绘画、知识库、工作流） | Ai-based productivity tools (Chat,Draw,RAG,Workflow etc)",
+  "repository": "https://github.com/moyangzhan/langchain4j-aideepin",
+  "stars": 721,
+  "originator": "moyangzhan",
+  "tags": [
+    "ai-agent",
+    "ai-workflow",
+    "graphrag",
+    "knowlege-base",
+    "langchain4j",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/moyangzhan/langchain4j-aideepin#readme",
+    "https://github.com/moyangzhan/langchain4j-aideepin/wiki"
+  ],
+  "highlight": "Integrates AI capabilities for enhanced productivity through chat, drawing, and workflow automation"
+}

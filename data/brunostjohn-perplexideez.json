@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates intelligent search across web and local applications using AI agents.",
+  "principle": "Utilizes AI-driven search algorithms to aggregate and retrieve information from multiple sources.",
+  "reusability": "Offers integration capabilities with local applications, supports customization for different search needs.",
+  "limitations": "Alpha status indicates potential instability, may have limited support for diverse data sources.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Svelte",
+    "Node.js",
+    "JavaScript"
+  ],
+  "name": "perplexideez",
+  "slug": "brunostjohn-perplexideez",
+  "description": "Search the web and your self-hosted apps using local AI agents.",
+  "repository": "https://github.com/brunostjohn/perplexideez",
+  "stars": 445,
+  "originator": "brunostjohn",
+  "tags": [
+    "AI",
+    "search",
+    "local applications",
+    "web integration"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2024-11-17",
+  "language": "Svelte",
+  "useful_links": [
+    "https://github.com/brunostjohn/perplexideez#readme"
+  ],
+  "highlight": "Enables local AI agents to search both the web and self-hosted applications."
+}

@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development, evaluation, and deployment of AI agents in a customizable and controlled manner.",
+  "principle": "Built on a code-first approach using Python, allowing developers to leverage existing machine learning frameworks and libraries.",
+  "reusability": "Highly modular with plug-and-play components, supports integration with various AI frameworks and tools.",
+  "limitations": "Currently in alpha stage, may have limited documentation and community support, potential for breaking changes.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "name": "adk-docs",
+  "slug": "google-adk-docs",
+  "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "repository": "https://github.com/google/adk-docs",
+  "stars": 232,
+  "originator": "google",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "HTML",
+  "useful_links": [
+    "https://github.com/google/adk-docs/blob/main/README.md",
+    "https://github.com/google/adk-docs/wiki",
+    "https://github.com/google/adk-docs/issues"
+  ],
+  "highlight": "Provides a comprehensive toolkit for building and deploying AI agents with a focus on flexibility and control."
+}

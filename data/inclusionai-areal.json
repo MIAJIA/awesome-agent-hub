@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development and deployment of distributed reinforcement learning systems to enhance reasoning capabilities in large language models.",
+  "principle": "Builds on distributed reinforcement learning techniques, integrating with large language models to improve reasoning and decision-making capabilities.",
+  "reusability": "Designed for integration with existing ML systems; offers APIs and modular components for easy adaptation and scaling in various environments.",
+  "limitations": "Currently in alpha stage, may have limited stability and support; designed primarily for research and experimental applications.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Ray",
+    "OpenAI Gym"
+  ],
+  "name": "AReaL",
+  "slug": "inclusionai-areal",
+  "description": "Distributed RL System for LLM Reasoning",
+  "repository": "https://github.com/inclusionAI/AReaL",
+  "stars": 1282,
+  "originator": "inclusionAI",
+  "tags": [
+    "llm",
+    "llm-reasoning",
+    "machine-learning-systems",
+    "mlsys",
+    "reinforcement-learning",
+    "rl"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/inclusionAI/AReaL/blob/main/README.md",
+    "https://github.com/inclusionAI/AReaL/wiki",
+    "https://github.com/inclusionAI/AReaL/issues"
+  ],
+  "highlight": "Enables distributed reinforcement learning specifically tailored for reasoning tasks in large language models."
+}

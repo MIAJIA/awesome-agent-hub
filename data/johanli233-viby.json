@@ -1,0 +1,50 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "Enhance terminal productivity by integrating AI-powered capabilities directly into the command line.",
+  "principle": "Leverages large language models (LLMs) to provide AI-driven command suggestions, automation, and assistance within terminal environments.",
+  "reusability": "Designed to be integrated into Linux terminal workflows, offering plug-and-play AI features for command line users.",
+  "limitations": "Primarily supports Linux environments and may require specific terminal configurations for optimal performance.",
+  "platforms": [
+    "Linux",
+    "Terminal"
+  ],
+  "stack": [
+    "Python",
+    "GPT",
+    "Shell",
+    "Linux"
+  ],
+  "name": "Viby",
+  "slug": "johanli233-viby",
+  "description": "Viby vibes everything.",
+  "repository": "https://github.com/JohanLi233/Viby",
+  "stars": 166,
+  "originator": "JohanLi233",
+  "tags": [
+    "agent",
+    "ai",
+    "generative-ai",
+    "gpt",
+    "linux",
+    "llm",
+    "mcp",
+    "productivity",
+    "python3",
+    "qwen3",
+    "qwen3-moe",
+    "rag",
+    "shell",
+    "shell-gpt",
+    "terminal",
+    "terminalgpt",
+    "tools",
+    "uv"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [],
+  "highlight": "Seamlessly integrates AI capabilities into the terminal, enhancing command line productivity and workflow efficiency."
+}

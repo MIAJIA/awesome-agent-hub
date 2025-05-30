@@ -1,0 +1,47 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and simulation of agent-based models to study complex systems and phenomena",
+  "principle": "Built on the Julia programming language, leveraging its high-performance capabilities for efficient simulations",
+  "reusability": "Highly modular with a flexible API, allowing easy integration and extension for custom agent-based models",
+  "limitations": "Primarily focused on users familiar with the Julia programming language, may have a learning curve for newcomers",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Julia"
+  ],
+  "name": "Agents.jl",
+  "slug": "juliadynamics-agents-jl",
+  "description": "Agent-based modeling framework in Julia",
+  "repository": "https://github.com/JuliaDynamics/Agents.jl",
+  "stars": 817,
+  "originator": "JuliaDynamics",
+  "tags": [
+    "abm",
+    "agent-based-framework",
+    "agent-based-modeling",
+    "agent-based-simulation",
+    "agents",
+    "cellular-automata",
+    "complex-systems",
+    "hacktoberfest",
+    "heterogeneous-agent-model",
+    "individual-based-modelling",
+    "julia",
+    "julialang",
+    "simulation",
+    "simulation-framework"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-12",
+  "language": "Julia",
+  "useful_links": [
+    "https://github.com/JuliaDynamics/Agents.jl",
+    "https://juliadynamics.github.io/Agents.jl/stable/"
+  ],
+  "highlight": "Flexible and high-performance agent-based modeling framework for complex systems"
+}

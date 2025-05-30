@@ -1,0 +1,56 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive platform for building and deploying AI agents with minimal coding",
+  "principle": "Utilizes RAG (Retrieval-Augmented Generation) and no-code tools to streamline AI agent development",
+  "reusability": "Offers a no-code agent builder and Docker support for easy deployment, with MCP compatibility for extended integrations",
+  "limitations": "Still in alpha stage, may have limited documentation and community support, potential stability issues",
+  "platforms": [
+    "Desktop",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Docker",
+    "Node.js",
+    "RAG",
+    "MCP"
+  ],
+  "name": "anything-llm",
+  "slug": "mintplex-labs-anything-llm",
+  "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
+  "repository": "https://github.com/Mintplex-Labs/anything-llm",
+  "stars": 44597,
+  "originator": "Mintplex-Labs",
+  "tags": [
+    "agent-framework-javascript",
+    "ai-agents",
+    "custom-ai-agents",
+    "deepseek",
+    "deepseek-r1",
+    "llama3",
+    "llm",
+    "llm-webui",
+    "lmstudio",
+    "local-llm",
+    "localai",
+    "mcp",
+    "mcp-servers",
+    "multimodal",
+    "no-code",
+    "ollama",
+    "qwen3",
+    "rag",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-29",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/Mintplex-Labs/anything-llm#readme",
+    "https://github.com/Mintplex-Labs/anything-llm/wiki",
+    "https://github.com/Mintplex-Labs/anything-llm/issues"
+  ],
+  "highlight": "All-in-one AI application with built-in RAG, no-code agent builder, and MCP compatibility"
+}

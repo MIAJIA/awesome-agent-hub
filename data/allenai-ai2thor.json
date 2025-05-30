@@ -1,0 +1,41 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To facilitate research and development in visual AI by providing a realistic simulation environment.",
+  "principle": "Built on Unity3D, it uses a physics engine to simulate real-world environments and interactions for training AI models.",
+  "reusability": "Offers a Python API for easy integration with AI models, supports custom scene creation and interaction scripting.",
+  "limitations": "Requires a compatible GPU for rendering, limited to scenarios predefined in the environment or custom-built by users.",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "C#",
+    "Unity3D",
+    "Python"
+  ],
+  "name": "ai2thor",
+  "slug": "allenai-ai2thor",
+  "description": "An open-source platform for Visual AI.",
+  "repository": "https://github.com/allenai/ai2thor",
+  "stars": 1388,
+  "originator": "allenai",
+  "tags": [
+    "artificial-intelligence",
+    "computer-vision",
+    "interaction",
+    "physics-engine",
+    "visual-ai"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/allenai/ai2thor/wiki",
+    "https://ai2thor.allenai.org/",
+    "https://github.com/allenai/ai2thor/tree/main/examples"
+  ],
+  "highlight": "Provides a highly interactive and realistic 3D environment for visual AI research and development."
+}

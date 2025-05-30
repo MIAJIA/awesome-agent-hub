@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable the development and coordination of multiple AI agents to perform complex tasks",
+  "principle": "Built on a modular architecture using TypeScript, allowing for flexible agent creation and orchestration",
+  "reusability": "Offers APIs for agent integration and supports modular plugin architecture for extensibility",
+  "limitations": "Still in alpha with limited documentation and potential stability issues",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Docker"
+  ],
+  "name": "openagents",
+  "slug": "openagentsinc-openagents",
+  "description": "The platform for AI agents. (wip)",
+  "repository": "https://github.com/OpenAgentsInc/openagents",
+  "stars": 241,
+  "originator": "OpenAgentsInc",
+  "tags": [],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-14",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/OpenAgentsInc/openagents/wiki",
+    "https://github.com/OpenAgentsInc/openagents/issues"
+  ],
+  "highlight": "A comprehensive platform for building and orchestrating AI agents"
+}

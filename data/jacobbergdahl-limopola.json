@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates interaction with multiple AI models through a unified platform, supporting diverse AI-driven tasks.",
+  "principle": "Leverages autonomous agents and a model-agnostic framework to enable seamless communication with various AI models.",
+  "reusability": "Offers a modular architecture with APIs for integrating different AI models and customizing agent behaviors.",
+  "limitations": "Early-stage development with potential stability issues; limited documentation for extensive customization.",
+  "platforms": [
+    "Docker",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Docker",
+    "GraphQL"
+  ],
+  "name": "limopola",
+  "slug": "jacobbergdahl-limopola",
+  "description": "Limopola is an AI platform that allows you to communicate with a wide range of AI models. It features autonomous agents, model-agnostic reasoning, and more.",
+  "repository": "https://github.com/jacobbergdahl/limopola",
+  "stars": 103,
+  "originator": "jacobbergdahl",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/jacobbergdahl/limopola#readme",
+    "https://github.com/jacobbergdahl/limopola/wiki"
+  ],
+  "highlight": "Enables communication with a wide range of AI models using autonomous agents and model-agnostic reasoning."
+}

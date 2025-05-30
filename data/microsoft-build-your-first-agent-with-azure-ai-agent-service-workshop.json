@@ -1,0 +1,37 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Educate developers on creating AI agents using Azure's AI Agent Service",
+  "principle": "Leverages Azure AI services and Bicep for infrastructure as code to deploy and manage AI agents",
+  "reusability": "Designed as a workshop with reusable templates and scripts for Azure AI deployment",
+  "limitations": "Primarily an educational resource, not a production-ready solution; requires Azure subscription",
+  "platforms": [
+    "Azure"
+  ],
+  "stack": [
+    "Azure AI Agent Service",
+    "Bicep",
+    "Azure Functions",
+    "Azure Cognitive Services"
+  ],
+  "name": "build-your-first-agent-with-azure-ai-agent-service-workshop",
+  "slug": "microsoft-build-your-first-agent-with-azure-ai-agent-service-workshop",
+  "description": "Build your first agent with Azure AI Agent Service Workshop",
+  "repository": "https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop",
+  "stars": 280,
+  "originator": "microsoft",
+  "tags": [
+    "agents",
+    "azure",
+    "azure-ai-agent-service"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Bicep",
+  "useful_links": [
+    "https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop/blob/main/README.md",
+    "https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop/tree/main/docs"
+  ],
+  "highlight": "Comprehensive workshop to build an AI agent using Azure AI Agent Service"
+}

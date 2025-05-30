@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a standard library for developing AI agents that can work with any large language model (LLM) using TypeScript.",
+  "principle": "Built on TypeScript, it leverages modular components to integrate with various LLMs, enabling developers to create and manage AI agents efficiently.",
+  "reusability": "Highly composable with TypeScript SDKs, supports integration with different LLMs, and offers a modular architecture for building custom AI agents.",
+  "limitations": "As it is in alpha status, it may lack comprehensive documentation and stability, and there could be limited support for non-TypeScript environments.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "OpenAI API"
+  ],
+  "name": "agentic",
+  "slug": "transitive-bullshit-agentic",
+  "description": "AI agent stdlib that works with any LLM and TypeScript AI SDK.",
+  "repository": "https://github.com/transitive-bullshit/agentic",
+  "stars": 17579,
+  "originator": "transitive-bullshit",
+  "tags": [
+    "agents",
+    "ai",
+    "llms",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/transitive-bullshit/agentic#readme",
+    "https://github.com/transitive-bullshit/agentic/issues",
+    "https://github.com/transitive-bullshit/agentic/wiki"
+  ],
+  "highlight": "Flexible AI agent standard library compatible with any LLM and TypeScript AI SDK."
+}

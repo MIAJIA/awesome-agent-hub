@@ -1,0 +1,33 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the deployment and management of AI agent services on personal or cloud infrastructure",
+  "principle": "Leverages containerization and shell scripting for deployment and management of AI services",
+  "reusability": "Designed for plug-and-play deployment with configurable settings for various AI services",
+  "limitations": "Primarily supports shell scripting environments; may require additional configuration for non-standard setups",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Shell",
+    "Docker",
+    "Kubernetes"
+  ],
+  "name": "gaianet-node",
+  "slug": "gaianet-ai-gaianet-node",
+  "description": "Install and run your own AI agent service",
+  "repository": "https://github.com/GaiaNet-AI/gaianet-node",
+  "stars": 4951,
+  "originator": "GaiaNet-AI",
+  "tags": [],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-19",
+  "language": "Shell",
+  "useful_links": [
+    "https://github.com/GaiaNet-AI/gaianet-node/blob/main/README.md",
+    "https://github.com/GaiaNet-AI/gaianet-node/wiki"
+  ],
+  "highlight": "Enables users to host and operate their own AI agent services with ease"
+}

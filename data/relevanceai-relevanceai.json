@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the management and orchestration of AI agents for tasks involving unstructured data and vector search.",
+  "principle": "Leverages vector databases and embeddings for efficient search and clustering of unstructured data, utilizing advanced NLP and computer vision techniques.",
+  "reusability": "Offers APIs for integration with existing systems, supports Python-based development for custom agent configurations.",
+  "limitations": "Primarily focused on vector search and clustering; may require significant customization for specific use cases outside these domains.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Vector Databases",
+    "NLP",
+    "Embeddings",
+    "Computer Vision"
+  ],
+  "name": "relevanceai",
+  "slug": "relevanceai-relevanceai",
+  "description": "Home of the AI workforce - Multi-agent system, AI agents & tools",
+  "repository": "https://github.com/RelevanceAI/relevanceai",
+  "stars": 234,
+  "originator": "RelevanceAI",
+  "tags": [
+    "clustering",
+    "computer-vision",
+    "embeddings",
+    "natural-language-processing",
+    "nlp",
+    "python",
+    "search",
+    "search-engine",
+    "unstructured-data",
+    "vector-database",
+    "vector-search"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-04",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/RelevanceAI/relevanceai#readme",
+    "https://github.com/RelevanceAI/relevanceai/wiki",
+    "https://github.com/RelevanceAI/relevanceai/issues"
+  ],
+  "highlight": "Multi-agent system designed for AI workforce management with advanced vector search capabilities."
+}

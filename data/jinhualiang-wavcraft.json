@@ -1,0 +1,40 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "Enable AI-driven audio creation and editing through advanced sound synthesis and manipulation techniques.",
+  "principle": "Leverages machine learning algorithms for audio synthesis and editing, utilizing Python libraries for sound processing.",
+  "reusability": "Offers modular components for integration into larger audio processing workflows, with API support for custom extensions.",
+  "limitations": "Limited to specific audio formats and may require significant computational resources for complex tasks.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "SciPy",
+    "Librosa"
+  ],
+  "name": "WavCraft",
+  "slug": "jinhualiang-wavcraft",
+  "description": "Official repo for WavCraft, an AI agent for audio creation and editing",
+  "repository": "https://github.com/JinhuaLiang/WavCraft",
+  "stars": 522,
+  "originator": "JinhuaLiang",
+  "tags": [
+    "audio",
+    "AI",
+    "sound synthesis",
+    "audio editing"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-02-15",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/JinhuaLiang/WavCraft/blob/main/README.md",
+    "https://github.com/JinhuaLiang/WavCraft/wiki"
+  ],
+  "highlight": "Advanced AI capabilities for creative audio synthesis and editing, providing unique sound design tools."
+}

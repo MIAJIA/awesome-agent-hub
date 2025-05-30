@@ -1,0 +1,44 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "Enhance personal productivity by organizing and retrieving knowledge using AI",
+  "principle": "Utilizes LangChain and ChatGPT for natural language processing and knowledge management",
+  "reusability": "Offers integration with ChatGPT API and LangChain for customizable AI-driven knowledge management",
+  "limitations": "Primarily focused on personal knowledge management, may require customization for broader applications",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "ChatGPT",
+    "OpenAI API"
+  ],
+  "name": "second-brain-agent",
+  "slug": "flepied-second-brain-agent",
+  "description": "🧠 Second Brain AI agent",
+  "repository": "https://github.com/flepied/second-brain-agent",
+  "stars": 225,
+  "originator": "flepied",
+  "tags": [
+    "artificial-intelligence",
+    "chatgpt",
+    "chatgpt-api",
+    "chatgpt-bot",
+    "langchain",
+    "langchain-python",
+    "personal-knowledge-management",
+    "pkm",
+    "second-brain"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-04-14",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/flepied/second-brain-agent/blob/main/README.md",
+    "https://github.com/flepied/second-brain-agent/wiki"
+  ],
+  "highlight": "Integrates personal knowledge management with AI to create a 'second brain' for users"
+}

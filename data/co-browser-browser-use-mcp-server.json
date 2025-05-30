@@ -1,0 +1,39 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates automated web browsing and interaction from within various applications",
+  "principle": "Utilizes Playwright for headless browser automation and interaction",
+  "reusability": "Offers a server-based API for integrating web browsing capabilities into other applications",
+  "limitations": "Primarily supports web-based tasks; may have limitations with complex web page interactions",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Playwright"
+  ],
+  "name": "browser-use-mcp-server",
+  "slug": "co-browser-browser-use-mcp-server",
+  "description": "Browse the web, directly from Cursor etc.",
+  "repository": "https://github.com/co-browser/browser-use-mcp-server",
+  "stars": 513,
+  "originator": "co-browser",
+  "tags": [
+    "browser",
+    "browser-use",
+    "cursor",
+    "mcp",
+    "mcp-server",
+    "playwright"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/co-browser/browser-use-mcp-server/blob/main/README.md",
+    "https://github.com/co-browser/browser-use-mcp-server/wiki"
+  ],
+  "highlight": "Enables web browsing capabilities directly from applications like Cursor using Playwright"
+}

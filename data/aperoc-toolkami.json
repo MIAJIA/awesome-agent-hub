@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a simple yet effective framework for building AI agents with minimal dependencies.",
+  "principle": "Built on Python, it leverages a lightweight architecture focusing on essential tools to ensure ease of use and quick deployment.",
+  "reusability": "Designed for plug-and-play with seven core tools, offering a straightforward API for integration and customization.",
+  "limitations": "Limited to predefined tools, may not support complex use cases requiring extensive customization or additional tools.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Flask"
+  ],
+  "name": "toolkami",
+  "slug": "aperoc-toolkami",
+  "description": "Minimal AI agent framework that just works with only seven tools.",
+  "repository": "https://github.com/aperoc/toolkami",
+  "stars": 501,
+  "originator": "aperoc",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-18",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/aperoc/toolkami/blob/main/README.md",
+    "https://github.com/aperoc/toolkami/wiki",
+    "https://github.com/aperoc/toolkami/issues"
+  ],
+  "highlight": "Minimalistic AI agent framework with only seven essential tools for streamlined functionality."
+}

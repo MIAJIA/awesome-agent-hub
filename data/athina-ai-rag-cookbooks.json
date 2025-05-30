@@ -1,0 +1,55 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Provide advanced methodologies and examples for building and optimizing Retrieval-Augmented Generation systems.",
+  "principle": "Utilizes vector databases like Pinecone, Weaviate, and Qdrant, combined with LLMs such as OpenAI to enhance information retrieval and generation.",
+  "reusability": "Includes modular examples and tutorials that can be adapted for various RAG implementations, supporting multiple vector database integrations.",
+  "limitations": "Primarily focused on Python and Jupyter Notebook environments; limited to the vector databases explicitly supported.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "OpenAI",
+    "LangChain",
+    "Pinecone",
+    "Weaviate",
+    "Qdrant",
+    "ChromaDB",
+    "Faiss"
+  ],
+  "name": "rag-cookbooks",
+  "slug": "athina-ai-rag-cookbooks",
+  "description": "This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.",
+  "repository": "https://github.com/athina-ai/rag-cookbooks",
+  "stars": 1917,
+  "originator": "athina-ai",
+  "tags": [
+    "ai",
+    "chromadb",
+    "cookbooks",
+    "faiss",
+    "langchain",
+    "llm",
+    "llms",
+    "openai",
+    "pinecone",
+    "python",
+    "qdrant",
+    "rag",
+    "tutorials",
+    "weaviate"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-17",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/athina-ai/rag-cookbooks/blob/main/README.md",
+    "https://github.com/athina-ai/rag-cookbooks/tree/main/examples",
+    "https://github.com/athina-ai/rag-cookbooks/tree/main/docs"
+  ],
+  "highlight": "Comprehensive techniques for enhancing Retrieval-Augmented Generation (RAG) systems with various vector databases and LLM integrations."
+}

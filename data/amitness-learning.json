@@ -1,0 +1,38 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Document and share a comprehensive log of learning resources and insights related to AI and machine learning.",
+  "principle": "Curates and organizes learning materials and notes across various AI and ML topics, making them accessible and searchable.",
+  "reusability": "The repository serves as a public resource for anyone interested in AI and ML, offering categorized insights and references.",
+  "limitations": "Primarily a static collection of notes and resources; not an interactive learning platform or tool.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub Pages"
+  ],
+  "name": "learning",
+  "slug": "amitness-learning",
+  "description": "A log of things I'm learning",
+  "repository": "https://github.com/amitness/learning",
+  "stars": 6541,
+  "originator": "amitness",
+  "tags": [
+    "deep-learning",
+    "generative-ai",
+    "learning-resources",
+    "llms",
+    "machine-learning",
+    "nlp",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-06",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/amitness/learning"
+  ],
+  "highlight": "Extensive compilation of AI and machine learning learning resources and personal insights."
+}

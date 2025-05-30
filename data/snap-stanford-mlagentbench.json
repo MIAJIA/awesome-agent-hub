@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a standardized platform for assessing and comparing the capabilities of different machine learning agents",
+  "principle": "Utilizes a suite of pre-defined tasks and environments to measure agent performance, leveraging Python-based tools and libraries",
+  "reusability": "Easily extensible with custom tasks and environments, supports integration with various ML frameworks",
+  "limitations": "Limited to the predefined tasks and environments unless extended by users, requires familiarity with Python and ML frameworks for customization",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "NumPy",
+    "Gym"
+  ],
+  "name": "MLAgentBench",
+  "slug": "snap-stanford-mlagentbench",
+  "description": "N/A",
+  "repository": "https://github.com/snap-stanford/MLAgentBench",
+  "stars": 290,
+  "originator": "snap-stanford",
+  "tags": [
+    "benchmarking",
+    "machine learning",
+    "agents",
+    "evaluation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-06-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/snap-stanford/MLAgentBench/blob/main/README.md",
+    "https://github.com/snap-stanford/MLAgentBench/wiki",
+    "https://github.com/snap-stanford/MLAgentBench/tree/main/examples"
+  ],
+  "highlight": "Benchmarking platform for evaluating the performance of machine learning agents across various tasks and environments"
+}

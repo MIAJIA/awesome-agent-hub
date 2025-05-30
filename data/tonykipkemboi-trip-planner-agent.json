@@ -1,0 +1,41 @@
+{
+  "category": "lifestyle",
+  "status": "alpha",
+  "purpose": "To assist users in planning vacations by providing AI-generated travel itineraries and recommendations.",
+  "principle": "Utilizes AI models to analyze user preferences and generate personalized travel plans, leveraging data from various sources for enhanced recommendations.",
+  "reusability": "Offers API endpoints for integration into travel platforms, customizable itinerary templates, and supports user-specific travel preferences.",
+  "limitations": "Limited to certain geographic locations, dependent on data availability for accurate recommendations, and may require internet connectivity for real-time updates.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Flask"
+  ],
+  "name": "trip_planner_agent",
+  "slug": "tonykipkemboi-trip-planner-agent",
+  "description": "CrewAI agents that can plan your vacation.",
+  "repository": "https://github.com/tonykipkemboi/trip_planner_agent",
+  "stars": 125,
+  "originator": "tonykipkemboi",
+  "tags": [
+    "crewai",
+    "llm",
+    "llms",
+    "open-source",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-06-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/tonykipkemboi/trip_planner_agent/blob/main/README.md",
+    "https://github.com/tonykipkemboi/trip_planner_agent/wiki",
+    "https://github.com/tonykipkemboi/trip_planner_agent/issues"
+  ],
+  "highlight": "Intelligent vacation planning with AI-driven itinerary suggestions and travel insights."
+}

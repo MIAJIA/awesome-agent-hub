@@ -1,0 +1,47 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Facilitate interaction with WhatsApp Web multi-device version through an API, enabling automation and integration with other systems",
+  "principle": "Builds on the Go programming language to interface with WhatsApp Web's multi-device capabilities, providing a RESTful API and webhook support",
+  "reusability": "Offers a REST API for easy integration, supports webhooks for event-driven interactions, and includes a user interface for management",
+  "limitations": "Dependent on WhatsApp Web's stability and updates; may require frequent maintenance to adapt to changes in WhatsApp's web protocols",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Go",
+    "WhatsApp Web API",
+    "REST"
+  ],
+  "name": "go-whatsapp-web-multidevice",
+  "slug": "aldinokemal-go-whatsapp-web-multidevice",
+  "description": "API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP",
+  "repository": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+  "stars": 874,
+  "originator": "aldinokemal",
+  "tags": [
+    "bot",
+    "go",
+    "golang",
+    "golang-whatsapp",
+    "golang-whatsapp-api",
+    "rest",
+    "rest-api",
+    "whatsapp",
+    "whatsapp-api",
+    "whatsapp-api-go",
+    "whatsapp-multi-device",
+    "whatsapp-web-multi-device"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-25",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/aldinokemal/go-whatsapp-web-multidevice#readme",
+    "https://github.com/aldinokemal/go-whatsapp-web-multidevice/wiki"
+  ],
+  "highlight": "Supports WhatsApp Web multi-device API with UI, Webhook, and MCP integration"
+}

@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a standardized environment to assess and compare the capabilities of multimodal AI agents",
+  "principle": "Utilizes a set of predefined tasks and scenarios to test multimodal agent capabilities across different modalities",
+  "reusability": "Offers a modular framework that can be extended with custom tasks and scenarios for specific testing needs",
+  "limitations": "Primarily focused on research and benchmarking; not designed for production deployment or real-world applications",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers"
+  ],
+  "name": "visualwebarena",
+  "slug": "web-arena-x-visualwebarena",
+  "description": "VisualWebArena is a benchmark for multimodal agents.",
+  "repository": "https://github.com/web-arena-x/visualwebarena",
+  "stars": 347,
+  "originator": "web-arena-x",
+  "tags": [
+    "agents",
+    "llm",
+    "multimodal"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-09",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/web-arena-x/visualwebarena#readme",
+    "https://github.com/web-arena-x/visualwebarena/wiki",
+    "https://github.com/web-arena-x/visualwebarena/issues"
+  ],
+  "highlight": "Benchmarking platform for evaluating the performance of multimodal agents"
+}

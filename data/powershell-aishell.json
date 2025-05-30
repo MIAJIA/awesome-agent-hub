@@ -1,0 +1,38 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a command-line interface for interacting with various AI assistance services",
+  "principle": "Built on PowerShell, leveraging C# for extending shell capabilities and integrating AI services",
+  "reusability": "Modular architecture with support for plugins and extensions, allowing easy integration with different AI services",
+  "limitations": "Limited to environments where PowerShell is supported, requires configuration for each AI service",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "C#",
+    "PowerShell"
+  ],
+  "name": "AIShell",
+  "slug": "powershell-aishell",
+  "description": "An interactive shell to work with AI-powered assistance providers",
+  "repository": "https://github.com/PowerShell/AIShell",
+  "stars": 328,
+  "originator": "PowerShell",
+  "tags": [
+    "interactive shell",
+    "AI integration",
+    "command-line tools"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-20",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/PowerShell/AIShell/blob/main/README.md",
+    "https://github.com/PowerShell/AIShell/wiki",
+    "https://github.com/PowerShell/AIShell/issues"
+  ],
+  "highlight": "An interactive shell for seamless integration with AI-powered assistance providers"
+}

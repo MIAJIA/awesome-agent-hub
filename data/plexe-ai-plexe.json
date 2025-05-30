@@ -1,0 +1,44 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates the creation of machine learning models from textual descriptions, lowering the barrier to entry for non-experts.",
+  "principle": "Utilizes natural language processing to interpret prompts and generate corresponding machine learning models, leveraging pre-trained models and frameworks.",
+  "reusability": "Offers a flexible API for model generation and integration, allowing users to embed model creation capabilities into their own applications.",
+  "limitations": "Limited to the types of models it can generate based on the complexity of the prompt; may require further customization for specific use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "FastAPI"
+  ],
+  "name": "plexe",
+  "slug": "plexe-ai-plexe",
+  "description": "✨ Build a machine learning model from a prompt",
+  "repository": "https://github.com/plexe-ai/plexe",
+  "stars": 1711,
+  "originator": "plexe-ai",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "machine-learning",
+    "ml",
+    "mlengineering",
+    "mlops",
+    "multiagent"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/plexe-ai/plexe#readme",
+    "https://github.com/plexe-ai/plexe/wiki",
+    "https://github.com/plexe-ai/plexe/issues"
+  ],
+  "highlight": "Enables users to build machine learning models directly from a natural language prompt."
+}

@@ -1,0 +1,53 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive integration platform for AI agents and large language models (LLMs), enabling seamless connectivity with various services and APIs.",
+  "principle": "Utilizes function calling to integrate AI agents with a wide array of services, enhancing their capabilities through pre-built connections.",
+  "reusability": "Offers a plug-and-play integration model, allowing developers to easily incorporate new services into their AI applications via a standardized interface.",
+  "limitations": "Currently in alpha stage, which might include limited stability and incomplete feature set. The license information is also not clearly defined.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Node.js"
+  ],
+  "name": "composio",
+  "slug": "composiohq-composio",
+  "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+  "repository": "https://github.com/ComposioHQ/composio",
+  "stars": 25366,
+  "originator": "ComposioHQ",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "aiagents",
+    "developer-tools",
+    "function-calling",
+    "gpt-4",
+    "gpt-4o",
+    "hacktoberfest",
+    "hacktoberfest2024",
+    "javascript",
+    "js",
+    "llm",
+    "llmops",
+    "python",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ComposioHQ/composio#readme",
+    "https://github.com/ComposioHQ/composio/wiki",
+    "https://github.com/ComposioHQ/composio/issues"
+  ],
+  "highlight": "Equips AI agents and LLMs with over 100 high-quality integrations via function calling"
+}

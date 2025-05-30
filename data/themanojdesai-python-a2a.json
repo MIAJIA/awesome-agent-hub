@@ -1,0 +1,31 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable interoperable communication and collaboration among AI agents to solve complex problems.",
+  "principle": "Implements Google's Agent-to-Agent (A2A) protocol to allow agents to exchange information and coordinate tasks.",
+  "reusability": "Designed as a library for easy integration into Python projects, supporting interoperability among various AI agents.",
+  "limitations": "Currently in alpha stage, may have stability issues, and limited to features supported by the A2A protocol.",
+  "platforms": [
+    "Python 3.x"
+  ],
+  "stack": [
+    "Python",
+    "Google A2A Protocol"
+  ],
+  "name": "python-a2a",
+  "slug": "themanojdesai-python-a2a",
+  "description": "Python A2A is a powerful, easy-to-use library for implementing Google's [Agent-to-Agent (A2A) protocol](https://google.github.io/A2A/). It enables seamless communication between AI agents, creating interoperable agent ecosystems that can collaborate to solve complex problems.",
+  "repository": "https://github.com/themanojdesai/python-a2a",
+  "stars": 631,
+  "originator": "themanojdesai",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/themanojdesai/python-a2a#readme",
+    "https://google.github.io/A2A/"
+  ],
+  "highlight": "Facilitates seamless communication between AI agents using Google's Agent-to-Agent (A2A) protocol."
+}

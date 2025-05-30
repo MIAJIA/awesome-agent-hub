@@ -1,0 +1,45 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide a curated list of high-quality Python libraries and frameworks, organized by category for easy discovery and use",
+  "principle": "Compilation of community-recommended Python resources, organized into categories for developers",
+  "reusability": "Open-source and community-driven, allowing contributions and updates from Python developers worldwide",
+  "limitations": "Dependent on community contributions for updates, may not cover niche or rapidly evolving libraries",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Python"
+  ],
+  "name": "awesome-python",
+  "slug": "dylanhogg-awesome-python",
+  "description": "🐍 Hand-picked awesome Python libraries and frameworks, organised by category",
+  "repository": "https://github.com/dylanhogg/awesome-python",
+  "stars": 385,
+  "originator": "dylanhogg",
+  "tags": [
+    "awesome",
+    "awesome-list",
+    "awesome-python",
+    "chatgpt",
+    "data",
+    "data-science",
+    "deep-learning",
+    "jupyter",
+    "machine-learning",
+    "natural-language-processing",
+    "nlp",
+    "open-source",
+    "pandas",
+    "python",
+    "python-library"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-18",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/dylanhogg/awesome-python#readme"
+  ],
+  "highlight": "Comprehensive curated list of Python libraries and frameworks, categorized for easy navigation"
+}

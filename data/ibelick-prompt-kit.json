@@ -1,0 +1,42 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide developers with a set of reusable and accessible UI components for building AI-driven applications.",
+  "principle": "Built using modern web technologies like React and TailwindCSS to ensure customizable and responsive design.",
+  "reusability": "Offers a library of components that can be easily integrated into React applications, with support for customization through TailwindCSS.",
+  "limitations": "As an alpha release, it may have limited documentation and potential instability in some components.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "TailwindCSS"
+  ],
+  "name": "prompt-kit",
+  "slug": "ibelick-prompt-kit",
+  "description": "Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.",
+  "repository": "https://github.com/ibelick/prompt-kit",
+  "stars": 1314,
+  "originator": "ibelick",
+  "tags": [
+    "ai",
+    "components",
+    "nextjs",
+    "react",
+    "shadcn",
+    "shadcn-ui",
+    "tailwindcss",
+    "ui"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/ibelick/prompt-kit#readme",
+    "https://github.com/ibelick/prompt-kit/tree/main/examples"
+  ],
+  "highlight": "High-quality, customizable UI components specifically designed for AI applications."
+}

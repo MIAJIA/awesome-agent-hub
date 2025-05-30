@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide developers with a curated list of resources and tools for creating stateful, multi-actor applications using LangGraph",
+  "principle": "Aggregates a wide range of projects, libraries, and tools that leverage LangGraph for building complex, multi-actor systems",
+  "reusability": "Serves as a reference for developers to discover and integrate various LangGraph-related resources into their projects",
+  "limitations": "Focuses primarily on LangGraph-related resources, may not cover other multi-actor frameworks or technologies comprehensively",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "LangGraph"
+  ],
+  "name": "awesome-LangGraph",
+  "slug": "von-development-awesome-langgraph",
+  "description": "A curated list of awesome projects, resources, and tools for building stateful, multi-actor applications with LangGraph 🦜🕸️",
+  "repository": "https://github.com/von-development/awesome-LangGraph",
+  "stars": 770,
+  "originator": "von-development",
+  "tags": [
+    "ai",
+    "awesome",
+    "awesome-list",
+    "langchain",
+    "langgraph",
+    "llm",
+    "llm-agents"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-24",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/von-development/awesome-LangGraph"
+  ],
+  "highlight": "Comprehensive collection of resources and tools for building stateful, multi-actor applications with LangGraph"
+}

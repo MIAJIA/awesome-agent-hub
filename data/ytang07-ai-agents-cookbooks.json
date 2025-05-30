@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a collection of resources and examples for building AI agents using various machine learning and deep learning frameworks.",
+  "principle": "Leverages popular AI frameworks and libraries such as PyTorch and TensorFlow to create customizable AI agents.",
+  "reusability": "Includes modular code examples and Jupyter Notebooks that can be adapted for different AI agent applications.",
+  "limitations": "Primarily focused on educational and experimental use, with limited real-world deployment guidance.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "name": "ai_agents_cookbooks",
+  "slug": "ytang07-ai-agents-cookbooks",
+  "description": "Cookbooks for AI Agents",
+  "repository": "https://github.com/ytang07/ai_agents_cookbooks",
+  "stars": 134,
+  "originator": "ytang07",
+  "tags": [],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-10",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/ytang07/ai_agents_cookbooks/blob/main/README.md",
+    "https://github.com/ytang07/ai_agents_cookbooks/tree/main/examples"
+  ],
+  "highlight": "Comprehensive set of cookbooks for developing AI agents with popular machine learning frameworks."
+}

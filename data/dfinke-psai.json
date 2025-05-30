@@ -1,0 +1,33 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enhance PowerShell scripting with AI-driven capabilities, enabling automation and intelligent task execution",
+  "principle": "Leverages OpenAI's language models to provide natural language processing and autonomous agent functionalities within PowerShell scripts",
+  "reusability": "Can be integrated into existing PowerShell scripts and workflows, providing AI functions as PowerShell cmdlets",
+  "limitations": "Dependent on internet connectivity for AI model access, limited to tasks that can be expressed within PowerShell's capabilities",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "PowerShell",
+    "OpenAI API"
+  ],
+  "name": "PSAI",
+  "slug": "dfinke-psai",
+  "description": "PowerShell AI module. Think ChatGPT meets PowerShell - Includes Autonomous Agents",
+  "repository": "https://github.com/dfinke/PSAI",
+  "stars": 193,
+  "originator": "dfinke",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-14",
+  "language": "PowerShell",
+  "useful_links": [
+    "https://github.com/dfinke/PSAI/blob/main/README.md",
+    "https://github.com/dfinke/PSAI/wiki"
+  ],
+  "highlight": "Integrates AI capabilities directly into PowerShell for automation and scripting"
+}

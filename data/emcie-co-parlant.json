@@ -1,0 +1,45 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Facilitate controlled and purposeful generative AI conversations in customer service and compliance contexts.",
+  "principle": "Builds on LLMs with mechanisms for conversation control and compliance to ensure predictability and alignment with user goals.",
+  "reusability": "Offers API support for integration into existing systems, allowing for customization and extension of conversation capabilities.",
+  "limitations": "Currently in alpha stage, may have limited features and stability; primarily focused on English language support.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "FastAPI"
+  ],
+  "name": "parlant",
+  "slug": "emcie-co-parlant",
+  "description": "Parlant is the open-source engine for controlled, compliant, and purposeful generative AI conversations. It gives you the power of LLMs without the unpredictability.",
+  "repository": "https://github.com/emcie-co/parlant",
+  "stars": 3003,
+  "originator": "emcie-co",
+  "tags": [
+    "ai-agents",
+    "ai-alignment",
+    "customer-service",
+    "customer-success",
+    "gemini",
+    "genai",
+    "llama3",
+    "llm",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/emcie-co/parlant#readme",
+    "https://github.com/emcie-co/parlant/wiki",
+    "https://github.com/emcie-co/parlant/issues"
+  ],
+  "highlight": "Enables controlled and compliant generative AI conversations with reduced unpredictability of LLMs."
+}

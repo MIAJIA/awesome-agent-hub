@@ -1,0 +1,39 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate the creation of full-stack AI applications by providing a CLI tool that scaffolds projects with best practices.",
+  "principle": "Utilizes a CLI to generate boilerplate code for AI projects, integrating popular frameworks and tools for front-end and back-end development.",
+  "reusability": "Highly reusable as a starting point for AI projects; provides a modular architecture that can be extended with additional features and integrations.",
+  "limitations": "Primarily focuses on project setup; requires further customization for specific use cases. Limited to the frameworks and tools predefined in the scaffolding process.",
+  "platforms": [
+    "Linux",
+    "MacOS",
+    "Windows"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "React",
+    "Express",
+    "Docker"
+  ],
+  "name": "create-rubric-app",
+  "slug": "rubriclab-create-rubric-app",
+  "description": "CLI tool to get started with a full-stack AI project.",
+  "repository": "https://github.com/RubricLab/create-rubric-app",
+  "stars": 146,
+  "originator": "RubricLab",
+  "tags": [
+    "ai",
+    "cli"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-04-15",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/RubricLab/create-rubric-app/blob/main/README.md",
+    "https://github.com/RubricLab/create-rubric-app/wiki"
+  ],
+  "highlight": "Rapid setup for full-stack AI projects with a focus on simplicity and scalability."
+}

@@ -1,0 +1,49 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable PHP developers to easily integrate and leverage OpenAI's GPT-4 capabilities for building generative AI applications.",
+  "principle": "Builds on OpenAI's GPT-4 API, inspired by Langchain, and integrates with PHP frameworks like Laravel and Symfony for seamless generative AI application development.",
+  "reusability": "Designed as a PHP framework, it integrates with popular PHP frameworks like Laravel and Symfony, offering APIs and components for easy integration.",
+  "limitations": "Currently in alpha stage, may have limited support for non-PHP environments and potential API rate limits from OpenAI.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "PHP",
+    "OpenAI GPT-4",
+    "Laravel",
+    "Symfony"
+  ],
+  "name": "LLPhant",
+  "slug": "llphant-llphant",
+  "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+  "repository": "https://github.com/LLPhant/LLPhant",
+  "stars": 1187,
+  "originator": "LLPhant",
+  "tags": [
+    "agent",
+    "autophp",
+    "embeddings",
+    "genai",
+    "generative-ai",
+    "gpt4",
+    "langchain",
+    "laravel",
+    "llamaindex",
+    "openai",
+    "php",
+    "symfony",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "PHP",
+  "useful_links": [
+    "https://github.com/LLPhant/LLPhant/blob/main/README.md",
+    "https://github.com/LLPhant/LLPhant/wiki",
+    "https://github.com/LLPhant/LLPhant/issues"
+  ],
+  "highlight": "A comprehensive PHP framework for building generative AI applications with OpenAI GPT-4."
+}

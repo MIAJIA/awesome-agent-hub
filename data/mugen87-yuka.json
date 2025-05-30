@@ -1,0 +1,38 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Facilitate the development of game AI systems using a variety of algorithms and techniques",
+  "principle": "Implements common game AI patterns such as pathfinding, steering behaviors, finite state machines, and decision trees",
+  "reusability": "Modular architecture allows for easy integration into existing JavaScript game projects; provides a range of examples and documentation for quick setup",
+  "limitations": "Primarily focused on game development; may not be suitable for non-game AI applications",
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "name": "yuka",
+  "slug": "mugen87-yuka",
+  "description": "JavaScript library for developing Game AI.",
+  "repository": "https://github.com/Mugen87/yuka",
+  "stars": 1209,
+  "originator": "Mugen87",
+  "tags": [
+    "ai",
+    "game-ai",
+    "game-development",
+    "javascript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-22",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/Mugen87/yuka#readme",
+    "https://github.com/Mugen87/yuka/wiki",
+    "https://github.com/Mugen87/yuka/tree/main/examples"
+  ],
+  "highlight": "Comprehensive set of game AI algorithms for JavaScript developers"
+}

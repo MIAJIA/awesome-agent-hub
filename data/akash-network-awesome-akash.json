@@ -1,0 +1,35 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide a curated list of Akash deployment examples to help users deploy applications on the Akash network.",
+  "principle": "Organizes and categorizes various deployment examples and resources for the Akash decentralized cloud platform.",
+  "reusability": "The repository serves as a reference guide, making it easy for developers to find and use deployment examples for Akash.",
+  "limitations": "The list is dependent on community contributions and may not cover all possible deployment scenarios or be up-to-date with the latest Akash features.",
+  "platforms": [
+    "Akash Network"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub"
+  ],
+  "name": "awesome-akash",
+  "slug": "akash-network-awesome-akash",
+  "description": "Awesome List of Akash Deployment Examples",
+  "repository": "https://github.com/akash-network/awesome-akash",
+  "stars": 371,
+  "originator": "akash-network",
+  "tags": [
+    "Akash",
+    "decentralized",
+    "cloud",
+    "deployment",
+    "examples"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-13",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/akash-network/awesome-akash#readme"
+  ]
+}

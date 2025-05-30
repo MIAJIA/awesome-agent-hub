@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a platform for developing, managing, and deploying AI agents in a scalable and modular way",
+  "principle": "Built on a modular architecture using Go, allowing for the creation and orchestration of multiple AI agents",
+  "reusability": "Designed for extensibility with modular components and APIs, supporting integration with various AI models",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and community support",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "Docker"
+  ],
+  "name": "obot",
+  "slug": "obot-platform-obot",
+  "description": "Open source AI Agent Platform",
+  "repository": "https://github.com/obot-platform/obot",
+  "stars": 182,
+  "originator": "obot-platform",
+  "tags": [
+    "AI agents",
+    "orchestration",
+    "modular"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/obot-platform/obot#readme",
+    "https://github.com/obot-platform/obot/wiki",
+    "https://github.com/obot-platform/obot/issues"
+  ],
+  "highlight": "Framework for building and orchestrating AI agents with a focus on modularity and scalability"
+}

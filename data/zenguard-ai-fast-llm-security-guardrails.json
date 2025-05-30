@@ -1,0 +1,45 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To offer a security framework for AI agents that ensures trust and privacy in AI interactions.",
+  "principle": "Utilizes security guardrails specifically designed for large language models (LLMs) to manage and mitigate risks associated with AI agent operations.",
+  "reusability": "Offers modular components that can be integrated into existing AI systems to enhance security measures.",
+  "limitations": "Primarily focused on LLMs, may not cover all AI model types; still in alpha stage, indicating potential instability or incomplete features.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI"
+  ],
+  "name": "fast-llm-security-guardrails",
+  "slug": "zenguard-ai-fast-llm-security-guardrails",
+  "description": "The fastest Trust Layer for AI Agents",
+  "repository": "https://github.com/ZenGuard-AI/fast-llm-security-guardrails",
+  "stars": 133,
+  "originator": "ZenGuard-AI",
+  "tags": [
+    "agentic-ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-runtime",
+    "cx-agent",
+    "llm-guard",
+    "llm-guardrails",
+    "llm-privacy",
+    "llm-security",
+    "prompt-security",
+    "security"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ZenGuard-AI/fast-llm-security-guardrails#readme",
+    "https://github.com/ZenGuard-AI/fast-llm-security-guardrails/issues",
+    "https://github.com/ZenGuard-AI/fast-llm-security-guardrails/wiki"
+  ],
+  "highlight": "Provides a robust trust layer for AI agents to enhance security and privacy."
+}

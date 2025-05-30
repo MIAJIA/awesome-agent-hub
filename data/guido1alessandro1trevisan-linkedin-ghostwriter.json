@@ -1,0 +1,33 @@
+{
+  "category": "writing",
+  "status": "alpha",
+  "purpose": "To assist users in generating engaging LinkedIn posts and content with minimal effort",
+  "principle": "Leverages AI language models to generate professional and personalized LinkedIn content",
+  "reusability": "Can be integrated into personal or corporate workflows for LinkedIn content creation, with potential for API expansion",
+  "limitations": "Primarily focused on LinkedIn content; may require manual adjustments for tone and context",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Langgraph",
+    "OpenAI"
+  ],
+  "name": "linkedin-ghostwriter",
+  "slug": "guido1alessandro1trevisan-linkedin-ghostwriter",
+  "description": "Linkedin Ghostwriting agent powered by Langgraph",
+  "repository": "https://github.com/Guido1Alessandro1Trevisan/linkedin-ghostwriter",
+  "stars": 104,
+  "originator": "Guido1Alessandro1Trevisan",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-04",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Guido1Alessandro1Trevisan/linkedin-ghostwriter"
+  ],
+  "highlight": "Automates LinkedIn content creation using AI-driven language models"
+}

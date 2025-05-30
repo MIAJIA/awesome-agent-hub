@@ -1,0 +1,41 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Provide tools for poker hand evaluation and facilitate the development of poker agents with self-learning capabilities.",
+  "principle": "Utilizes Rust for efficient hand ranking and starting card enumeration, and provides an arena for agent training using Counterfactual Regret Minimization (CFR).",
+  "reusability": "Offers a modular Rust library that can be integrated into other Rust projects, with features for hand evaluation and agent training.",
+  "limitations": "Primarily focused on Texas Hold'em poker, may require additional customization for other poker variants.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Rust"
+  ],
+  "name": "rs-poker",
+  "slug": "elliottneilclark-rs-poker",
+  "description": "rs-poker is a rust library that includes all of the poker evaluation tools that you need from hand ranking and starting card enumeration to a full agent arena for self learning.",
+  "repository": "https://github.com/elliottneilclark/rs-poker",
+  "stars": 105,
+  "originator": "elliottneilclark",
+  "tags": [
+    "arena",
+    "bot",
+    "cards",
+    "cfr",
+    "crates",
+    "holdem",
+    "poker",
+    "poker-cards",
+    "poker-hands"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-08",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/elliottneilclark/rs-poker#readme"
+  ],
+  "highlight": "Comprehensive Rust library for poker evaluation and self-learning agent arena."
+}

@@ -1,0 +1,50 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitate voice-activated coding and programming to enhance accessibility and efficiency for developers",
+  "principle": "Leverages speech-to-text technology and natural language processing to interpret voice commands and translate them into code",
+  "reusability": "Integrates with existing development environments through plugins and supports customization for different programming languages",
+  "limitations": "Primarily supports English, may require specific setup for different IDEs, and relies on the accuracy of speech recognition",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "TalonVoice",
+    "SpeechRecognition"
+  ],
+  "name": "voqal",
+  "slug": "voqal-voqal",
+  "description": "Voice native AI agent for the builders of tomorrow ",
+  "repository": "https://github.com/voqal/voqal",
+  "stars": 181,
+  "originator": "voqal",
+  "tags": [
+    "accessibility",
+    "assistive-technology",
+    "coding-assistant",
+    "natural-language-programming",
+    "speech-to-code",
+    "talonvoice",
+    "voice",
+    "voice-assistant",
+    "voice-coding",
+    "voice-commands",
+    "voice-programming",
+    "voice-recognition",
+    "voice-user-interface"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-01-01",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/voqal/voqal/wiki",
+    "https://github.com/voqal/voqal/issues",
+    "https://github.com/voqal/voqal/releases"
+  ],
+  "highlight": "Voice-driven coding and programming assistant designed for hands-free development"
+}

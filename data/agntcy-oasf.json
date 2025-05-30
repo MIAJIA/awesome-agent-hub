@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a flexible framework for building and managing agentic schemas that enhance the capabilities of AI agents.",
+  "principle": "Adopt a modular architecture that promotes interoperability and extensibility, allowing developers to create custom agents tailored to specific tasks.",
+  "reusability": "Designed to enable the reuse of components across different projects, facilitating quicker development cycles and reducing redundancy.",
+  "limitations": "Currently in alpha stage, which may result in incomplete features and potential instability. Limited documentation and community support may also pose challenges for new users.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Elixir",
+    "Phoenix",
+    "GraphQL"
+  ],
+  "name": "oasf",
+  "slug": "agntcy-oasf",
+  "description": "Open Agentic Schema Framework",
+  "repository": "https://github.com/agntcy/oasf",
+  "stars": 170,
+  "originator": "agntcy",
+  "tags": [
+    "agentic",
+    "framework",
+    "AI",
+    "modular",
+    "schema"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Elixir",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ],
+  "highlight": "A modular framework enabling the creation and management of agentic schemas for AI agents, promoting interoperability and extensibility."
+}

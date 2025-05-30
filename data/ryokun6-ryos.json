@@ -1,0 +1,34 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide a lightweight and customizable operating system environment",
+  "principle": "Built on Node.js with a focus on modularity and ease of customization using TypeScript",
+  "reusability": "Designed to be modular and customizable, allowing users to extend its functionality with plugins",
+  "limitations": "Early development stage with potential stability issues, limited documentation and community support",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Electron"
+  ],
+  "name": "ryos",
+  "slug": "ryokun6-ryos",
+  "description": "ryOS, made with Cursor",
+  "repository": "https://github.com/ryokun6/ryos",
+  "stars": 324,
+  "originator": "ryokun6",
+  "tags": [],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/ryokun6/ryos#readme",
+    "https://github.com/ryokun6/ryos/wiki"
+  ],
+  "highlight": "Lightweight OS environment built with modern web technologies for customization and flexibility"
+}

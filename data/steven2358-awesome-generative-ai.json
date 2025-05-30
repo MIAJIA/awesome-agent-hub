@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a centralized resource for discovering and exploring various Generative AI projects and tools",
+  "principle": "Aggregates and categorizes links and information about Generative AI projects across different domains",
+  "reusability": "Serves as a reference and discovery tool for developers, researchers, and enthusiasts interested in Generative AI technologies",
+  "limitations": "Primarily a static list of links and resources; does not offer interactive features or direct project implementations",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-generative-ai",
+  "slug": "steven2358-awesome-generative-ai",
+  "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+  "repository": "https://github.com/steven2358/awesome-generative-ai",
+  "stars": 8474,
+  "originator": "steven2358",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "awesome",
+    "awesome-list",
+    "generative-ai",
+    "generative-art",
+    "large-language-models",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-08",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/steven2358/awesome-generative-ai"
+  ],
+  "highlight": "Comprehensive and curated list of modern Generative AI projects and services"
+}

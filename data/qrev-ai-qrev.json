@@ -1,0 +1,41 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Provide a modern, AI-driven customer relationship management solution",
+  "principle": "Built on a microservices architecture leveraging AI models for enhanced CRM functionalities",
+  "reusability": "Modular design with API support for easy integration and customization",
+  "limitations": "Currently in alpha stage with limited features compared to mature CRM solutions",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "React",
+    "Express",
+    "MongoDB"
+  ],
+  "name": "qrev",
+  "slug": "qrev-ai-qrev",
+  "description": "🔥 🔥 🔥 QRev is an Open Source AI First alternative to Salesforce. It's what Salesforce would be if it was built today, starting with AI. ",
+  "repository": "https://github.com/qrev-ai/qrev",
+  "stars": 243,
+  "originator": "qrev-ai",
+  "tags": [
+    "agents",
+    "ai",
+    "salesforce",
+    "salesforce-developers"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-19",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/qrev-ai/qrev/blob/main/README.md",
+    "https://github.com/qrev-ai/qrev/wiki",
+    "https://github.com/qrev-ai/qrev/issues"
+  ],
+  "highlight": "AI-first CRM platform as an open-source alternative to Salesforce"
+}

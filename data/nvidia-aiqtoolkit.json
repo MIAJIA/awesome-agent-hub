@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the orchestration and optimization of multi-agent systems to improve collaboration and task execution efficiency.",
+  "principle": "Builds on multi-agent system frameworks and coordination algorithms to enable seamless communication and task distribution among AI agents.",
+  "reusability": "Offers modular components and APIs for easy integration into existing AI systems, promoting flexible deployment and scalability.",
+  "limitations": "Currently in alpha stage with limited documentation and potential for bugs; primarily focused on Python environments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "gRPC",
+    "Docker"
+  ],
+  "name": "AIQToolkit",
+  "slug": "nvidia-aiqtoolkit",
+  "description": "The NVIDIA Agent Intelligence (AIQ) toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.",
+  "repository": "https://github.com/NVIDIA/AIQToolkit",
+  "stars": 927,
+  "originator": "NVIDIA",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/NVIDIA/AIQToolkit/blob/main/README.md",
+    "https://github.com/NVIDIA/AIQToolkit/wiki",
+    "https://github.com/NVIDIA/AIQToolkit/issues"
+  ],
+  "highlight": "Efficiently connects and optimizes teams of AI agents for enhanced collaboration and task execution."
+}

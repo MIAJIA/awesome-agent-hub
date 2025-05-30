@@ -1,0 +1,48 @@
+{
+  "category": "social-media",
+  "status": "alpha",
+  "purpose": "To facilitate exploration and interaction with YouTube content by enabling users to search and chat with videos using AI.",
+  "principle": "Utilizes AI-powered semantic search and retrieval-augmented generation (RAG) techniques to extract and present insights from YouTube videos.",
+  "reusability": "Offers a modular setup with API endpoints for integration with other applications, supports customization of search and interaction parameters.",
+  "limitations": "Dependent on YouTube API availability and limitations, may require substantial computational resources for processing large video datasets.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Django",
+    "LangChain",
+    "LangGraph",
+    "YouTube API"
+  ],
+  "name": "YT-Navigator",
+  "slug": "wassim249-yt-navigator",
+  "description": "YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise timestamps.",
+  "repository": "https://github.com/wassim249/YT-Navigator",
+  "stars": 446,
+  "originator": "wassim249",
+  "tags": [
+    "agentic-ai",
+    "agentic-rag",
+    "ai",
+    "django",
+    "langchain",
+    "langgraph",
+    "llm",
+    "python",
+    "rag",
+    "reranking",
+    "youtube",
+    "youtube-bot"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/wassim249/YT-Navigator#readme",
+    "https://github.com/wassim249/YT-Navigator/wiki"
+  ],
+  "highlight": "Enables semantic search and interaction with YouTube video content using AI agents, providing precise timestamps for insights."
+}

@@ -1,0 +1,55 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and orchestration of AI agents using a lightweight framework.",
+  "principle": "Builds on flow-based programming principles to enable agentic workflows and interactions between large language models.",
+  "reusability": "Designed for easy integration with existing systems; supports modular agent composition and orchestration.",
+  "limitations": "As an alpha release, it may have limited documentation, stability issues, and lack of extensive real-world testing.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flow-based programming",
+    "LLM"
+  ],
+  "name": "PocketFlow",
+  "slug": "the-pocket-pocketflow",
+  "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+  "repository": "https://github.com/The-Pocket/PocketFlow",
+  "stars": 5101,
+  "originator": "The-Pocket",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "agents",
+    "ai-framework",
+    "ai-frameworks",
+    "aiagent",
+    "aiagents",
+    "artificial-intelligence",
+    "flow-based-programming",
+    "flow-engineering",
+    "large-language-model",
+    "large-language-models",
+    "llm-agent",
+    "llm-framework",
+    "pocket-flow",
+    "pocketflow",
+    "retrieval-augmented-generation",
+    "workflow",
+    "workflow-orchestration"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/The-Pocket/PocketFlow#readme",
+    "https://github.com/The-Pocket/PocketFlow/wiki",
+    "https://github.com/The-Pocket/PocketFlow/issues"
+  ],
+  "highlight": "A compact 100-line LLM framework enabling agents to autonomously build and orchestrate other agents."
+}

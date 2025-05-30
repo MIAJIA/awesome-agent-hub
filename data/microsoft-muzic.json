@@ -1,0 +1,41 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "To facilitate music understanding and generation using AI technologies.",
+  "principle": "Utilizes deep learning models and algorithms for music composition and analysis.",
+  "reusability": "Offers modular components and APIs for integration into music applications and research projects.",
+  "limitations": "Primarily focused on music; may not generalize to other audio types. Requires significant computational resources for model training.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "NumPy",
+    "Librosa"
+  ],
+  "name": "muzic",
+  "slug": "microsoft-muzic",
+  "description": "Muzic: Music Understanding and Generation with Artificial Intelligence",
+  "repository": "https://github.com/microsoft/muzic",
+  "stars": 4766,
+  "originator": "microsoft",
+  "tags": [
+    "ai-music",
+    "deep-learning",
+    "music",
+    "music-composition"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-10-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/muzic#readme",
+    "https://github.com/microsoft/muzic/wiki",
+    "https://github.com/microsoft/muzic/tree/main/examples"
+  ],
+  "highlight": "Advanced AI-driven music generation and understanding tool by Microsoft."
+}

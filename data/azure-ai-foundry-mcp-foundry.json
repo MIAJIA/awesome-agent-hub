@@ -1,0 +1,33 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide a managed control plane (MCP) server for orchestrating AI workflows and resources in Azure AI Foundry",
+  "principle": "Utilizes Azure cloud services to manage and deploy AI workloads with an emphasis on integration and scalability",
+  "reusability": "Designed to be integrated with Azure services, provides APIs for managing AI workflows and resources",
+  "limitations": "Limited to Azure ecosystem, still in early development stages, documentation may be incomplete",
+  "platforms": [
+    "Azure",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Azure SDK",
+    "FastAPI"
+  ],
+  "name": "mcp-foundry",
+  "slug": "azure-ai-foundry-mcp-foundry",
+  "description": "A MCP Server for Azure AI Foundry",
+  "repository": "https://github.com/azure-ai-foundry/mcp-foundry",
+  "stars": 132,
+  "originator": "azure-ai-foundry",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/azure-ai-foundry/mcp-foundry/blob/main/README.md",
+    "https://github.com/azure-ai-foundry/mcp-foundry/wiki",
+    "https://github.com/azure-ai-foundry/mcp-foundry/issues"
+  ]
+}

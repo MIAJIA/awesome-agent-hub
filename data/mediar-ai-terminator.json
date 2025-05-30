@@ -1,0 +1,45 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Automate desktop applications, focusing on GUI interactions for Windows environments",
+  "principle": "Leverages Rust for performance and reliability, integrates AI to enhance automation capabilities",
+  "reusability": "Designed for easy integration into existing workflows, with potential for API support",
+  "limitations": "Currently limited to Windows platforms, may have compatibility issues with certain applications",
+  "platforms": [
+    "Windows"
+  ],
+  "stack": [
+    "Rust",
+    "Python",
+    "Vercel"
+  ],
+  "name": "terminator",
+  "slug": "mediar-ai-terminator",
+  "description": "Automate desktop apps like a browser. AI-native GUI automation for Windows. Fast, reliable, agent-ready.",
+  "repository": "https://github.com/mediar-ai/terminator",
+  "stars": 512,
+  "originator": "mediar-ai",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "llm",
+    "ml",
+    "native",
+    "py",
+    "rust",
+    "ts",
+    "vercel",
+    "vercel-ai-sdk"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-29",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/mediar-ai/terminator#readme",
+    "https://github.com/mediar-ai/terminator/wiki",
+    "https://github.com/mediar-ai/terminator/issues"
+  ],
+  "highlight": "AI-native GUI automation for Windows with high speed and reliability"
+}

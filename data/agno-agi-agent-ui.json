@@ -1,0 +1,37 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "To provide a user-friendly chat interface for interacting with AI agents, enhancing communication and accessibility.",
+  "principle": "Designed to facilitate seamless interactions between users and AI agents, focusing on clarity, responsiveness, and modern UI design.",
+  "reusability": "The architecture allows for easy integration and customization, enabling developers to adapt the chat interface for various AI applications.",
+  "limitations": "Currently in alpha stage, which may result in incomplete features and potential instability; not all AI agents may be fully supported.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Next.js",
+    "Tailwind CSS",
+    "TypeScript"
+  ],
+  "name": "agent-ui",
+  "slug": "agno-agi-agent-ui",
+  "description": "A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript. ",
+  "repository": "https://github.com/agno-agi/agent-ui",
+  "stars": 639,
+  "originator": "agno-agi",
+  "tags": [
+    "agent",
+    "agno",
+    "ai",
+    "chat",
+    "self-hosted"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-14",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://agent-ui-demo.example.com"
+  ],
+  "highlight": "Seamless integration of modern UI design with AI chat capabilities using Next.js and Tailwind CSS"
+}

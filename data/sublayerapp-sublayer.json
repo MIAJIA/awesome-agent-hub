@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a flexible and extensible framework for building AI-powered applications in Ruby.",
+  "principle": "Utilizes a domain-specific language (DSL) in Ruby to define and manage AI tasks, actions, and agents, allowing for seamless integration with various AI models.",
+  "reusability": "Offers base classes and a DSL for easy extension and integration into Ruby applications, supporting a wide range of AI models.",
+  "limitations": "Primarily focused on Ruby, which may limit adoption in non-Ruby projects; the framework is in alpha stage, indicating potential instability and incomplete features.",
+  "platforms": [
+    "Ruby"
+  ],
+  "stack": [
+    "Ruby"
+  ],
+  "name": "sublayer",
+  "slug": "sublayerapp-sublayer",
+  "description": "A model-agnostic Ruby Generative AI DSL and framework. Provides base classes for building Generators, Actions, Tasks, and Agents that can be used to build AI powered applications in Ruby.",
+  "repository": "https://github.com/sublayerapp/sublayer",
+  "stars": 184,
+  "originator": "sublayerapp",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-agents-framework",
+    "dsl",
+    "ruby"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-10-30",
+  "language": "Ruby",
+  "useful_links": [
+    "https://github.com/sublayerapp/sublayer#readme",
+    "https://github.com/sublayerapp/sublayer/wiki"
+  ],
+  "highlight": "Model-agnostic framework for building AI-powered applications in Ruby with a focus on Generators, Actions, Tasks, and Agents."
+}

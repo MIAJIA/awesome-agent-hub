@@ -1,0 +1,35 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To serve as an intelligent copilot for developers working on the Solana blockchain, enhancing productivity and automating common tasks",
+  "principle": "Built on TypeScript, it leverages Solana's APIs to provide insights and automation for blockchain development",
+  "reusability": "Offers integration with Solana development environments via plugins and APIs, allowing developers to easily incorporate its features into their workflow",
+  "limitations": "Currently in alpha stage, may have limited feature set and potential bugs; primarily focused on Solana, limiting applicability to other blockchains",
+  "platforms": [
+    "Linux",
+    "MacOS",
+    "Windows"
+  ],
+  "stack": [
+    "TypeScript",
+    "Solana",
+    "Node.js"
+  ],
+  "name": "neur-app",
+  "slug": "neurprojects-neur-app",
+  "description": "The Intelligent Copilot for Solana",
+  "repository": "https://github.com/NeurProjects/neur-app",
+  "stars": 461,
+  "originator": "NeurProjects",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/NeurProjects/neur-app/wiki",
+    "https://github.com/NeurProjects/neur-app/issues",
+    "https://github.com/NeurProjects/neur-app/releases"
+  ],
+  "highlight": "Provides intelligent assistance and automation for Solana blockchain development"
+}

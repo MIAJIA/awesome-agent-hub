@@ -1,0 +1,41 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To offer developers a source of customizable generative AI code snippets for seamless integration into their applications.",
+  "principle": "Utilizes generative AI frameworks and libraries to provide pre-built code snippets that can be easily adapted and integrated into various applications.",
+  "reusability": "Offers plug-and-play code snippets that can be easily copied and pasted into projects, supporting customization and integration with existing codebases.",
+  "limitations": "Limited to the provided code snippets; users may need to adjust or extend snippets for specific use cases.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Next.js",
+    "LangChain"
+  ],
+  "name": "AgentGenesis",
+  "slug": "deadmanabir-agentgenesis",
+  "description": "Welcome to AgentGenesis, your source for customizable Gen AI code snippets that you can easily copy and paste into your applications.",
+  "repository": "https://github.com/DeadmanAbir/AgentGenesis",
+  "stars": 118,
+  "originator": "DeadmanAbir",
+  "tags": [
+    "ai",
+    "contentlayer",
+    "generative-ai",
+    "hacktoberfest",
+    "hacktoberfest-accepted",
+    "langchain-js",
+    "nextjs"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/DeadmanAbir/AgentGenesis#readme",
+    "https://github.com/DeadmanAbir/AgentGenesis/issues",
+    "https://github.com/DeadmanAbir/AgentGenesis/pulls"
+  ],
+  "highlight": "Provides customizable Gen AI code snippets for easy integration into applications."
+}

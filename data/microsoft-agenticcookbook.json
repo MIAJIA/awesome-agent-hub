@@ -1,0 +1,38 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To empower users with the knowledge and tools to effectively implement and utilize Generative AI Agents within their workflows",
+  "principle": "Builds on Python and AI/ML frameworks to provide practical examples and guidance for integrating generative AI into various applications",
+  "reusability": "Offers modular code examples and templates that can be adapted for different use cases, with a focus on ease of integration into existing workflows",
+  "limitations": "Primarily focused on educational content, may not cover all possible generative AI agent use cases or advanced customization",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI"
+  ],
+  "name": "AgenticCookBook",
+  "slug": "microsoft-agenticcookbook",
+  "description": "The “Agentic Cookbook for Generative AI Agent usage” is a comprehensive guide designed to empower users with the knowledge and tools to effectively implement and utilize Generative AI Agents within their workflows.",
+  "repository": "https://github.com/microsoft/AgenticCookBook",
+  "stars": 111,
+  "originator": "microsoft",
+  "tags": [
+    "Generative AI",
+    "AI Agents",
+    "Educational Guide"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/AgenticCookBook#readme",
+    "https://github.com/microsoft/AgenticCookBook/tree/main/examples"
+  ],
+  "highlight": "Comprehensive guide for implementing and utilizing Generative AI Agents in workflows"
+}

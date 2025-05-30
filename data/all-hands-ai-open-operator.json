@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for building and managing multi-agent systems for various computational tasks",
+  "principle": "Builds on agent-based architecture to allow coordination and communication between multiple specialized agents",
+  "reusability": "Offers a modular framework with APIs for integrating custom agents and extending functionality",
+  "limitations": "Currently in alpha stage with limited documentation and potential stability issues",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "Redis"
+  ],
+  "name": "open-operator",
+  "slug": "all-hands-ai-open-operator",
+  "description": "Open-source resources on agents for computer use.",
+  "repository": "https://github.com/All-Hands-AI/open-operator",
+  "stars": 340,
+  "originator": "All-Hands-AI",
+  "tags": [
+    "multi-agent",
+    "orchestration",
+    "framework"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/All-Hands-AI/open-operator#readme",
+    "https://github.com/All-Hands-AI/open-operator/wiki",
+    "https://github.com/All-Hands-AI/open-operator/issues"
+  ],
+  "highlight": "Facilitates the orchestration and management of multiple AI agents for complex tasks"
+}

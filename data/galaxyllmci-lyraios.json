@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the integration and operation of multiple AI agents within financial and blockchain networks.",
+  "principle": "Builds on a Model Context Protocol (MCP) to coordinate AI agents for blockchain operations.",
+  "reusability": "Offers composable APIs and modular architecture for integrating with various blockchain networks.",
+  "limitations": "Primarily focused on blockchain interactions, may require customization for non-blockchain applications.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Solana",
+    "Ethereum",
+    "Binance Smart Chain",
+    "Model Context Protocol"
+  ],
+  "name": "lyraios",
+  "slug": "galaxyllmci-lyraios",
+  "description": "LYRAI is a Model Context Protocol (MCP) operating system for multi-AI AGENTs designed to extend the functionality of AI applications by enabling them to interact with financial networks and blockchain public chains. The server offers a range of advanced AI assistants, including blockchain public chain operations (SOLANA,ETH,BSC,etc.)",
+  "repository": "https://github.com/GalaxyLLMCI/lyraios",
+  "stars": 219,
+  "originator": "GalaxyLLMCI",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-18",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/GalaxyLLMCI/lyraios/blob/main/README.md",
+    "https://github.com/GalaxyLLMCI/lyraios/wiki",
+    "https://github.com/GalaxyLLMCI/lyraios/issues"
+  ],
+  "highlight": "Enables advanced AI agents to interact with financial networks and blockchain public chains."
+}

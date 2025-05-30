@@ -1,0 +1,34 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Automate the job application process by autonomously applying to relevant job postings on the internet",
+  "principle": "Utilizes browser automation to navigate job sites and submit applications based on predefined criteria",
+  "reusability": "Can be configured with different job criteria and integrated into existing workflows using its open-source codebase",
+  "limitations": "Limited to job sites that do not have complex CAPTCHAs or anti-bot mechanisms; may require adjustments for different job site formats",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Selenium",
+    "BeautifulSoup"
+  ],
+  "name": "jobber",
+  "slug": "sentient-engineering-jobber",
+  "description": "browser controlling AI agent that applies to relavant jobs on internet autonomously. join chat @ https://discord.gg/umgnyQU2K8",
+  "repository": "https://github.com/sentient-engineering/jobber",
+  "stars": 535,
+  "originator": "sentient-engineering",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-09",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/sentient-engineering/jobber#readme",
+    "https://discord.gg/umgnyQU2K8"
+  ],
+  "highlight": "Autonomously applies to relevant jobs online using browser automation"
+}

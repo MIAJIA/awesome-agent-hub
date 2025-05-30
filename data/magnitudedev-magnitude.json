@@ -1,0 +1,48 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates automated testing of web applications using AI-driven capabilities.",
+  "principle": "Builds on popular web testing frameworks such as Playwright and Selenium, leveraging AI for enhanced test automation and coverage.",
+  "reusability": "Offers a modular architecture with plugins for integration with existing testing pipelines and CI/CD workflows.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential instability; limited to web applications.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Playwright",
+    "Selenium"
+  ],
+  "name": "magnitude",
+  "slug": "magnitudedev-magnitude",
+  "description": "Open source, AI-native testing framework for web apps",
+  "repository": "https://github.com/magnitudedev/magnitude",
+  "stars": 1879,
+  "originator": "magnitudedev",
+  "tags": [
+    "ai",
+    "automation",
+    "browser",
+    "framework",
+    "javascipt",
+    "playwright",
+    "qa",
+    "selenium",
+    "test",
+    "testing",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/magnitudedev/magnitude#readme",
+    "https://github.com/magnitudedev/magnitude/wiki",
+    "https://github.com/magnitudedev/magnitude/issues"
+  ],
+  "highlight": "AI-native testing framework that integrates seamlessly with popular web testing tools like Playwright and Selenium."
+}

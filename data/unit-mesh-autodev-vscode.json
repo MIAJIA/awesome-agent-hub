@@ -1,0 +1,38 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide AI-driven coding assistance within the VSCode environment, streamlining the development process",
+  "principle": "Utilizes AI models to offer code suggestions, completions, and error detection directly in the VSCode editor",
+  "reusability": "Available as a VSCode extension, easily installable and configurable through the VSCode marketplace",
+  "limitations": "Limited to the VSCode environment, may require internet access for AI model queries, and has potential latency issues",
+  "platforms": [
+    "VSCode"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "VSCode API"
+  ],
+  "name": "autodev-vscode",
+  "slug": "unit-mesh-autodev-vscode",
+  "description": "AutoDev -  🧙‍the AI-powered coding wizard . Put the most loved AutoDev AI assistant into your VSCode, and have things done quickly",
+  "repository": "https://github.com/unit-mesh/autodev-vscode",
+  "stars": 433,
+  "originator": "unit-mesh",
+  "tags": [
+    "ai-assistant",
+    "genai",
+    "vscode-extension"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-10",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/unit-mesh/autodev-vscode#readme",
+    "https://marketplace.visualstudio.com/items?itemName=unit-mesh.autodev-vscode",
+    "https://github.com/unit-mesh/autodev-vscode/issues",
+    "https://github.com/unit-mesh/autodev-vscode/wiki"
+  ],
+  "highlight": "Integrates AI-powered code assistance directly into VSCode for enhanced productivity"
+}

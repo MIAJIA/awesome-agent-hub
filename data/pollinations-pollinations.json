@@ -1,0 +1,45 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "Enable users to generate creative images and text using open-source AI models.",
+  "principle": "Leverages diffusion models and GANs for generative tasks, utilizing IPFS for decentralized storage.",
+  "reusability": "Offers APIs and scripts for easy integration into projects, supports customization of generative tasks.",
+  "limitations": "Performance may vary based on model complexity and computational resources; requires familiarity with AI model handling.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Python",
+    "IPFS"
+  ],
+  "name": "pollinations",
+  "slug": "pollinations-pollinations",
+  "description": "Free Open-Source Image and Text Generation",
+  "repository": "https://github.com/pollinations/pollinations",
+  "stars": 2025,
+  "originator": "pollinations",
+  "tags": [
+    "colaboratory",
+    "colaboratory-notebook",
+    "diffusion",
+    "gan",
+    "generative",
+    "ipfs",
+    "javascript",
+    "machinelearning",
+    "nodejs",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/pollinations/pollinations#readme",
+    "https://github.com/pollinations/pollinations/wiki"
+  ],
+  "highlight": "Integration of advanced diffusion and GAN models for creative image and text generation."
+}

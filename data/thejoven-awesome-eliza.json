@@ -1,0 +1,32 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive list of resources and tools related to the Eliza framework",
+  "principle": "Curates and categorizes resources, tools, and projects related to the Eliza framework for easy discovery and use",
+  "reusability": "Can be used as a reference for developers and researchers interested in the Eliza framework, offering links to various tools and resources",
+  "limitations": "Dependent on community contributions for completeness and updates; primarily a static resource list without dynamic content",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "GitHub"
+  ],
+  "name": "awesome-eliza",
+  "slug": "thejoven-awesome-eliza",
+  "description": "A curated list of awesome things related to eliza framework.",
+  "repository": "https://github.com/thejoven/awesome-eliza",
+  "stars": 315,
+  "originator": "thejoven",
+  "tags": [
+    "Eliza",
+    "resources",
+    "curated list"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-01",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/thejoven/awesome-eliza#readme"
+  ]
+}

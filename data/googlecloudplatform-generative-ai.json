@@ -1,0 +1,50 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide sample code and notebooks for developing and deploying Generative AI applications on Google Cloud",
+  "principle": "Leverages Google Cloud's Vertex AI and Gemini API to facilitate the creation and deployment of large language models and generative AI solutions",
+  "reusability": "Includes reusable code snippets and notebooks that can be adapted for various generative AI applications on Google Cloud",
+  "limitations": "Primarily designed for users with access to Google Cloud services; requires familiarity with cloud-based AI tools",
+  "platforms": [
+    "Google Cloud Platform"
+  ],
+  "stack": [
+    "Jupyter Notebook",
+    "Python",
+    "Google Cloud Platform",
+    "Vertex AI",
+    "Gemini API"
+  ],
+  "name": "generative-ai",
+  "slug": "googlecloudplatform-generative-ai",
+  "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+  "repository": "https://github.com/GoogleCloudPlatform/generative-ai",
+  "stars": 10643,
+  "originator": "GoogleCloudPlatform",
+  "tags": [
+    "gcp",
+    "gemini",
+    "gemini-api",
+    "gen-ai",
+    "generative-ai",
+    "google",
+    "google-cloud",
+    "google-gemini",
+    "langchain",
+    "large-language-models",
+    "llm",
+    "vertex-ai",
+    "vertex-ai-gemini-api",
+    "vertexai"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/GoogleCloudPlatform/generative-ai/blob/main/README.md",
+    "https://cloud.google.com/vertex-ai",
+    "https://cloud.google.com/gemini"
+  ],
+  "highlight": "Comprehensive resources for building and deploying Generative AI models on Google Cloud using Vertex AI and Gemini"
+}

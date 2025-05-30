@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of interconnected AI assistants to build complex multi-agent systems.",
+  "principle": "Builds on OpenAI's API to orchestrate multiple AI assistants, allowing them to function as tools within a larger system.",
+  "reusability": "Designed to be modular, allowing for easy integration and linkage of various AI assistants via APIs.",
+  "limitations": "Currently in alpha stage, may have limited functionality and stability; dependent on OpenAI's API.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "OpenAI API"
+  ],
+  "name": "experts",
+  "slug": "metaskills-experts",
+  "description": "Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.",
+  "repository": "https://github.com/metaskills/experts",
+  "stars": 1052,
+  "originator": "metaskills",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "assistants-api",
+    "multi-agent-systems",
+    "openai",
+    "openai-assistants",
+    "openai-assistants-api"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-09",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/metaskills/experts#readme",
+    "https://github.com/metaskills/experts/issues",
+    "https://github.com/metaskills/experts/wiki"
+  ],
+  "highlight": "Integrates OpenAI's Assistants into advanced multi-agent systems with expanded memory and attention to detail."
+}

@@ -1,0 +1,35 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide enriched vulnerability scoring by integrating Temporal and Threat Metrics into the standard CVSS framework.",
+  "principle": "Utilizes Python to process and enhance CVSS data with additional metrics, potentially leveraging data from the National Vulnerability Database (NVD).",
+  "reusability": "Can be integrated into security assessment workflows to provide more nuanced vulnerability scores; potential for API-based integration.",
+  "limitations": "Dependent on the accuracy and completeness of underlying CVSS and NVD data; may not cover all possible threat scenarios.",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python"
+  ],
+  "name": "cvss-bt",
+  "slug": "t0sche-cvss-bt",
+  "description": "Enriching the NVD CVSS scores to include Temporal & Threat Metrics",
+  "repository": "https://github.com/t0sche/cvss-bt",
+  "stars": 198,
+  "originator": "t0sche",
+  "tags": [
+    "CVSS",
+    "vulnerability assessment",
+    "security",
+    "threat metrics"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/t0sche/cvss-bt"
+  ],
+  "highlight": "Enhances CVSS scores with additional Temporal and Threat Metrics for more comprehensive vulnerability assessment."
+}

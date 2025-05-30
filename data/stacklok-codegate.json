@@ -1,0 +1,56 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To enhance security, manage workspaces, and support multiplexing within AI agentic frameworks",
+  "principle": "Utilizes Python-based security protocols and workspace management techniques to ensure safe and efficient operation of AI agents",
+  "reusability": "Offers modular components that can be integrated into existing AI frameworks, with a focus on security and workspace management",
+  "limitations": "Currently in alpha stage, may have limited support for complex agent frameworks, and potential security vulnerabilities may exist",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "JetBrains",
+    "VSCode"
+  ],
+  "name": "codegate",
+  "slug": "stacklok-codegate",
+  "description": "CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks",
+  "repository": "https://github.com/stacklok/codegate",
+  "stars": 677,
+  "originator": "stacklok",
+  "tags": [
+    "ai",
+    "ai-gateway",
+    "aisecurity",
+    "artificial-intelligence",
+    "claude",
+    "cline",
+    "codegen",
+    "copilot",
+    "developer-productivity",
+    "developer-tools",
+    "generative-ai",
+    "ide",
+    "jetbrains",
+    "llm",
+    "ollama",
+    "openai",
+    "privacy",
+    "python",
+    "security",
+    "vscode"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/stacklok/codegate#readme",
+    "https://github.com/stacklok/codegate/wiki",
+    "https://github.com/stacklok/codegate/issues"
+  ],
+  "highlight": "Provides enhanced security and multiplexing for AI agent frameworks"
+}

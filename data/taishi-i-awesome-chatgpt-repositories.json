@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a curated list of open-source GitHub repositories related to ChatGPT and OpenAI API for easy access and exploration.",
+  "principle": "Aggregates and organizes repositories into a comprehensive list, categorized by their relevance to ChatGPT and OpenAI's API usage.",
+  "reusability": "The list can be used by developers and researchers to discover and explore relevant projects, encouraging collaboration and innovation in the field.",
+  "limitations": "The list relies on community contributions and may not cover all available repositories or stay up-to-date with the latest developments.",
+  "platforms": [],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-ChatGPT-repositories",
+  "slug": "taishi-i-awesome-chatgpt-repositories",
+  "description": "A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API",
+  "repository": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+  "stars": 2549,
+  "originator": "taishi-i",
+  "tags": [
+    "agent",
+    "ai",
+    "awesome",
+    "awesome-list",
+    "chatgpt",
+    "chatgpt-api",
+    "gpt-3",
+    "gpt-4",
+    "gpt-o1",
+    "llm",
+    "nlp",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-28",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/taishi-i/awesome-ChatGPT-repositories"
+  ],
+  "highlight": "Comprehensive collection of GitHub repositories focused on ChatGPT and OpenAI API, serving as a valuable resource for developers and researchers."
+}

@@ -1,0 +1,51 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development of AI agents with advanced conversational and functional capabilities",
+  "principle": "Builds on Python with a focus on conversational AI, leveraging function calling and vector search for enhanced user interactions",
+  "reusability": "Offers a modular framework that can be easily integrated into existing systems via API, supporting extensions through plugins",
+  "limitations": "Currently in alpha, may have limited stability and feature set; primarily designed for Python environments",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Docker",
+    "LLM",
+    "Vector Search"
+  ],
+  "name": "core",
+  "slug": "cheshire-cat-ai-core",
+  "description": "AI agent microservice",
+  "repository": "https://github.com/cheshire-cat-ai/core",
+  "stars": 2786,
+  "originator": "cheshire-cat-ai",
+  "tags": [
+    "agent",
+    "ai",
+    "assistant",
+    "bot",
+    "bot-framework",
+    "chatbot",
+    "conversational",
+    "conversational-forms",
+    "docker",
+    "framework",
+    "function-calling",
+    "llm",
+    "plugin",
+    "python",
+    "vector-search"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/cheshire-cat-ai/core/blob/main/README.md",
+    "https://github.com/cheshire-cat-ai/core/wiki",
+    "https://github.com/cheshire-cat-ai/core/issues"
+  ],
+  "highlight": "Integrates conversational AI capabilities with function calling and vector search for enhanced agent interactions"
+}

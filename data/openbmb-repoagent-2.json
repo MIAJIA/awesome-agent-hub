@@ -1,0 +1,48 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Assist developers in quickly generating documentation and understanding code repositories.",
+  "principle": "Leverages large language models (LLMs) to analyze codebases and generate comprehensive documentation.",
+  "reusability": "Can be integrated into CI/CD pipelines or used as a standalone tool, supports API for custom integrations.",
+  "limitations": "May not fully understand complex code logic or proprietary codebases without additional training.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "ChatGPT",
+    "LlamaIndex"
+  ],
+  "name": "RepoAgent",
+  "slug": "openbmb-repoagent-2",
+  "description": "An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.",
+  "repository": "https://github.com/OpenBMB/RepoAgent",
+  "stars": 667,
+  "originator": "OpenBMB",
+  "tags": [
+    "agent",
+    "chatglm",
+    "chatgpt",
+    "chatgpt-api",
+    "gpt",
+    "gpt-4",
+    "langchain",
+    "llama",
+    "llama-index",
+    "llms",
+    "qwen",
+    "rag",
+    "repo-level-debugging"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-12-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/OpenBMB/RepoAgent#readme",
+    "https://github.com/OpenBMB/RepoAgent/wiki"
+  ],
+  "highlight": "Provides rapid documentation generation and repository understanding using LLMs."
+}

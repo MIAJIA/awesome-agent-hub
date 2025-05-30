@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates seamless interaction and management of human-in-the-loop AI agents through an intuitive inbox interface.",
+  "principle": "Built using TypeScript and React, it leverages web technologies to create a dynamic user interface for agent management.",
+  "reusability": "Designed as a pluggable UI component that can be integrated into existing applications to enhance agent interaction capabilities.",
+  "limitations": "Currently in alpha stage; may lack comprehensive features and stability expected in production environments.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js"
+  ],
+  "name": "agent-inbox",
+  "slug": "langchain-ai-agent-inbox",
+  "description": "📥 An inbox UX for interacting with human-in-the-loop agents.",
+  "repository": "https://github.com/langchain-ai/agent-inbox",
+  "stars": 636,
+  "originator": "langchain-ai",
+  "tags": [
+    "human-in-the-loop",
+    "agent interaction",
+    "user interface"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-03",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/langchain-ai/agent-inbox#readme",
+    "https://github.com/langchain-ai/agent-inbox/issues",
+    "https://github.com/langchain-ai/agent-inbox/pulls"
+  ],
+  "highlight": "Provides a user-friendly inbox interface for managing interactions between humans and AI agents."
+}

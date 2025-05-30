@@ -1,0 +1,42 @@
+{
+  "category": "data-visualization",
+  "status": "alpha",
+  "purpose": "Enable users to create complex data visualizations effortlessly using AI",
+  "principle": "Leverages AI algorithms to automatically generate visualization recommendations and render data insights",
+  "reusability": "Offers APIs for integration with data sources and visualization platforms, supports plug-and-play components for dashboards",
+  "limitations": "May require significant computational resources for large datasets, visualization options might be limited to predefined templates",
+  "platforms": [
+    "Web",
+    "Azure"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "D3.js",
+    "Azure"
+  ],
+  "name": "data-formulator",
+  "slug": "microsoft-data-formulator",
+  "description": "🪄 Create rich visualizations with AI ",
+  "repository": "https://github.com/microsoft/data-formulator",
+  "stars": 12155,
+  "originator": "microsoft",
+  "tags": [
+    "AI",
+    "data visualization",
+    "automated insights",
+    "charts",
+    "dashboards"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-16",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/microsoft/data-formulator/wiki",
+    "https://github.com/microsoft/data-formulator/issues",
+    "https://github.com/microsoft/data-formulator/releases"
+  ],
+  "highlight": "Transforms data into rich visualizations using AI-driven insights"
+}

@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for orchestrating and managing AI agents, enabling more efficient and controlled workflows",
+  "principle": "Built on top of Prefect, it leverages workflow orchestration principles to manage AI agent operations and interactions",
+  "reusability": "Highly composable with Prefect's ecosystem, supports integration with various AI models and workflows",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and have limited stability",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Prefect",
+    "LLM integrations"
+  ],
+  "name": "ControlFlow",
+  "slug": "prefecthq-controlflow",
+  "description": "🦾 Take control of your AI agents",
+  "repository": "https://github.com/PrefectHQ/ControlFlow",
+  "stars": 1308,
+  "originator": "PrefectHQ",
+  "tags": [
+    "agent",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "llm",
+    "prefect",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-01",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/PrefectHQ/ControlFlow",
+    "https://docs.prefect.io"
+  ],
+  "highlight": "Enables orchestration and management of AI agents with enhanced control and workflow capabilities"
+}

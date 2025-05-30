@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a robust framework for developing and orchestrating agentic systems, enabling complex interactions between multiple agents.",
+  "principle": "Utilizes a modular architecture to facilitate the creation and coordination of multiple specialized agents, leveraging Python and related libraries for agent development.",
+  "reusability": "Offers a modular design with reusable components for agent development, includes APIs for integration and extensibility.",
+  "limitations": "Currently in alpha stage, may have limited documentation and examples, and potential stability issues during early development.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "LangChain",
+    "Hugging Face Transformers"
+  ],
+  "name": "graphite",
+  "slug": "binome-dev-graphite",
+  "description": "Graphite Agentic Framework by Binome Technologies",
+  "repository": "https://github.com/binome-dev/graphite",
+  "stars": 140,
+  "originator": "binome-dev",
+  "tags": [
+    "agents",
+    "genai",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "MPL-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/binome-dev/graphite#readme",
+    "https://github.com/binome-dev/graphite/wiki",
+    "https://github.com/binome-dev/graphite/issues"
+  ],
+  "highlight": "A framework for building and managing agentic systems with a focus on multi-agent orchestration."
+}

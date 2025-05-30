@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive and curated list of Model Context Protocol (MCP) servers for developers and researchers.",
+  "principle": "Aggregates information about various MCP servers, focusing on their features, capabilities, and use cases.",
+  "reusability": "Serves as a reference guide for selecting MCP servers, useful for developers and researchers working with model context protocols.",
+  "limitations": "Dependent on community contributions for updates; may not cover all available MCP servers comprehensively.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-mcp-servers",
+  "slug": "wong2-awesome-mcp-servers",
+  "description": "A curated list of Model Context Protocol (MCP) servers",
+  "repository": "https://github.com/wong2/awesome-mcp-servers",
+  "stars": 1300,
+  "originator": "wong2",
+  "tags": [
+    "MCP",
+    "servers",
+    "curated list",
+    "reference"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/wong2/awesome-mcp-servers#readme"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enhance the resilience and reliability of AI agent workflows by providing durable execution and orchestration capabilities.",
+  "principle": "Built on Go with a focus on durable execution patterns, offering SDKs for Python and JavaScript to facilitate integration and orchestration of AI workflows.",
+  "reusability": "Offers SDKs for Python and JavaScript, making it easy to integrate with existing AI workflows and applications. Designed for composability and plug-and-play integration.",
+  "limitations": "Currently in alpha status, which may imply potential instability and incomplete features. Limited documentation and community support may pose challenges.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "Python",
+    "JavaScript",
+    "MPL-2.0 License"
+  ],
+  "name": "orra",
+  "slug": "orra-dev-orra",
+  "description": "Resilience for AI Agent workflows.",
+  "repository": "https://github.com/orra-dev/orra",
+  "stars": 201,
+  "originator": "orra-dev",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-developer-tools",
+    "ai-in-production",
+    "durable-execution",
+    "go",
+    "golang",
+    "javascript-sdk",
+    "llm-apps",
+    "orchestrator",
+    "python-sdk",
+    "reasoning",
+    "reliability"
+  ],
+  "open_source": true,
+  "license": "MPL-2.0",
+  "last_updated": "2025-05-24",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/orra-dev/orra",
+    "https://github.com/orra-dev/orra#readme",
+    "https://github.com/orra-dev/orra/wiki"
+  ],
+  "highlight": "Provides resilience and reliability for AI agent workflows through durable execution and orchestration."
+}

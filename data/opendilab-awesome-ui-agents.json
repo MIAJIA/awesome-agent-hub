@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a curated list of resources and tools for developing and integrating UI agents across multiple domains such as Web, App, and OS.",
+  "principle": "Aggregates and categorizes resources, libraries, and tools related to UI agents, offering developers a centralized repository of information.",
+  "reusability": "Highly reusable as a reference for developers looking to explore or implement UI agents, with categorized links and resources.",
+  "limitations": "Primarily a collection of external resources; does not provide direct implementations or code examples of UI agents.",
+  "platforms": [
+    "Web",
+    "App",
+    "OS"
+  ],
+  "stack": [],
+  "name": "awesome-ui-agents",
+  "slug": "opendilab-awesome-ui-agents",
+  "description": "A curated list of of awesome UI agents resources, encompassing Web, App, OS, and beyond (continually updated)",
+  "repository": "https://github.com/opendilab/awesome-ui-agents",
+  "stars": 202,
+  "originator": "opendilab",
+  "tags": [
+    "UI agents",
+    "resources",
+    "curated list",
+    "Web",
+    "App",
+    "OS"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-12",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/opendilab/awesome-ui-agents"
+  ],
+  "highlight": "A comprehensive and continually updated collection of UI agent resources across various platforms."
+}

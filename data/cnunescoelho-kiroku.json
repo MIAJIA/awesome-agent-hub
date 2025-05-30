@@ -1,0 +1,33 @@
+{
+  "category": "writing",
+  "status": "alpha",
+  "purpose": "Assist users in organizing and writing documents through a multi-agent approach.",
+  "principle": "Leverages a multi-agent architecture to coordinate tasks related to document organization and writing.",
+  "reusability": "Designed as a modular system that can be integrated into larger workflows, with potential API endpoints for extensibility.",
+  "limitations": "Still in alpha stage, may have limited functionality and stability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "FastAPI"
+  ],
+  "name": "kiroku",
+  "slug": "cnunescoelho-kiroku",
+  "description": "Multi-agent that helps you organize and write documents.",
+  "repository": "https://github.com/cnunescoelho/kiroku",
+  "stars": 328,
+  "originator": "cnunescoelho",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-11-15",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/cnunescoelho/kiroku#readme",
+    "https://github.com/cnunescoelho/kiroku/wiki"
+  ],
+  "highlight": "Multi-agent system for organizing and writing documents efficiently."
+}

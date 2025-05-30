@@ -1,0 +1,46 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive and diverse dataset collection for training instruction-aware conversational AI models",
+  "principle": "Utilizes a wide range of datasets and instruction-tuning techniques to enhance the capabilities of conversational AI models",
+  "reusability": "Open-source with datasets and models that can be used for training and fine-tuning in various conversational AI applications",
+  "limitations": "Primarily focused on dataset provision; effectiveness depends on the quality and diversity of the datasets included",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers"
+  ],
+  "name": "DialogStudio",
+  "slug": "salesforce-dialogstudio",
+  "description": "DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection and Instruction-Aware Models for Conversational AI",
+  "repository": "https://github.com/salesforce/DialogStudio",
+  "stars": 501,
+  "originator": "salesforce",
+  "tags": [
+    "conversational-ai",
+    "dataset",
+    "dialog",
+    "instruction-tuning",
+    "language-model",
+    "natural-language-generation",
+    "natural-language-understanding",
+    "open-domain-dialog",
+    "open-source",
+    "question-answering"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-01-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/salesforce/DialogStudio#readme",
+    "https://github.com/salesforce/DialogStudio/tree/main/docs",
+    "https://github.com/salesforce/DialogStudio/tree/main/examples"
+  ],
+  "highlight": "Unified dataset collection and instruction-aware models for diverse conversational AI applications"
+}

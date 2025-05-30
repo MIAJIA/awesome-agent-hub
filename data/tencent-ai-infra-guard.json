@@ -1,0 +1,32 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To assess and enhance the security of AI infrastructure by identifying vulnerabilities and analyzing MCP server security.",
+  "principle": "Utilizes static and dynamic analysis techniques to identify security vulnerabilities within AI infrastructure components and MCP servers.",
+  "reusability": "Designed as a standalone tool that can be integrated into existing security workflows; offers command-line interface for ease of use.",
+  "limitations": "Primarily focused on AI infrastructure and MCP servers, may not cover general IT infrastructure comprehensively.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "Docker"
+  ],
+  "name": "AI-Infra-Guard",
+  "slug": "tencent-ai-infra-guard",
+  "description": "A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.",
+  "repository": "https://github.com/Tencent/AI-Infra-Guard",
+  "stars": 1310,
+  "originator": "Tencent",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-26",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/Tencent/AI-Infra-Guard/wiki",
+    "https://github.com/Tencent/AI-Infra-Guard/blob/main/README.md"
+  ],
+  "highlight": "AI-Infra-Guard provides a comprehensive vulnerability assessment specifically tailored for AI infrastructure and MCP server security."
+}

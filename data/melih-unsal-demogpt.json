@@ -1,0 +1,56 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a unified framework for building, testing, and deploying Language Model-based agents.",
+  "principle": "Leverages OpenAI's GPT models and LangChain for building agents, integrating tools, prompts, and frameworks.",
+  "reusability": "Highly modular with plug-and-play components, supports integration with various AI models and tools.",
+  "limitations": "Currently in alpha stage, may lack extensive documentation and real-world testing.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "Streamlit"
+  ],
+  "name": "DemoGPT",
+  "slug": "melih-unsal-demogpt",
+  "description": "🤖 Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place.",
+  "repository": "https://github.com/melih-unsal/DemoGPT",
+  "stars": 1831,
+  "originator": "melih-unsal",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "artificial-intelligence",
+    "autogpt",
+    "autonomous-agents",
+    "chatgpt",
+    "chatgpt-api",
+    "deepseek",
+    "demo",
+    "gpt-4",
+    "langchain",
+    "langchain-app",
+    "langchain-python",
+    "llms",
+    "o1",
+    "openai",
+    "python",
+    "streamlit",
+    "streamlit-application"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/melih-unsal/DemoGPT#readme",
+    "https://github.com/melih-unsal/DemoGPT/tree/main/examples",
+    "https://github.com/melih-unsal/DemoGPT/wiki"
+  ],
+  "highlight": "Comprehensive toolkit for creating Language Model-based Agents with integrated tools and frameworks."
+}

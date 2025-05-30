@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable the creation and management of multi-agent systems that can work collaboratively to solve complex tasks",
+  "principle": "Built on a framework that leverages Python's capabilities for agent-based modeling and swarm intelligence",
+  "reusability": "Designed for extensibility with a modular architecture, allowing easy integration of custom agents and APIs",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and have limited support for large-scale deployments",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Celery",
+    "Redis"
+  ],
+  "name": "Quarm",
+  "slug": "quarm-ai-quarm",
+  "description": "An AI agent swarm framework built in Python",
+  "repository": "https://github.com/Quarm-AI/Quarm",
+  "stars": 325,
+  "originator": "Quarm-AI",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Quarm-AI/Quarm/wiki",
+    "https://github.com/Quarm-AI/Quarm/blob/main/docs/README.md"
+  ],
+  "highlight": "Facilitates the orchestration and management of AI agent swarms for complex problem-solving tasks"
+}

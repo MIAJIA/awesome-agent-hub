@@ -1,0 +1,37 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide example implementations and best practices for building serverless applications using AWS services.",
+  "principle": "Demonstrates the use of AWS Lambda, API Gateway, and other serverless technologies to create scalable applications.",
+  "reusability": "The samples can be reused as templates for building serverless applications, with customizable components for various use cases.",
+  "limitations": "Primarily focused on AWS services; may require adaptation for other cloud providers.",
+  "platforms": [
+    "AWS"
+  ],
+  "stack": [
+    "Python",
+    "AWS Lambda",
+    "AWS API Gateway",
+    "AWS CloudFormation"
+  ],
+  "name": "serverless-samples",
+  "slug": "aws-samples-serverless-samples",
+  "description": "This repository contains samples of Serverless application code.",
+  "repository": "https://github.com/aws-samples/serverless-samples",
+  "stars": 297,
+  "originator": "aws-samples",
+  "tags": [
+    "api-gateway",
+    "lambda",
+    "serverless"
+  ],
+  "open_source": true,
+  "license": "MIT-0",
+  "last_updated": "2025-05-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/aws-samples/serverless-samples/blob/main/README.md",
+    "https://docs.aws.amazon.com/lambda/latest/dg/welcome.html",
+    "https://aws.amazon.com/serverless/"
+  ]
+}

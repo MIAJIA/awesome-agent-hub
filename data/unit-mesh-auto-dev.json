@@ -1,0 +1,39 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To assist developers in coding tasks by providing automated code generation, debugging assistance, and documentation features",
+  "principle": "Utilizes AI-driven algorithms for code generation and bug detection, with support for customizable prompts to tailor the development experience",
+  "reusability": "Offers integration with IDEs such as IntelliJ, supports customizable prompts, and provides an API for automation of development tasks",
+  "limitations": "Currently in alpha stage, may have limited language support and feature stability issues",
+  "platforms": [
+    "JetBrains IDEs"
+  ],
+  "stack": [
+    "Kotlin",
+    "IntelliJ Platform",
+    "MPL-2.0 License"
+  ],
+  "name": "auto-dev",
+  "slug": "unit-mesh-auto-dev",
+  "description": "🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent  feature 🧪 included! 🚀",
+  "repository": "https://github.com/unit-mesh/auto-dev",
+  "stars": 3941,
+  "originator": "unit-mesh",
+  "tags": [
+    "aigc",
+    "genai",
+    "genaistack",
+    "ide",
+    "intellij"
+  ],
+  "open_source": true,
+  "license": "MPL-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Kotlin",
+  "useful_links": [
+    "https://github.com/unit-mesh/auto-dev#readme",
+    "https://github.com/unit-mesh/auto-dev/wiki",
+    "https://github.com/unit-mesh/auto-dev/releases"
+  ],
+  "highlight": "Multilingual support with customizable prompts and auto code generation"
+}

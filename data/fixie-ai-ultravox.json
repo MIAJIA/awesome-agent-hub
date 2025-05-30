@@ -1,0 +1,40 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Enable fast and efficient real-time voice processing using multimodal large language models",
+  "principle": "Combines advanced speech recognition with multimodal LLMs to process and interpret voice data in real-time",
+  "reusability": "Designed for integration into voice applications with API support, modular architecture for customization",
+  "limitations": "May have limited support for various languages and accents, requires substantial computational resources for real-time processing",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "FastAPI",
+    "Hugging Face Transformers"
+  ],
+  "name": "ultravox",
+  "slug": "fixie-ai-ultravox",
+  "description": "A fast multimodal LLM for real-time voice",
+  "repository": "https://github.com/fixie-ai/ultravox",
+  "stars": 3964,
+  "originator": "fixie-ai",
+  "tags": [
+    "ai",
+    "llm",
+    "slm",
+    "speech"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-14",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/fixie-ai/ultravox/blob/main/README.md",
+    "https://github.com/fixie-ai/ultravox/wiki",
+    "https://github.com/fixie-ai/ultravox/issues"
+  ],
+  "highlight": "Real-time voice processing with multimodal capabilities"
+}

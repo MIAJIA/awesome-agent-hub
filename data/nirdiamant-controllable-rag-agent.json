@@ -1,0 +1,46 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide an advanced solution for complex question answering by enhancing the RAG methodology with graph-based algorithms.",
+  "principle": "Employs graph-based algorithms to optimize the retrieval and generation processes in RAG, enhancing the accuracy and relevance of answers.",
+  "reusability": "Offers modular components that can be integrated into existing systems for enhanced question answering capabilities, with support for custom knowledge graphs.",
+  "limitations": "Currently in alpha stage, may have limited coverage in non-English languages, and requires setup of a knowledge graph for optimal performance.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "Graph-based algorithms"
+  ],
+  "name": "Controllable-RAG-Agent",
+  "slug": "nirdiamant-controllable-rag-agent",
+  "description": "This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.",
+  "repository": "https://github.com/NirDiamant/Controllable-RAG-Agent",
+  "stars": 1227,
+  "originator": "NirDiamant",
+  "tags": [
+    "advanced-rag",
+    "agent",
+    "genai",
+    "langchain",
+    "langgraph",
+    "llm",
+    "llms",
+    "openai",
+    "python",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-14",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/NirDiamant/Controllable-RAG-Agent#readme",
+    "https://github.com/NirDiamant/Controllable-RAG-Agent/wiki",
+    "https://github.com/NirDiamant/Controllable-RAG-Agent/issues"
+  ],
+  "highlight": "Advanced Retrieval-Augmented Generation (RAG) solution using sophisticated graph-based algorithms for complex question answering."
+}

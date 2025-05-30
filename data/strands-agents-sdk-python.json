@@ -1,0 +1,54 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of AI agents using a streamlined, model-driven framework.",
+  "principle": "Leverages model-driven architecture to simplify the process of building AI agents, focusing on high-level abstractions and code generation.",
+  "reusability": "Offers a modular framework with reusable components and APIs for easy integration into various projects.",
+  "limitations": "Currently in alpha stage, may lack extensive documentation and have limited community support.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Anthropic",
+    "OpenTelemetry"
+  ],
+  "name": "sdk-python",
+  "slug": "strands-agents-sdk-python",
+  "description": "A model-driven approach to building AI agents in just a few lines of code.",
+  "repository": "https://github.com/strands-agents/sdk-python",
+  "stars": 901,
+  "originator": "strands-agents",
+  "tags": [
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "anthropic",
+    "autonomous-agents",
+    "bedrock",
+    "genai",
+    "litellm",
+    "llama",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "multi-agent-systems",
+    "ollama",
+    "openai",
+    "opentelemetry",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/strands-agents/sdk-python#readme",
+    "https://github.com/strands-agents/sdk-python/wiki",
+    "https://github.com/strands-agents/sdk-python/issues"
+  ],
+  "highlight": "Enables rapid development of AI agents with minimal code through a model-driven approach."
+}

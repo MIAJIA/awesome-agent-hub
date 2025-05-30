@@ -1,0 +1,30 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for developing AI agents entirely within the Kotlin ecosystem",
+  "principle": "Leverages Kotlin's language features and libraries to create a seamless development experience for AI agent creation",
+  "reusability": "Designed to be modular and extensible, allowing developers to build custom agents with ease",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and stability",
+  "platforms": [
+    "JVM"
+  ],
+  "stack": [
+    "Kotlin"
+  ],
+  "name": "koog",
+  "slug": "jetbrains-koog",
+  "description": "Koog is a Kotlin-based framework designed to build and run AI agents entirely in idiomatic Kotlin.",
+  "repository": "https://github.com/JetBrains/koog",
+  "stars": 715,
+  "originator": "JetBrains",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Kotlin",
+  "useful_links": [
+    "https://github.com/JetBrains/koog#readme",
+    "https://github.com/JetBrains/koog/wiki"
+  ],
+  "highlight": "Kotlin-based framework for building AI agents using idiomatic Kotlin"
+}

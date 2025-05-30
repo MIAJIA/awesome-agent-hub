@@ -1,0 +1,51 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide developers with structured roadmaps and guides to help them learn and grow in their careers.",
+  "principle": "Utilizes visual roadmaps and educational content to map out the skills and technologies developers should learn.",
+  "reusability": "The roadmaps can be used as a reference for individual learning plans or integrated into educational platforms.",
+  "limitations": "The roadmaps are generalized and may not cover every specific technology or career path nuance.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Next.js"
+  ],
+  "name": "developer-roadmap",
+  "slug": "kamranahmedse-developer-roadmap",
+  "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+  "repository": "https://github.com/kamranahmedse/developer-roadmap",
+  "stars": 324139,
+  "originator": "kamranahmedse",
+  "tags": [
+    "angular-roadmap",
+    "backend-roadmap",
+    "blockchain-roadmap",
+    "computer-science",
+    "dba-roadmap",
+    "developer-roadmap",
+    "devops-roadmap",
+    "frontend-roadmap",
+    "go-roadmap",
+    "java-roadmap",
+    "javascript-roadmap",
+    "nodejs-roadmap",
+    "python-roadmap",
+    "qa-roadmap",
+    "react-roadmap",
+    "roadmap",
+    "software-architect-roadmap",
+    "vue-roadmap"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md",
+    "https://roadmap.sh/"
+  ],
+  "highlight": "Comprehensive and interactive roadmaps for developers to guide their career growth."
+}

@@ -1,0 +1,46 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the deployment, management, and scaling of large language models in production environments",
+  "principle": "Built on Kubernetes for orchestration, leverages LangChain for language model operations, and integrates retrieval-augmented generation techniques",
+  "reusability": "Supports Kubernetes deployments, provides API integration for LLM operations, modular architecture for extensibility",
+  "limitations": "Primarily designed for Kubernetes environments, potential complexity in setup for non-Kubernetes users",
+  "platforms": [
+    "Kubernetes",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "Kubernetes",
+    "LangChain",
+    "Apache-2.0"
+  ],
+  "name": "arcadia",
+  "slug": "kubeagi-arcadia",
+  "description": "A diverse, simple, and secure all-in-one LLMOps platform",
+  "repository": "https://github.com/kubeagi/arcadia",
+  "stars": 105,
+  "originator": "kubeagi",
+  "tags": [
+    "agents",
+    "golang",
+    "kubernetes",
+    "langchain",
+    "large-language-models",
+    "llm",
+    "llmops",
+    "rag",
+    "real-time-data",
+    "retrieval-augmented-generation"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-09-21",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/kubeagi/arcadia#readme",
+    "https://github.com/kubeagi/arcadia/wiki",
+    "https://github.com/kubeagi/arcadia/issues"
+  ],
+  "highlight": "Comprehensive LLMOps platform integrating real-time data and retrieval-augmented generation"
+}

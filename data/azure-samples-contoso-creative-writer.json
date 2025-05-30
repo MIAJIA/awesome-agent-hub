@@ -1,0 +1,45 @@
+{
+  "category": "writing",
+  "status": "alpha",
+  "purpose": "Assist users in generating creative writing content such as articles and stories",
+  "principle": "Utilizes Azure OpenAI and Azure Cognitive Services to provide creative writing suggestions and enhancements",
+  "reusability": "Designed to be integrated with Azure AI services, offering modular components for creative writing tasks",
+  "limitations": "Requires Azure subscription for full functionality, primarily supports English language, limited customization options",
+  "platforms": [
+    "Azure"
+  ],
+  "stack": [
+    "Azure OpenAI",
+    "Azure Cognitive Services",
+    "Bicep",
+    "Azure Functions"
+  ],
+  "name": "contoso-creative-writer",
+  "slug": "azure-samples-contoso-creative-writer",
+  "description": "A creative writing multi-agent solution to help users write articles.",
+  "repository": "https://github.com/Azure-Samples/contoso-creative-writer",
+  "stars": 380,
+  "originator": "Azure-Samples",
+  "tags": [
+    "agents",
+    "ai-azd-templates",
+    "azd-templates",
+    "azure",
+    "azure-ai-agent-service",
+    "azure-ai-search",
+    "azureopenai",
+    "bing",
+    "chatgpt",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-30",
+  "language": "Bicep",
+  "useful_links": [
+    "https://github.com/Azure-Samples/contoso-creative-writer/blob/main/README.md",
+    "https://github.com/Azure-Samples/contoso-creative-writer/blob/main/docs/setup.md",
+    "https://github.com/Azure-Samples/contoso-creative-writer/blob/main/docs/usage.md"
+  ],
+  "highlight": "Multi-agent system for creative writing leveraging Azure AI services"
+}

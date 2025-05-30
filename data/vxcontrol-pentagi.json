@@ -1,0 +1,55 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "Automate and enhance penetration testing using AI-driven autonomous agents",
+  "principle": "Leverages multi-agent systems and AI models to perform and coordinate penetration testing activities",
+  "reusability": "Designed to be self-hosted with integration capabilities via GraphQL APIs, suitable for security testing environments",
+  "limitations": "In alpha stage, may have limited testing coverage and require expert configuration for optimal use",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "GraphQL",
+    "React",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "name": "pentagi",
+  "slug": "vxcontrol-pentagi",
+  "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+  "repository": "https://github.com/vxcontrol/pentagi",
+  "stars": 320,
+  "originator": "vxcontrol",
+  "tags": [
+    "ai-agents",
+    "ai-security-tool",
+    "anthropic",
+    "autonomous-agents",
+    "golang",
+    "gpt",
+    "graphql",
+    "multi-agent-system",
+    "offensive-security",
+    "open-source",
+    "openai",
+    "penetration-testing",
+    "penetration-testing-tools",
+    "react",
+    "security-automation",
+    "security-testing",
+    "security-tools",
+    "self-hosted"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-05",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/vxcontrol/pentagi/blob/main/README.md",
+    "https://github.com/vxcontrol/pentagi/wiki",
+    "https://github.com/vxcontrol/pentagi/issues"
+  ],
+  "highlight": "Fully autonomous AI agents for complex penetration testing tasks"
+}

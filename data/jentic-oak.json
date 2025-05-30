@@ -1,0 +1,30 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a repository for organizing and retrieving knowledge in agent-based systems",
+  "principle": "Built on Python, leveraging a modular architecture to store and retrieve agent knowledge efficiently",
+  "reusability": "Designed as a modular system with APIs for easy integration into existing agent frameworks",
+  "limitations": "Currently in alpha stage, may have incomplete features and potential stability issues",
+  "platforms": [
+    "Linux"
+  ],
+  "stack": [
+    "Python"
+  ],
+  "name": "oak",
+  "slug": "jentic-oak",
+  "description": "Open Agentic Knowledge Repository",
+  "repository": "https://github.com/jentic/oak",
+  "stars": 139,
+  "originator": "jentic",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/jentic/oak#readme",
+    "https://github.com/jentic/oak/wiki"
+  ],
+  "highlight": "Centralized platform for managing and accessing agent-based knowledge resources"
+}

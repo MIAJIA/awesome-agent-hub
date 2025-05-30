@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To explore the capabilities of a self-building autonomous agent with minimal complexity",
+  "principle": "Leverages Python and basic AI/ML libraries to create a self-improving agent through iterative learning and task execution",
+  "reusability": "Designed for experimentation and educational purposes, allowing users to modify and extend the agent's capabilities",
+  "limitations": "Limited by its simplicity, lacks advanced features and scalability for production use",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI"
+  ],
+  "name": "babyagi-2o",
+  "slug": "yoheinakajima-babyagi-2o",
+  "description": "the simplest self-building general autonomous agent",
+  "repository": "https://github.com/yoheinakajima/babyagi-2o",
+  "stars": 308,
+  "originator": "yoheinakajima",
+  "tags": [
+    "autonomous agent",
+    "AI",
+    "self-building",
+    "experimental"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-10-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/yoheinakajima/babyagi-2o/blob/main/README.md",
+    "https://github.com/yoheinakajima/babyagi-2o/issues",
+    "https://github.com/yoheinakajima/babyagi-2o/wiki"
+  ],
+  "highlight": "Simplest self-building general autonomous agent for experimentation"
+}

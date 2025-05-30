@@ -1,0 +1,38 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate the conversion of OpenAPI V3 specifications into MCP server implementations.",
+  "principle": "Parses OpenAPI V3 definitions and generates server code using Go, enabling seamless deployment of MCP servers.",
+  "reusability": "Can be integrated as a standalone tool or within existing workflows to automate server creation from API specifications.",
+  "limitations": "Limited to OpenAPI V3 specifications; may not support all custom extensions or non-standard features.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Go",
+    "OpenAPI V3"
+  ],
+  "name": "mcp-link",
+  "slug": "automation-ai-labs-mcp-link",
+  "description": "Convert Any OpenAPI V3 API to MCP Server",
+  "repository": "https://github.com/automation-ai-labs/mcp-link",
+  "stars": 412,
+  "originator": "automation-ai-labs",
+  "tags": [
+    "agents",
+    "mcp",
+    "mcp-server"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-03",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/automation-ai-labs/mcp-link/blob/main/README.md",
+    "https://github.com/automation-ai-labs/mcp-link/wiki",
+    "https://github.com/automation-ai-labs/mcp-link/issues"
+  ],
+  "highlight": "Automatically converts any OpenAPI V3 API specification into a fully functional MCP server."
+}

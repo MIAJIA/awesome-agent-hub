@@ -1,0 +1,48 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "Automates market analysis, risk management, and trade execution for hedge funds",
+  "principle": "Combines swarm intelligence techniques with AI agents to analyze market data and execute trades",
+  "reusability": "Offers modular components for market analysis and trading, with potential API integration for custom strategies",
+  "limitations": "Currently in alpha stage, may have limited market coverage and requires significant testing in real-world scenarios",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+  "name": "AutoHedge",
+  "slug": "the-swarm-corporation-autohedge",
+  "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+  "repository": "https://github.com/The-Swarm-Corporation/AutoHedge",
+  "stars": 102,
+  "originator": "The-Swarm-Corporation",
+  "tags": [
+    "ai",
+    "blackrock",
+    "finance",
+    "goldmansachs",
+    "hedgefund",
+    "jpmorgan",
+    "ml",
+    "quant",
+    "quantitative-finance",
+    "quantitative-trading",
+    "trading"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/The-Swarm-Corporation/AutoHedge#readme",
+    "https://github.com/The-Swarm-Corporation/AutoHedge/wiki",
+    "https://github.com/The-Swarm-Corporation/AutoHedge/issues"
+  ],
+  "highlight": "Leverages swarm intelligence and AI agents for fully automated hedge fund operations"
+}

@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates decentralized communication and coordination among autonomous agents",
+  "principle": "Utilizes a peer-to-peer network architecture built on Go for decentralized agent interactions",
+  "reusability": "Modular architecture allows for integration with existing systems, supports API extensions for custom functionalities",
+  "limitations": "Current implementation is in alpha stage, may have limited scalability and robustness in large networks",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Go",
+    "gRPC",
+    "Protobuf"
+  ],
+  "name": "eternal-ai",
+  "slug": "eternalai-org-eternal-ai",
+  "description": "A Peer-to-Peer Autonomous Agent System",
+  "repository": "https://github.com/eternalai-org/eternal-ai",
+  "stars": 103,
+  "originator": "eternalai-org",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-17",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/eternalai-org/eternal-ai/blob/main/README.md",
+    "https://github.com/eternalai-org/eternal-ai/wiki",
+    "https://github.com/eternalai-org/eternal-ai/issues"
+  ],
+  "highlight": "Peer-to-peer autonomous agent system enabling decentralized communication and coordination"
+}

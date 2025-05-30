@@ -1,0 +1,45 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To facilitate the creation and management of multi-agent systems using a Kanban-style approach for improved organization and workflow.",
+  "principle": "Built on JavaScript, leveraging a Kanban-inspired methodology to structure and coordinate interactions between multiple agents.",
+  "reusability": "Offers a modular design with plugins and APIs for easy integration and customization in JavaScript projects.",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and full feature set, primarily targeted at JavaScript environments.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "LangChain-js"
+  ],
+  "name": "KaibanJS",
+  "slug": "kaiban-ai-kaibanjs",
+  "description": "KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.",
+  "repository": "https://github.com/kaiban-ai/KaibanJS",
+  "stars": 1143,
+  "originator": "kaiban-ai",
+  "tags": [
+    "agentic",
+    "agentic-framework",
+    "agenticjs",
+    "agents",
+    "ai",
+    "javascript",
+    "kanban",
+    "langchain-js",
+    "llms",
+    "multi-agent-systems",
+    "state-management"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/kaiban-ai/KaibanJS#readme",
+    "https://github.com/kaiban-ai/KaibanJS/wiki",
+    "https://github.com/kaiban-ai/KaibanJS/issues"
+  ],
+  "highlight": "Kanban-inspired framework for managing multi-agent systems in JavaScript."
+}

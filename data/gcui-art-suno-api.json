@@ -1,0 +1,39 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "Facilitates the integration of AI-driven music generation into various applications and agents.",
+  "principle": "Utilizes the suno.ai API to generate music through AI models, providing easy integration with TypeScript.",
+  "reusability": "Offers a simple API interface for integrating music generation into applications, supporting plug-and-play usage with TypeScript.",
+  "limitations": "Currently in alpha stage, may have limited features and stability issues.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "suno.ai API"
+  ],
+  "name": "suno-api",
+  "slug": "gcui-art-suno-api",
+  "description": "Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.",
+  "repository": "https://github.com/gcui-art/suno-api",
+  "stars": 2078,
+  "originator": "gcui-art",
+  "tags": [
+    "ai",
+    "music",
+    "suno",
+    "suno-ai",
+    "suno-ai-api",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "LGPL-3.0",
+  "last_updated": "2025-03-17",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/gcui-art/suno-api#readme",
+    "https://suno.ai"
+  ],
+  "highlight": "Seamlessly integrates suno.ai's music generation capabilities into applications using a simple API."
+}

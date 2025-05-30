@@ -1,0 +1,55 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the exploration and implementation of Large Language Models (LLMs) and generative AI in Go applications",
+  "principle": "Builds on Go language standards to provide a clean and effective interface for interacting with LLMs and generative AI technologies",
+  "reusability": "Designed as a Go library, it can be integrated into Go applications to leverage LLMs and generative AI capabilities",
+  "limitations": "Being in alpha status, the library might have limited features and potential stability issues. It is also primarily designed for Go developers",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Go",
+    "OpenAI API",
+    "Vector Databases"
+  ],
+  "name": "agency",
+  "slug": "neurocult-agency",
+  "description": "🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.",
+  "repository": "https://github.com/neurocult/agency",
+  "stars": 480,
+  "originator": "neurocult",
+  "tags": [
+    "agents",
+    "ai",
+    "artificial-general-intelligence",
+    "artificial-intelligence",
+    "artificial-neural-networks",
+    "autonomous-agents",
+    "chatgpt",
+    "generative-ai",
+    "go",
+    "golang",
+    "gpt",
+    "language-models",
+    "llm",
+    "llmops",
+    "machine-learning",
+    "neural-network",
+    "nlp",
+    "openai",
+    "rag",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-08",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/neurocult/agency#readme",
+    "https://pkg.go.dev/github.com/neurocult/agency"
+  ],
+  "highlight": "Go-idiomatic library for exploring Large Language Models and generative AI"
+}

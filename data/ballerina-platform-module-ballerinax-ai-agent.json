@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and management of AI agents using Ballerina language with large language model integration.",
+  "principle": "Built on the Ballerina programming language, this agent utilizes the ReAct pattern to integrate LLMs for decision-making and task execution.",
+  "reusability": "Designed to be modular and extensible, allowing developers to integrate and customize agents easily within Ballerina applications.",
+  "limitations": "Currently in alpha stage, may have limited support for non-Ballerina environments and evolving API stability.",
+  "platforms": [
+    "Ballerina runtime"
+  ],
+  "stack": [
+    "Ballerina",
+    "LLMs"
+  ],
+  "name": "module-ballerinax-ai.agent",
+  "slug": "ballerina-platform-module-ballerinax-ai-agent",
+  "description": "Ballerina ReAct type Agent module using Large language models (LLMs)",
+  "repository": "https://github.com/ballerina-platform/module-ballerinax-ai.agent",
+  "stars": 108,
+  "originator": "ballerina-platform",
+  "tags": [
+    "ballerina"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Ballerina",
+  "useful_links": [
+    "https://github.com/ballerina-platform/module-ballerinax-ai.agent/blob/main/README.md",
+    "https://ballerina.io/",
+    "https://github.com/ballerina-platform/module-ballerinax-ai.agent/issues"
+  ],
+  "highlight": "Ballerina ReAct type Agent leveraging Large Language Models (LLMs) for enhanced AI interactions."
+}

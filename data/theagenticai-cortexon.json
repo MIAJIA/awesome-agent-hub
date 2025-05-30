@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a generalized AI agent framework that automates everyday tasks through intelligent reasoning and multi-agent collaboration.",
+  "principle": "Built on a multi-agent architecture with capabilities for logical reasoning and task automation using language models.",
+  "reusability": "Offers a modular architecture with APIs for easy integration and customization, allowing users to tailor the agent's capabilities to specific tasks.",
+  "limitations": "Currently in alpha stage with limited documentation and potential stability issues; requires technical expertise for customization.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "Hugging Face",
+    "FastAPI"
+  ],
+  "name": "CortexON",
+  "slug": "theagenticai-cortexon",
+  "description": "Open-source generalized AI agent for everyday task automations.",
+  "repository": "https://github.com/TheAgenticAI/CortexON",
+  "stars": 417,
+  "originator": "TheAgenticAI",
+  "tags": [
+    "ai-agents",
+    "automation",
+    "genai",
+    "llm",
+    "multi-agent",
+    "reasoning",
+    "reasoning-agent"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/TheAgenticAI/CortexON#readme",
+    "https://github.com/TheAgenticAI/CortexON/wiki",
+    "https://github.com/TheAgenticAI/CortexON/issues"
+  ],
+  "highlight": "CortexON is a versatile AI agent capable of automating a wide range of everyday tasks using advanced reasoning and multi-agent coordination."
+}

@@ -1,0 +1,39 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of AI-driven NFTs on various blockchain platforms.",
+  "principle": "Utilizes TypeScript and smart contract interactions to manage NFT lifecycle and multichain compatibility.",
+  "reusability": "Offers a modular toolkit with APIs for integrating AI-NFT functionalities into existing blockchain projects.",
+  "limitations": "Currently in alpha stage, potentially unstable and limited to supported blockchain networks.",
+  "platforms": [
+    "Ethereum",
+    "Multichain",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Ethereum",
+    "Solidity",
+    "Web3.js"
+  ],
+  "name": "mcv",
+  "slug": "xnomad-ai-mcv",
+  "description": "A toolkit to launch your AI-NFT on multichain.",
+  "repository": "https://github.com/xNomad-AI/mcv",
+  "stars": 112,
+  "originator": "xNomad-AI",
+  "tags": [
+    "ai",
+    "eliza",
+    "nft"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-11",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/xNomad-AI/mcv#readme",
+    "https://github.com/xNomad-AI/mcv/wiki"
+  ],
+  "highlight": "Enables the launch and management of AI-NFTs across multiple blockchain networks."
+}

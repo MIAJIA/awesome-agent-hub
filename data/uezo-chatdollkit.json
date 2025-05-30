@@ -1,0 +1,44 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To enable the creation of interactive chatbot experiences using 3D models and AI, enhancing virtual assistant capabilities.",
+  "principle": "Integrates Unity for 3D model rendering with AI services like OpenAI's GPT-3 to facilitate natural language interactions.",
+  "reusability": "Designed as a Unity package, it can be easily integrated into existing Unity projects. Provides APIs for interaction with AI services.",
+  "limitations": "Requires Unity knowledge for setup, limited to platforms supported by Unity, relies on external AI services for language processing.",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Unity"
+  ],
+  "stack": [
+    "C#",
+    "Unity",
+    "Azure",
+    "OpenAI GPT-3"
+  ],
+  "name": "ChatdollKit",
+  "slug": "uezo-chatdollkit",
+  "description": "ChatdollKit enables you to make your 3D model into a chatbot",
+  "repository": "https://github.com/uezo/ChatdollKit",
+  "stars": 911,
+  "originator": "uezo",
+  "tags": [
+    "3d-model",
+    "azure",
+    "chatbot",
+    "chatgpt",
+    "gpt-3",
+    "unity",
+    "unity3d",
+    "virtualassistant"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/uezo/ChatdollKit/wiki",
+    "https://github.com/uezo/ChatdollKit#readme"
+  ],
+  "highlight": "Transforms 3D models into interactive chatbots using Unity and AI integrations."
+}

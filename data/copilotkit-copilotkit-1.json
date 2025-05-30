@@ -1,0 +1,54 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development and deployment of AI copilots, chatbots, and in-app AI agents with a focus on user interface and backend infrastructure.",
+  "principle": "Built on React for frontend UI and integrates with various AI models and frameworks to provide intelligent agent capabilities.",
+  "reusability": "Offers modular components and APIs for easy integration into existing applications, with support for customization and extension.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential stability issues.",
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "LangChain"
+  ],
+  "name": "CopilotKit",
+  "slug": "copilotkit-copilotkit-1",
+  "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+  "repository": "https://github.com/CopilotKit/CopilotKit",
+  "stars": 20358,
+  "originator": "CopilotKit",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "ai-agent",
+    "ai-assistant",
+    "assistant",
+    "copilot",
+    "copilot-chat",
+    "hacktoberfest",
+    "langchain",
+    "langgraph",
+    "llm",
+    "nextjs",
+    "open-source",
+    "react",
+    "reactjs",
+    "ts",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/CopilotKit/CopilotKit#readme",
+    "https://github.com/CopilotKit/CopilotKit/wiki",
+    "https://github.com/CopilotKit/CopilotKit/issues"
+  ],
+  "highlight": "Provides a comprehensive framework for building AI copilots and chatbots with a focus on React UI and infrastructure elegance."
+}

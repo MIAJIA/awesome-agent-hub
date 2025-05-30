@@ -1,0 +1,53 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and deployment of sophisticated AI agents by providing a flexible and code-first toolkit.",
+  "principle": "Built on Python, it leverages modular architecture to allow developers to construct and manage AI agents with ease.",
+  "reusability": "Highly modular with plug-and-play components, extensive API support for integration with other systems.",
+  "limitations": "As an alpha release, it may have stability issues and limited documentation. Some features might be under development.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "name": "adk-python",
+  "slug": "google-adk-python",
+  "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "repository": "https://github.com/google/adk-python",
+  "stars": 9411,
+  "originator": "google",
+  "tags": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "agents-sdk",
+    "ai",
+    "ai-agents",
+    "aiagentframework",
+    "genai",
+    "genai-chatbot",
+    "llm",
+    "llms",
+    "multi-agent-systems",
+    "multi-agents",
+    "multi-agents-collaboration"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/google/adk-python/blob/main/README.md",
+    "https://github.com/google/adk-python/wiki",
+    "https://github.com/google/adk-python/issues",
+    "https://github.com/google/adk-python/releases"
+  ],
+  "highlight": "A comprehensive Python toolkit for building, evaluating, and deploying AI agents with flexibility and control."
+}

@@ -1,0 +1,45 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enhance the coding experience in Neovim by integrating AI-powered assistance directly within the editor.",
+  "principle": "Leverages the Goose AI platform to provide in-editor AI functionalities such as code suggestions and completions.",
+  "reusability": "Designed as a Neovim plugin, easily installable via package managers, and configurable for various AI tasks.",
+  "limitations": "Limited to Neovim users, requires configuration to connect with Goose AI services, dependent on the Goose platform for AI capabilities.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Lua",
+    "Neovim",
+    "Goose AI"
+  ],
+  "name": "goose.nvim",
+  "slug": "azorng-goose-nvim",
+  "description": "seamless neovim integration with goose - work with a powerful AI agent without leaving your editor",
+  "repository": "https://github.com/azorng/goose.nvim",
+  "stars": 229,
+  "originator": "azorng",
+  "tags": [
+    "agent",
+    "ai",
+    "cursor",
+    "goose",
+    "llm",
+    "neovim",
+    "nvim",
+    "nvim-plugin",
+    "plugin"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Lua",
+  "useful_links": [
+    "https://github.com/azorng/goose.nvim#readme",
+    "https://github.com/azorng/goose.nvim/wiki",
+    "https://github.com/azorng/goose.nvim/issues"
+  ],
+  "highlight": "Seamless integration of AI capabilities within the Neovim editor for enhanced coding productivity."
+}

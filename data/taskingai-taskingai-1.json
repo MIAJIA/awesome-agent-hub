@@ -1,0 +1,46 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development of AI-native applications by providing a robust platform with tools and integrations.",
+  "principle": "Builds on AI and machine learning frameworks like LangChain and utilizes vector databases for enhanced data retrieval.",
+  "reusability": "Offers modular components and APIs for easy integration and extension in AI application development.",
+  "limitations": "Currently in alpha stage, may have limited features and stability; primarily supports Python ecosystem.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "Vector DBs"
+  ],
+  "name": "TaskingAI",
+  "slug": "taskingai-taskingai-1",
+  "description": "The open source platform for AI-native application development.",
+  "repository": "https://github.com/TaskingAI/TaskingAI",
+  "stars": 5122,
+  "originator": "TaskingAI",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-native",
+    "function-call",
+    "generative-ai",
+    "gpt",
+    "langchain",
+    "llm",
+    "rag",
+    "retrieval-augmented-generation",
+    "vector"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-12-02",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/TaskingAI/TaskingAI/blob/main/README.md",
+    "https://github.com/TaskingAI/TaskingAI/wiki",
+    "https://github.com/TaskingAI/TaskingAI/issues"
+  ],
+  "highlight": "Empowers developers to create AI-native applications with ease through a comprehensive open-source platform."
+}

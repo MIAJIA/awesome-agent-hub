@@ -1,0 +1,39 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "Enhance the functionality of Obsidian by providing AI-powered assistance for note-taking and information management",
+  "principle": "Utilizes OpenAI's API to provide AI-driven suggestions and completions within the Obsidian environment",
+  "reusability": "Available as a plugin for Obsidian, easily installable and configurable through the Obsidian plugin marketplace",
+  "limitations": "Dependent on OpenAI API for AI features, which may incur costs; functionality limited to the capabilities of the OpenAI models used",
+  "platforms": [
+    "Obsidian"
+  ],
+  "stack": [
+    "TypeScript",
+    "Obsidian",
+    "OpenAI API"
+  ],
+  "name": "obsidian-copilot",
+  "slug": "logancyang-obsidian-copilot",
+  "description": "THE Copilot in Obsidian",
+  "repository": "https://github.com/logancyang/obsidian-copilot",
+  "stars": 4713,
+  "originator": "logancyang",
+  "tags": [
+    "aiagent",
+    "chatgpt",
+    "copilot",
+    "obsidian-plugin",
+    "openai-api",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-26",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/logancyang/obsidian-copilot",
+    "https://github.com/logancyang/obsidian-copilot#readme"
+  ],
+  "highlight": "Integrates AI capabilities directly into Obsidian for enhanced note-taking and productivity"
+}

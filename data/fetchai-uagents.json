@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable the creation and deployment of decentralized agents for multi-agent systems.",
+  "principle": "Builds on decentralized communication protocols and agent-based modeling to facilitate agent interactions.",
+  "reusability": "Highly modular with support for plug-and-play components, API integrations, and flexible agent configurations.",
+  "limitations": "Primarily focused on Python environments, limited documentation on advanced use cases, and may require familiarity with decentralized systems.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "Decentralized Protocols"
+  ],
+  "name": "uAgents",
+  "slug": "fetchai-uagents",
+  "description": "A fast and lightweight framework for creating decentralized agents with ease.",
+  "repository": "https://github.com/fetchai/uAgents",
+  "stars": 1369,
+  "originator": "fetchai",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "llm",
+    "multi-agent-systems"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/fetchai/uAgents/blob/main/README.md",
+    "https://github.com/fetchai/uAgents/wiki",
+    "https://github.com/fetchai/uAgents/examples"
+  ],
+  "highlight": "Provides a fast and lightweight framework for creating decentralized agents with ease."
+}

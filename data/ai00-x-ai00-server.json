@@ -1,0 +1,46 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide an all-in-one solution for deploying and running AI agents with RAG and embedding support",
+  "principle": "Leverages the RWKV model for language processing and integrates retrieval-augmented generation (RAG) for enhanced information retrieval",
+  "reusability": "Offers a modular architecture allowing integration with various AI models and APIs; supports extensibility through plugins",
+  "limitations": "Currently in alpha stage with potential stability issues; limited documentation for complex configurations",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "RWKV",
+    "OpenAI API",
+    "Docker"
+  ],
+  "name": "ai00_server",
+  "slug": "ai00-x-ai00-server",
+  "description": "The all-in-one RWKV runtime box with embed, RAG, AI agents, and more.",
+  "repository": "https://github.com/Ai00-X/ai00_server",
+  "stars": 558,
+  "originator": "Ai00-X",
+  "tags": [
+    "ai",
+    "aiagents",
+    "chatgpt",
+    "chatgpt-api",
+    "embed",
+    "llm",
+    "openai",
+    "openai-api",
+    "rag",
+    "rwkv"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-10",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/Ai00-X/ai00_server/wiki",
+    "https://github.com/Ai00-X/ai00_server/issues",
+    "https://github.com/Ai00-X/ai00_server/releases"
+  ],
+  "highlight": "Combines RWKV model runtime with embedding and RAG capabilities for versatile AI agent deployment"
+}

@@ -1,0 +1,34 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Provide a high-quality text-to-speech solution for developers and researchers",
+  "principle": "Utilizes advanced machine learning models to convert text into natural-sounding speech",
+  "reusability": "Offers APIs for easy integration into applications, supports customization of voice parameters",
+  "limitations": "May require substantial computational resources for training and inference, limited language support",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "Flask"
+  ],
+  "name": "chatterbox",
+  "slug": "resemble-ai-chatterbox",
+  "description": "SoTA open-source TTS",
+  "repository": "https://github.com/resemble-ai/chatterbox",
+  "stars": 455,
+  "originator": "resemble-ai",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/resemble-ai/chatterbox#readme",
+    "https://github.com/resemble-ai/chatterbox/wiki",
+    "https://github.com/resemble-ai/chatterbox/issues"
+  ],
+  "highlight": "State-of-the-art open-source text-to-speech system with high-quality voice synthesis"
+}

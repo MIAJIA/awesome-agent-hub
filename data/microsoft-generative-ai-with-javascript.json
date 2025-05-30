@@ -1,0 +1,41 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Educate users on Generative AI technologies through engaging, story-driven tutorials using JavaScript",
+  "principle": "Utilizes JavaScript frameworks and libraries to create interactive educational content and simulations",
+  "reusability": "Open-source project with modular code and examples, allowing educators to adapt or extend for their own teaching purposes",
+  "limitations": "Primarily focused on JavaScript, may not cover all aspects of Generative AI comprehensively",
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "React",
+    "Express"
+  ],
+  "name": "generative-ai-with-javascript",
+  "slug": "microsoft-generative-ai-with-javascript",
+  "description": "Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨",
+  "repository": "https://github.com/microsoft/generative-ai-with-javascript",
+  "stars": 622,
+  "originator": "microsoft",
+  "tags": [
+    "ai",
+    "generative-ai",
+    "javascript",
+    "llm",
+    "samples",
+    "training"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/microsoft/generative-ai-with-javascript#readme",
+    "https://github.com/microsoft/generative-ai-with-javascript/tree/main/examples"
+  ],
+  "highlight": "Interactive learning experience combining Generative AI with historical storytelling"
+}

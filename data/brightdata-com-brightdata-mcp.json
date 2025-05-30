@@ -1,0 +1,52 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "Facilitate public web data access and extraction by overcoming anti-bot detection mechanisms.",
+  "principle": "Utilizes the Model Context Protocol (MCP) to provide a robust server framework for web scraping and browser automation.",
+  "reusability": "Offers a modular architecture that can be integrated into existing data collection workflows, with API support for customization.",
+  "limitations": "May face challenges with rapidly changing web anti-bot technologies and legal considerations around web scraping.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "Puppeteer"
+  ],
+  "name": "brightdata-mcp",
+  "slug": "brightdata-com-brightdata-mcp",
+  "description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+  "repository": "https://github.com/brightdata-com/brightdata-mcp",
+  "stars": 445,
+  "originator": "brightdata-com",
+  "tags": [
+    "ai-agents",
+    "ai-integrations",
+    "anti-bot-detection",
+    "browser-automation",
+    "data-collection",
+    "data-extraction",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "modelcontextprotocol",
+    "scraping",
+    "scraping-tools",
+    "structured-data",
+    "web-crawling",
+    "web-data",
+    "web-scraping"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/brightdata-com/brightdata-mcp#readme",
+    "https://github.com/brightdata-com/brightdata-mcp/wiki",
+    "https://github.com/brightdata-com/brightdata-mcp/issues"
+  ],
+  "highlight": "Provides an all-in-one solution for accessing public web data while bypassing anti-bot measures."
+}

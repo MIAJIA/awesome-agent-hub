@@ -1,0 +1,53 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the threat modeling and visualization of AI agents developed using various popular frameworks.",
+  "principle": "Builds on AI agent frameworks such as LangGraph, AutoGen, and CrewAI to model and visualize potential threats.",
+  "reusability": "Offers command-line interface for integration with existing development workflows, supports different AI frameworks.",
+  "limitations": "Currently in alpha stage, may have limited support for some AI frameworks and lacks comprehensive documentation.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "LangGraph",
+    "AutoGen",
+    "CrewAI",
+    "Pydantic"
+  ],
+  "name": "Agent-Wiz",
+  "slug": "repello-ai-agent-wiz-1",
+  "description": "A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.",
+  "repository": "https://github.com/Repello-AI/Agent-Wiz",
+  "stars": 198,
+  "originator": "Repello-AI",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "autogen",
+    "crewai",
+    "langraph",
+    "llama-index",
+    "n8n",
+    "openai",
+    "openai-agents-sdk",
+    "pydantic",
+    "security-tools",
+    "swarm",
+    "threat-modeling"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-03",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Repello-AI/Agent-Wiz/blob/main/README.md",
+    "https://github.com/Repello-AI/Agent-Wiz/wiki",
+    "https://github.com/Repello-AI/Agent-Wiz/issues"
+  ],
+  "highlight": "Unique CLI tool for threat modeling and visualizing AI agents, integrating with popular frameworks like LangGraph and AutoGen."
+}

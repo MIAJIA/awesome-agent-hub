@@ -1,0 +1,37 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To evaluate and judge code submissions in coding competitions or educational settings.",
+  "principle": "Utilizes large language models (LLMs) to assess code quality, correctness, and style.",
+  "reusability": "Can be integrated into coding platforms or used as a standalone evaluator through API endpoints.",
+  "limitations": "Currently in alpha stage, may have accuracy issues with complex code evaluations, limited language support.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Flask"
+  ],
+  "name": "agent-as-a-judge",
+  "slug": "metauto-ai-agent-as-a-judge",
+  "description": "⚖️ The First Coding Agent-as-a-Judge",
+  "repository": "https://github.com/metauto-ai/agent-as-a-judge",
+  "stars": 525,
+  "originator": "metauto-ai",
+  "tags": [
+    "agent-as-a-judge",
+    "llm-as-a-judge",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-14",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/metauto-ai/agent-as-a-judge#readme",
+    "https://github.com/metauto-ai/agent-as-a-judge/wiki"
+  ],
+  "highlight": "Acts as a judge for coding challenges, evaluating code submissions using large language models."
+}

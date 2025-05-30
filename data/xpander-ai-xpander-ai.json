@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To offer a Backend-as-a-Service platform that enhances AI agents with capabilities such as tool integration, memory, state management, and multi-agent collaboration.",
+  "principle": "Builds on Python and integrates with various AI frameworks to provide backend services for AI agents, facilitating complex agent interactions and state management.",
+  "reusability": "Offers a modular architecture with APIs for integrating various tools and services, enabling easy customization and scalability for different AI agent applications.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential stability issues. Limited documentation for advanced use cases.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "LangChain",
+    "PostgreSQL"
+  ],
+  "name": "xpander.ai",
+  "slug": "xpander-ai-xpander-ai",
+  "description": "Backend-as-a-Service for AI Agents. Equip any AI Agent with tools, memory, multi-agent collaboration, state, triggering, storage, and more.",
+  "repository": "https://github.com/xpander-ai/xpander.ai",
+  "stars": 197,
+  "originator": "xpander-ai",
+  "tags": [
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "aiagents",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/xpander-ai/xpander.ai#readme",
+    "https://github.com/xpander-ai/xpander.ai/wiki",
+    "https://github.com/xpander-ai/xpander.ai/issues"
+  ],
+  "highlight": "Provides a comprehensive backend service for AI agents, enabling tool integration, memory management, and multi-agent collaboration."
+}

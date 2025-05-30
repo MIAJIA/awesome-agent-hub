@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and coordination of multi-agent systems for complex problem-solving tasks",
+  "principle": "Built on the Arklex framework, leveraging Python's capabilities for agent orchestration and coordination",
+  "reusability": "Offers modular components and APIs for easy integration into existing systems, supports plug-and-play agent modules",
+  "limitations": "Currently in alpha stage, may have limited documentation and community support, experimental features subject to change",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Arklex Framework"
+  ],
+  "name": "Agent-First-Organization",
+  "slug": "arklexai-agent-first-organization",
+  "description": "The official Python library for Arklex framework",
+  "repository": "https://github.com/arklexai/Agent-First-Organization",
+  "stars": 237,
+  "originator": "arklexai",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/arklexai/Agent-First-Organization#readme",
+    "https://github.com/arklexai/Agent-First-Organization/wiki",
+    "https://github.com/arklexai/Agent-First-Organization/issues"
+  ],
+  "highlight": "Python library for building and orchestrating multi-agent systems using the Arklex framework"
+}

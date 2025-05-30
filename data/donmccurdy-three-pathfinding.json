@@ -1,0 +1,32 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Facilitates pathfinding and navigation in 3D environments for three.js applications",
+  "principle": "Builds on PatrolJS to create and utilize navigation meshes for efficient pathfinding in 3D scenes",
+  "reusability": "Offers reusable utilities and examples for integrating navigation meshes into three.js projects",
+  "limitations": "Primarily suited for applications using three.js; may require custom adaptation for other 3D engines",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "JavaScript",
+    "three.js",
+    "PatrolJS"
+  ],
+  "name": "three-pathfinding",
+  "slug": "donmccurdy-three-pathfinding",
+  "description": "Navigation mesh utilities for three.js, based on PatrolJS.",
+  "repository": "https://github.com/donmccurdy/three-pathfinding",
+  "stars": 1292,
+  "originator": "donmccurdy",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-19",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/donmccurdy/three-pathfinding#readme",
+    "https://threejs.org/"
+  ],
+  "highlight": "Provides utilities for pathfinding in 3D environments using navigation meshes with three.js"
+}

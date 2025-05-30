@@ -1,0 +1,45 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To allow users to control their computer using natural language commands via a graphical interface.",
+  "principle": "Builds on the UI-TARS Vision-Language Model to interpret and execute user commands.",
+  "reusability": "Can be integrated with other applications through its GUI, potentially extendable with additional plugins or modules.",
+  "limitations": "Currently in alpha stage, may have limited command recognition and execution capabilities.",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Electron",
+    "Vite"
+  ],
+  "name": "UI-TARS-desktop",
+  "slug": "bytedance-ui-tars-desktop",
+  "description": "A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.",
+  "repository": "https://github.com/bytedance/UI-TARS-desktop",
+  "stars": 14293,
+  "originator": "bytedance",
+  "tags": [
+    "agent",
+    "computer-use",
+    "electron",
+    "gui-agents",
+    "gui-operator",
+    "mcp",
+    "mcp-server",
+    "vision",
+    "vite",
+    "vlm"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/bytedance/UI-TARS-desktop/blob/main/README.md",
+    "https://github.com/bytedance/UI-TARS-desktop/wiki"
+  ],
+  "highlight": "Enables computer control through natural language using a Vision-Language Model."
+}

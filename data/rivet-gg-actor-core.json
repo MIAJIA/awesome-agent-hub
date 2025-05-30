@@ -1,0 +1,54 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation of stateful, serverless applications that can run seamlessly across various environments.",
+  "principle": "Builds on the actor model to manage stateful interactions in a serverless architecture, allowing for scalable and distributed application design.",
+  "reusability": "Highly composable with support for multiple deployment targets, includes API for integration with existing systems.",
+  "limitations": "Currently in alpha stage, which may include limited features and potential stability issues.",
+  "platforms": [
+    "Rivet",
+    "Cloudflare",
+    "Bun",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Cloudflare Workers",
+    "Bun",
+    "Supabase"
+  ],
+  "name": "actor-core",
+  "slug": "rivet-gg-actor-core",
+  "description": "🎭 Stateful Serverless That Runs Anywhere. The easiest way to build stateful, AI agent, collaborative, or local-first applications. Deploy to Rivet, Cloudflare, Bun, Node.js, and more.",
+  "repository": "https://github.com/rivet-gg/actor-core",
+  "stars": 924,
+  "originator": "rivet-gg",
+  "tags": [
+    "actor",
+    "actors",
+    "agents",
+    "ai",
+    "ai-agents",
+    "bun",
+    "bunjs",
+    "cloudflare-durable-objects",
+    "cloudflare-workers",
+    "durable-objects",
+    "nodejs",
+    "rivet",
+    "supabase",
+    "typescript",
+    "vercel"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-23",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/rivet-gg/actor-core/blob/main/README.md",
+    "https://github.com/rivet-gg/actor-core/wiki",
+    "https://github.com/rivet-gg/actor-core/examples"
+  ],
+  "highlight": "Stateful serverless framework that can be deployed across multiple platforms like Cloudflare and Node.js."
+}

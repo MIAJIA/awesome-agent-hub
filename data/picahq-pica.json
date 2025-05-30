@@ -1,0 +1,39 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Streamline the integration and management of various APIs and tools for building agentic applications",
+  "principle": "Leverages a unified API approach to integrate multiple services and tools into a single platform, enhancing efficiency and reducing complexity",
+  "reusability": "Offers a modular architecture with API support, allowing easy integration and extension with various services and tools",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential instability; limited documentation available",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "GraphQL",
+    "Docker"
+  ],
+  "name": "pica",
+  "slug": "picahq-pica",
+  "description": "The Complete Agentic Tooling Platform",
+  "repository": "https://github.com/picahq/pica",
+  "stars": 943,
+  "originator": "picahq",
+  "tags": [
+    "api",
+    "integrations",
+    "unified",
+    "unified-api"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-26",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/picahq/pica#readme",
+    "https://github.com/picahq/pica/wiki",
+    "https://github.com/picahq/pica/issues"
+  ],
+  "highlight": "Unified platform for agentic tooling, offering integrations and API management in a cohesive environment"
+}

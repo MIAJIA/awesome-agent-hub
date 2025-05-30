@@ -1,0 +1,37 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To educate individuals on Large Language Models (LLMs) through structured roadmaps and interactive notebooks.",
+  "principle": "Combines theoretical roadmaps with practical Jupyter Notebooks to provide hands-on learning experience in LLMs.",
+  "reusability": "Open-source educational content that can be adapted or extended for personal learning or teaching purposes.",
+  "limitations": "Focused primarily on LLMs, may require prior knowledge in machine learning for full comprehension.",
+  "platforms": [
+    "Google Colab"
+  ],
+  "stack": [
+    "Jupyter Notebook",
+    "Python"
+  ],
+  "name": "llm-course",
+  "slug": "mlabonne-llm-course",
+  "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+  "repository": "https://github.com/mlabonne/llm-course",
+  "stars": 53330,
+  "originator": "mlabonne",
+  "tags": [
+    "course",
+    "large-language-models",
+    "llm",
+    "machine-learning",
+    "roadmap"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-12",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/mlabonne/llm-course#readme",
+    "https://github.com/mlabonne/llm-course/tree/main/notebooks"
+  ],
+  "highlight": "Comprehensive educational resource for learning about Large Language Models with practical Colab notebooks."
+}

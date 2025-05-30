@@ -1,0 +1,45 @@
+{
+  "category": "commerce",
+  "status": "alpha",
+  "purpose": "Facilitates the integration and management of various Saleor Apps to enhance e-commerce capabilities",
+  "principle": "Built on Next.js and TypeScript, leveraging modern web technologies for extensibility and performance",
+  "reusability": "Offers a modular architecture allowing developers to easily add or modify apps within the Saleor ecosystem",
+  "limitations": "Currently in alpha status, indicating potential instability and limited feature set",
+  "platforms": [
+    "Web",
+    "Vercel"
+  ],
+  "stack": [
+    "TypeScript",
+    "Next.js",
+    "React"
+  ],
+  "name": "apps",
+  "slug": "saleor-apps",
+  "description": "A central space for Saleor Apps, integrations, and the App Store 🚀",
+  "repository": "https://github.com/saleor/apps",
+  "stars": 125,
+  "originator": "saleor",
+  "tags": [
+    "apps",
+    "commerce",
+    "ecommerce",
+    "nextjs",
+    "saleor",
+    "saleor-app",
+    "saleor-avatax",
+    "saleor-cms",
+    "saleor-klaviyo",
+    "saleor-search",
+    "saleor-smtp"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/saleor/apps/tree/main/docs",
+    "https://github.com/saleor/apps/tree/main/examples"
+  ],
+  "highlight": "Central hub for Saleor Apps, enabling seamless integration and management of e-commerce functionalities"
+}

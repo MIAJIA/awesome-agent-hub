@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the interaction and management of AI-NFTs through a centralized core service.",
+  "principle": "Built on TypeScript, leveraging AI models to enable NFT operations and interactions.",
+  "reusability": "Modular architecture with API support for easy integration into NFT platforms and projects.",
+  "limitations": "Currently in alpha stage, potentially limited documentation and community support.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "name": "core",
+  "slug": "xnomad-ai-core",
+  "description": "The core service to index, operate and interact with AI-NFT.",
+  "repository": "https://github.com/xNomad-AI/core",
+  "stars": 122,
+  "originator": "xNomad-AI",
+  "tags": [
+    "ai",
+    "eliza",
+    "nft"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-21",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/xNomad-AI/core/blob/main/README.md",
+    "https://github.com/xNomad-AI/core/issues",
+    "https://github.com/xNomad-AI/core/wiki"
+  ],
+  "highlight": "Provides a core service for interacting with AI-enhanced NFTs, allowing for indexing and operational capabilities."
+}

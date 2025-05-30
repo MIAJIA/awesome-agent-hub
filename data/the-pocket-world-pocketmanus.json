@@ -1,0 +1,35 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and management of complex workflows using node-based structures and agent integration",
+  "principle": "Leverages a node-based architecture to enable modular workflow design and execution, integrating various agents and tools for enhanced functionality",
+  "reusability": "Highly composable through its node-based structure, allowing integration of custom agents and tools, with potential API support for external integrations",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and stability, limited to specific use cases defined by available agents",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Node.js",
+    "Flask",
+    "React"
+  ],
+  "name": "PocketManus",
+  "slug": "the-pocket-world-pocketmanus",
+  "description": "PocketFlow's node-based workflow structure, with Manus' agents and tools!",
+  "repository": "https://github.com/The-Pocket-World/PocketManus",
+  "stars": 225,
+  "originator": "The-Pocket-World",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-05",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/The-Pocket-World/PocketManus/wiki",
+    "https://github.com/The-Pocket-World/PocketManus/issues",
+    "https://github.com/The-Pocket-World/PocketManus/releases"
+  ],
+  "highlight": "Node-based workflow engine integrating Manus' agents for flexible automation"
+}

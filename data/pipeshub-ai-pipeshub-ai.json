@@ -1,0 +1,53 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "Enhance workplace productivity by integrating and managing knowledge across various platforms like Gmail, Slack, and Notion.",
+  "principle": "Leverages AI-driven knowledge graphs and retrieval-augmented generation (RAG) to organize and retrieve information from multiple workplace tools.",
+  "reusability": "Modular design with API support for integration into existing workplace environments; supports multiple data sources.",
+  "limitations": "Currently in alpha stage, may have limited feature set and stability; requires configuration for each supported platform.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "LangChain",
+    "Python",
+    "GraphQL",
+    "Node.js"
+  ],
+  "name": "pipeshub-ai",
+  "slug": "pipeshub-ai-pipeshub-ai",
+  "description": "The OpenSource Alternative to Glean's Workplace AI",
+  "repository": "https://github.com/pipeshub-ai/pipeshub-ai",
+  "stars": 461,
+  "originator": "pipeshub-ai",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "drive",
+    "glean",
+    "gmail",
+    "knowledge-graph",
+    "langchain",
+    "langgraph",
+    "llamaparse",
+    "notion",
+    "ollama",
+    "perplexity",
+    "python",
+    "rag",
+    "slack"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/pipeshub-ai/pipeshub-ai#readme",
+    "https://github.com/pipeshub-ai/pipeshub-ai/wiki",
+    "https://github.com/pipeshub-ai/pipeshub-ai/issues"
+  ],
+  "highlight": "OpenSource alternative to Glean's Workplace AI, focused on workplace knowledge management and productivity enhancement."
+}

@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a simulated environment where AI agents can perform tasks and interact with a virtual representation of the world",
+  "principle": "Builds on JavaScript to simulate an operating system interface, allowing AI agents to execute commands and manage resources in a controlled environment",
+  "reusability": "Designed as a modular platform, allowing integration and customization for various AI agent applications",
+  "limitations": "Currently in alpha stage with limited real-world deployment scenarios and potential stability issues",
+  "platforms": [
+    "Cross-platform",
+    "Node.js"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "name": "world-interface",
+  "slug": "upward-spiral-research-world-interface",
+  "description": "A simulated operating system design for AI Agents to interact with the world",
+  "repository": "https://github.com/upward-spiral-research/world-interface",
+  "stars": 167,
+  "originator": "upward-spiral-research",
+  "tags": [
+    "AI",
+    "simulation",
+    "operating-system",
+    "virtual-environment"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-12-23",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/upward-spiral-research/world-interface#readme",
+    "https://github.com/upward-spiral-research/world-interface/wiki"
+  ],
+  "highlight": "Simulates an operating system environment for AI agents to interact with virtual worlds"
+}

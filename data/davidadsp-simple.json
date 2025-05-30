@@ -1,0 +1,35 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Enable autonomous agents to learn and strategize in multiplayer gaming environments through self-play",
+  "principle": "Utilizes reinforcement learning techniques to allow agents to improve their strategies by playing against themselves in simulated environments",
+  "reusability": "Designed as a framework for developing and testing AI strategies in multiplayer games, with modular components for easy integration",
+  "limitations": "Primarily focused on specific types of multiplayer games, requires substantial computational resources for training",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "NumPy",
+    "Gym"
+  ],
+  "name": "SIMPLE",
+  "slug": "davidadsp-simple",
+  "description": "Selfplay In MultiPlayer Environments",
+  "repository": "https://github.com/davidADSP/SIMPLE",
+  "stars": 321,
+  "originator": "davidADSP",
+  "tags": [],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2024-06-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/davidADSP/SIMPLE/blob/main/README.md",
+    "https://github.com/davidADSP/SIMPLE/wiki",
+    "https://github.com/davidADSP/SIMPLE/issues"
+  ],
+  "highlight": "Facilitates advanced AI strategy development through self-play in complex multiplayer scenarios"
+}

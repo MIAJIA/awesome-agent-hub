@@ -1,0 +1,54 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To provide a powerful and flexible 3D game engine for developers, enabling the creation of high-quality games with a Unity-like experience.",
+  "principle": "Built using C# and leveraging graphics APIs like DirectX, OpenGL, Metal, and Vulkan for rendering, with a focus on providing a Unity-inspired development environment.",
+  "reusability": "Designed to be modular and extensible, allowing developers to integrate custom modules and plugins. The MIT license facilitates wide adoption and modification.",
+  "limitations": "As an alpha-stage project, it may lack comprehensive documentation and stability, with potential performance and feature limitations compared to mature engines like Unity.",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "C#",
+    "DirectX",
+    "OpenGL",
+    "Metal",
+    "Vulkan",
+    "Veldrid"
+  ],
+  "name": "Prowl",
+  "slug": "prowlengine-prowl",
+  "description": "An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete editor",
+  "repository": "https://github.com/ProwlEngine/Prowl",
+  "stars": 606,
+  "originator": "ProwlEngine",
+  "tags": [
+    "3d",
+    "3d-engine",
+    "3d-graphics",
+    "directx",
+    "game-engine",
+    "game-engine-3d",
+    "gamedev",
+    "gameengine",
+    "graphics",
+    "jitter",
+    "metal",
+    "opengl",
+    "pbr",
+    "veldrid",
+    "vulkan"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-08",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/ProwlEngine/Prowl/wiki",
+    "https://github.com/ProwlEngine/Prowl/blob/main/README.md",
+    "https://github.com/ProwlEngine/Prowl/releases"
+  ],
+  "highlight": "An open-source 3D game engine inspired by Unity, featuring a comprehensive editor and cross-platform graphics support."
+}

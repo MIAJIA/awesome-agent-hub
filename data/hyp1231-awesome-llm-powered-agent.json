@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Curate and showcase a collection of resources related to LLM-powered agents, including research papers, repositories, and blogs",
+  "principle": "Compiles and organizes community-contributed resources and information on large language model (LLM) applications and advancements",
+  "reusability": "Open-source repository that can be forked and contributed to by the community",
+  "limitations": "Primarily a static collection of links and resources without interactive features or dynamic content",
+  "platforms": [],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-llm-powered-agent",
+  "slug": "hyp1231-awesome-llm-powered-agent",
+  "description": "Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...",
+  "repository": "https://github.com/hyp1231/awesome-llm-powered-agent",
+  "stars": 2029,
+  "originator": "hyp1231",
+  "tags": [
+    "awesome-list",
+    "chatgpt",
+    "embodied-agent",
+    "embodied-ai",
+    "foundation-model",
+    "foundation-models",
+    "generative-agents",
+    "generative-ai",
+    "generative-model",
+    "generative-models",
+    "gpt-4",
+    "large-language-model",
+    "large-language-models",
+    "llm",
+    "llm-powered-agents",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-30",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/hyp1231/awesome-llm-powered-agent#readme"
+  ],
+  "highlight": "Comprehensive and community-driven collection of resources on LLM-powered agents"
+}

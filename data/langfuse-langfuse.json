@@ -1,0 +1,56 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide observability, metrics, and management tools for large language models (LLMs) to enhance development and deployment workflows.",
+  "principle": "Integrates with popular LLM frameworks and tools like Langchain and OpenAI SDK to monitor and manage LLM performance and usage.",
+  "reusability": "Offers integration with OpenTelemetry and various LLM frameworks, providing APIs and plugins for extensibility.",
+  "limitations": "Primarily focused on LLMs, may not support other AI/ML models or frameworks outside the LLM ecosystem.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "OpenTelemetry",
+    "Langchain",
+    "OpenAI SDK"
+  ],
+  "name": "langfuse",
+  "slug": "langfuse-langfuse",
+  "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+  "repository": "https://github.com/langfuse/langfuse",
+  "stars": 11853,
+  "originator": "langfuse",
+  "tags": [
+    "analytics",
+    "autogen",
+    "evaluation",
+    "langchain",
+    "large-language-models",
+    "llama-index",
+    "llm",
+    "llm-evaluation",
+    "llm-observability",
+    "llmops",
+    "monitoring",
+    "observability",
+    "open-source",
+    "openai",
+    "playground",
+    "prompt-engineering",
+    "prompt-management",
+    "self-hosted",
+    "ycombinator"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/langfuse/langfuse#readme",
+    "https://github.com/langfuse/langfuse/wiki",
+    "https://github.com/langfuse/langfuse/issues"
+  ],
+  "highlight": "Comprehensive LLM observability and management platform with integration capabilities."
+}

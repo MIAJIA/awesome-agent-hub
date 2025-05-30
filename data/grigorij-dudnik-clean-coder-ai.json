@@ -1,0 +1,40 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Streamline and automate the software development process by planning projects and generating code task by task.",
+  "principle": "Integrates with Todoist for project management and uses AI to generate and execute code based on planned tasks.",
+  "reusability": "Designed to be extensible with plugins for different coding environments and project management tools.",
+  "limitations": "Currently in alpha stage, may have limited support for complex project structures and integrations.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Todoist API"
+  ],
+  "name": "Clean-Coder-AI",
+  "slug": "grigorij-dudnik-clean-coder-ai",
+  "description": "✅2-in-1 AI Developer and Project Manager. AI agents plan an entire project in Todoist and code it task by task.",
+  "repository": "https://github.com/Grigorij-Dudnik/Clean-Coder-AI",
+  "stars": 482,
+  "originator": "Grigorij-Dudnik",
+  "tags": [
+    "agent",
+    "ai",
+    "cli",
+    "code-generation",
+    "code-writing",
+    "coding-agents"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-24",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Grigorij-Dudnik/Clean-Coder-AI#readme",
+    "https://github.com/Grigorij-Dudnik/Clean-Coder-AI/wiki"
+  ],
+  "highlight": "Combines AI-driven project planning with automated code generation for seamless software development."
+}

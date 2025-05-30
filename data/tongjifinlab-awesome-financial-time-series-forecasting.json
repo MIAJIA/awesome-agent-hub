@@ -1,0 +1,32 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "To provide a curated list of resources for financial time series forecasting, aiding researchers and practitioners in the field.",
+  "principle": "Aggregates and organizes a wide range of academic papers and code repositories related to financial time series forecasting techniques.",
+  "reusability": "Serves as a reference for researchers and developers looking for state-of-the-art techniques and implementations in financial time series forecasting.",
+  "limitations": "Primarily a collection of links and references without original implementations; relies on external resources for code and detailed methodologies.",
+  "platforms": [],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-financial-time-series-forecasting",
+  "slug": "tongjifinlab-awesome-financial-time-series-forecasting",
+  "description": "Awesome financial time series forecasting papers and codes",
+  "repository": "https://github.com/TongjiFinLab/awesome-financial-time-series-forecasting",
+  "stars": 117,
+  "originator": "TongjiFinLab",
+  "tags": [
+    "financial forecasting",
+    "time series",
+    "research",
+    "resources"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-15",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/TongjiFinLab/awesome-financial-time-series-forecasting#readme"
+  ],
+  "highlight": "Comprehensive collection of financial time series forecasting resources, including papers and code implementations."
+}

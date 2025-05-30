@@ -1,0 +1,48 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a platform for building AI models that can answer questions over diverse and federated data sources.",
+  "principle": "Utilizes machine learning models and integrations with various databases to enable natural language querying and data analysis.",
+  "reusability": "Offers a flexible API for integration with existing data infrastructures, supports multiple database connections, and is designed to be extensible for custom use cases.",
+  "limitations": "Primarily focused on structured data sources; performance and accuracy may vary depending on data complexity and volume.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "TensorFlow",
+    "PyTorch",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB"
+  ],
+  "name": "mindsdb",
+  "slug": "mindsdb-mindsdb",
+  "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+  "repository": "https://github.com/mindsdb/mindsdb",
+  "stars": 30610,
+  "originator": "mindsdb",
+  "tags": [
+    "agents",
+    "agi",
+    "ai",
+    "artificial-inteligence",
+    "databases",
+    "llms",
+    "mcp",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/mindsdb/mindsdb#readme",
+    "https://docs.mindsdb.com/",
+    "https://github.com/mindsdb/mindsdb/tree/stable/examples"
+  ],
+  "highlight": "Enables AI-driven query processing over large-scale federated data sources with a focus on ease of use and integration."
+}

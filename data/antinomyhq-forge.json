@@ -1,0 +1,48 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enhance developer productivity by providing AI-assisted coding suggestions and improvements",
+  "principle": "Utilizes AI models like Claude, GPT, and others to generate code suggestions and improvements in real-time",
+  "reusability": "Can be integrated into various development environments via command-line interface and supports multiple AI models",
+  "limitations": "Currently in alpha stage, may have limited functionality and stability issues",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Rust",
+    "Command-line Interface",
+    "AI Model APIs"
+  ],
+  "name": "forge",
+  "slug": "antinomyhq-forge",
+  "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+  "repository": "https://github.com/antinomyhq/forge",
+  "stars": 2171,
+  "originator": "antinomyhq",
+  "tags": [
+    "ai-workflows",
+    "artifical-intelligense",
+    "claude-3-7-sonnet",
+    "claude-4",
+    "claude-4-sonnet",
+    "command-line",
+    "grok",
+    "multi-agent-reinforcement-learning",
+    "open-router",
+    "openai",
+    "qwen",
+    "shell"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/antinomyhq/forge#readme",
+    "https://github.com/antinomyhq/forge/wiki",
+    "https://github.com/antinomyhq/forge/issues"
+  ],
+  "highlight": "Supports integration with over 300 AI models for pair programming"
+}

@@ -1,0 +1,46 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitates in-depth research on any topic by autonomously gathering and synthesizing information into detailed reports.",
+  "principle": "Utilizes large language models (LLMs) to conduct web scraping and local data analysis, culminating in structured report generation.",
+  "reusability": "Designed for easy integration with existing research workflows, offering modular components for customization and extension.",
+  "limitations": "Dependent on the availability and accuracy of online sources; may struggle with real-time updates or rapidly changing topics.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI API",
+    "BeautifulSoup",
+    "requests"
+  ],
+  "name": "gpt-researcher",
+  "slug": "assafelovic-gpt-researcher",
+  "description": "LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.",
+  "repository": "https://github.com/assafelovic/gpt-researcher",
+  "stars": 21580,
+  "originator": "assafelovic",
+  "tags": [
+    "agent",
+    "ai",
+    "automation",
+    "llms",
+    "openai",
+    "python",
+    "research",
+    "search",
+    "webscraping"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/assafelovic/gpt-researcher#readme",
+    "https://github.com/assafelovic/gpt-researcher/wiki",
+    "https://github.com/assafelovic/gpt-researcher/issues"
+  ],
+  "highlight": "Autonomous research agent that generates comprehensive reports with citations by leveraging LLMs for deep web and local research."
+}

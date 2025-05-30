@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable AI agents to interact with Solana blockchain protocols for decentralized applications",
+  "principle": "Integrates with Solana blockchain using Web3.js and LangChain to facilitate AI-driven smart contract interactions",
+  "reusability": "Designed as a modular library with APIs to connect AI agents to Solana, allowing for easy integration into decentralized applications",
+  "limitations": "Currently in alpha stage, may have limited functionality and stability issues, primarily focused on Solana ecosystem",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Web3.js",
+    "LangChain",
+    "Solana"
+  ],
+  "name": "solana-agent-kit",
+  "slug": "sendaifun-solana-agent-kit",
+  "description": "connect any ai agents to solana protocols",
+  "repository": "https://github.com/sendaifun/solana-agent-kit",
+  "stars": 1480,
+  "originator": "sendaifun",
+  "tags": [
+    "ai",
+    "langchain",
+    "langchain-js",
+    "solana",
+    "solana-langchain",
+    "web3js"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/sendaifun/solana-agent-kit#readme",
+    "https://github.com/sendaifun/solana-agent-kit/wiki",
+    "https://github.com/sendaifun/solana-agent-kit/issues"
+  ],
+  "highlight": "Unique capability to bridge AI agents with blockchain protocols, enabling smart contract interactions and decentralized decision-making"
+}

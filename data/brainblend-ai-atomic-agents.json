@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To facilitate the creation and deployment of AI agents using a modular, atomic design that allows for easy customization and scalability",
+  "principle": "Leverages large language models and modular components to create customizable AI agents that can be tailored to specific tasks and integrated into various applications",
+  "reusability": "Offers a modular architecture with plug-and-play components, supports integration with popular AI models and APIs, designed for easy customization and extension",
+  "limitations": "Currently in alpha stage, which may include incomplete features and limited documentation; primarily supports Python environment",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI API",
+    "LangChain"
+  ],
+  "name": "atomic-agents",
+  "slug": "brainblend-ai-atomic-agents",
+  "description": "Building AI agents, atomically",
+  "repository": "https://github.com/BrainBlend-AI/atomic-agents",
+  "stars": 3809,
+  "originator": "BrainBlend-AI",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "large-language-model",
+    "large-language-models",
+    "llms",
+    "openai",
+    "openai-api"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/BrainBlend-AI/atomic-agents/blob/main/README.md",
+    "https://github.com/BrainBlend-AI/atomic-agents/wiki",
+    "https://github.com/BrainBlend-AI/atomic-agents/issues"
+  ],
+  "highlight": "Atomic approach to building AI agents with modular design for flexibility and scalability"
+}

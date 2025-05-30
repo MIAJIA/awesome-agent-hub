@@ -1,0 +1,50 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To simplify the creation and deployment of AI agents using large language models for various applications",
+  "principle": "Leverages GPT and LLMs to enable natural language processing and understanding, facilitating the development of intelligent agents",
+  "reusability": "Offers a modular architecture with APIs and plugins for easy integration and customization",
+  "limitations": "Primarily focused on language model-based agents; may require additional resources for specific domain customizations",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "LangChain",
+    "OpenAI",
+    "Docker"
+  ],
+  "name": "botpress",
+  "slug": "botpress-botpress",
+  "description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️",
+  "repository": "https://github.com/botpress/botpress",
+  "stars": 13751,
+  "originator": "botpress",
+  "tags": [
+    "agent",
+    "ai",
+    "botpress",
+    "chatbot",
+    "chatgpt",
+    "gpt",
+    "gpt-4",
+    "langchain",
+    "llm",
+    "nlp",
+    "openai",
+    "prompt"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/botpress/botpress#readme",
+    "https://github.com/botpress/botpress/wiki",
+    "https://github.com/botpress/botpress/releases",
+    "https://github.com/botpress/botpress/issues"
+  ],
+  "highlight": "Comprehensive open-source platform for building and deploying AI agents with GPT/LLM capabilities"
+}

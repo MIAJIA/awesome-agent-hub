@@ -1,0 +1,45 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To create a browser that utilizes AI agents to automate and enhance web browsing tasks.",
+  "principle": "Integrates AI models like OpenAI and Anthropic to perform intelligent web interactions and automations.",
+  "reusability": "Designed to be extensible with support for additional AI models and custom agent configurations.",
+  "limitations": "Currently in alpha stage, may have stability issues and limited feature set compared to established browsers.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Anthropic",
+    "Flask"
+  ],
+  "name": "notte",
+  "slug": "nottelabs-notte",
+  "description": "🔥 Opensource browser using agents",
+  "repository": "https://github.com/nottelabs/notte",
+  "stars": 890,
+  "originator": "nottelabs",
+  "tags": [
+    "agent",
+    "ai",
+    "anthropic",
+    "automation",
+    "browser",
+    "llm",
+    "openai",
+    "web"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/nottelabs/notte#readme",
+    "https://github.com/nottelabs/notte/wiki",
+    "https://github.com/nottelabs/notte/issues"
+  ],
+  "highlight": "An open-source browser leveraging AI agents for enhanced web automation and interaction."
+}

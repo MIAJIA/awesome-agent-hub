@@ -1,0 +1,56 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Provide end-to-end solutions for deploying and fine-tuning large language models (LLMs) in various industry contexts",
+  "principle": "Utilizes popular frameworks and APIs such as Hugging Face and OpenAI to build and deploy LLMs with custom fine-tuning capabilities",
+  "reusability": "Includes modular codebases and documentation for easy adaptation and integration in diverse AI projects",
+  "limitations": "Primarily focuses on deployment and fine-tuning, might require additional resources for training from scratch",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "AWS"
+  ],
+  "stack": [
+    "Python",
+    "Hugging Face",
+    "OpenAI API",
+    "LangChain",
+    "Gradio"
+  ],
+  "name": "END-TO-END-GENERATIVE-AI-PROJECTS",
+  "slug": "gurpreetkaurjethra-end-to-end-generative-ai-projects",
+  "description": "End to End Generative AI Industry Projects on LLM Models with Deployment_Awesome LLM Projects",
+  "repository": "https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS",
+  "stars": 288,
+  "originator": "GURPREETKAURJETHRA",
+  "tags": [
+    "chainlit",
+    "finetuning-llms",
+    "gemini",
+    "generative-ai",
+    "gpt4o",
+    "gradio-python-llm",
+    "huggingface",
+    "langchain",
+    "large-language-models",
+    "llama",
+    "llama-index",
+    "llama3",
+    "llama3-meta-ai",
+    "llm",
+    "llmops",
+    "lora",
+    "mergekit",
+    "mistral",
+    "openai-api",
+    "qlora"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-24",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS#readme"
+  ],
+  "highlight": "Comprehensive projects for deploying generative AI models with real-world applications"
+}

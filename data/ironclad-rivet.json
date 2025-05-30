@@ -1,0 +1,40 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide a visual programming environment for AI model development and experimentation, making AI accessible to developers and non-developers alike.",
+  "principle": "Builds on a TypeScript library that allows users to create and manage AI workflows visually, leveraging popular AI frameworks and libraries.",
+  "reusability": "Modular architecture with a TypeScript library that can be integrated into other projects; supports custom plugins and extensions.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential bugs; limited documentation and community support at this stage.",
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "OpenAI"
+  ],
+  "name": "rivet",
+  "slug": "ironclad-rivet",
+  "description": "The open-source visual AI programming environment and TypeScript library",
+  "repository": "https://github.com/Ironclad/rivet",
+  "stars": 3852,
+  "originator": "Ironclad",
+  "tags": [
+    "ai",
+    "llm",
+    "openai",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Ironclad/rivet#readme",
+    "https://github.com/Ironclad/rivet/wiki",
+    "https://github.com/Ironclad/rivet/releases"
+  ],
+  "highlight": "A visual AI programming environment that simplifies the creation and manipulation of AI models using a TypeScript library."
+}

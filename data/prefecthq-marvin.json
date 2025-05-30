@@ -1,0 +1,45 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To create intelligent AI agents that enhance user interaction and automate tasks in a joyful manner",
+  "principle": "Built on Python, leveraging OpenAI's language models to provide conversational and task automation capabilities",
+  "reusability": "Offers easy integration through APIs, supports customization and extension for various use cases",
+  "limitations": "Currently in alpha stage, may have limited features and stability, primarily focused on Python environment",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain"
+  ],
+  "name": "marvin",
+  "slug": "prefecthq-marvin",
+  "description": "✨ AI agents that spark joy",
+  "repository": "https://github.com/PrefectHQ/marvin",
+  "stars": 5737,
+  "originator": "PrefectHQ",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-functions",
+    "ambient-ai",
+    "chatbots",
+    "gpt",
+    "llm",
+    "nli",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/PrefectHQ/marvin#readme",
+    "https://github.com/PrefectHQ/marvin/blob/main/docs/usage.md",
+    "https://github.com/PrefectHQ/marvin/blob/main/docs/api.md"
+  ],
+  "highlight": "AI agents designed to bring joy and enhance user interaction through intelligent automation and conversation"
+}

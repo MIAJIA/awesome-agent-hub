@@ -1,0 +1,46 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a desktop application that hosts and manages interactions with large language models (LLMs) using function calling capabilities.",
+  "principle": "Builds on the concept of a multi-component platform (MCP) to facilitate communication and function execution between desktop applications and LLMs.",
+  "reusability": "Modular architecture with support for plugins and APIs, allowing easy integration with different LLMs and function calling setups.",
+  "limitations": "As an alpha release, it may have bugs and limited feature set; requires compatible LLMs with function calling support.",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Electron",
+    "Node.js"
+  ],
+  "name": "Dive",
+  "slug": "openagentplatform-dive",
+  "description": "Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities. ✨",
+  "repository": "https://github.com/OpenAgentPlatform/Dive",
+  "stars": 1289,
+  "originator": "OpenAgentPlatform",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "llm-interface",
+    "llm-ui",
+    "mcp-client",
+    "mcp-host",
+    "mcp-server",
+    "ollama",
+    "ollama-client",
+    "ollama-ui"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/OpenAgentPlatform/Dive/blob/main/README.md",
+    "https://github.com/OpenAgentPlatform/Dive/wiki",
+    "https://github.com/OpenAgentPlatform/Dive/releases"
+  ],
+  "highlight": "Seamless integration with any LLMs supporting function calling capabilities."
+}

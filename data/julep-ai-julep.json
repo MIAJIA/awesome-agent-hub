@@ -1,0 +1,48 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of serverless AI workflows to streamline data processing and machine learning operations.",
+  "principle": "Built on serverless architecture principles to allow seamless integration and execution of AI workflows without managing underlying infrastructure.",
+  "reusability": "Offers modular components and APIs for easy integration into existing systems, supporting reusable workflow templates.",
+  "limitations": "Currently in alpha stage, may have limited feature set and stability; specific cloud platform dependencies may exist.",
+  "platforms": [
+    "AWS",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "AWS Lambda",
+    "FastAPI",
+    "Docker"
+  ],
+  "name": "julep",
+  "slug": "julep-ai-julep",
+  "description": "Serverless AI Workflows for Data & ML Teams",
+  "repository": "https://github.com/julep-ai/julep",
+  "stars": 5474,
+  "originator": "julep-ai",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-agents-framework",
+    "ai-memory",
+    "ai-platform",
+    "aiagents",
+    "developer-tools",
+    "devfest",
+    "llm",
+    "llm-ops",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/julep-ai/julep#readme",
+    "https://github.com/julep-ai/julep/wiki",
+    "https://github.com/julep-ai/julep/issues"
+  ],
+  "highlight": "Enables serverless AI workflows tailored for data and ML teams, optimizing process automation without infrastructure management."
+}

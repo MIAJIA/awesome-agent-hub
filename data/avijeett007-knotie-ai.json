@@ -1,0 +1,33 @@
+{
+  "category": "marketing",
+  "status": "alpha",
+  "purpose": "Facilitates automated communication with potential leads and customers to enhance sales processes",
+  "principle": "Built using Python, it leverages AI-driven natural language processing to interact with users, potentially integrating with CRM systems for lead management",
+  "reusability": "Can be integrated into existing sales workflows and CRM systems via API, customizable for specific sales processes",
+  "limitations": "Limited to initial functionalities typical of an alpha stage project; may require significant customization for specific use cases",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Natural Language Processing"
+  ],
+  "name": "Knotie-AI",
+  "slug": "avijeett007-knotie-ai",
+  "description": "Knotie-AI - A Completely Open-Source Inbound/Outbound AI Sales Agent which can communicate with your potential lead/customer.",
+  "repository": "https://github.com/avijeett007/Knotie-AI",
+  "stars": 102,
+  "originator": "avijeett007",
+  "tags": [],
+  "open_source": true,
+  "license": "GPL-2.0",
+  "last_updated": "2025-01-06",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/avijeett007/Knotie-AI/blob/main/README.md",
+    "https://github.com/avijeett007/Knotie-AI/wiki"
+  ],
+  "highlight": "Completely open-source AI sales agent for inbound and outbound communication with leads and customers"
+}

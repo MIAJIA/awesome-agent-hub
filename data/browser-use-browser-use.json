@@ -1,0 +1,42 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To make websites accessible for AI agents, allowing them to automate tasks online.",
+  "principle": "Built on top of Playwright, it uses browser automation techniques to perform web interactions programmatically.",
+  "reusability": "Offers a Python API that can be integrated into other projects to automate web tasks, with support for various browsers.",
+  "limitations": "Limited to web-based automation; requires a running browser environment and may face issues with websites using anti-bot measures.",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "Playwright"
+  ],
+  "name": "browser-use",
+  "slug": "browser-use-browser-use",
+  "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "repository": "https://github.com/browser-use/browser-use",
+  "stars": 61778,
+  "originator": "browser-use",
+  "tags": [
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "llm",
+    "playwright",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/browser-use/browser-use#readme",
+    "https://github.com/browser-use/browser-use/wiki",
+    "https://github.com/browser-use/browser-use/issues"
+  ],
+  "highlight": "Enables AI agents to interact with web pages like a human, automating online tasks seamlessly."
+}

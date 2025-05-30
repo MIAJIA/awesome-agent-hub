@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To facilitate the creation and deployment of real-time voice and video AI agents for interactive applications.",
+  "principle": "Leverages OpenAI APIs and real-time communication protocols to process voice and video inputs for AI-driven interactions.",
+  "reusability": "Offers modular components and APIs for seamless integration into existing systems, supports customization of agent behavior.",
+  "limitations": "Currently in alpha stage, may have stability issues and limited documentation for complex integrations.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "WebRTC",
+    "LiveKit"
+  ],
+  "name": "agents",
+  "slug": "livekit-agents",
+  "description": "A powerful framework for building realtime voice AI agents 🤖🎙️📹 ",
+  "repository": "https://github.com/livekit/agents",
+  "stars": 6119,
+  "originator": "livekit",
+  "tags": [
+    "agents",
+    "ai",
+    "openai",
+    "real-time",
+    "video",
+    "voice"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/livekit/agents#readme",
+    "https://github.com/livekit/agents/wiki",
+    "https://github.com/livekit/agents/issues"
+  ],
+  "highlight": "Enables real-time voice and video AI agent interactions with robust support for OpenAI integrations."
+}

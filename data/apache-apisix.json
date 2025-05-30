@@ -1,0 +1,59 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a cloud-native API gateway solution that facilitates API management, dynamic routing, load balancing, and security for microservices.",
+  "principle": "Built on top of NGINX and leveraging LuaJIT for high-performance processing, it utilizes a plugin architecture for extensibility.",
+  "reusability": "Supports a wide range of plugins for authentication, rate limiting, and custom logic, and can be integrated with various cloud environments and orchestration tools like Kubernetes.",
+  "limitations": "Requires knowledge of Lua for custom plugin development; complexity may increase with highly customized configurations.",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Kubernetes"
+  ],
+  "stack": [
+    "Lua",
+    "NGINX",
+    "OpenResty",
+    "Kubernetes",
+    "Docker"
+  ],
+  "name": "apisix",
+  "slug": "apache-apisix",
+  "description": "The Cloud-Native API Gateway and AI Gateway",
+  "repository": "https://github.com/apache/apisix",
+  "stars": 15165,
+  "originator": "apache",
+  "tags": [
+    "api",
+    "api-gateway",
+    "api-management",
+    "apigateway",
+    "apis",
+    "apisix",
+    "cloud-native",
+    "devops",
+    "docker",
+    "iot",
+    "kubernetes",
+    "kubernetes-ingress",
+    "kubernetes-ingress-controller",
+    "loadbalancing",
+    "luajit",
+    "microservices",
+    "nginx",
+    "reverse-proxy",
+    "serverless",
+    "service-mesh"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Lua",
+  "useful_links": [
+    "https://github.com/apache/apisix/blob/master/README.md",
+    "https://apisix.apache.org/docs/apisix/getting-started/",
+    "https://apisix.apache.org/docs/apisix/plugins/",
+    "https://apisix.apache.org/docs/apisix/admin-api/"
+  ],
+  "highlight": "Highly extensible cloud-native API gateway with support for dynamic routing, load balancing, and plugin architecture."
+}

@@ -1,0 +1,48 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate observability, monitoring, and evaluation of AI agents and multi-agent systems.",
+  "principle": "Utilizes tracing, execution graph views, and timeline analytics to provide insights into agent operations and performance.",
+  "reusability": "Offers a Python SDK for easy integration, self-hosted dashboard for visualization, and supports tracing of agents, LLMs, and tools.",
+  "limitations": "Currently in alpha stage, which may include limited features and potential stability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Plotly",
+    "NetworkX"
+  ],
+  "name": "RagaAI-Catalyst",
+  "slug": "raga-ai-hub-ragaai-catalyst",
+  "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view ",
+  "repository": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+  "stars": 16192,
+  "originator": "raga-ai-hub",
+  "tags": [
+    "agentic-ai",
+    "agentic-ai-development",
+    "agentneo",
+    "agents",
+    "ai-agent-monitoring",
+    "ai-application-debugging",
+    "ai-evaluation-tools",
+    "ai-performance-optimization",
+    "ai-tool-interaction-monitoring",
+    "llm-testing",
+    "llm-tracing",
+    "llmops"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/raga-ai-hub/RagaAI-Catalyst#readme",
+    "https://github.com/raga-ai-hub/RagaAI-Catalyst/wiki",
+    "https://github.com/raga-ai-hub/RagaAI-Catalyst/issues"
+  ],
+  "highlight": "Comprehensive observability and monitoring framework for AI agents with advanced analytics and debugging tools."
+}

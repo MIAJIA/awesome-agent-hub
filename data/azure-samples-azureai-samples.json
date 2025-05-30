@@ -1,0 +1,34 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide practical examples and templates for developers to learn and implement Azure AI solutions.",
+  "principle": "Utilizes Azure AI services and tools to demonstrate various AI capabilities through Jupyter Notebooks and code samples.",
+  "reusability": "Includes reusable Jupyter Notebooks and code samples that can be adapted for different Azure AI use cases.",
+  "limitations": "Primarily focused on Azure AI services, which may limit applicability to other cloud platforms.",
+  "platforms": [
+    "Azure"
+  ],
+  "stack": [
+    "Azure AI",
+    "Jupyter Notebook",
+    "Python"
+  ],
+  "name": "azureai-samples",
+  "slug": "azure-samples-azureai-samples",
+  "description": "Official community-driven Azure AI Examples",
+  "repository": "https://github.com/Azure-Samples/azureai-samples",
+  "stars": 354,
+  "originator": "Azure-Samples",
+  "tags": [
+    "azure"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/Azure-Samples/azureai-samples/tree/main/docs",
+    "https://github.com/Azure-Samples/azureai-samples/tree/main/examples"
+  ],
+  "highlight": "Official community-driven repository offering a wide range of Azure AI examples and templates."
+}

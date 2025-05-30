@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To facilitate the development and deployment of reasoning systems, particularly in reinforcement learning and contextual bandit problems.",
+  "principle": "Built on PyTorch, it leverages model-based and model-free reinforcement learning algorithms and contextual bandit approaches.",
+  "reusability": "Offers modular components and APIs for integrating with various machine learning workflows, supports custom environments and policies.",
+  "limitations": "Primarily focused on Python and requires understanding of reinforcement learning concepts; may not be suitable for non-technical users.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "NumPy",
+    "SciPy"
+  ],
+  "name": "ReAgent",
+  "slug": "facebookresearch-reagent",
+  "description": "A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)",
+  "repository": "https://github.com/facebookresearch/ReAgent",
+  "stars": 3623,
+  "originator": "facebookresearch",
+  "tags": [
+    "reinforcement learning",
+    "contextual bandits",
+    "machine learning",
+    "AI research"
+  ],
+  "open_source": true,
+  "license": "BSD-3-Clause",
+  "last_updated": "2025-03-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/facebookresearch/ReAgent/wiki",
+    "https://github.com/facebookresearch/ReAgent/tree/main/examples",
+    "https://github.com/facebookresearch/ReAgent/blob/main/README.md"
+  ],
+  "highlight": "A versatile platform for building and deploying reasoning systems using reinforcement learning and contextual bandits."
+}

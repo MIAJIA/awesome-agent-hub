@@ -1,0 +1,44 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive educational resource for learning about Hugging Face Agents and their applications.",
+  "principle": "The course is structured using educational modules and practical examples to teach users how to build and deploy AI agents using Hugging Face technologies.",
+  "reusability": "The course materials can be reused as a learning resource and reference for building AI agents. It is open-source, allowing for modification and adaptation.",
+  "limitations": "The course content may require prior knowledge of AI and machine learning concepts. It is focused on Hugging Face technologies, which may limit exploration of other frameworks.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "MDX",
+    "Python",
+    "Hugging Face",
+    "LangChain",
+    "LlamaIndex",
+    "SmolAgents"
+  ],
+  "name": "agents-course",
+  "slug": "huggingface-agents-course",
+  "description": "This repository contains the Hugging Face Agents Course. ",
+  "repository": "https://github.com/huggingface/agents-course",
+  "stars": 19047,
+  "originator": "huggingface",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "course",
+    "huggingface",
+    "langchain",
+    "llamaindex",
+    "smolagents"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "MDX",
+  "useful_links": [
+    "https://github.com/huggingface/agents-course/blob/main/README.md",
+    "https://huggingface.co/docs",
+    "https://huggingface.co/blog"
+  ],
+  "highlight": "An in-depth course on building AI agents using Hugging Face technologies, featuring practical examples and educational resources."
+}

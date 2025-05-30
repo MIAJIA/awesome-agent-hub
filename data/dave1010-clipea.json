@@ -1,0 +1,40 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To assist users in the command line by providing AI-driven suggestions and automation.",
+  "principle": "Utilizes AI to analyze command line inputs and provide context-aware suggestions and automations.",
+  "reusability": "Designed to be easily integrated into existing command line workflows, with support for popular shells like Zsh.",
+  "limitations": "Currently in alpha stage, may have limited command recognition and integration capabilities.",
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Zsh",
+    "OpenAI"
+  ],
+  "name": "clipea",
+  "slug": "dave1010-clipea",
+  "description": "📎🟢 Like Clippy but for the CLI. A blazing fast AI helper for your command line",
+  "repository": "https://github.com/dave1010/clipea",
+  "stars": 307,
+  "originator": "dave1010",
+  "tags": [
+    "ai",
+    "hacktoberfest",
+    "llm",
+    "terminal",
+    "zsh"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/dave1010/clipea#readme",
+    "https://github.com/dave1010/clipea/issues",
+    "https://github.com/dave1010/clipea/pulls"
+  ],
+  "highlight": "Blazing fast AI helper for the command line, enhancing CLI productivity with AI-driven assistance."
+}

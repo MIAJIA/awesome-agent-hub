@@ -1,0 +1,33 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To demonstrate how generative AI can be leveraged by DevOps engineers to improve productivity and automate routine tasks.",
+  "principle": "Utilizes Python scripts and AI models to streamline DevOps operations, focusing on automation and task optimization.",
+  "reusability": "Modular Python scripts can be adapted or extended for specific DevOps tasks; open-source for community contributions.",
+  "limitations": "Primarily a proof-of-concept with limited scalability and coverage; requires further development for production use.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Docker"
+  ],
+  "name": "ai-assisted-devops",
+  "slug": "iam-veeramalla-ai-assisted-devops",
+  "description": "Learn how DevOps Engineers can use Gen AI to enhance their productivity in day to day tasks.",
+  "repository": "https://github.com/iam-veeramalla/ai-assisted-devops",
+  "stars": 366,
+  "originator": "iam-veeramalla",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-16",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/iam-veeramalla/ai-assisted-devops/blob/main/README.md",
+    "https://github.com/iam-veeramalla/ai-assisted-devops/tree/main/examples"
+  ],
+  "highlight": "Integrates generative AI to automate and enhance DevOps workflows and tasks."
+}

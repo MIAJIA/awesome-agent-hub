@@ -1,0 +1,27 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide a centralized repository of valuable resources for learning and exploring robotics",
+  "principle": "Aggregates links and resources related to robotics from various domains and organizes them into a curated list",
+  "reusability": "Easily accessible and extendable list for educational and research purposes, contributions are welcomed via GitHub",
+  "limitations": "Dependent on community contributions for updates and may contain outdated links",
+  "platforms": [],
+  "stack": [],
+  "name": "awesome-robotics",
+  "slug": "kiloreux-awesome-robotics",
+  "description": "A list of awesome Robotics resources",
+  "repository": "https://github.com/kiloreux/awesome-robotics",
+  "stars": 4867,
+  "originator": "kiloreux",
+  "tags": [
+    "robotics"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-09-22",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/kiloreux/awesome-robotics#readme"
+  ],
+  "highlight": "Comprehensive curated list of robotics resources and materials"
+}

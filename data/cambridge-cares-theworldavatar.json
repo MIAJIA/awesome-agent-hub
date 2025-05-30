@@ -1,0 +1,35 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To create a comprehensive digital twin of the world using knowledge graphs for simulating and analyzing complex systems.",
+  "principle": "Leverages knowledge graph technologies to integrate and simulate data from various domains, enabling complex system analysis and prediction.",
+  "reusability": "Designed to be extensible with plugins and APIs for integrating additional data sources and simulation models.",
+  "limitations": "Currently in alpha stage with limited real-world data integration and simulation capabilities.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Java",
+    "Jena",
+    "Apache Maven",
+    "SPARQL",
+    "Docker"
+  ],
+  "name": "TheWorldAvatar",
+  "slug": "cambridge-cares-theworldavatar",
+  "description": "A knowledge-graph-based digital twin of the world.",
+  "repository": "https://github.com/cambridge-cares/TheWorldAvatar",
+  "stars": 100,
+  "originator": "cambridge-cares",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/cambridge-cares/TheWorldAvatar/wiki",
+    "https://github.com/cambridge-cares/TheWorldAvatar/tree/main/examples"
+  ],
+  "highlight": "Integration of knowledge graphs to create digital twins for simulating and analyzing real-world systems."
+}

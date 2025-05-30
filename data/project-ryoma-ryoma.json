@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of AI agents to address complex data challenges",
+  "principle": "Built on Python, leveraging AI/ML frameworks and libraries for data processing and analysis",
+  "reusability": "Modular architecture with APIs for easy integration and extension, supports plug-and-play components",
+  "limitations": "Alpha stage with potential stability issues, limited documentation and community support at this stage",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "name": "ryoma",
+  "slug": "project-ryoma-ryoma",
+  "description": "Common AI agent framework solving your data problems",
+  "repository": "https://github.com/project-ryoma/ryoma",
+  "stars": 371,
+  "originator": "project-ryoma",
+  "tags": [
+    "ai",
+    "data-science",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/project-ryoma/ryoma#readme",
+    "https://github.com/project-ryoma/ryoma/wiki",
+    "https://github.com/project-ryoma/ryoma/issues"
+  ],
+  "highlight": "Unified framework for building AI agents focused on data problem-solving"
+}

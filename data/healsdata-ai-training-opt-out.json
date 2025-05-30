@@ -1,0 +1,36 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enable users to easily opt out of having their content used for AI training.",
+  "principle": "Utilizes known tags and settings like robots.txt to signal AI systems to exclude certain content from training datasets.",
+  "reusability": "Can be integrated into any web platform or content management system to ensure compliance with opt-out requests.",
+  "limitations": "Effectiveness depends on AI systems respecting the opt-out signals; not enforceable across all platforms.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "HTML"
+  ],
+  "name": "ai-training-opt-out",
+  "slug": "healsdata-ai-training-opt-out",
+  "description": "Known tags and settings suggested to opt out of having your content used for AI training.",
+  "repository": "https://github.com/healsdata/ai-training-opt-out",
+  "stars": 148,
+  "originator": "healsdata",
+  "tags": [
+    "ai",
+    "meta",
+    "opt-out",
+    "robots-txt"
+  ],
+  "open_source": true,
+  "license": "Unlicense",
+  "last_updated": "2024-06-21",
+  "language": "HTML",
+  "useful_links": [
+    "https://github.com/healsdata/ai-training-opt-out/blob/main/README.md",
+    "https://github.com/healsdata/ai-training-opt-out/issues",
+    "https://github.com/healsdata/ai-training-opt-out/wiki"
+  ],
+  "highlight": "Provides a standardized way to opt out of AI training using known tags and settings."
+}

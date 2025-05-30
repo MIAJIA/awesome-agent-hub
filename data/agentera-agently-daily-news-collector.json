@@ -1,0 +1,42 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide an automated workflow for collecting and aggregating daily news articles using advanced language model capabilities.",
+  "principle": "The workflow operates on the principle of leveraging large language models to intelligently source, filter, and summarize news content from various online platforms.",
+  "reusability": "The modular design of the workflow allows developers to easily integrate and customize components for different news collection needs or to adapt it for other types of content aggregation.",
+  "limitations": "The agent may struggle with real-time news events due to the reliance on scheduled data collection, and the accuracy of collected news may vary based on source reliability.",
+  "platforms": [
+    "Web",
+    "Docker",
+    "Local Machine"
+  ],
+  "stack": [
+    "Python",
+    "Agently AI framework",
+    "Docker"
+  ],
+  "name": "Agently-Daily-News-Collector",
+  "slug": "agentera-agently-daily-news-collector",
+  "description": "An open-source LLM based automatically daily news collecting workflow showcase powered by Agently AI application development framework.",
+  "repository": "https://github.com/AgentEra/Agently-Daily-News-Collector",
+  "stars": 529,
+  "originator": "AgentEra",
+  "tags": [
+    "llm-agent",
+    "llm-agents",
+    "llm-application",
+    "llm-apps",
+    "news",
+    "news-agent",
+    "search-agent"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-10-22",
+  "language": "Python",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ],
+  "highlight": "Leverages large language models to intelligently source, filter, and summarize news content from various online platforms."
+}

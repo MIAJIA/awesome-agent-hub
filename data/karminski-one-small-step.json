@@ -1,0 +1,35 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide simplified and easily digestible explanations of advanced technology concepts.",
+  "principle": "Leverages clear, concise writing and illustrative examples to break down complex topics into quick-read tutorials.",
+  "reusability": "Content can be repurposed for educational materials, presentations, or integrated into larger learning platforms.",
+  "limitations": "Limited to brief explanations; may not cover all aspects of a topic comprehensively.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub Pages"
+  ],
+  "name": "one-small-step",
+  "slug": "karminski-one-small-step",
+  "description": "这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。",
+  "repository": "https://github.com/karminski/one-small-step",
+  "stars": 2008,
+  "originator": "karminski",
+  "tags": [
+    "education",
+    "technology",
+    "tutorials",
+    "quick-read"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/karminski/one-small-step#readme"
+  ],
+  "highlight": "Concise, engaging tutorials on cutting-edge technology concepts, designed for quick consumption."
+}

@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provides a reference application for orchestrating multiple AI agents to automate tasks based on user input.",
+  "principle": "Built on Semantic Kernel, it leverages Azure Foundry and Azure Cosmos DB to coordinate and manage AI agents.",
+  "reusability": "Offers a modular architecture with APIs for integrating custom agents and extending functionalities.",
+  "limitations": "Currently in alpha stage, may have limited documentation and features under development.",
+  "platforms": [
+    "Azure"
+  ],
+  "stack": [
+    "Python",
+    "Semantic Kernel",
+    "Azure Foundry",
+    "Azure Cosmos DB"
+  ],
+  "name": "Multi-Agent-Custom-Automation-Engine-Solution-Accelerator",
+  "slug": "microsoft-multi-agent-custom-automation-engine-solution-accelerator",
+  "description": "The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a group of AI agents to accomplish tasks based on user input. Powered by Semantic Kernel, Azure Foundry, Azure Cosmos DB, and infrastructure services, it provides a reference application, allowing you to hit the ground running.",
+  "repository": "https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator",
+  "stars": 350,
+  "originator": "microsoft",
+  "tags": [
+    "ai-azd-templates",
+    "azd-templates"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator/blob/main/README.md",
+    "https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator/wiki"
+  ],
+  "highlight": "Manages a group of AI agents to accomplish tasks using Semantic Kernel and Azure services."
+}

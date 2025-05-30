@@ -1,0 +1,43 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enable users to run local language models efficiently within their web browsers without relying on cloud-based solutions.",
+  "principle": "Utilizes WebGPU for running local LLMs like llama and kokoro, allowing for fast inference directly in the browser.",
+  "reusability": "Designed as a browser-based solution, it can be integrated into web applications that require local AI processing without server dependencies.",
+  "limitations": "Limited by the computational power of the user's local machine and browser compatibility with WebGPU.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "TypeScript",
+    "WebGPU",
+    "LLM"
+  ],
+  "name": "BrowserAI",
+  "slug": "sauravpanda-browserai",
+  "description": "Run local LLMs like llama, deepseek-distill, kokoro and more inside your browser",
+  "repository": "https://github.com/sauravpanda/BrowserAI",
+  "stars": 1110,
+  "originator": "sauravpanda",
+  "tags": [
+    "agents",
+    "ai",
+    "llama",
+    "llm",
+    "llm-inference",
+    "local",
+    "localllm",
+    "tts",
+    "webgpu"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/sauravpanda/BrowserAI#readme",
+    "https://github.com/sauravpanda/BrowserAI/wiki",
+    "https://github.com/sauravpanda/BrowserAI/issues"
+  ],
+  "highlight": "Run local LLMs directly in the browser using WebGPU for enhanced performance"
+}

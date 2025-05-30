@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the integration and orchestration of AI agents from different frameworks into a unified platform.",
+  "principle": "Utilizes a modular architecture to enable seamless composition and execution of AI agents, supporting multiple AI frameworks.",
+  "reusability": "Offers APIs for integrating custom AI agents, supports plug-and-play capabilities for agent composition.",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and stability.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Docker"
+  ],
+  "name": "beeai-platform",
+  "slug": "i-am-bee-beeai-platform",
+  "description": "Discover, run, and compose AI agents from any framework.",
+  "repository": "https://github.com/i-am-bee/beeai-platform",
+  "stars": 569,
+  "originator": "i-am-bee",
+  "tags": [
+    "agents",
+    "compose",
+    "platform"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/i-am-bee/beeai-platform#readme",
+    "https://github.com/i-am-bee/beeai-platform/wiki"
+  ],
+  "highlight": "Platform for discovering, running, and composing AI agents across various frameworks."
+}

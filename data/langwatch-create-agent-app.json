@@ -1,0 +1,31 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Assist developers in choosing and setting up AI agent frameworks by providing a structured starting point",
+  "principle": "Utilizes a template-based approach to streamline the setup of AI agent frameworks",
+  "reusability": "Offers a CLI tool for generating agent framework setups, intended to be extended and customized by developers",
+  "limitations": "Primarily serves as a starting template; requires further customization for specific use cases",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "React"
+  ],
+  "name": "create-agent-app",
+  "slug": "langwatch-create-agent-app",
+  "description": "Helping you select an AI agent framework",
+  "repository": "https://github.com/langwatch/create-agent-app",
+  "stars": 288,
+  "originator": "langwatch",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-07",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/langwatch/create-agent-app#readme"
+  ],
+  "highlight": "Guides developers in selecting and creating AI agent frameworks tailored to their needs"
+}

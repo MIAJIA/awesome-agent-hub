@@ -1,0 +1,36 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Curate and organize a comprehensive list of resources for data science enthusiasts and professionals",
+  "principle": "Aggregates links and resources related to data science, machine learning, and artificial intelligence into a structured and accessible repository",
+  "reusability": "Open-source repository that can be cloned or forked for personal use or contribution",
+  "limitations": "Relies on community contributions for updates and maintenance; may have outdated links or resources",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "DMG-Data-Science-Awesome",
+  "slug": "developer-multigroup-dmg-data-science-awesome",
+  "description": "Source for Who're Interested in Data!",
+  "repository": "https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome",
+  "stars": 329,
+  "originator": "Developer-MultiGroup",
+  "tags": [
+    "artificial-intelligence",
+    "awesome",
+    "awesome-repos",
+    "data-science",
+    "generative-ai",
+    "machine-learning"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome"
+  ],
+  "highlight": "Comprehensive aggregation of data science resources, curated for ease of access and exploration"
+}

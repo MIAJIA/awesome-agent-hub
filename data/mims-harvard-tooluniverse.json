@@ -1,0 +1,43 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitate the development and application of AI tools in biomedical research, focusing on precision medicine and therapeutic solutions",
+  "principle": "Leverages machine learning and AI models to analyze biomedical data and assist in research and development processes",
+  "reusability": "Modular design with API support for integration into existing research workflows, adaptable for various biomedical applications",
+  "limitations": "Primarily focused on biomedical applications, may require domain-specific knowledge for effective use, alpha status indicates potential instability",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "NumPy",
+    "SciPy"
+  ],
+  "name": "ToolUniverse",
+  "slug": "mims-harvard-tooluniverse",
+  "description": "ToolUniverse is a collection of biomedical tools designed for AI agents",
+  "repository": "https://github.com/mims-harvard/ToolUniverse",
+  "stars": 123,
+  "originator": "mims-harvard",
+  "tags": [
+    "agents",
+    "precision-medicine",
+    "reasoning-agent",
+    "reasoning-language-models",
+    "therapeutics",
+    "tool-use"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/mims-harvard/ToolUniverse/blob/main/README.md",
+    "https://github.com/mims-harvard/ToolUniverse/wiki",
+    "https://github.com/mims-harvard/ToolUniverse/issues"
+  ],
+  "highlight": "Comprehensive suite of AI-driven biomedical tools for precision medicine and therapeutic development"
+}

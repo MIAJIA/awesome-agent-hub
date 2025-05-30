@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To orchestrate AI functionalities in Web3 applications, enhancing development through modular AI integration with blockchain systems",
+  "principle": "Builds on a modular framework that integrates AI models with blockchain technologies, enabling complex multi-agent orchestration",
+  "reusability": "Designed to be modular and extensible, allowing developers to integrate it with existing Web3 applications and blockchain platforms",
+  "limitations": "Currently in alpha stage, may have limited support for certain blockchain platforms, and requires technical expertise to configure",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "TensorFlow",
+    "Ethereum",
+    "IPFS"
+  ],
+  "name": "CMA",
+  "slug": "vividgen-cma",
+  "description": "OmniAgent Framework is an advanced, modular AI orchestration system that transforms Web3 development by seamlessly integrating artificial intelligence with blockchain technologies. ",
+  "repository": "https://github.com/VividGen/CMA",
+  "stars": 320,
+  "originator": "VividGen",
+  "tags": [
+    "AI",
+    "Web3",
+    "blockchain",
+    "multi-agent",
+    "orchestration"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-18",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/VividGen/CMA/blob/main/README.md",
+    "https://github.com/VividGen/CMA/wiki",
+    "https://github.com/VividGen/CMA/issues"
+  ],
+  "highlight": "Seamless integration of AI with blockchain technologies for Web3 development"
+}

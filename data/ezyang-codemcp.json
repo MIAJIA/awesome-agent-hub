@@ -1,0 +1,33 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide coding assistance and improve developer productivity within the Claude Desktop environment",
+  "principle": "Built on Python, leveraging machine learning models to offer intelligent code suggestions and error detection",
+  "reusability": "Designed to be integrated with Claude Desktop, potentially extendable via plugins or additional APIs",
+  "limitations": "Currently in alpha stage, may have limited language support and integration capabilities",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Claude Desktop"
+  ],
+  "name": "codemcp",
+  "slug": "ezyang-codemcp",
+  "description": "Coding assistant MCP for Claude Desktop",
+  "repository": "https://github.com/ezyang/codemcp",
+  "stars": 1359,
+  "originator": "ezyang",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-07",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ezyang/codemcp/blob/main/README.md",
+    "https://github.com/ezyang/codemcp/wiki"
+  ],
+  "highlight": "Seamless integration with Claude Desktop for enhanced coding assistance"
+}

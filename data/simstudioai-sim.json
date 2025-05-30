@@ -1,0 +1,56 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To simplify the creation and deployment of AI agent workflows that integrate with various tools.",
+  "principle": "Leverages a low-code/no-code interface for building workflows and integrates with LLMs like OpenAI and Anthropic for AI capabilities.",
+  "reusability": "Offers a modular architecture with support for plugins and integration with external APIs, enabling easy customization and extension.",
+  "limitations": "Being in alpha, it may have limited features and stability issues; primarily focused on LLM integration without extensive support for other AI models.",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "name": "sim",
+  "slug": "simstudioai-sim",
+  "description": "Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+  "repository": "https://github.com/simstudioai/sim",
+  "stars": 3840,
+  "originator": "simstudioai",
+  "tags": [
+    "agent-workflow",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "aiagents",
+    "anthropic",
+    "artificial-intelligence",
+    "automation",
+    "chatbot",
+    "deepseek",
+    "gemini",
+    "low-code",
+    "nextjs",
+    "no-code",
+    "openai",
+    "rag",
+    "react",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/simstudioai/sim/blob/main/README.md",
+    "https://github.com/simstudioai/sim/wiki",
+    "https://github.com/simstudioai/sim/issues",
+    "https://github.com/simstudioai/sim/discussions"
+  ],
+  "highlight": "Intuitive and lightweight interface for building and deploying AI agent workflows with popular LLMs."
+}

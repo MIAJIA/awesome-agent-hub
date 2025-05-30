@@ -1,0 +1,57 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "Facilitate offline AI-driven applications for art creation, real-time voice conversations, and chatbot interactions",
+  "principle": "Utilizes deep learning models for offline inference, supporting multimodal tasks like image generation and text-to-speech",
+  "reusability": "Designed as a self-hosted solution with Python-based components, allowing for integration with custom applications",
+  "limitations": "Limited to offline use, may require substantial local computational resources for real-time processing",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "PySide6",
+    "PyGame",
+    "Stable Diffusion",
+    "Mistral"
+  ],
+  "name": "airunner",
+  "slug": "capsize-games-airunner",
+  "description": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows",
+  "repository": "https://github.com/Capsize-Games/airunner",
+  "stars": 1148,
+  "originator": "Capsize-Games",
+  "tags": [
+    "ai",
+    "ai-art",
+    "art",
+    "asset-generator",
+    "chatbot",
+    "deep-learning",
+    "desktop-app",
+    "image-generation",
+    "mistral",
+    "multimodal",
+    "privacy",
+    "pygame",
+    "pyside6",
+    "python",
+    "self-hosted",
+    "speech-to-text",
+    "stable-diffusion",
+    "text-to-image",
+    "text-to-speech",
+    "text-to-speech-app"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Capsize-Games/airunner/wiki",
+    "https://github.com/Capsize-Games/airunner/blob/main/README.md"
+  ],
+  "highlight": "Offline inference engine supporting multimodal AI applications including art generation and voice interactions"
+}

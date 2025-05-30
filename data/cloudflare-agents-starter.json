@@ -1,0 +1,38 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate the development of AI agents on Cloudflare's platform by providing a starter kit with essential tools and structure.",
+  "principle": "Leverages Cloudflare Workers and Durable Objects to create scalable, serverless AI agents.",
+  "reusability": "Designed as a starter kit with modular components, allowing developers to easily extend and customize for specific use cases.",
+  "limitations": "Primarily tailored for Cloudflare's ecosystem, may not be directly applicable for other cloud providers.",
+  "platforms": [
+    "Cloudflare"
+  ],
+  "stack": [
+    "TypeScript",
+    "Cloudflare Workers",
+    "Durable Objects"
+  ],
+  "name": "agents-starter",
+  "slug": "cloudflare-agents-starter",
+  "description": "A starter kit for building ai agents on Cloudflare",
+  "repository": "https://github.com/cloudflare/agents-starter",
+  "stars": 766,
+  "originator": "cloudflare",
+  "tags": [
+    "agents",
+    "ai",
+    "cloudflare",
+    "durable-objects"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/cloudflare/agents-starter/blob/main/README.md",
+    "https://developers.cloudflare.com/workers/",
+    "https://developers.cloudflare.com/durable-objects/"
+  ],
+  "highlight": "Seamless integration with Cloudflare's platform for building AI agents using Durable Objects."
+}

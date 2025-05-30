@@ -1,0 +1,33 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To serve as an extensive resource for discovering and exploring open-source projects.",
+  "principle": "Collects and organizes open-source projects into a structured and easily navigable list.",
+  "reusability": "Can be used as a reference for finding open-source projects, suitable for developers looking for resources or contributors seeking projects.",
+  "limitations": "Primarily a static list, does not include dynamic features like project updates or real-time collaboration tools.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Python",
+    "Markdown"
+  ],
+  "name": "definitive-opensource",
+  "slug": "mustbeperfect-definitive-opensource",
+  "description": "The definitive list of open source.",
+  "repository": "https://github.com/mustbeperfect/definitive-opensource",
+  "stars": 1050,
+  "originator": "mustbeperfect",
+  "tags": [
+    "list",
+    "opensource"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/mustbeperfect/definitive-opensource#readme"
+  ],
+  "highlight": "A comprehensive and curated list of open-source projects across various domains."
+}

@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable the development and orchestration of multi-agent systems for natural language programming.",
+  "principle": "Utilizes a multi-agent framework to coordinate various specialized agents, allowing for complex task execution through natural language inputs.",
+  "reusability": "Designed as a framework that can be extended and customized for various multi-agent applications; offers modular components for agent development.",
+  "limitations": "Currently in alpha stage; may have limited documentation and stability; primarily experimental with potential for refinement.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain"
+  ],
+  "name": "MetaGPT",
+  "slug": "foundationagents-metagpt",
+  "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+  "repository": "https://github.com/FoundationAgents/MetaGPT",
+  "stars": 55935,
+  "originator": "FoundationAgents",
+  "tags": [
+    "agent",
+    "gpt",
+    "llm",
+    "metagpt",
+    "multi-agent"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-16",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/FoundationAgents/MetaGPT#readme",
+    "https://github.com/FoundationAgents/MetaGPT/wiki",
+    "https://github.com/FoundationAgents/MetaGPT/issues"
+  ],
+  "highlight": "First AI Software Company framework facilitating natural language programming through multi-agent systems."
+}

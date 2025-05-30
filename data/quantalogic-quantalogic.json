@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development and coordination of AI coding agents to automate and enhance software development processes.",
+  "principle": "Built on a ReAct (Reasoning and Acting) framework to enable AI agents to perform complex coding tasks by reasoning through problems and acting on solutions.",
+  "reusability": "Modular architecture with support for customization and integration via APIs, allowing for extension and adaptation to various coding environments.",
+  "limitations": "Currently in alpha stage, may have limited functionality and stability, primarily supports Python environments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain"
+  ],
+  "name": "quantalogic",
+  "slug": "quantalogic-quantalogic",
+  "description": "Quantalogic ReAct Agent - Coding Agent Framework - Gives a ⭐️ if you like the project",
+  "repository": "https://github.com/quantalogic/quantalogic",
+  "stars": 418,
+  "originator": "quantalogic",
+  "tags": [
+    "agents",
+    "ai",
+    "generative-ai"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/quantalogic/quantalogic/blob/main/README.md",
+    "https://github.com/quantalogic/quantalogic/wiki"
+  ],
+  "highlight": "A framework for building and orchestrating coding agents with a focus on AI-driven code generation and management."
+}

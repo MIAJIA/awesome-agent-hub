@@ -1,0 +1,48 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To educate and provide a foundational understanding of the Model Context Protocol (MCP) through practical examples in various programming languages.",
+  "principle": "Leverages a multi-language approach to demonstrate MCP concepts, offering examples and exercises in .NET, Java, TypeScript, JavaScript, and Python.",
+  "reusability": "Modular curriculum with examples in multiple languages, suitable for integration into educational programs or self-paced learning.",
+  "limitations": "Primarily focused on introductory concepts; may not cover advanced MCP use cases or integrations.",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    ".NET",
+    "Java",
+    "TypeScript",
+    "JavaScript",
+    "Python"
+  ],
+  "name": "mcp-for-beginners",
+  "slug": "microsoft-mcp-for-beginners",
+  "description": "This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python.",
+  "repository": "https://github.com/microsoft/mcp-for-beginners",
+  "stars": 997,
+  "originator": "microsoft",
+  "tags": [
+    "csharp",
+    "java",
+    "javascript",
+    "mcp",
+    "mcp-client",
+    "mcp-security",
+    "mcp-server",
+    "model",
+    "modelcontextprotocol",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/microsoft/mcp-for-beginners/blob/main/README.md",
+    "https://github.com/microsoft/mcp-for-beginners/tree/main/docs",
+    "https://github.com/microsoft/mcp-for-beginners/tree/main/examples"
+  ],
+  "highlight": "Comprehensive curriculum for learning the Model Context Protocol (MCP) across multiple programming languages."
+}

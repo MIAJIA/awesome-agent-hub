@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To simplify the process of using and comparing different agent frameworks through a single interface",
+  "principle": "Utilizes a modular architecture to integrate various agent frameworks, allowing for seamless switching and evaluation",
+  "reusability": "Offers a plug-and-play interface for agent frameworks, making it easy to add new frameworks and switch between them",
+  "limitations": "Limited to supported agent frameworks; may require additional configuration for unsupported frameworks",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "Hugging Face"
+  ],
+  "name": "any-agent",
+  "slug": "mozilla-ai-any-agent",
+  "description": "A single interface to use and evaluate different agent frameworks ",
+  "repository": "https://github.com/mozilla-ai/any-agent",
+  "stars": 438,
+  "originator": "mozilla-ai",
+  "tags": [
+    "a2a",
+    "agent-evaluation",
+    "agents",
+    "ai",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/mozilla-ai/any-agent#readme",
+    "https://github.com/mozilla-ai/any-agent/wiki",
+    "https://github.com/mozilla-ai/any-agent/issues"
+  ],
+  "highlight": "Provides a unified interface to interact with and evaluate multiple agent frameworks"
+}

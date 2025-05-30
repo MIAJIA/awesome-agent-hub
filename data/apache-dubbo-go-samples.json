@@ -1,0 +1,36 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide sample applications and examples to demonstrate the integration of Apache Dubbo with Go for microservices development",
+  "principle": "Utilizes Apache Dubbo, a high-performance, Java-based RPC framework, adapted for Go to enable cross-language service communication",
+  "reusability": "Offers reusable sample code and configurations to facilitate the integration of Dubbo in Go projects, suitable for developers looking to implement microservices architecture",
+  "limitations": "Primarily focused on Go and Dubbo integration, may not cover all edge cases or advanced Dubbo features",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Go",
+    "Apache Dubbo",
+    "gRPC",
+    "Zookeeper"
+  ],
+  "name": "dubbo-go-samples",
+  "slug": "apache-dubbo-go-samples",
+  "description": "Apache dubbo",
+  "repository": "https://github.com/apache/dubbo-go-samples",
+  "stars": 253,
+  "originator": "apache",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/apache/dubbo-go-samples",
+    "https://dubbo.apache.org/en/docs/",
+    "https://github.com/apache/dubbo-go"
+  ],
+  "highlight": "Comprehensive examples for integrating Apache Dubbo with Go applications"
+}

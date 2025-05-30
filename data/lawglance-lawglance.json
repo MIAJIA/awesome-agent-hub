@@ -1,0 +1,46 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To assist legal professionals in research and analysis by providing quick access to legal documents and insights using AI.",
+  "principle": "Utilizes Retrieval-Augmented Generation (RAG) with ChromaDB for efficient legal document retrieval and analysis.",
+  "reusability": "Offers API endpoints for integration into legal research workflows, supports custom document uploads for tailored analysis.",
+  "limitations": "Primarily focused on English legal documents, requires setup and maintenance of a local database for document storage.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Django",
+    "LangChain",
+    "ChromaDB",
+    "Jupyter Notebook"
+  ],
+  "name": "lawglance",
+  "slug": "lawglance-lawglance",
+  "description": "A free open source RAG based AI legal assistant.",
+  "repository": "https://github.com/lawglance/lawglance",
+  "stars": 121,
+  "originator": "lawglance",
+  "tags": [
+    "ai",
+    "assistance",
+    "chromadb",
+    "crewai",
+    "django",
+    "langchain-python",
+    "legal",
+    "legalai",
+    "open-source"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-24",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/lawglance/lawglance#readme",
+    "https://github.com/lawglance/lawglance/wiki",
+    "https://github.com/lawglance/lawglance/issues"
+  ],
+  "highlight": "Integrates legal knowledge retrieval with AI to assist in legal research and document analysis."
+}

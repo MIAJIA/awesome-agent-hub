@@ -1,0 +1,32 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a curated list of resources and research papers focused on the application of reinforcement learning in cybersecurity",
+  "principle": "Aggregates and categorizes various academic papers, tools, and projects related to reinforcement learning applications in cybersecurity",
+  "reusability": "Can be used as a reference guide for researchers and practitioners interested in reinforcement learning for cybersecurity applications",
+  "limitations": "Primarily a static resource list; does not include interactive or executable components",
+  "platforms": [],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-rl-for-cybersecurity",
+  "slug": "limmen-awesome-rl-for-cybersecurity",
+  "description": "A curated list of resources dedicated to reinforcement learning applied to cyber security. ",
+  "repository": "https://github.com/Limmen/awesome-rl-for-cybersecurity",
+  "stars": 863,
+  "originator": "Limmen",
+  "tags": [
+    "reinforcement learning",
+    "cybersecurity",
+    "resources",
+    "research"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-03-27",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/Limmen/awesome-rl-for-cybersecurity#readme"
+  ],
+  "highlight": "Comprehensive resource list for applying reinforcement learning in cybersecurity"
+}

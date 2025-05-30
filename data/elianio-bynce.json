@@ -1,0 +1,37 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "To enable users to create and interact with 3D AI agents using motion capture and model technology",
+  "principle": "Leverages 3D motion capture and MMD models to render and animate AI agents in a virtual environment",
+  "reusability": "Provides a platform for integrating 3D models and animations, supports custom agent creation and interaction",
+  "limitations": "Requires specific hardware for motion capture, limited to environments that support 3D rendering",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Three.js"
+  ],
+  "name": "Bynce",
+  "slug": "elianio-bynce",
+  "description": "First 3D AI Agent Platform, allowing users to recreate and display Bynce Agent. Using 3D Motion Capture & MMD Model Technology to interact with Bynce.",
+  "repository": "https://github.com/Elianio/Bynce",
+  "stars": 106,
+  "originator": "Elianio",
+  "tags": [
+    "3d-models",
+    "agentic-ai",
+    "ai",
+    "react"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-03-21",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Elianio/Bynce#readme",
+    "https://github.com/Elianio/Bynce/wiki"
+  ],
+  "highlight": "First 3D AI Agent Platform utilizing 3D Motion Capture and MMD Model Technology"
+}

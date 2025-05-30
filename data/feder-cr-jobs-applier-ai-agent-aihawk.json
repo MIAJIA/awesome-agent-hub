@@ -1,0 +1,55 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Streamline and automate the job application process for users, allowing them to apply for multiple jobs efficiently.",
+  "principle": "Utilizes AI to personalize job applications by scraping job listings and auto-filling application forms.",
+  "reusability": "Can be integrated into job search platforms via APIs, supports custom job criteria and application templates.",
+  "limitations": "Limited to platforms that support automated form filling, may require maintenance to adapt to changing website structures.",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Selenium",
+    "OpenAI API"
+  ],
+  "name": "Jobs_Applier_AI_Agent_AIHawk",
+  "slug": "feder-cr-jobs-applier-ai-agent-aihawk",
+  "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.",
+  "repository": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+  "stars": 28218,
+  "originator": "feder-cr",
+  "tags": [
+    "agent",
+    "application-resume",
+    "artificial-intelligence",
+    "automate",
+    "automation",
+    "bot",
+    "chatgpt",
+    "chrome",
+    "gpt",
+    "human-resources",
+    "job",
+    "jobs",
+    "jobsearch",
+    "jobseeker",
+    "opeai",
+    "python",
+    "resume",
+    "scraper",
+    "scraping",
+    "selenium"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk#readme",
+    "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk/wiki"
+  ],
+  "highlight": "Automates the job application process with tailored applications using AI."
+}

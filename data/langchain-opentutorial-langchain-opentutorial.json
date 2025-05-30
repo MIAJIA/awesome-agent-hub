@@ -1,0 +1,35 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide an open tutorial for learning and experimenting with LangChain and LangGraph tools.",
+  "principle": "Utilizes LangChain and LangGraph frameworks to demonstrate concepts through Jupyter Notebooks.",
+  "reusability": "Offers tutorial notebooks that can be easily adapted or extended for various educational purposes.",
+  "limitations": "Primarily focused on educational use; may not cover advanced production use cases or integrations.",
+  "platforms": [
+    "Jupyter"
+  ],
+  "stack": [
+    "Jupyter Notebook",
+    "LangChain",
+    "LangGraph"
+  ],
+  "name": "LangChain-OpenTutorial",
+  "slug": "langchain-opentutorial-langchain-opentutorial",
+  "description": "LangChain, LangGraph Open Tutorial for everyone!",
+  "repository": "https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial",
+  "stars": 642,
+  "originator": "LangChain-OpenTutorial",
+  "tags": [
+    "agent",
+    "langchain",
+    "langgraph"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-22",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial/blob/main/README.md"
+  ],
+  "highlight": "Open tutorial platform for learning LangChain and LangGraph through interactive notebooks."
+}

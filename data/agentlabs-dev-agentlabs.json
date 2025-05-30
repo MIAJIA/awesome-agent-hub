@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a flexible and extensible framework for building AI agents, enabling developers to create sophisticated AI solutions with minimal overhead.",
+  "principle": "Empower developers by offering a universal frontend that abstracts the complexities of backend integration, allowing for rapid prototyping and deployment of AI agents.",
+  "reusability": "Designed with modular components that can be reused across different projects, promoting consistency and reducing development time.",
+  "limitations": "Currently in alpha stage, which may imply potential instability and incomplete features. Users may encounter bugs and limited documentation.",
+  "platforms": [
+    "Web",
+    "Cloud"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Express"
+  ],
+  "name": "agentlabs",
+  "slug": "agentlabs-dev-agentlabs",
+  "description": "Universal AI Agent Frontend. Build your backend we handle the rest.",
+  "repository": "https://github.com/agentlabs-dev/agentlabs",
+  "stars": 484,
+  "originator": "agentlabs-dev",
+  "tags": [
+    "ai-agents",
+    "ai-agents-framework",
+    "analytics",
+    "authentication"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-02-06",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/agentlabs-dev/agentlabs#readme",
+    "https://github.com/agentlabs-dev/agentlabs/wiki",
+    "https://agentlabs.dev/docs"
+  ],
+  "highlight": "Universal frontend for AI agents that abstracts backend complexities, enabling rapid prototyping and deployment."
+}

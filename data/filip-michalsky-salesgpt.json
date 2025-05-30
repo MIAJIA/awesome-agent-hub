@@ -1,0 +1,35 @@
+{
+  "category": "marketing",
+  "status": "alpha",
+  "purpose": "Automate and enhance sales outreach through personalized communication.",
+  "principle": "Utilizes AI-powered language models to generate context-aware sales messages and responses.",
+  "reusability": "Provides APIs for integration into existing sales platforms, supports customization of sales scripts.",
+  "limitations": "Limited to predefined sales scenarios, may require fine-tuning for specific industries, dependent on data quality for personalization.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain",
+    "FastAPI"
+  ],
+  "name": "SalesGPT",
+  "slug": "filip-michalsky-salesgpt",
+  "description": "Context-aware AI Sales Agent to automate sales outreach.",
+  "repository": "https://github.com/filip-michalsky/SalesGPT",
+  "stars": 2271,
+  "originator": "filip-michalsky",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-17",
+  "language": "HTML",
+  "useful_links": [
+    "https://github.com/filip-michalsky/SalesGPT#readme",
+    "https://github.com/filip-michalsky/SalesGPT/wiki",
+    "https://github.com/filip-michalsky/SalesGPT/issues"
+  ],
+  "highlight": "Automates sales outreach by generating personalized sales messages using context-aware AI."
+}

@@ -1,0 +1,44 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates experimentation with code generation to streamline development processes",
+  "principle": "Leverages GPT-4 for generating code based on user input and predefined prompts",
+  "reusability": "Can be integrated into existing development workflows as a CLI tool; supports customization through prompt engineering",
+  "limitations": "Currently in alpha with potential stability issues; limited to Python and requires a compatible environment for GPT-4",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI GPT-4"
+  ],
+  "name": "gpt-engineer",
+  "slug": "antonosika-gpt-engineer",
+  "description": "CLI platform to experiment with codegen. Precursor to: https://lovable.dev",
+  "repository": "https://github.com/AntonOsika/gpt-engineer",
+  "stars": 54225,
+  "originator": "AntonOsika",
+  "tags": [
+    "ai",
+    "autonomous-agent",
+    "code-generation",
+    "codebase-generation",
+    "codegen",
+    "coding-assistant",
+    "gpt-4",
+    "gpt-engineer",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-14",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/AntonOsika/gpt-engineer#readme",
+    "https://lovable.dev"
+  ],
+  "highlight": "Experimental CLI platform for code generation using GPT-4"
+}

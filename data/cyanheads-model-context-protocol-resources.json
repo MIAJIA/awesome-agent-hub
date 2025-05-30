@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide practical guides, clients, and servers for learning and experimenting with the Model Context Protocol (MCP)",
+  "principle": "Implements and demonstrates MCP through various practical examples, including client and server setups",
+  "reusability": "Includes modular components and guides that can be used to set up MCP-compliant clients and servers",
+  "limitations": "Being in alpha, the project may lack comprehensive documentation and stability; it is primarily for learning and experimentation",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Docker"
+  ],
+  "name": "model-context-protocol-resources",
+  "slug": "cyanheads-model-context-protocol-resources",
+  "description": "Exploring the Model Context Protocol (MCP) through practical guides, clients, and servers I've built while learning about this new protocol.",
+  "repository": "https://github.com/cyanheads/model-context-protocol-resources",
+  "stars": 218,
+  "originator": "cyanheads",
+  "tags": [
+    "ai-agents",
+    "ai-development",
+    "developer-guides",
+    "llm-tools",
+    "mcp",
+    "mcp-servers",
+    "model-context-protocol",
+    "model-context-protocol-servers"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-24",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/cyanheads/model-context-protocol-resources/blob/main/README.md",
+    "https://github.com/cyanheads/model-context-protocol-resources/wiki"
+  ],
+  "highlight": "Comprehensive exploration and practical implementation of the Model Context Protocol (MCP)"
+}

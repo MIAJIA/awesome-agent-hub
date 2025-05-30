@@ -1,0 +1,62 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Provide a starter template for building fullstack applications with AI integration and modern web technologies",
+  "principle": "Combines Hono framework with OpenAPI & RPC, Nuxt for frontend, and SST Ion for serverless infrastructure",
+  "reusability": "Modular architecture with plug-and-play components, supports various integrations like Kinde Auth and Tanstack Query",
+  "limitations": "Primarily targeted at developers familiar with the included technologies, requires customization for specific use cases",
+  "platforms": [
+    "Node.js",
+    "Vercel",
+    "AWS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Hono",
+    "OpenAPI",
+    "RPC",
+    "Nuxt",
+    "SST Ion",
+    "Kinde Auth",
+    "Tanstack Query",
+    "Shadcn",
+    "Primevue",
+    "UnoCSS"
+  ],
+  "name": "starter-monorepo",
+  "slug": "namesmt-starter-monorepo",
+  "description": "Monorepo with 🤖 AI initialize | 🔥Hono + OpenAPI & RPC, Nuxt, SST Ion, Kinde Auth, Tanstack Query, Shadcn, Primevue, UnoCSS, Spreadsheet I18n",
+  "repository": "https://github.com/NamesMT/starter-monorepo",
+  "stars": 113,
+  "originator": "NamesMT",
+  "tags": [
+    "ai",
+    "arktype",
+    "boilerplate",
+    "devcontainer",
+    "fullstack",
+    "hono",
+    "kinde",
+    "monorepo",
+    "nuxt",
+    "openapi",
+    "primevue",
+    "rpc",
+    "scalar",
+    "shadcn",
+    "starter",
+    "tanstack-query",
+    "unocss",
+    "vue",
+    "vue-query"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/NamesMT/starter-monorepo#readme",
+    "https://github.com/NamesMT/starter-monorepo/wiki"
+  ],
+  "highlight": "Comprehensive monorepo setup for AI-driven fullstack applications with modern web technologies"
+}

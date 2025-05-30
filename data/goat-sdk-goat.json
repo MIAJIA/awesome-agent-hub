@@ -1,0 +1,39 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive toolkit for AI agents to perform financial operations, including blockchain and cryptocurrency management",
+  "principle": "Built on a modular architecture leveraging TypeScript, enabling integration with various blockchain technologies and AI frameworks",
+  "reusability": "Offers a set of APIs and SDKs for easy integration into AI-driven financial applications, supporting modular and extensible development",
+  "limitations": "Primarily focused on crypto and blockchain, may not cover traditional financial operations comprehensively",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Blockchain APIs"
+  ],
+  "name": "goat",
+  "slug": "goat-sdk-goat",
+  "description": "The leading agentic finance toolkit for AI agents",
+  "repository": "https://github.com/goat-sdk/goat",
+  "stars": 687,
+  "originator": "goat-sdk",
+  "tags": [
+    "agents",
+    "ai",
+    "blockchain",
+    "crypto"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/goat-sdk/goat#readme",
+    "https://github.com/goat-sdk/goat/wiki",
+    "https://github.com/goat-sdk/goat/issues"
+  ],
+  "highlight": "Facilitates AI-driven financial operations with blockchain and crypto integrations"
+}

@@ -1,0 +1,55 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive dataset and benchmarks for research in car aerodynamics using deep learning and CFD simulations.",
+  "principle": "Combines large-scale multimodal datasets with computational fluid dynamics (CFD) simulations and deep learning models for predictive analysis in car design.",
+  "reusability": "Open-source dataset and codebase can be used for developing and benchmarking new models in aerodynamics and car design research.",
+  "limitations": "Primarily focused on car design, may not generalize well to other domains; requires significant computational resources for CFD simulations.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "OpenFOAM",
+    "PyTorch"
+  ],
+  "name": "DrivAerNet",
+  "slug": "mohamedelrefaie-drivaernet",
+  "description": "A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks",
+  "repository": "https://github.com/Mohamedelrefaie/DrivAerNet",
+  "stars": 310,
+  "originator": "Mohamedelrefaie",
+  "tags": [
+    "3d-geometry",
+    "aerodynamics",
+    "car-design",
+    "cfd",
+    "computational-fluid-dynamics",
+    "data-driven",
+    "deep-learning",
+    "deep-neural-networks",
+    "dgcnn",
+    "drivaer",
+    "fluid-dynamics",
+    "fluid-simulation",
+    "generative-ai",
+    "graph-neural-networks",
+    "large-scale-dataset",
+    "meshes",
+    "openfoam",
+    "parametric-design",
+    "surrogate-modelling",
+    "surrogate-models"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Mohamedelrefaie/DrivAerNet/blob/main/README.md",
+    "https://github.com/Mohamedelrefaie/DrivAerNet/wiki"
+  ],
+  "highlight": "Unique integration of computational fluid dynamics simulations with deep learning for car design analysis."
+}

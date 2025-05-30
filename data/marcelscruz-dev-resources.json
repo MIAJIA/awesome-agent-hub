@@ -1,0 +1,46 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive and collaborative collection of resources for developers across various categories like programming, design, and tools.",
+  "principle": "Organizes and curates a list of developer resources in a GitHub repository, allowing contributions from the community to enhance the collection.",
+  "reusability": "The repository is open-source under the MIT license, allowing developers to fork, contribute to, or use the resources in their own projects.",
+  "limitations": "The list may not cover all possible resources and relies on community contributions for updates and expansion.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub"
+  ],
+  "name": "dev-resources",
+  "slug": "marcelscruz-dev-resources",
+  "description": "A collaborative list of resources for developers",
+  "repository": "https://github.com/marcelscruz/dev-resources",
+  "stars": 1119,
+  "originator": "marcelscruz",
+  "tags": [
+    "assets",
+    "awesome",
+    "awesome-list",
+    "courses",
+    "design",
+    "dev-resources",
+    "development",
+    "hacktoberfest",
+    "information",
+    "infrastructure",
+    "jobs",
+    "programming",
+    "public-apis",
+    "resources",
+    "tools"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/marcelscruz/dev-resources#readme"
+  ],
+  "highlight": "Extensive and collaborative list of developer resources, including tools, courses, and public APIs."
+}

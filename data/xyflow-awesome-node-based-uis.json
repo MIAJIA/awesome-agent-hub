@@ -1,0 +1,37 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide a curated collection of resources, libraries, and tools for developers interested in building node-based UIs",
+  "principle": "Aggregates and categorizes resources related to node-based UI design and development, serving as a centralized knowledge base",
+  "reusability": "Open source and community-driven, allowing contributions and easy access to a wide range of node-based UI resources",
+  "limitations": "Primarily a list of resources; does not include actual implementation or code examples",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "GitHub",
+    "Markdown"
+  ],
+  "name": "awesome-node-based-uis",
+  "slug": "xyflow-awesome-node-based-uis",
+  "description": "A curated list with resources about node-based UIs",
+  "repository": "https://github.com/xyflow/awesome-node-based-uis",
+  "stars": 2975,
+  "originator": "xyflow",
+  "tags": [
+    "awesome-list",
+    "etl",
+    "node-based-ui",
+    "visual-programming",
+    "workflow-editor"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-04-18",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/xyflow/awesome-node-based-uis#readme",
+    "https://github.com/xyflow/awesome-node-based-uis/contributing.md"
+  ],
+  "highlight": "Comprehensive list of resources and tools for creating node-based user interfaces"
+}

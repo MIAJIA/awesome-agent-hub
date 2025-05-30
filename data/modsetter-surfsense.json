@@ -1,0 +1,57 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide an open-source alternative for connecting and retrieving information from various external sources like search engines, Slack, and Notion.",
+  "principle": "Utilizes a combination of FastAPI and LangChain to interact with external APIs and gather information for user queries.",
+  "reusability": "Offers APIs for integration with various platforms, supports modular extensions for new data sources.",
+  "limitations": "Alpha status may indicate incomplete features and potential bugs; integration with some platforms may require additional setup.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "FastAPI",
+    "LangChain",
+    "Next.js",
+    "Python"
+  ],
+  "name": "SurfSense",
+  "slug": "modsetter-surfsense",
+  "description": "Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.",
+  "repository": "https://github.com/MODSetter/SurfSense",
+  "stars": 4653,
+  "originator": "MODSetter",
+  "tags": [
+    "aceternity-ui",
+    "agent",
+    "agents",
+    "ai",
+    "chrome-extension",
+    "extension",
+    "fastapi",
+    "glean",
+    "langchain",
+    "langgraph",
+    "nextjs",
+    "nextjs15",
+    "notebooklm",
+    "notion",
+    "ollama",
+    "perplexity",
+    "python",
+    "rag",
+    "slack",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/MODSetter/SurfSense#readme",
+    "https://github.com/MODSetter/SurfSense/wiki",
+    "https://github.com/MODSetter/SurfSense/issues"
+  ],
+  "highlight": "Integrates with multiple external sources for comprehensive data retrieval and analysis."
+}

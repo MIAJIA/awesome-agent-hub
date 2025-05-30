@@ -1,0 +1,43 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enable applied reinforcement learning with a focus on user-friendly interfaces and modular components for custom agent development.",
+  "principle": "Builds on TensorFlow to implement reinforcement learning algorithms with a modular architecture, supporting various environments and policies.",
+  "reusability": "Offers an extensible API for custom agent creation, supports integration with OpenAI Gym environments, and allows for easy configuration of learning models.",
+  "limitations": "Primarily designed for research and experimentation; may not be optimized for production-level deployment. Limited support for non-TensorFlow environments.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "OpenAI Gym"
+  ],
+  "name": "tensorforce",
+  "slug": "tensorforce-tensorforce",
+  "description": "Tensorforce: a TensorFlow library for applied reinforcement learning",
+  "repository": "https://github.com/tensorforce/tensorforce",
+  "stars": 3312,
+  "originator": "tensorforce",
+  "tags": [
+    "control",
+    "deep-reinforcement-learning",
+    "reinforcement-learning",
+    "system-control",
+    "tensorflow",
+    "tensorflow-library",
+    "tensorforce"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-07-31",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/tensorforce/tensorforce/blob/master/README.md",
+    "https://github.com/tensorforce/tensorforce/wiki",
+    "https://github.com/tensorforce/tensorforce/tree/master/examples"
+  ],
+  "highlight": "Tensorforce provides a high-level, modular interface for reinforcement learning with TensorFlow, facilitating rapid prototyping and experimentation."
+}

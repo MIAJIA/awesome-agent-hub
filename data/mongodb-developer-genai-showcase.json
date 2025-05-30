@@ -1,0 +1,41 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Demonstrate the capabilities of generative AI models integrated with MongoDB for various applications",
+  "principle": "Utilizes LangChain for building applications with large language models and MongoDB for data storage and retrieval",
+  "reusability": "Offers modular examples that can be adapted for different generative AI use cases, with integration support for MongoDB",
+  "limitations": "Primarily serves as a demonstration, may require customization for specific production use cases",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "MongoDB",
+    "Jupyter Notebook"
+  ],
+  "name": "GenAI-Showcase",
+  "slug": "mongodb-developer-genai-showcase",
+  "description": "GenAI Cookbook",
+  "repository": "https://github.com/mongodb-developer/GenAI-Showcase",
+  "stars": 3766,
+  "originator": "mongodb-developer",
+  "tags": [
+    "agents",
+    "artificial-intelligence",
+    "generative-ai",
+    "llms",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/mongodb-developer/GenAI-Showcase",
+    "https://github.com/mongodb-developer/GenAI-Showcase/tree/main/examples",
+    "https://github.com/mongodb-developer/GenAI-Showcase/tree/main/docs"
+  ],
+  "highlight": "Comprehensive showcase of generative AI applications using MongoDB and LangChain"
+}

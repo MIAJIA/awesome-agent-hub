@@ -1,0 +1,32 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a tool for automated network analysis and understanding",
+  "principle": "Utilizes Python-based algorithms to analyze network data and extract insights",
+  "reusability": "Can be integrated into larger network analysis workflows, supports custom data inputs",
+  "limitations": "Limited to network data analysis, requires input data in specific formats",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "NetworkX",
+    "Matplotlib"
+  ],
+  "name": "ANUS",
+  "slug": "nikmcfly-anus",
+  "description": "N/A",
+  "repository": "https://github.com/nikmcfly/ANUS",
+  "stars": 5611,
+  "originator": "nikmcfly",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-16",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/nikmcfly/ANUS/blob/main/README.md",
+    "https://github.com/nikmcfly/ANUS/wiki"
+  ]
+}

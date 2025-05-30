@@ -1,0 +1,52 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and management of AI agents using a Python SDK and command-line interface",
+  "principle": "Built on LangChain and OpenAI technologies to enable language model interactions and tool calling",
+  "reusability": "Offers a modular SDK and CLI tools for easy integration and extension of AI agent capabilities",
+  "limitations": "Currently in alpha stage with potential stability issues and limited documentation",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI"
+  ],
+  "name": "arcade-ai",
+  "slug": "arcadeai-arcade-ai",
+  "description": "Arcade Python SDK and CLI",
+  "repository": "https://github.com/ArcadeAI/arcade-ai",
+  "stars": 422,
+  "originator": "ArcadeAI",
+  "tags": [
+    "agent",
+    "ai",
+    "arcade",
+    "arcade-ai",
+    "artificial-intelligence",
+    "langchain",
+    "langgraph",
+    "llm",
+    "llm-tool-call",
+    "llm-tools",
+    "mcp",
+    "mcp-client",
+    "mcp-servers",
+    "mcp-tools",
+    "openai",
+    "toolcalling"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ArcadeAI/arcade-ai#readme",
+    "https://github.com/ArcadeAI/arcade-ai/wiki",
+    "https://github.com/ArcadeAI/arcade-ai/issues"
+  ],
+  "highlight": "Arcade Python SDK and CLI for building and orchestrating AI agents"
+}

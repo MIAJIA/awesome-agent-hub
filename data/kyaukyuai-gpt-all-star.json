@@ -1,0 +1,47 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable autonomous AI agents to collaboratively generate code for web applications from scratch, enhancing team collaboration and development efficiency.",
+  "principle": "Utilizes a multi-agent system where each AI agent specializes in different aspects of web application development, coordinating through a shared framework to produce cohesive codebases.",
+  "reusability": "Offers a modular architecture allowing integration with various AI models and frameworks; supports plug-and-play with existing development environments.",
+  "limitations": "Currently in alpha stage, may have stability issues; limited to Python-based environments; requires substantial computational resources for effective operation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "GPT-4",
+    "LangGraph"
+  ],
+  "name": "gpt-all-star",
+  "slug": "kyaukyuai-gpt-all-star",
+  "description": "🤖 AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.",
+  "repository": "https://github.com/kyaukyuai/gpt-all-star",
+  "stars": 166,
+  "originator": "kyaukyuai",
+  "tags": [
+    "ai",
+    "autonomous-agent",
+    "codebase-generation",
+    "codegen",
+    "coding-assistant",
+    "developer-tools",
+    "gpt-4",
+    "gpt-4o",
+    "langchain",
+    "langgraph",
+    "research-project"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/kyaukyuai/gpt-all-star#readme",
+    "https://github.com/kyaukyuai/gpt-all-star/wiki",
+    "https://github.com/kyaukyuai/gpt-all-star/issues"
+  ],
+  "highlight": "Facilitates collaborative web application development by leveraging multiple autonomous AI agents for comprehensive code generation."
+}

@@ -1,0 +1,42 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide an intelligent database solution that enhances data retrieval and query capabilities using AI-driven methods.",
+  "principle": "Employs retrieval-augmented generation and semantic search techniques to enhance traditional database query systems.",
+  "reusability": "Designed to be integrated with existing systems via APIs, supports modular extensions for custom use cases.",
+  "limitations": "Currently in alpha stage, may have limited support for complex queries and scalability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "LangChain"
+  ],
+  "name": "fluid-db",
+  "slug": "themind-ai-fluid-db",
+  "description": "Fluid Database",
+  "repository": "https://github.com/TheMind-AI/fluid-db",
+  "stars": 114,
+  "originator": "TheMind-AI",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "database",
+    "fluid-database",
+    "retrieval-augmented-generation",
+    "semantic-search"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-09-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/TheMind-AI/fluid-db#readme",
+    "https://github.com/TheMind-AI/fluid-db/wiki",
+    "https://github.com/TheMind-AI/fluid-db/issues"
+  ],
+  "highlight": "Fluid Database leverages retrieval-augmented generation and semantic search for advanced data retrieval capabilities."
+}

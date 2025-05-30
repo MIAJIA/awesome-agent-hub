@@ -1,0 +1,39 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Facilitates research and experimentation on social dilemmas using multi-agent reinforcement learning environments.",
+  "principle": "Implements grid-world environments where agents interact and face social dilemmas, using reinforcement learning algorithms.",
+  "reusability": "Designed to be easily extended or modified for different social dilemma scenarios, with modular environment components.",
+  "limitations": "Primarily focused on specific social dilemma scenarios, may require adaptation for other types of multi-agent environments.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI Gym",
+    "NumPy"
+  ],
+  "name": "sequential_social_dilemma_games",
+  "slug": "eugenevinitsky-sequential-social-dilemma-games",
+  "description": "Repo for reproduction of sequential social dilemmas",
+  "repository": "https://github.com/eugenevinitsky/sequential_social_dilemma_games",
+  "stars": 402,
+  "originator": "eugenevinitsky",
+  "tags": [
+    "multi-agent",
+    "reinforcement learning",
+    "social dilemmas",
+    "AI research"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-06",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/eugenevinitsky/sequential_social_dilemma_games/blob/master/README.md",
+    "https://github.com/eugenevinitsky/sequential_social_dilemma_games/tree/master/docs"
+  ],
+  "highlight": "Reproduces sequential social dilemmas for multi-agent reinforcement learning research."
+}

@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable rapid and intelligent decision-making by processing and integrating multi-modal data efficiently.",
+  "principle": "Leverages a combination of AI models and algorithms to process diverse data types and deliver quick, intelligent insights.",
+  "reusability": "Offers a modular architecture with API endpoints for easy integration into existing systems, supports various data formats.",
+  "limitations": "Currently in alpha stage; may have limited support for certain data types and lacks comprehensive documentation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "PyTorch",
+    "NumPy"
+  ],
+  "name": "semantic-router",
+  "slug": "aurelio-labs-semantic-router",
+  "description": "Superfast AI decision making and intelligent processing of multi-modal data.",
+  "repository": "https://github.com/aurelio-labs/semantic-router",
+  "stars": 2611,
+  "originator": "aurelio-labs",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "chatbot",
+    "computer-vision",
+    "generative-ai",
+    "machine-learning",
+    "nlp"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-09",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/aurelio-labs/semantic-router/blob/main/README.md",
+    "https://github.com/aurelio-labs/semantic-router/wiki"
+  ],
+  "highlight": "Superfast decision-making for complex multi-modal data processing"
+}

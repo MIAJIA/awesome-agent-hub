@@ -1,0 +1,43 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Provides a headless browser optimized for AI-driven automation and interaction with web content.",
+  "principle": "Built on the Zig programming language, leveraging automation frameworks like Playwright and Puppeteer for browser control.",
+  "reusability": "Offers a programmable API for browser automation tasks, compatible with existing automation workflows.",
+  "limitations": "Limited to environments supporting Zig, potential compatibility issues with non-standard web technologies.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Zig",
+    "Playwright",
+    "Puppeteer"
+  ],
+  "name": "browser",
+  "slug": "lightpanda-io-browser",
+  "description": "Lightpanda: the headless browser designed for AI and automation",
+  "repository": "https://github.com/lightpanda-io/browser",
+  "stars": 9016,
+  "originator": "lightpanda-io",
+  "tags": [
+    "browser",
+    "browser-automation",
+    "cdp",
+    "headless",
+    "playwright",
+    "puppeteer",
+    "zig"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-29",
+  "language": "Zig",
+  "useful_links": [
+    "https://github.com/lightpanda-io/browser#readme",
+    "https://github.com/lightpanda-io/browser/wiki",
+    "https://github.com/lightpanda-io/browser/issues"
+  ],
+  "highlight": "Designed specifically for AI and automation tasks with a focus on headless browsing."
+}

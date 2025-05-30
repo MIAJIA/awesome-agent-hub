@@ -1,0 +1,35 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates easy extraction of structured data from web pages.",
+  "principle": "Uses CSS selectors to define the structure of the data to be scraped, and returns the data in a structured format.",
+  "reusability": "Can be integrated into any Node.js application for web scraping tasks, supports custom data structures through configuration.",
+  "limitations": "Limited to static web pages; dynamic content rendered by JavaScript may require additional tools or techniques.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "Node.js",
+    "JavaScript"
+  ],
+  "name": "scrape-it",
+  "slug": "ionicabizau-scrape-it",
+  "description": "🔮 A Node.js scraper for humans.",
+  "repository": "https://github.com/IonicaBizau/scrape-it",
+  "stars": 4054,
+  "originator": "IonicaBizau",
+  "tags": [
+    "hacktoberfest",
+    "node-scraper",
+    "scraper"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-30",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/IonicaBizau/scrape-it#readme",
+    "https://www.npmjs.com/package/scrape-it"
+  ],
+  "highlight": "Simplifies web scraping in Node.js with a user-friendly API."
+}

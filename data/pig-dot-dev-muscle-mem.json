@@ -1,0 +1,32 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a caching mechanism for AI agents to store and replay learned behaviors, improving their learning process.",
+  "principle": "Utilizes a caching system to store sequences of actions or behaviors that AI agents can replay to enhance their learning and decision-making capabilities.",
+  "reusability": "Offers a modular design with APIs for easy integration into various AI systems, allowing agents to leverage cached behaviors.",
+  "limitations": "Primarily focused on specific AI agent use cases; may not be suitable for all types of AI models or environments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Redis"
+  ],
+  "name": "muscle-mem",
+  "slug": "pig-dot-dev-muscle-mem",
+  "description": "A cache for AI agents to learn and replay complex behaviors.",
+  "repository": "https://github.com/pig-dot-dev/muscle-mem",
+  "stars": 626,
+  "originator": "pig-dot-dev",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/pig-dot-dev/muscle-mem/blob/main/README.md",
+    "https://github.com/pig-dot-dev/muscle-mem/wiki"
+  ],
+  "highlight": "Enables AI agents to cache and replay complex behaviors, enhancing learning efficiency."
+}

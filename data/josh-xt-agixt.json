@@ -1,0 +1,50 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To automate and manage complex tasks by orchestrating AI instructions across diverse AI platforms.",
+  "principle": "Integrates with various AI providers using a plugin system to execute and manage AI tasks with adaptive memory and smart features.",
+  "reusability": "Offers a versatile plugin system for integrating with different AI providers, supports custom memory configurations, and provides APIs for task execution.",
+  "limitations": "Currently in alpha stage, may have stability issues and limited documentation for some plugins.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain",
+    "ChromaDB"
+  ],
+  "name": "AGiXT",
+  "slug": "josh-xt-agixt",
+  "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
+  "repository": "https://github.com/Josh-XT/AGiXT",
+  "stars": 3003,
+  "originator": "Josh-XT",
+  "tags": [
+    "agent-llm",
+    "agi",
+    "agixt",
+    "ai",
+    "artificial",
+    "automation",
+    "chromadb",
+    "intelligence",
+    "llama",
+    "llamacpp",
+    "llm",
+    "llmops",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Josh-XT/AGiXT#readme",
+    "https://github.com/Josh-XT/AGiXT/wiki",
+    "https://github.com/Josh-XT/AGiXT/issues"
+  ],
+  "highlight": "Dynamic orchestration of AI instruction management and task execution across multiple AI providers."
+}

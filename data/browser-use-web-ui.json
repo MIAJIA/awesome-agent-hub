@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable users to run AI agents within their web browsers, facilitating easy access and interaction.",
+  "principle": "Built on web technologies to allow AI agents to execute within browser environments, leveraging WebAssembly for performance.",
+  "reusability": "Designed to be easily integrated into web applications with support for browser-based execution.",
+  "limitations": "Limited by browser capabilities and performance compared to server-side execution.",
+  "platforms": [
+    "Web",
+    "Chrome",
+    "Firefox",
+    "Edge"
+  ],
+  "stack": [
+    "JavaScript",
+    "WebAssembly",
+    "Python"
+  ],
+  "name": "web-ui",
+  "slug": "browser-use-web-ui",
+  "description": "🖥️ Run AI Agent in your browser.",
+  "repository": "https://github.com/browser-use/web-ui",
+  "stars": 13327,
+  "originator": "browser-use",
+  "tags": [
+    "AI",
+    "browser",
+    "web",
+    "agent",
+    "WebAssembly"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/browser-use/web-ui#readme",
+    "https://github.com/browser-use/web-ui/wiki",
+    "https://github.com/browser-use/web-ui/issues"
+  ],
+  "highlight": "Run AI agents directly in the browser for seamless integration with web environments."
+}

@@ -1,0 +1,37 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates task-parallel programming with visualization and profiling capabilities",
+  "principle": "Builds on Go's concurrency model to create a framework for defining and executing tasks in parallel, with tools for visualizing task dependencies and profiling execution",
+  "reusability": "Designed as a Go library with APIs for task management and execution, allowing integration into Go applications",
+  "limitations": "Primarily focused on Go language, may not support complex workflows beyond task parallelism, limited documentation",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Go"
+  ],
+  "name": "go-taskflow",
+  "slug": "noneback-go-taskflow",
+  "description": "A pure go General-purpose Task-parallel Programming Framework with integrated visualizer and profiler",
+  "repository": "https://github.com/noneback/go-taskflow",
+  "stars": 544,
+  "originator": "noneback",
+  "tags": [
+    "task-parallel",
+    "visualization",
+    "profiling",
+    "Go"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-14",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/noneback/go-taskflow#readme",
+    "https://pkg.go.dev/github.com/noneback/go-taskflow"
+  ],
+  "highlight": "Integrated visualizer and profiler for task-parallel programming in Go"
+}

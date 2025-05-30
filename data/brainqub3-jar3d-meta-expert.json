@@ -1,0 +1,39 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitate and automate complex research tasks that require extended processing times.",
+  "principle": "Built using Python, leveraging asynchronous processing and advanced data handling techniques to manage long-running research tasks.",
+  "reusability": "Offers modular components and APIs for easy integration into existing research workflows, supports customization for specific research needs.",
+  "limitations": "Primarily focused on research tasks, may not be suitable for real-time applications or tasks requiring immediate responses.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Asyncio",
+    "NumPy",
+    "Pandas"
+  ],
+  "name": "jar3d_meta_expert",
+  "slug": "brainqub3-jar3d-meta-expert",
+  "description": "Versatile agents for long running, research intensive tasks.",
+  "repository": "https://github.com/brainqub3/jar3d_meta_expert",
+  "stars": 401,
+  "originator": "brainqub3",
+  "tags": [
+    "research",
+    "automation",
+    "long-running tasks"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-10-03",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/brainqub3/jar3d_meta_expert/wiki",
+    "https://github.com/brainqub3/jar3d_meta_expert/issues",
+    "https://github.com/brainqub3/jar3d_meta_expert/pulls"
+  ],
+  "highlight": "Highly adaptable for intensive research tasks, designed to handle long-running operations efficiently."
+}

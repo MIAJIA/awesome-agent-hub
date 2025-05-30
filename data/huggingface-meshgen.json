@@ -1,0 +1,38 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "Enhance 3D modeling workflows in Blender using AI-driven tools and agents.",
+  "principle": "Leverages AI models and agents to automate and assist in 3D content creation within Blender.",
+  "reusability": "Designed as a plugin for Blender, allowing easy integration into existing 3D modeling projects.",
+  "limitations": "Currently in alpha stage, may have limited functionality and stability issues; primarily supports Blender.",
+  "platforms": [
+    "Blender"
+  ],
+  "stack": [
+    "Python",
+    "Blender",
+    "Hugging Face Transformers"
+  ],
+  "name": "meshgen",
+  "slug": "huggingface-meshgen",
+  "description": "Use AI Agents directly in Blender.",
+  "repository": "https://github.com/huggingface/meshgen",
+  "stars": 610,
+  "originator": "huggingface",
+  "tags": [
+    "3D modeling",
+    "Blender",
+    "AI integration",
+    "Creative tools"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-14",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/huggingface/meshgen#readme",
+    "https://github.com/huggingface/meshgen/tree/main/examples",
+    "https://github.com/huggingface/meshgen/issues"
+  ],
+  "highlight": "Integrates AI Agents directly into Blender for enhanced 3D modeling capabilities."
+}

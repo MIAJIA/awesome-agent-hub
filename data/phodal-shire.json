@@ -1,0 +1,37 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enhance the development process by integrating AI agents to automate and optimize coding tasks",
+  "principle": "Builds on large language models (LLMs) to provide coding assistance and automation within the IntelliJ IDE",
+  "reusability": "Available as an IntelliJ plugin, can be extended with custom AI agents and workflows",
+  "limitations": "Primarily supports Kotlin and Java environments within IntelliJ, limited to features supported by the IDE",
+  "platforms": [
+    "IntelliJ IDEA"
+  ],
+  "stack": [
+    "Kotlin",
+    "IntelliJ Platform",
+    "LLMs"
+  ],
+  "name": "shire",
+  "slug": "phodal-shire",
+  "description": "Empower Your Dev Ecosystem with AI Agents, Automate with Your AI Copilot, Elevate Your Code.",
+  "repository": "https://github.com/phodal/shire",
+  "stars": 252,
+  "originator": "phodal",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "intellij-plugin",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "MPL-2.0",
+  "last_updated": "2025-05-14",
+  "language": "Kotlin",
+  "useful_links": [
+    "https://github.com/phodal/shire#readme",
+    "https://github.com/phodal/shire/wiki"
+  ],
+  "highlight": "IntelliJ plugin for integrating AI agents into the development workflow"
+}

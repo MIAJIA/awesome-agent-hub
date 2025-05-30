@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a platform for developing and managing AI agents that improve enterprise workflows, facilitate language learning, and enable multimodal interactions.",
+  "principle": "Integrates multiple AI agents under a unified framework to streamline various tasks using AI technologies.",
+  "reusability": "Modular architecture allows for easy integration and extension of new agents; supports API-based interaction.",
+  "limitations": "Currently in alpha stage, may have limited features and stability issues; specific agent capabilities may vary.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Shell",
+    "Python",
+    "Node.js",
+    "Docker"
+  ],
+  "name": "agent-hub",
+  "slug": "djangopeng-agent-hub",
+  "description": "This repository is a hub for AI Agent projects, including GitHub Sentinel, LanguageMentor, and ChatPPT, designed to enhance enterprise workflows, language learning, and multimodal interaction. Explore a growing family of agents geared towards revolutionizing various industries with cutting-edge AI solutions.",
+  "repository": "https://github.com/DjangoPeng/agent-hub",
+  "stars": 231,
+  "originator": "DjangoPeng",
+  "tags": [
+    "AI",
+    "agents",
+    "workflow",
+    "language-learning",
+    "multimodal"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-11-03",
+  "language": "Shell",
+  "useful_links": [
+    "https://github.com/DjangoPeng/agent-hub#readme",
+    "https://github.com/DjangoPeng/agent-hub/tree/main/docs"
+  ],
+  "highlight": "A centralized hub for diverse AI agents enhancing workflows, language learning, and multimodal interaction."
+}

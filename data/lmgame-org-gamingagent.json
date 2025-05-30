@@ -1,0 +1,36 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Enhance computer gaming experiences by providing intelligent agents that simulate realistic NPC behavior and adapt to player actions.",
+  "principle": "Utilizes AI/ML algorithms to analyze player behavior and dynamically adjust game mechanics and NPC interactions for a more engaging experience.",
+  "reusability": "Designed as a modular library that can be integrated into existing game engines with a simple API for custom NPC behavior and game logic.",
+  "limitations": "Currently optimized for PC and laptop platforms, with limited support for mobile or console gaming environments.",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "OpenAI Gym"
+  ],
+  "name": "GamingAgent",
+  "slug": "lmgame-org-gamingagent",
+  "description": "Computer gaming agents that run on your PC and laptops.",
+  "repository": "https://github.com/lmgame-org/GamingAgent",
+  "stars": 604,
+  "originator": "lmgame-org",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/lmgame-org/GamingAgent/blob/main/README.md",
+    "https://github.com/lmgame-org/GamingAgent/wiki",
+    "https://github.com/lmgame-org/GamingAgent/tree/main/examples"
+  ],
+  "highlight": "Integrates advanced AI techniques to enhance gaming experiences with intelligent NPC behavior and dynamic game scenarios."
+}

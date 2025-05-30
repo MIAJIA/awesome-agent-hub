@@ -1,0 +1,36 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To serve as a testbed for evaluating and comparing the performance of AI algorithms in a controlled environment.",
+  "principle": "Emulates Atari 2600 games to provide a consistent and challenging environment for AI research, leveraging reinforcement learning techniques.",
+  "reusability": "Can be integrated into various AI research projects as a benchmark suite, supports multiple AI frameworks through API interfaces.",
+  "limitations": "Limited to Atari 2600 games, which may not represent all real-world challenges; requires significant computational resources for training complex models.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "C++",
+    "Python",
+    "SDL2",
+    "ZLib"
+  ],
+  "name": "Arcade-Learning-Environment",
+  "slug": "farama-foundation-arcade-learning-environment",
+  "description": "The Arcade Learning Environment (ALE) -- a platform for AI research.",
+  "repository": "https://github.com/Farama-Foundation/Arcade-Learning-Environment",
+  "stars": 2288,
+  "originator": "Farama-Foundation",
+  "tags": [],
+  "open_source": true,
+  "license": "GPL-2.0",
+  "last_updated": "2025-05-28",
+  "language": "C++",
+  "useful_links": [
+    "https://github.com/Farama-Foundation/Arcade-Learning-Environment/blob/main/README.md",
+    "https://github.com/Farama-Foundation/Arcade-Learning-Environment/wiki",
+    "https://github.com/Farama-Foundation/Arcade-Learning-Environment/blob/main/docs/index.rst"
+  ],
+  "highlight": "Provides a comprehensive platform for benchmarking AI algorithms using classic Atari 2600 games."
+}

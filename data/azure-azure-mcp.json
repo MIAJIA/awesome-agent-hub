@@ -1,0 +1,35 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enhance agent capabilities by integrating with Azure services, offering a scalable and robust backend for agent management and orchestration.",
+  "principle": "Built on top of Azure infrastructure, leveraging Azure services for cloud-based management, scalability, and integration with various Azure APIs.",
+  "reusability": "Designed for integration with Azure services, offering APIs and extensibility for custom agent management solutions.",
+  "limitations": "Currently in alpha, with limited feature set and potential stability issues. Primarily tailored for Azure environments.",
+  "platforms": [
+    "Azure",
+    "Windows",
+    "Linux"
+  ],
+  "stack": [
+    "C#",
+    ".NET",
+    "Azure",
+    "Azure Functions",
+    "Azure Service Bus"
+  ],
+  "name": "azure-mcp",
+  "slug": "azure-azure-mcp",
+  "description": "The Azure MCP Server, bringing the power of Azure to your agents.",
+  "repository": "https://github.com/Azure/azure-mcp",
+  "stars": 646,
+  "originator": "Azure",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/Azure/azure-mcp/wiki",
+    "https://github.com/Azure/azure-mcp/blob/main/README.md"
+  ]
+}

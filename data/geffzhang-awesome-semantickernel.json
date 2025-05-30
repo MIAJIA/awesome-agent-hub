@@ -1,0 +1,30 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a curated collection of resources, tools, and projects that leverage the Semantic Kernel framework.",
+  "principle": "Organizes and categorizes various Semantic Kernel tools and projects to facilitate discovery and utilization.",
+  "reusability": "Serves as a reference for developers looking to explore or contribute to Semantic Kernel-based projects.",
+  "limitations": "Dependent on community contributions for updates; may not cover all existing Semantic Kernel resources.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub"
+  ],
+  "name": "awesome-semantickernel",
+  "slug": "geffzhang-awesome-semantickernel",
+  "description": "Awesome list of tools and projects with the awesome semantic kernel framework",
+  "repository": "https://github.com/geffzhang/awesome-semantickernel",
+  "stars": 335,
+  "originator": "geffzhang",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-18",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/geffzhang/awesome-semantickernel#readme"
+  ],
+  "highlight": "Comprehensive list of tools and projects utilizing the Semantic Kernel framework."
+}

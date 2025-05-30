@@ -1,0 +1,42 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Assist developers in planning, building, and fixing code using AI capabilities",
+  "principle": "Leverages AI models and integrations to provide intelligent coding assistance and error resolution",
+  "reusability": "Offers a VSCode extension and APIs for integration into development workflows",
+  "limitations": "Currently in alpha stage with potential stability issues; limited to specific IDE support",
+  "platforms": [
+    "VSCode",
+    "Cross-platform (Windows, macOS, Linux)"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "VSCode Extension"
+  ],
+  "name": "kilocode",
+  "slug": "kilo-org-kilocode",
+  "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
+  "repository": "https://github.com/Kilo-Org/kilocode",
+  "stars": 570,
+  "originator": "Kilo-Org",
+  "tags": [
+    "ai-coding",
+    "ai-developer-tools",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "sonnet",
+    "vscode",
+    "vscode-extension"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Kilo-Org/kilocode#readme",
+    "https://kilocode.ai/social"
+  ],
+  "highlight": "Superset of Roo and Cline with unique AI coding assistant features"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Collect and showcase various Minecraft Proxy (MCP) clients for customization and enhancement of Minecraft gameplay.",
+  "principle": "Aggregates links and information about different MCP clients, serving as a reference point for Minecraft enthusiasts.",
+  "reusability": "Serves as a curated list, allowing users to explore different MCP clients; can be used as a reference or starting point for further customization.",
+  "limitations": "Primarily a collection of links without direct integrations or functionality; relies on external sources for client functionality.",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "stack": [],
+  "name": "awesome-mcp-clients",
+  "slug": "punkpeye-awesome-mcp-clients",
+  "description": "A collection of MCP clients.",
+  "repository": "https://github.com/punkpeye/awesome-mcp-clients",
+  "stars": 3428,
+  "originator": "punkpeye",
+  "tags": [
+    "clients",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-14",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/punkpeye/awesome-mcp-clients#readme"
+  ],
+  "highlight": "Comprehensive collection of Minecraft Proxy clients for enhancing and customizing Minecraft gameplay."
+}

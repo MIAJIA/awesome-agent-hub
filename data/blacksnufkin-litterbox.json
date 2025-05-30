@@ -1,0 +1,40 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provides a secure environment for malware developers and red teamers to test payloads against detection mechanisms.",
+  "principle": "Utilizes a secure sandboxing approach combined with LLM integration via MCP to analyze malware behavior and detection evasion.",
+  "reusability": "Offers integration with LLM agents through MCP, allowing for extensible analysis capabilities and customizable testing scenarios.",
+  "limitations": "Primarily focused on malware testing; may not cover all detection mechanisms or provide comprehensive security coverage.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "YARA",
+    "Docker"
+  ],
+  "name": "LitterBox",
+  "slug": "blacksnufkin-litterbox",
+  "description": "A secure sandbox environment for malware developers and red teamers to test payloads against detection mechanisms before deployment. Integrates with LLM agents via MCP for enhanced analysis capabilities.",
+  "repository": "https://github.com/BlackSnufkin/LitterBox",
+  "stars": 883,
+  "originator": "BlackSnufkin",
+  "tags": [
+    "ai",
+    "malware-development",
+    "mcp",
+    "mcp-server",
+    "redteam",
+    "sandbox"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-22",
+  "language": "YARA",
+  "useful_links": [
+    "https://github.com/BlackSnufkin/LitterBox#readme",
+    "https://github.com/BlackSnufkin/LitterBox/wiki"
+  ],
+  "highlight": "Integrates with LLM agents via MCP for enhanced malware analysis capabilities in a secure sandbox environment."
+}

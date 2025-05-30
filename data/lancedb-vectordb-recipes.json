@@ -1,0 +1,52 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Provide high-quality resources and applications for utilizing large language models and vector databases effectively",
+  "principle": "Combines LLM capabilities with vector database technology to enhance information retrieval and application development",
+  "reusability": "Offers modular examples and recipes that can be adapted for various use cases involving LLMs and vector databases",
+  "limitations": "Primarily focused on educational and experimental use, may require customization for specific production environments",
+  "platforms": [
+    "Jupyter",
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "LangChain",
+    "LlamaIndex",
+    "OpenAI"
+  ],
+  "name": "vectordb-recipes",
+  "slug": "lancedb-vectordb-recipes",
+  "description": "High quality resources & applications for LLMs, multi-modal models and VectorDBs ",
+  "repository": "https://github.com/lancedb/vectordb-recipes",
+  "stars": 772,
+  "originator": "lancedb",
+  "tags": [
+    "agents",
+    "ai",
+    "deep-learning",
+    "embeddings",
+    "fine-tuning",
+    "gpt",
+    "gpt-4-vision",
+    "langchain",
+    "llama-index",
+    "llms",
+    "machine-learning",
+    "multimodal",
+    "openai",
+    "rag",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-15",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/lancedb/vectordb-recipes#readme",
+    "https://github.com/lancedb/vectordb-recipes/tree/main/examples"
+  ],
+  "highlight": "Comprehensive resource hub for leveraging LLMs and VectorDBs in diverse applications"
+}

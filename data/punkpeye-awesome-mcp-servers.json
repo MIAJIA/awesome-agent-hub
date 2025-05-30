@@ -1,0 +1,31 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Curate and provide a comprehensive list of Minecraft server projects and resources for developers and enthusiasts.",
+  "principle": "Aggregates various Minecraft server projects, tools, and resources into a single repository for easy access and exploration.",
+  "reusability": "Serves as a reference guide for Minecraft server projects, with links and descriptions to various projects and resources.",
+  "limitations": "Primarily a collection of links without direct integration or automation features; dependent on external projects' availability and documentation.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-mcp-servers",
+  "slug": "punkpeye-awesome-mcp-servers",
+  "description": "A collection of MCP servers.",
+  "repository": "https://github.com/punkpeye/awesome-mcp-servers",
+  "stars": 51892,
+  "originator": "punkpeye",
+  "tags": [
+    "ai",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/punkpeye/awesome-mcp-servers"
+  ]
+}

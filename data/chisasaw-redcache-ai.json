@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates memory management and retrieval for Large Language Models to improve their contextual understanding and response generation.",
+  "principle": "Builds on memory augmentation techniques to store and retrieve relevant information, enhancing the performance and contextual awareness of language models.",
+  "reusability": "Designed as a pluggable framework that can be integrated with various language models and agents, offering APIs for memory storage and retrieval.",
+  "limitations": "Currently in alpha stage, which may indicate limited features and potential stability issues. Primarily focused on Python environments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Redis",
+    "LangChain"
+  ],
+  "name": "redcache-ai",
+  "slug": "chisasaw-redcache-ai",
+  "description": "A memory framework for Large Language Models and Agents.",
+  "repository": "https://github.com/chisasaw/redcache-ai",
+  "stars": 179,
+  "originator": "chisasaw",
+  "tags": [
+    "llms",
+    "memory"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-12-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/chisasaw/redcache-ai#readme",
+    "https://github.com/chisasaw/redcache-ai/wiki"
+  ],
+  "highlight": "Provides a memory framework specifically designed for enhancing the capabilities of Large Language Models and Agents."
+}

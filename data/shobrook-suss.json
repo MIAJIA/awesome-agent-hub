@@ -1,0 +1,34 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To identify and highlight potential bugs in a codebase using AI techniques",
+  "principle": "Utilizes machine learning models trained on code patterns to detect anomalies and potential bugs",
+  "reusability": "Can be integrated into development workflows with API support, customizable for different codebases",
+  "limitations": "Currently in alpha stage, may not cover all programming languages or complex code structures",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "Flask"
+  ],
+  "name": "suss",
+  "slug": "shobrook-suss",
+  "description": "AI-powered bug finder that knows your codebase",
+  "repository": "https://github.com/shobrook/suss",
+  "stars": 121,
+  "originator": "shobrook",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-01",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/shobrook/suss#readme",
+    "https://github.com/shobrook/suss/issues",
+    "https://github.com/shobrook/suss/wiki"
+  ],
+  "highlight": "AI-driven bug detection tailored to your specific codebase"
+}

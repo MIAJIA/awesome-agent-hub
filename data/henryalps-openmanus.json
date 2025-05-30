@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide an open-source alternative to the Manus AI agent, capable of autonomously executing complex tasks.",
+  "principle": "Built on Python, leveraging machine learning frameworks for task automation and decision-making processes.",
+  "reusability": "Designed as a modular framework allowing integration with various APIs and customization for specific task automation.",
+  "limitations": "In alpha stage, lacks comprehensive documentation, and may not fully replicate all features of the original Manus AI.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Flask"
+  ],
+  "name": "OpenManus",
+  "slug": "henryalps-openmanus",
+  "description": "OpenManus is an open-source initiative to replicate the capabilities of the Manus AI agent, a state-of-the-art general-purpose AI developed by Monica, which excels in autonomously executing complex tasks.",
+  "repository": "https://github.com/henryalps/OpenManus",
+  "stars": 604,
+  "originator": "henryalps",
+  "tags": [
+    "AI",
+    "automation",
+    "open-source"
+  ],
+  "open_source": true,
+  "license": "Unlicense",
+  "last_updated": "2025-03-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/henryalps/OpenManus/blob/main/README.md",
+    "https://github.com/henryalps/OpenManus/wiki",
+    "https://github.com/henryalps/OpenManus/issues"
+  ],
+  "highlight": "OpenManus aims to replicate the advanced capabilities of the proprietary Manus AI agent in an open-source format."
+}

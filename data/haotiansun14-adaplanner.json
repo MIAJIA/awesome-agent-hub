@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enhance decision-making processes by leveraging language models to adapt plans based on feedback",
+  "principle": "Utilizes language models to generate and adapt plans dynamically based on feedback, improving decision-making capabilities",
+  "reusability": "Designed as a modular framework that can be integrated into various decision-making systems, with potential API support for customization",
+  "limitations": "Primarily experimental, may require substantial domain-specific tuning and lacks real-time feedback integration",
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Transformers"
+  ],
+  "name": "AdaPlanner",
+  "slug": "haotiansun14-adaplanner",
+  "description": " AdaPlanner: Language Models for Decision Making via Adaptive Planning from Feedback",
+  "repository": "https://github.com/haotiansun14/AdaPlanner",
+  "stars": 108,
+  "originator": "haotiansun14",
+  "tags": [
+    "adaptive planning",
+    "language models",
+    "decision making",
+    "feedback"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-31",
+  "language": "HTML",
+  "useful_links": [
+    "https://github.com/haotiansun14/AdaPlanner/blob/main/README.md",
+    "https://github.com/haotiansun14/AdaPlanner/wiki"
+  ],
+  "highlight": "Adaptive planning for decision making using feedback-driven language models"
+}

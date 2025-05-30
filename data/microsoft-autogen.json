@@ -1,0 +1,46 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for developing and orchestrating multi-agent systems for complex AI tasks.",
+  "principle": "Builds on agentic AI principles, enabling agents to collaborate and communicate effectively using a modular architecture.",
+  "reusability": "Offers a modular framework with plug-and-play components, extensive API support, and integration capabilities with other AI systems.",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and stability, limited to Python ecosystem.",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Azure"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI"
+  ],
+  "name": "autogen",
+  "slug": "microsoft-autogen",
+  "description": "A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour",
+  "repository": "https://github.com/microsoft/autogen",
+  "stars": 45221,
+  "originator": "microsoft",
+  "tags": [
+    "agentic",
+    "agentic-agi",
+    "agents",
+    "ai",
+    "autogen",
+    "autogen-ecosystem",
+    "chatgpt",
+    "framework",
+    "llm-agent",
+    "llm-framework"
+  ],
+  "open_source": true,
+  "license": "CC-BY-4.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/autogen",
+    "https://aka.ms/autogen-discord",
+    "https://aka.ms/autogen-officehour"
+  ],
+  "highlight": "A comprehensive framework for building agentic AI systems with a focus on agent collaboration and orchestration."
+}

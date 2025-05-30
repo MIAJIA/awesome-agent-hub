@@ -1,0 +1,58 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To manage and orchestrate multiple AI agents for handling complex conversational tasks",
+  "principle": "Builds on a modular architecture using Python, enabling the integration of various AI models and APIs like OpenAI and Anthropic for conversational AI",
+  "reusability": "Provides a flexible API for integrating different AI agents and models, supports serverless deployment on AWS",
+  "limitations": "Being in alpha, it may have stability issues and limited documentation; requires understanding of AWS services for deployment",
+  "platforms": [
+    "AWS",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "AWS Lambda",
+    "AWS CDK",
+    "OpenAI",
+    "Anthropic Claude",
+    "Serverless"
+  ],
+  "name": "agent-squad",
+  "slug": "awslabs-agent-squad",
+  "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+  "repository": "https://github.com/awslabs/agent-squad",
+  "stars": 5912,
+  "originator": "awslabs",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "ai-agents-framework",
+    "anthropic",
+    "anthropic-claude",
+    "aws",
+    "aws-bedrock",
+    "aws-cdk",
+    "aws-lambda",
+    "chatbot",
+    "framework",
+    "generative-ai",
+    "machine-learning",
+    "openai",
+    "openaiapi",
+    "orchestrator",
+    "python",
+    "serverless",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/awslabs/agent-squad/blob/main/README.md",
+    "https://github.com/awslabs/agent-squad/wiki",
+    "https://github.com/awslabs/agent-squad/examples"
+  ],
+  "highlight": "Comprehensive framework for orchestrating multiple AI agents to handle complex conversations with flexibility and scalability"
+}

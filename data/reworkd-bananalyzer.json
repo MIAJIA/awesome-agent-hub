@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To evaluate AI agents' performance on web tasks by providing a structured framework and tools for analysis.",
+  "principle": "Leverages Python for scripting and automation, using web scraping and task simulation to assess agent capabilities.",
+  "reusability": "Offers a modular framework with customizable evaluation metrics and easy integration with different AI agents.",
+  "limitations": "Currently in alpha stage, may have limited support for diverse web tasks and agent types.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "BeautifulSoup",
+    "Selenium"
+  ],
+  "name": "bananalyzer",
+  "slug": "reworkd-bananalyzer",
+  "description": "Open source AI Agent evaluation framework for web tasks 🐒🍌",
+  "repository": "https://github.com/reworkd/bananalyzer",
+  "stars": 295,
+  "originator": "reworkd",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-01",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/reworkd/bananalyzer#readme",
+    "https://github.com/reworkd/bananalyzer/wiki"
+  ],
+  "highlight": "Provides a comprehensive framework for evaluating AI agents on web tasks with detailed metrics."
+}

@@ -1,0 +1,38 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Explore and develop AI use cases specifically tailored for the telecommunications industry, including experiments in network optimization and customer experience enhancement.",
+  "principle": "Utilizes machine learning models and data analysis techniques to address various telecommunications challenges, leveraging Jupyter Notebooks for experimentation and prototyping.",
+  "reusability": "Designed as an experimental platform, it allows for the integration of new AI models and datasets specific to telecom applications. The use of Jupyter Notebooks facilitates easy modification and extension.",
+  "limitations": "As an experimental project, it may lack comprehensive documentation and stability, and is primarily intended for research and development rather than production use.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "scikit-learn",
+    "pandas"
+  ],
+  "name": "Telco-AIX",
+  "slug": "open-experiments-telco-aix",
+  "description": "Various Telco AI Usecases & Experiments",
+  "repository": "https://github.com/open-experiments/Telco-AIX",
+  "stars": 142,
+  "originator": "open-experiments",
+  "tags": [
+    "telecommunications",
+    "AI",
+    "machine learning",
+    "experimentation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-10",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/open-experiments/Telco-AIX/blob/main/README.md",
+    "https://github.com/open-experiments/Telco-AIX/wiki"
+  ]
+}

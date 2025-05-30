@@ -1,0 +1,52 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate the development and deployment of geo-distributed edge AI applications with stateful serverless architecture.",
+  "principle": "Leverages QUIC protocol for low-latency communication and WebAssembly for cross-platform execution, enabling function calls across distributed systems.",
+  "reusability": "Designed to be platform-agnostic with support for various edge computing environments; offers APIs for integration with different models and systems.",
+  "limitations": "Currently in alpha stage, which may imply limited stability and feature set; specific to edge computing scenarios.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "QUIC",
+    "WebAssembly",
+    "Serverless"
+  ],
+  "name": "yomo",
+  "slug": "yomorun-yomo",
+  "description": "🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra. with function calling support, write once, run on any model.",
+  "repository": "https://github.com/yomorun/yomo",
+  "stars": 1759,
+  "originator": "yomorun",
+  "tags": [
+    "chatgpt",
+    "distributed-cloud",
+    "edge-computing",
+    "function-calling",
+    "gemini",
+    "geodistributedsystems",
+    "gpt-4o",
+    "low-latency",
+    "openai",
+    "quic",
+    "realtime",
+    "serverless",
+    "stateful-serverless",
+    "stream-processing",
+    "webassembly",
+    "yomo"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/yomorun/yomo#readme",
+    "https://github.com/yomorun/yomo/tree/main/examples",
+    "https://github.com/yomorun/yomo/tree/main/docs"
+  ],
+  "highlight": "Stateful serverless framework optimized for low-latency, geo-distributed edge AI applications."
+}

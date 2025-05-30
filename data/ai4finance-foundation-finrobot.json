@@ -1,0 +1,44 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "Facilitates financial analysis and decision-making using AI and large language models.",
+  "principle": "Leverages large language models (LLMs) for processing financial data and generating insights.",
+  "reusability": "Designed as an open-source platform with modular components for easy integration and extension.",
+  "limitations": "Primarily focused on financial data; may require domain-specific customization for optimal performance.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "LangChain",
+    "Hugging Face Transformers"
+  ],
+  "name": "FinRobot",
+  "slug": "ai4finance-foundation-finrobot",
+  "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 ",
+  "repository": "https://github.com/AI4Finance-Foundation/FinRobot",
+  "stars": 3515,
+  "originator": "AI4Finance-Foundation",
+  "tags": [
+    "aiagent",
+    "chatgpt",
+    "finance",
+    "fingpt",
+    "large-language-models",
+    "multimodal-deep-learning",
+    "prompt-engineering",
+    "robo-advisor"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-11-17",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/AI4Finance-Foundation/FinRobot#readme",
+    "https://github.com/AI4Finance-Foundation/FinRobot/wiki",
+    "https://github.com/AI4Finance-Foundation/FinRobot/issues"
+  ],
+  "highlight": "Integrates large language models for advanced financial analysis and decision-making capabilities."
+}

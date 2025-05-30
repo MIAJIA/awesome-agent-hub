@@ -23,6 +23,7 @@ export default function Navigation() {
           </Link>
 
           {/* Desktop Navigation */}
+          {/*
           <div className="hidden md:flex items-center space-x-8">
             <Link href="/discover" className="text-gray-300 hover:text-white transition-colors">
               Discover
@@ -37,6 +38,7 @@ export default function Navigation() {
               Submit Agent
             </Button>
           </div>
+          */}
 
           {/* Mobile menu button */}
           <div className="md:hidden">
@@ -47,6 +49,7 @@ export default function Navigation() {
         </div>
 
         {/* Mobile Navigation */}
+        {/*
         {isMenuOpen && (
           <div className="md:hidden py-4 space-y-2">
             <Link href="/discover" className="block text-gray-300 hover:text-white py-2">
@@ -63,6 +66,7 @@ export default function Navigation() {
             </Button>
           </div>
         )}
+        */}
       </div>
     </nav>
   )

@@ -1,10 +1,11 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { ChevronLeft, ChevronRight, ShoppingCart, Gamepad2, FileText } from "lucide-react"
+import { ChevronLeft, ChevronRight, ShoppingCart, Gamepad2, FileText, Lightbulb, TrendingUp, Target, AlertTriangle } from "lucide-react"
 import AgentCard from "./agent-card"
 import AgentDetailModal from "./agent-detail-modal"
 import { Button } from "@/components/ui/button"
+import { Badge } from "@/components/ui/badge"
 
 type Agent = {
   name: string;
@@ -42,6 +43,10 @@ type Category = {
 export default function FeaturedAgents() {
   const [categories, setCategories] = useState<Category[]>([])
   const [selectedAgent, setSelectedAgent] = useState<Agent | null>(null)
+  const [expandedInsights, setExpandedInsights] = useState<Record<string, boolean>>({})
+  const [insightData, setInsightData] = useState<Record<string, any>>({})
+  const [insightLoading, setInsightLoading] = useState<Record<string, boolean>>({})
+  const [insightError, setInsightError] = useState<Record<string, string>>({})
 
   useEffect(() => {
     fetch('/api/agents')
@@ -90,6 +95,39 @@ export default function FeaturedAgents() {
     }
   }
 
+  const handleToggleInsight = async (categoryId: string) => {
+    setExpandedInsights(prev => ({ ...prev, [categoryId]: !prev[categoryId] }))
+    if (!insightData[categoryId] && !insightLoading[categoryId] && !insightError[categoryId]) {
+      setInsightLoading(prev => ({ ...prev, [categoryId]: true }))
+      setInsightError(prev => ({ ...prev, [categoryId]: '' }))
+      try {
+        const res = await fetch(`/api/insight/${categoryId}`)
+        if (!res.ok) throw new Error(await res.text())
+        const data = await res.json()
+        setInsightData(prev => ({ ...prev, [categoryId]: data }))
+      } catch (e: any) {
+        setInsightError(prev => ({ ...prev, [categoryId]: e.message || '加载失败' }))
+      } finally {
+        setInsightLoading(prev => ({ ...prev, [categoryId]: false }))
+      }
+    }
+  }
+
+  // mock insight 数据
+  const mockInsight = {
+    title: "行业洞见",
+    trends: [
+      { title: "趋势1", description: "AI agent 正在快速集成区块链与支付能力。" },
+      { title: "趋势2", description: "多智能体协作和自动化成为主流。" }
+    ],
+    innovations: [
+      { project: "AgentKit", innovation: "钱包集成", description: "为 AI agent 提供原生加密钱包能力。" },
+      { project: "X402", innovation: "支付协议创新", description: "基于 HTTP 402 的链上支付新范式。" }
+    ],
+    challenges: ["落地集成难度高", "区块链手续费与延迟"],
+    opportunities: ["AI 金融交易市场扩展", "agent 自主能力提升"]
+  }
+
   return (
     <section className="py-8 sm:py-16 px-4">
       <div className="max-w-7xl mx-auto">
@@ -105,6 +143,15 @@ export default function FeaturedAgents() {
                 <h3 className="text-xl sm:text-2xl font-semibold text-white flex items-center">
                   <span className="truncate">{category.name.toUpperCase()}</span>
                   <span className="ml-2 text-base text-gray-400 font-normal">({category.agents.length})</span>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    className="ml-4 flex items-center gap-1 text-yellow-400 border-yellow-400/40 hover:bg-yellow-400/10"
+                    onClick={() => handleToggleInsight(category.id)}
+                  >
+                    <Lightbulb className="w-4 h-4" />
+                    Insight
+                  </Button>
                 </h3>
                 <div className="flex space-x-1 sm:space-x-2">
                   <Button
@@ -125,6 +172,99 @@ export default function FeaturedAgents() {
                   </Button>
                 </div>
               </div>
+
+              {/* Insights Section */}
+              {expandedInsights[category.id] && (
+                <div className="mb-6 bg-gradient-to-br from-gray-800/30 to-gray-900/30 rounded-2xl border border-gray-700/50 backdrop-blur-sm overflow-hidden">
+                  <div className="p-4 sm:p-6">
+                    {/* loading/error/insight 渲染逻辑 */}
+                    {insightLoading[category.id] && (
+                      <div className="text-center text-gray-400 py-8">LLM 洞见生成中，请稍候…</div>
+                    )}
+                    {insightError[category.id] && (
+                      <div className="text-center text-red-400 py-8">{insightError[category.id]}</div>
+                    )}
+                    {insightData[category.id] && (
+                      <>
+                        <h4 className="text-lg sm:text-xl font-semibold text-white mb-4 flex items-center">
+                          <Lightbulb className="w-5 h-5 mr-2 text-yellow-400" />
+                          {insightData[category.id].title}
+                        </h4>
+                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                          {/* Trends */}
+                          <div>
+                            <h5 className="text-base sm:text-lg font-medium text-blue-400 mb-3 flex items-center">
+                              <TrendingUp className="w-4 h-4 mr-2" />
+                              Trending
+                            </h5>
+                            <div className="space-y-3">
+                              {insightData[category.id].trends?.map((trend: any, index: number) => (
+                                <div key={index} className="p-3 bg-blue-600/10 border border-blue-600/20 rounded-lg">
+                                  <h6 className="text-white font-medium text-sm mb-1">{trend.title}</h6>
+                                  <p className="text-gray-300 text-xs sm:text-sm leading-relaxed">{trend.description}</p>
+                                </div>
+                              ))}
+                            </div>
+                          </div>
+                          {/* Innovations */}
+                          <div>
+                            <h5 className="text-base sm:text-lg font-medium text-green-400 mb-3 flex items-center">
+                              <Target className="w-4 h-4 mr-2" />
+                              innovations
+                            </h5>
+                            <div className="space-y-3">
+                              {insightData[category.id].innovations?.map((innovation: any, index: number) => (
+                                <div key={index} className="p-3 bg-green-600/10 border border-green-600/20 rounded-lg">
+                                  <div className="flex items-center justify-between mb-1">
+                                    <h6 className="text-white font-medium text-sm">{innovation.project}</h6>
+                                    <Badge variant="outline" className="border-green-600/30 text-green-400 text-xs">
+                                      {innovation.innovation}
+                                    </Badge>
+                                  </div>
+                                  <p className="text-gray-300 text-xs sm:text-sm leading-relaxed">
+                                    {innovation.description}
+                                  </p>
+                                </div>
+                              ))}
+                            </div>
+                          </div>
+                        </div>
+                        {/* Challenges and Opportunities */}
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+                          <div>
+                            <h5 className="text-base sm:text-lg font-medium text-yellow-400 mb-3 flex items-center">
+                              <AlertTriangle className="w-4 h-4 mr-2" />
+                              挑战
+                            </h5>
+                            <ul className="space-y-2">
+                              {insightData[category.id].challenges?.map((challenge: string, index: number) => (
+                                <li key={index} className="flex items-start text-gray-300 text-xs sm:text-sm">
+                                  <span className="text-yellow-400 mr-2 mt-1">⚠️</span>
+                                  {challenge}
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+                          <div>
+                            <h5 className="text-base sm:text-lg font-medium text-purple-400 mb-3 flex items-center">
+                              <Target className="w-4 h-4 mr-2" />
+                              机会
+                            </h5>
+                            <ul className="space-y-2">
+                              {insightData[category.id].opportunities?.map((opportunity: string, index: number) => (
+                                <li key={index} className="flex items-start text-gray-300 text-xs sm:text-sm">
+                                  <span className="text-purple-400 mr-2 mt-1">🌱</span>
+                                  {opportunity}
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+                        </div>
+                      </>
+                    )}
+                  </div>
+                </div>
+              )}
 
               <div
                 id={`category-${category.id}`}

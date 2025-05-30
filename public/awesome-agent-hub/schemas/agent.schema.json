@@ -1,0 +1,149 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Agent Entry Schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "name",
+    "slug",
+    "description",
+    "repository",
+    "stars",
+    "category"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Human-readable name of the agent project"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "URL-safe identifier (e.g., kebab-case)"
+    },
+    "description": {
+      "type": "string",
+      "description": "Short summary of what the agent does"
+    },
+    "highlight": {
+      "type": "string",
+      "description": "Key standout feature, differentiator, or notable capability that makes this agent unique"
+    },
+    "purpose": {
+      "type": "string",
+      "description": "High-level purpose of this agent"
+    },
+    "repository": {
+      "type": "string",
+      "format": "uri",
+      "description": "GitHub repository URL"
+    },
+    "stars": {
+      "type": "integer",
+      "minimum": 50,
+      "description": "GitHub stars, minimum required for inclusion"
+    },
+    "category": {
+      "type": "string",
+      "description": "Primary category defining the agent's domain. Choose the most specific applicable category: commerce (e-commerce, shopping), payment (transactions, gateways), finance (analysis, trading), productivity (task mgmt, workflows), education (learning, tutoring), infra-tools (dev tools, APIs), meta-agents (orchestration), writing (content generation), research-and-analysis (data analysis, reports), lifestyle (personal, wellness), programming (code tools), art (creative tools), iot (hardware integration), data-visualization (charts, dashboards), social-media (platform automation), gaming (game dev, NPCs), workflow-automation (business processes), marketing (campaigns, SEO), communication (chat, collaboration), experimental (research-only projects)",
+      "enum": [
+        "commerce",
+        "payment",
+        "finance",
+        "productivity",
+        "education",
+        "infra-tools",
+        "meta-agents",
+        "writing",
+        "research-and-analysis",
+        "lifestyle",
+        "programming",
+        "art",
+        "iot",
+        "data-visualization",
+        "social-media",
+        "gaming",
+        "workflow-automation",
+        "marketing",
+        "communication",
+        "experimental"
+      ]
+    },
+    "originator": {
+      "type": "string",
+      "description": "Creator name or organization"
+    },
+    "principle": {
+      "type": "string",
+      "description": "How it works or what tech it builds on"
+    },
+    "stack": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": [],
+      "description": "User-defined labels"
+    },
+    "reusability": {
+      "type": "string",
+      "description": "Notes on composability, plug-and-play, API support etc."
+    },
+    "limitations": {
+      "type": "string",
+      "description": "Known issues, coverage limits, or usage scope"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "alpha",
+        "beta",
+        "production"
+      ],
+      "default": "experimental",
+      "description": "Conservative assumption"
+    },
+    "open_source": {
+      "type": "boolean",
+      "default": false,
+      "description": "Only true if LICENSE is clearly found or declared"
+    },
+    "license": {
+      "type": "string",
+      "description": "E.g., MIT, Apache-2.0"
+    },
+    "useful_links": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
+      "default": [],
+      "description": "Important links from repository including demos, documentation, tutorials, live applications, API docs, community resources, or other valuable references"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date",
+      "description": "e.g., \"2024-12-01\""
+    },
+    "language": {
+      "type": "string",
+      "description": "Main programming language"
+    },
+    "platforms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": [],
+      "description": "Supported runtime or OS"
+    }
+  }
+}

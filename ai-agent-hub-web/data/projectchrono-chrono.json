@@ -1,0 +1,48 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide high-performance simulation tools for engineering applications involving complex physical interactions",
+  "principle": "Employs advanced numerical methods and algorithms to simulate and analyze the dynamics of mechanical systems",
+  "reusability": "Modular architecture with APIs for integration into custom applications, supports extensions and plugins",
+  "limitations": "Requires C++ expertise for customization, limited to the simulation of mechanical systems",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "C++",
+    "OpenMP",
+    "CUDA",
+    "Eigen",
+    "Irrlicht"
+  ],
+  "name": "chrono",
+  "slug": "projectchrono-chrono",
+  "description": "High-performance C++ library for multiphysics and multibody dynamics simulations",
+  "repository": "https://github.com/projectchrono/chrono",
+  "stars": 2406,
+  "originator": "projectchrono",
+  "tags": [
+    "flexible-body",
+    "fluid-solid-interaction",
+    "granular-dynamics",
+    "modeling",
+    "multibody-dynamics",
+    "physics-engine",
+    "physics-simulation",
+    "robotics",
+    "simulation",
+    "vehicle-dynamics"
+  ],
+  "open_source": true,
+  "license": "BSD-3-Clause",
+  "last_updated": "2025-05-28",
+  "language": "C++",
+  "useful_links": [
+    "https://github.com/projectchrono/chrono/wiki",
+    "https://projectchrono.org/tutorials",
+    "https://projectchrono.org/documentation"
+  ],
+  "highlight": "Comprehensive simulation capabilities for multiphysics and multibody dynamics"
+}

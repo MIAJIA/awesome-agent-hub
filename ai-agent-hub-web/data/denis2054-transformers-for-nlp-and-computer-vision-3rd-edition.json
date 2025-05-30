@@ -1,0 +1,56 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide an integrated platform for leveraging Transformer models in natural language processing and computer vision applications",
+  "principle": "Utilizes various Transformer architectures such as BERT, GPT, and Vision Transformers to perform tasks like text generation, image classification, and more",
+  "reusability": "Offers modular Jupyter Notebooks and Python scripts that can be easily adapted for different Transformer models and tasks, with API support for model deployment",
+  "limitations": "Requires substantial computational resources for training large models, may have compatibility issues with older hardware",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "PyTorch",
+    "Transformers (Hugging Face)",
+    "OpenAI API"
+  ],
+  "name": "Transformers-for-NLP-and-Computer-Vision-3rd-Edition",
+  "slug": "denis2054-transformers-for-nlp-and-computer-vision-3rd-edition",
+  "description": "Transformers 3rd Edition",
+  "repository": "https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition",
+  "stars": 419,
+  "originator": "Denis2054",
+  "tags": [
+    "bert",
+    "clip",
+    "dalle-3",
+    "deepseek-r1",
+    "distilbert",
+    "gemini-api",
+    "generative-ai",
+    "gpt-4o-api",
+    "gpt-4o-mini",
+    "o3",
+    "retrieval-augmented-generation",
+    "roberta-model",
+    "stability-ai",
+    "t5",
+    "timesformer",
+    "trax",
+    "vertex-ai",
+    "vision-transformer",
+    "wandb"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-06",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition#readme",
+    "https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/tree/main/examples"
+  ],
+  "highlight": "Integrates state-of-the-art Transformer models for both NLP and Computer Vision tasks in a cohesive framework"
+}

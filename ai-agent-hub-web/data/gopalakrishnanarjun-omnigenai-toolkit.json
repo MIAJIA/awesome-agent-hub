@@ -1,0 +1,35 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates the development of generative AI models and applications by providing essential tools and utilities",
+  "principle": "Builds on popular AI frameworks and libraries to streamline the creation and deployment of generative models",
+  "reusability": "Modular design with reusable components and APIs for easy integration into various AI projects",
+  "limitations": "In alpha stage, may lack extensive documentation and community support; features are subject to change",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "name": "omnigenai_toolkit",
+  "slug": "gopalakrishnanarjun-omnigenai-toolkit",
+  "description": "A Python package for Generative AI applications",
+  "repository": "https://github.com/gopalakrishnanarjun/omnigenai_toolkit",
+  "stars": 135,
+  "originator": "gopalakrishnanarjun",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-15",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/gopalakrishnanarjun/omnigenai_toolkit#readme",
+    "https://github.com/gopalakrishnanarjun/omnigenai_toolkit/wiki",
+    "https://github.com/gopalakrishnanarjun/omnigenai_toolkit/issues"
+  ],
+  "highlight": "Comprehensive toolkit for building generative AI applications using Python"
+}

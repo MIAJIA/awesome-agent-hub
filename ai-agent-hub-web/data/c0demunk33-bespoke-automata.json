@@ -1,0 +1,42 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of AI agents locally without relying on cloud services",
+  "principle": "Utilizes a GUI-based pipeline to streamline the development and deployment of AI agents, enabling offline operation",
+  "reusability": "Offers a modular architecture with plugin support for extending functionality, making it adaptable for various AI agent use cases",
+  "limitations": "Limited to local deployment, may require significant local resources for complex AI models",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "JavaScript",
+    "Electron",
+    "Node.js"
+  ],
+  "name": "bespoke_automata",
+  "slug": "c0demunk33-bespoke-automata",
+  "description": "Bespoke Automata is a GUI and deployment pipline for making complex AI agents locally and offline",
+  "repository": "https://github.com/C0deMunk33/bespoke_automata",
+  "stars": 220,
+  "originator": "C0deMunk33",
+  "tags": [
+    "agents",
+    "ai",
+    "automation",
+    "chatbots",
+    "developer-tools",
+    "llm-inference"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2024-06-05",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/C0deMunk33/bespoke_automata/wiki",
+    "https://github.com/C0deMunk33/bespoke_automata/issues",
+    "https://github.com/C0deMunk33/bespoke_automata/releases"
+  ],
+  "highlight": "Provides a user-friendly GUI for creating and deploying complex AI agents offline"
+}

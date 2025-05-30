@@ -1,0 +1,32 @@
+{
+  "category": "lifestyle",
+  "status": "alpha",
+  "purpose": "Facilitate the creation, distribution, and management of podcast content",
+  "principle": "Utilizes Python for backend processing and management of podcast episodes, including metadata handling and distribution",
+  "reusability": "Modular design allows for easy integration with existing podcast platforms and can be extended with plugins",
+  "limitations": "Limited to basic podcast management features, lacks advanced analytics and monetization options",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "SQLite",
+    "RSS"
+  ],
+  "name": "Podcast",
+  "slug": "artnoage-podcast",
+  "description": "N/A",
+  "repository": "https://github.com/artnoage/Podcast",
+  "stars": 256,
+  "originator": "artnoage",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-10-14",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/artnoage/Podcast/blob/main/README.md"
+  ]
+}

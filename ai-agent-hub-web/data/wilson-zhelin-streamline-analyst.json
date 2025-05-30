@@ -1,0 +1,39 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To automate and enhance data analysis processes using AI and machine learning techniques.",
+  "principle": "Leverages large language models (LLMs) to process and analyze data, providing insights and automation for data-driven tasks.",
+  "reusability": "Designed for integration into existing data workflows, supports API-based interactions and customizable analysis pipelines.",
+  "limitations": "May require significant computational resources for large datasets; effectiveness is contingent on the quality of input data.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LLMs",
+    "Pandas",
+    "NumPy"
+  ],
+  "name": "Streamline-Analyst",
+  "slug": "wilson-zhelin-streamline-analyst",
+  "description": "An AI agent powered by LLMs that streamlines the entire process of data analysis. 🚀",
+  "repository": "https://github.com/Wilson-ZheLin/Streamline-Analyst",
+  "stars": 416,
+  "originator": "Wilson-ZheLin",
+  "tags": [
+    "agent",
+    "gpt-4",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-08-10",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Wilson-ZheLin/Streamline-Analyst/blob/main/README.md",
+    "https://github.com/Wilson-ZheLin/Streamline-Analyst/wiki",
+    "https://github.com/Wilson-ZheLin/Streamline-Analyst/issues"
+  ],
+  "highlight": "Streamlines the entire data analysis process using AI-driven insights and automation."
+}

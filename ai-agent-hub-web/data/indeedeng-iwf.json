@@ -1,0 +1,54 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To provide a microservice orchestration platform that simplifies building and managing complex workflows.",
+  "principle": "Leverages a Workflow-As-Code approach, utilizing Go for orchestration logic and Java/Python for integration, enabling durable timers and distributed transactions.",
+  "reusability": "Offers a coding framework and service with APIs for integration into existing systems, supporting multiple programming languages.",
+  "limitations": "Currently in alpha status, may lack full feature set and stability; primarily focused on long-running processes.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "Java",
+    "Python",
+    "Durable Timers",
+    "Distributed Transactions"
+  ],
+  "name": "iwf",
+  "slug": "indeedeng-iwf",
+  "description": "iWF is a Workflow-As-Code microservice orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes",
+  "repository": "https://github.com/indeedeng/iwf",
+  "stars": 569,
+  "originator": "indeedeng",
+  "tags": [
+    "distributed-process",
+    "distributed-system",
+    "distributed-transactions",
+    "durable-timer",
+    "golang",
+    "java",
+    "message-queue",
+    "microservice",
+    "orchestration",
+    "orchestrator",
+    "persistence",
+    "process",
+    "python",
+    "timer",
+    "workflow",
+    "workflow-as-code",
+    "workflow-engine"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/indeedeng/iwf#readme",
+    "https://github.com/indeedeng/iwf/wiki",
+    "https://github.com/indeedeng/iwf/tree/main/examples"
+  ],
+  "highlight": "Workflow-As-Code platform enabling resilient and scalable orchestration of long-running processes."
+}

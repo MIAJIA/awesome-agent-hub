@@ -1,0 +1,40 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To provide a platform for creating and deploying custom AI assistants that enhance productivity and streamline various workflows.",
+  "principle": "Built on a modular architecture with support for large language models, allowing users to create tailored AI solutions.",
+  "reusability": "Highly modular and customizable, with APIs for integration into existing systems and workflows.",
+  "limitations": "Currently in alpha stage, which may include limited features and potential stability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Rust",
+    "Node.js"
+  ],
+  "name": "dust",
+  "slug": "dust-tt-dust",
+  "description": "Custom AI assistant platform to speed up your work.",
+  "repository": "https://github.com/dust-tt/dust",
+  "stars": 1122,
+  "originator": "dust-tt",
+  "tags": [
+    "agents",
+    "large-language-models",
+    "llm",
+    "rust"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/dust-tt/dust/wiki",
+    "https://github.com/dust-tt/dust/issues",
+    "https://github.com/dust-tt/dust/releases",
+    "https://github.com/dust-tt/dust/discussions"
+  ],
+  "highlight": "Customizable AI assistant platform designed to enhance productivity and streamline workflows."
+}

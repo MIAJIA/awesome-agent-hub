@@ -1,0 +1,51 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Streamline the development of agent-based applications by handling low-level operations like tool calling, prompt routing, and input clarification.",
+  "principle": "Built on top of Envoy proxy server, leveraging its capabilities for routing and observability, while integrating with various LLMs and APIs.",
+  "reusability": "Offers a flexible architecture with APIs for easy integration into existing systems, enabling developers to plug-and-play with different models and tools.",
+  "limitations": "Primarily focused on AI-native applications, may require customization for specific use cases or non-standard integrations.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "Envoy",
+    "OpenAI API",
+    "LLM integrations"
+  ],
+  "name": "archgw",
+  "slug": "katanemo-archgw",
+  "description": "The AI-native proxy server for agents. Arch handles the pesky low-level work in building agentic apps like calling specific tools, routing prompts to the right agents, clarifying vague inputs, unifying access and observability to any LLM, etc.",
+  "repository": "https://github.com/katanemo/archgw",
+  "stars": 2639,
+  "originator": "katanemo",
+  "tags": [
+    "ai-gateway",
+    "envoy",
+    "envoyproxy",
+    "gateway",
+    "generative-ai",
+    "llm-gateway",
+    "llm-inference",
+    "llm-routing",
+    "llmops",
+    "llms",
+    "openai",
+    "prompt",
+    "proxy",
+    "proxy-server",
+    "routing"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/katanemo/archgw#readme",
+    "https://github.com/katanemo/archgw/wiki",
+    "https://github.com/katanemo/archgw/issues"
+  ],
+  "highlight": "Provides a unified interface for routing prompts and managing interactions with multiple LLMs and tools."
+}

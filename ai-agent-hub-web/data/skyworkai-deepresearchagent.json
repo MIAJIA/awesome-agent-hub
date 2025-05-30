@@ -1,0 +1,36 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitates automated research and data analysis through advanced machine learning techniques",
+  "principle": "Utilizes deep learning models and natural language processing to extract insights from large datasets",
+  "reusability": "Offers a modular architecture with easy integration via REST API, supports custom model deployment",
+  "limitations": "Limited to structured and semi-structured data, requires significant computational resources for large datasets",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "Hugging Face",
+    "Flask"
+  ],
+  "name": "DeepResearchAgent",
+  "slug": "skyworkai-deepresearchagent",
+  "description": "N/A",
+  "repository": "https://github.com/SkyworkAI/DeepResearchAgent",
+  "stars": 670,
+  "originator": "SkyworkAI",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Fluent",
+  "useful_links": [
+    "https://github.com/SkyworkAI/DeepResearchAgent/blob/main/README.md",
+    "https://github.com/SkyworkAI/DeepResearchAgent/wiki",
+    "https://github.com/SkyworkAI/DeepResearchAgent/issues"
+  ],
+  "highlight": "Integrates state-of-the-art NLP models for comprehensive data interpretation and research automation"
+}

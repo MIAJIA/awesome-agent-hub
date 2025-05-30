@@ -1,0 +1,40 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitates automation of desktop tasks through conversational AI.",
+  "principle": "Leverages OpenAI's language models to interpret and execute commands within a virtual desktop environment.",
+  "reusability": "Can be integrated with other virtual desktop environments through APIs, supports natural language command execution.",
+  "limitations": "Primarily operates within E2B's virtual desktop environment, may require specific configurations for optimal performance.",
+  "platforms": [
+    "E2B virtual desktop"
+  ],
+  "stack": [
+    "TypeScript",
+    "OpenAI API"
+  ],
+  "name": "surf",
+  "slug": "e2b-dev-surf",
+  "description": "Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions",
+  "repository": "https://github.com/e2b-dev/surf",
+  "stars": 412,
+  "originator": "e2b-dev",
+  "tags": [
+    "ai",
+    "automation",
+    "cua",
+    "desktop",
+    "e2b",
+    "openai",
+    "sandbox",
+    "virtual-desktop"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-23",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/e2b-dev/surf#readme",
+    "https://github.com/e2b-dev/surf/wiki"
+  ],
+  "highlight": "Enables natural language interaction with virtual desktop environments."
+}

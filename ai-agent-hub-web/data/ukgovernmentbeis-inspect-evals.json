@@ -1,0 +1,33 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Evaluate and benchmark the performance of Inspect AI models using a collection of standardized tests and metrics.",
+  "principle": "Utilizes a suite of predefined evaluation scripts and datasets to assess the accuracy and efficiency of AI models.",
+  "reusability": "Includes modular evaluation scripts that can be adapted for different AI models and datasets, supports integration with custom evaluation metrics.",
+  "limitations": "Primarily focused on specific AI models used by Inspect AI, may require customization for broader applicability.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "Pandas"
+  ],
+  "name": "inspect_evals",
+  "slug": "ukgovernmentbeis-inspect-evals",
+  "description": "Collection of evals for Inspect AI",
+  "repository": "https://github.com/UKGovernmentBEIS/inspect_evals",
+  "stars": 139,
+  "originator": "UKGovernmentBEIS",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/UKGovernmentBEIS/inspect_evals/blob/main/README.md",
+    "https://github.com/UKGovernmentBEIS/inspect_evals/tree/main/docs"
+  ]
+}

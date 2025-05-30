@@ -1,0 +1,44 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Enhance chatbot interactions by retrieving and generating responses based on contextual information from a collection of Markdown files.",
+  "principle": "Utilizes RAG (Retrieval-Augmented Generation) methodology with vector embeddings to fetch relevant data from documents and generate accurate responses.",
+  "reusability": "Offers a modular design with API support for easy integration into various applications, supports custom document collections for knowledge base creation.",
+  "limitations": "Primarily supports Markdown files as data sources, may require substantial computational resources for vector operations, limited language support.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "Streamlit",
+    "ChromaDB",
+    "LlamaCPP",
+    "LangChain"
+  ],
+  "name": "rag-chatbot",
+  "slug": "umbertogriffo-rag-chatbot",
+  "description": "RAG (Retrieval-augmented generation) ChatBot that provides answers based on contextual information extracted from a collection of Markdown files.",
+  "repository": "https://github.com/umbertogriffo/rag-chatbot",
+  "stars": 263,
+  "originator": "umbertogriffo",
+  "tags": [
+    "chatbot",
+    "chromadb",
+    "gpu",
+    "lamacpp",
+    "llama3",
+    "llm",
+    "rag",
+    "streamlit",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/umbertogriffo/rag-chatbot"
+  ],
+  "highlight": "Integrates retrieval-augmented generation with vector database to provide contextually relevant chatbot responses from Markdown files."
+}

@@ -1,0 +1,40 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Educate developers on integrating generative AI capabilities into .NET applications using Azure and Semantic Kernel",
+  "principle": "Leverages Azure AI services and Semantic Kernel to demonstrate generative AI concepts and their application in .NET",
+  "reusability": "Structured as a series of lessons that can be reused for educational purposes, includes code samples and Azure integration",
+  "limitations": "Requires Azure subscription for full functionality, primarily focused on educational use rather than production deployment",
+  "platforms": [
+    ".NET",
+    "Azure"
+  ],
+  "stack": [
+    "C#",
+    ".NET",
+    "Azure AI",
+    "Semantic Kernel"
+  ],
+  "name": "Generative-AI-for-beginners-dotnet",
+  "slug": "microsoft-generative-ai-for-beginners-dotnet",
+  "description": "Five lessons, learn how to really apply AI to your .NET Applications",
+  "repository": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet",
+  "stars": 1322,
+  "originator": "microsoft",
+  "tags": [
+    "ai",
+    "azure-ai",
+    "codespaces",
+    "github-models",
+    "semantic-kernel"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/blob/main/README.md",
+    "https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/Lessons"
+  ],
+  "highlight": "Comprehensive introduction to applying generative AI in .NET applications through practical lessons"
+}

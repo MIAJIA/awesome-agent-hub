@@ -1,0 +1,34 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "Enable automated trading on Polymarket by leveraging AI to make informed trading decisions",
+  "principle": "Utilizes AI algorithms to analyze market data and execute trades autonomously on the Polymarket platform",
+  "reusability": "Offers a modular architecture that allows integration with different trading strategies and market conditions via API",
+  "limitations": "Currently in alpha stage, limited to Polymarket platform, requires continuous monitoring and updates for optimal performance",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "FastAPI",
+    "Polymarket API"
+  ],
+  "name": "agents",
+  "slug": "polymarket-agents",
+  "description": "Trade autonomously on Polymarket using AI Agents",
+  "repository": "https://github.com/Polymarket/agents",
+  "stars": 381,
+  "originator": "Polymarket",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-05",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Polymarket/agents#readme",
+    "https://github.com/Polymarket/agents/wiki"
+  ],
+  "highlight": "Autonomous trading on Polymarket using AI-driven strategies"
+}

@@ -1,0 +1,37 @@
+{
+  "category": "iot",
+  "status": "alpha",
+  "purpose": "To extend the functionality of Xiaomi smart speakers by allowing them to recognize and respond to custom voice commands.",
+  "principle": "Builds on Rust to interface with Xiaomi smart speaker hardware, utilizing custom voice command recognition and processing.",
+  "reusability": "Designed as a standalone application that can be deployed on compatible devices to enhance Xiaomi smart speaker capabilities.",
+  "limitations": "Requires specific Xiaomi hardware; functionality may vary based on device firmware; primarily supports Mandarin language.",
+  "platforms": [
+    "Linux",
+    "Embedded systems"
+  ],
+  "stack": [
+    "Rust",
+    "Xiaomi API"
+  ],
+  "name": "open-xiaoai",
+  "slug": "idootop-open-xiaoai",
+  "description": "让小爱音箱「听见你的声音」，解锁无限可能。 ",
+  "repository": "https://github.com/idootop/open-xiaoai",
+  "stars": 299,
+  "originator": "idootop",
+  "tags": [
+    "Xiaomi",
+    "smart speaker",
+    "voice recognition",
+    "home automation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/idootop/open-xiaoai/blob/main/README.md",
+    "https://github.com/idootop/open-xiaoai/wiki"
+  ],
+  "highlight": "Enables Xiaomi smart speakers to recognize and respond to custom voice commands, expanding their functionality beyond default capabilities."
+}

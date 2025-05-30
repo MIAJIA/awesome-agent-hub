@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a centralized repository of resources for agentic AI research and development",
+  "principle": "Aggregates various resources related to agentic AI, including frameworks, libraries, and research papers",
+  "reusability": "Serves as a reference for researchers and developers to discover tools and frameworks for agentic AI",
+  "limitations": "Primarily a static resource list; does not offer direct functionality or integration capabilities",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub"
+  ],
+  "name": "awesome-ai-agents",
+  "slug": "slavakurilyak-awesome-ai-agents",
+  "description": "Awesome list of 300+ agentic AI resources",
+  "repository": "https://github.com/slavakurilyak/awesome-ai-agents",
+  "stars": 708,
+  "originator": "slavakurilyak",
+  "tags": [
+    "agent",
+    "agentic",
+    "agents"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-09",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/slavakurilyak/awesome-ai-agents#readme"
+  ],
+  "highlight": "Comprehensive curated list of 300+ agentic AI resources"
+}

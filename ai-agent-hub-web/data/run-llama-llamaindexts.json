@@ -1,0 +1,52 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a robust data framework for building server-side applications leveraging large language models (LLMs)",
+  "principle": "Built on TypeScript, it integrates with various LLMs and provides a structured approach for managing data flow and interactions",
+  "reusability": "Offers modular components and APIs for easy integration into existing applications, supports TypeScript and JavaScript environments",
+  "limitations": "Currently in alpha stage, may have incomplete features and potential stability issues",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "OpenAI",
+    "LlamaIndex"
+  ],
+  "name": "LlamaIndexTS",
+  "slug": "run-llama-llamaindexts",
+  "description": "Data framework for your LLM applications. Focus on server side solution",
+  "repository": "https://github.com/run-llama/LlamaIndexTS",
+  "stars": 2647,
+  "originator": "run-llama",
+  "tags": [
+    "agent",
+    "chatbot",
+    "claude-ai",
+    "create-llama",
+    "embedding",
+    "groq-ai",
+    "javascript",
+    "llama",
+    "llama-index",
+    "llama3",
+    "llamaindex",
+    "llm",
+    "node",
+    "nodejs",
+    "openai",
+    "react",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/run-llama/LlamaIndexTS#readme",
+    "https://github.com/run-llama/LlamaIndexTS/wiki",
+    "https://github.com/run-llama/LlamaIndexTS/issues"
+  ],
+  "highlight": "Server-side data framework optimized for LLM applications with TypeScript support"
+}

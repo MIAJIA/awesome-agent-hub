@@ -1,0 +1,36 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide educational resources and tools for learning about language models and graph-based methods",
+  "principle": "Utilizes Python and Jupyter Notebooks to demonstrate concepts related to language models and graph theory",
+  "reusability": "Can be used as a course material or a learning tool for individuals interested in language models and graph theory",
+  "limitations": "Primarily educational with limited practical applications outside of learning contexts",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "NetworkX"
+  ],
+  "name": "langgraph-course",
+  "slug": "emarco177-langgraph-course",
+  "description": "N/A",
+  "repository": "https://github.com/emarco177/langgraph-course",
+  "stars": 309,
+  "originator": "emarco177",
+  "tags": [
+    "education",
+    "language models",
+    "graph theory"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-04",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/emarco177/langgraph-course"
+  ]
+}

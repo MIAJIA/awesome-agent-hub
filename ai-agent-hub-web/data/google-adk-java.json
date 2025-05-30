@@ -1,0 +1,29 @@
+{
+  "category": "iot",
+  "status": "alpha",
+  "purpose": "Provide a Java library for interacting with Android devices using the Android Open Accessory Protocol",
+  "principle": "Implements the Android Open Accessory Protocol to facilitate communication between Android devices and external hardware accessories",
+  "reusability": "Can be used as a library in Java projects to enable accessory communication with Android devices",
+  "limitations": "Limited to Android devices that support the Open Accessory Protocol, requires compatible hardware accessories",
+  "platforms": [
+    "Android"
+  ],
+  "stack": [
+    "Java",
+    "Android Open Accessory Protocol"
+  ],
+  "name": "adk-java",
+  "slug": "google-adk-java",
+  "description": "N/A",
+  "repository": "https://github.com/google/adk-java",
+  "stars": 202,
+  "originator": "google",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/google/adk-java#readme"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To enhance DevOps and SRE workflows by automating alert handling and incident response.",
+  "principle": "Integrates with monitoring tools like Prometheus and uses AI to correlate alerts, automate investigations, and suggest resolutions.",
+  "reusability": "Offers APIs for integration with existing DevOps tools and platforms, supports custom alert configurations.",
+  "limitations": "Primarily designed for environments using Kubernetes and Prometheus; may require customization for other setups.",
+  "platforms": [
+    "Linux",
+    "Kubernetes"
+  ],
+  "stack": [
+    "Python",
+    "Kubernetes",
+    "Prometheus",
+    "Slack API",
+    "Jira API"
+  ],
+  "name": "holmesgpt",
+  "slug": "robusta-dev-holmesgpt",
+  "description": "Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations, Investigations, and More",
+  "repository": "https://github.com/robusta-dev/holmesgpt",
+  "stars": 911,
+  "originator": "robusta-dev",
+  "tags": [
+    "aiops",
+    "chatbot",
+    "chatops",
+    "devops",
+    "devops-tools",
+    "incident",
+    "incident-management",
+    "incident-response",
+    "jira",
+    "kubernetes",
+    "llm",
+    "llm-agent",
+    "llm-framework",
+    "llms",
+    "monitoring",
+    "observability",
+    "prometheus",
+    "site-reliability-engineering",
+    "slack",
+    "sre"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/robusta-dev/holmesgpt#readme",
+    "https://github.com/robusta-dev/holmesgpt/wiki",
+    "https://github.com/robusta-dev/holmesgpt/issues"
+  ],
+  "highlight": "Automates incident response by correlating alerts and performing investigations using AI."
+}

@@ -1,0 +1,48 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To convert complex codebases into accessible tutorials, enhancing learning and understanding of software projects.",
+  "principle": "Utilizes large language models to analyze code, extract insights, and generate structured educational content.",
+  "reusability": "Offers a modular framework that can be integrated into various educational platforms or used standalone to generate tutorials from code repositories.",
+  "limitations": "May struggle with very large or poorly documented codebases; effectiveness depends on the quality of the original code comments and structure.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "FastAPI"
+  ],
+  "name": "PocketFlow-Tutorial-Codebase-Knowledge",
+  "slug": "the-pocket-pocketflow-tutorial-codebase-knowledge",
+  "description": "Pocket Flow: Codebase to Tutorial",
+  "repository": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+  "stars": 9108,
+  "originator": "The-Pocket",
+  "tags": [
+    "coding",
+    "large-language-model",
+    "large-language-models",
+    "llm",
+    "llm-agent",
+    "llm-agents",
+    "llm-application",
+    "llm-apps",
+    "llm-framework",
+    "llm-frameworks",
+    "llms",
+    "pocket-flow",
+    "pocketflow"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge#readme",
+    "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/wiki"
+  ],
+  "highlight": "Transforms codebases into educational tutorials using AI-driven analysis and content generation."
+}

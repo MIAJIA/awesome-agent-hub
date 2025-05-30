@@ -1,0 +1,38 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Integrate AI capabilities with LINE messaging platform for enhanced communication and interaction",
+  "principle": "Utilizes LINE Messaging API to facilitate communication between an AI agent and LINE Official Account users",
+  "reusability": "Offers a REST API for seamless integration with LINE Official Accounts, allowing for customizable interaction workflows",
+  "limitations": "Primarily designed for LINE platform, may require additional setup for non-LINE integrations",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "LINE Messaging API"
+  ],
+  "name": "line-bot-mcp-server",
+  "slug": "line-line-bot-mcp-server",
+  "description": "MCP server that integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.",
+  "repository": "https://github.com/line/line-bot-mcp-server",
+  "stars": 386,
+  "originator": "line",
+  "tags": [
+    "line",
+    "linebot",
+    "mcp",
+    "mcp-server"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/line/line-bot-mcp-server#readme",
+    "https://developers.line.biz/en/docs/messaging-api/"
+  ]
+}

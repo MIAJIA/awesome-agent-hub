@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development and orchestration of AGI systems using a flexible agent-based framework",
+  "principle": "Utilizes a modular architecture to allow for the integration and coordination of multiple AI agents",
+  "reusability": "Highly composable with modular components, offers APIs for custom agent integration and orchestration",
+  "limitations": "Alpha status indicates potential instability and limited documentation; may require significant setup and customization",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Docker"
+  ],
+  "name": "AgentForge",
+  "slug": "databassgit-agentforge",
+  "description": "Extensible AGI Framework",
+  "repository": "https://github.com/DataBassGit/AgentForge",
+  "stars": 649,
+  "originator": "DataBassGit",
+  "tags": [
+    "agent-based",
+    "agi",
+    "ai",
+    "artificial-intelligence",
+    "python"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/DataBassGit/AgentForge/wiki",
+    "https://github.com/DataBassGit/AgentForge/issues",
+    "https://github.com/DataBassGit/AgentForge/releases"
+  ],
+  "highlight": "Extensible framework for building advanced AGI systems with multi-agent coordination"
+}

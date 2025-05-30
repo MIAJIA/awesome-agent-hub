@@ -1,0 +1,49 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To streamline the integration and management of third-party APIs by providing a centralized control system.",
+  "principle": "Built with Go, it uses a combination of caching, rate limiting, and orchestration techniques to enhance API consumption and management.",
+  "reusability": "Offers a modular architecture with support for custom plugins and comprehensive API documentation for easy integration.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential stability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "Redis",
+    "Docker"
+  ],
+  "name": "lunar",
+  "slug": "thelunarcompany-lunar",
+  "description": "lunar.dev: Ground Control for 3rd Party APIs",
+  "repository": "https://github.com/TheLunarCompany/lunar",
+  "stars": 201,
+  "originator": "TheLunarCompany",
+  "tags": [
+    "api",
+    "api-consumer",
+    "api-consumption",
+    "api-proxy",
+    "caching",
+    "event-management",
+    "golang",
+    "orchestration",
+    "priority-queue",
+    "quota",
+    "rate-limit",
+    "resilience",
+    "throttling",
+    "visibility"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/TheLunarCompany/lunar#readme",
+    "https://github.com/TheLunarCompany/lunar/wiki",
+    "https://github.com/TheLunarCompany/lunar/issues"
+  ],
+  "highlight": "Provides a unified interface for managing and interacting with multiple third-party APIs efficiently."
+}

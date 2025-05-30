@@ -1,0 +1,48 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and management of composable workflows for CI/CD and AI agents.",
+  "principle": "Builds on containerization and GraphQL to create flexible, reusable workflows that can be easily composed and managed.",
+  "reusability": "Highly composable with support for containerized workflows and integration via GraphQL APIs.",
+  "limitations": "Currently in alpha stage, may have limited support for complex workflows and integrations.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "Docker",
+    "GraphQL"
+  ],
+  "name": "dagger",
+  "slug": "dagger-dagger",
+  "description": "An open-source runtime for composable workflows. Great for AI agents and CI/CD.",
+  "repository": "https://github.com/dagger/dagger",
+  "stars": 13750,
+  "originator": "dagger",
+  "tags": [
+    "agents",
+    "ai",
+    "caching",
+    "ci-cd",
+    "containers",
+    "continuous-deployment",
+    "continuous-integration",
+    "dag",
+    "dagger",
+    "devops",
+    "docker",
+    "graphql",
+    "workflows"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/dagger/dagger/blob/main/README.md",
+    "https://docs.dagger.io",
+    "https://github.com/dagger/dagger/tree/main/examples"
+  ],
+  "highlight": "Enables seamless integration of CI/CD workflows with advanced caching and containerization capabilities."
+}

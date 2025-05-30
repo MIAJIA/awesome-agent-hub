@@ -1,0 +1,30 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive list of open-source libraries and tools for deploying large language models (LLMs) in production environments",
+  "principle": "Aggregates and curates resources related to LLM deployment, including libraries, frameworks, and tools that facilitate production use cases",
+  "reusability": "Serves as a reference guide for developers looking to implement LLMs in production, offering a curated list of resources and tools",
+  "limitations": "Primarily a static resource list; does not include dynamic updates or direct integrations",
+  "platforms": [],
+  "stack": [],
+  "name": "awesome-production-llm",
+  "slug": "jihoo-kim-awesome-production-llm",
+  "description": "A curated list of awesome open-source libraries for production LLM",
+  "repository": "https://github.com/jihoo-kim/awesome-production-llm",
+  "stars": 483,
+  "originator": "jihoo-kim",
+  "tags": [
+    "LLM",
+    "production",
+    "open-source",
+    "libraries",
+    "tools"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-12-31",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/jihoo-kim/awesome-production-llm"
+  ]
+}

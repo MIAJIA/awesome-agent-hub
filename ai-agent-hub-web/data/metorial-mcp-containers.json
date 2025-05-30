@@ -1,0 +1,44 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the deployment and management of multiple MCP servers through containerization",
+  "principle": "Utilizes Docker to package MCP server instances into containers, ensuring consistent environments and easy scaling",
+  "reusability": "Offers Docker images and configuration templates for easy integration into existing infrastructure, supports customization for specific server needs",
+  "limitations": "May require additional configuration for complex network setups, performance may vary based on container orchestration platform",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Kubernetes"
+  ],
+  "stack": [
+    "TypeScript",
+    "Docker",
+    "Kubernetes"
+  ],
+  "name": "mcp-containers",
+  "slug": "metorial-mcp-containers",
+  "description": "Containerized versions of hundreds of MCP servers 📡 🧠",
+  "repository": "https://github.com/metorial/mcp-containers",
+  "stars": 836,
+  "originator": "metorial",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agentic-workflow",
+    "container",
+    "docker",
+    "mcp",
+    "modelcontextprotocol",
+    "security"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/metorial/mcp-containers/blob/main/README.md",
+    "https://github.com/metorial/mcp-containers/wiki",
+    "https://github.com/metorial/mcp-containers/issues"
+  ],
+  "highlight": "Provides containerized deployments for a wide array of MCP servers, simplifying setup and scalability"
+}

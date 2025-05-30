@@ -1,0 +1,57 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of AI models through a visual interface, making AI development accessible to non-programmers.",
+  "principle": "Utilizes visual scripting and node-based editor to allow users to construct AI models and workflows without writing code.",
+  "reusability": "Offers a modular design with a node-editor that supports plug-and-play components, enabling users to easily integrate and customize their AI workflows.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential instability. Limited to the capabilities provided by the visual scripting interface.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "LangChain",
+    "GPT-3",
+    "GPT-4o",
+    "pgvector"
+  ],
+  "name": "Magick",
+  "slug": "oneirocom-magick",
+  "description": "Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us!",
+  "repository": "https://github.com/Oneirocom/Magick",
+  "stars": 796,
+  "originator": "Oneirocom",
+  "tags": [
+    "agent",
+    "agi",
+    "ai",
+    "blueprints-visual-scripting",
+    "embeddings",
+    "fine-tuning",
+    "gemini",
+    "gpt-3",
+    "gpt-3-prompts",
+    "gpt-4o",
+    "langchain",
+    "large-language-models",
+    "no-code",
+    "node-editor",
+    "pgvector",
+    "prompt-engineering",
+    "text-generation",
+    "typescript",
+    "virtual-assistant",
+    "visual-scripting"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-03-18",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Oneirocom/Magick/blob/main/README.md",
+    "https://github.com/Oneirocom/Magick/wiki",
+    "https://github.com/Oneirocom/Magick/issues"
+  ],
+  "highlight": "Enables visual scripting for AI development with a no-code approach."
+}

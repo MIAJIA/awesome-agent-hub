@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enhance autonomous AI agents with advanced reasoning and learning capabilities",
+  "principle": "Leverages machine learning algorithms and reasoning frameworks to improve decision-making in AI agents",
+  "reusability": "Modular architecture allows integration into various AI agent frameworks, supports plugin-based extensions",
+  "limitations": "In alpha stage, may lack comprehensive documentation and stability; primarily experimental",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "NumPy",
+    "scikit-learn"
+  ],
+  "name": "agent-q",
+  "slug": "sentient-engineering-agent-q",
+  "description": "agent q - oss advanced reasoning and learning for autonomous ai agents",
+  "repository": "https://github.com/sentient-engineering/agent-q",
+  "stars": 459,
+  "originator": "sentient-engineering",
+  "tags": [
+    "AI",
+    "autonomous agents",
+    "machine learning",
+    "reasoning"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/sentient-engineering/agent-q#readme",
+    "https://github.com/sentient-engineering/agent-q/wiki"
+  ],
+  "highlight": "Advanced reasoning and learning capabilities for autonomous AI agents"
+}

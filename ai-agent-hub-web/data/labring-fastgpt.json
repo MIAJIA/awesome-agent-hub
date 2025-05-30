@@ -1,0 +1,46 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitate the development and deployment of knowledge-based question-answering systems using LLMs.",
+  "principle": "Built on LLMs with capabilities like data processing, RAG retrieval, and visual AI workflow orchestration for efficient information retrieval and processing.",
+  "reusability": "Offers plug-and-play components for data processing and retrieval, supports integration with various AI models and workflows.",
+  "limitations": "Alpha status indicates potential stability issues; primarily targets users familiar with LLMs and AI workflows.",
+  "platforms": [
+    "Docker",
+    "Vercel"
+  ],
+  "stack": [
+    "TypeScript",
+    "Next.js",
+    "OpenAI",
+    "RAG"
+  ],
+  "name": "FastGPT",
+  "slug": "labring-fastgpt",
+  "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+  "repository": "https://github.com/labring/FastGPT",
+  "stars": 24388,
+  "originator": "labring",
+  "tags": [
+    "agent",
+    "claude",
+    "deepseek",
+    "llm",
+    "mcp",
+    "nextjs",
+    "openai",
+    "qwen",
+    "rag",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/labring/FastGPT#readme",
+    "https://github.com/labring/FastGPT/wiki",
+    "https://github.com/labring/FastGPT/issues"
+  ],
+  "highlight": "Comprehensive suite for developing and deploying complex question-answering systems with visual AI workflow orchestration."
+}

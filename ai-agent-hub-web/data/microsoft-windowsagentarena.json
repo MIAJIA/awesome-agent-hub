@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a scalable environment for testing and benchmarking AI agents on Windows operating systems",
+  "principle": "Utilizes Windows-specific capabilities to simulate real-world environments for multi-modal AI agents",
+  "reusability": "Offers a modular setup with API support for integrating custom AI agents; designed to be extensible for various testing scenarios",
+  "limitations": "Currently in alpha stage; primarily focused on Windows OS, which may limit cross-platform testing capabilities",
+  "platforms": [
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "Windows OS",
+    "Azure"
+  ],
+  "name": "WindowsAgentArena",
+  "slug": "microsoft-windowsagentarena",
+  "description": "Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.",
+  "repository": "https://github.com/microsoft/WindowsAgentArena",
+  "stars": 701,
+  "originator": "microsoft",
+  "tags": [
+    "agentic",
+    "ai",
+    "ai-agent",
+    "ai-benchmark",
+    "ai-research",
+    "computer",
+    "computer-use",
+    "desktop-agent",
+    "windows"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-30",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/WindowsAgentArena/blob/main/README.md",
+    "https://github.com/microsoft/WindowsAgentArena/wiki",
+    "https://github.com/microsoft/WindowsAgentArena/issues"
+  ],
+  "highlight": "Scalable OS platform for testing and benchmarking multi-modal AI agents on Windows"
+}

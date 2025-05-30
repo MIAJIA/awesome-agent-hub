@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a unified platform for integrating and managing multiple AI modules for personal use.",
+  "principle": "Built on a modular architecture that allows integration of different AI capabilities into a cohesive personal operating system.",
+  "reusability": "Highly modular with support for adding custom AI modules, open-source with community contributions encouraged.",
+  "limitations": "Still in alpha stage, may have stability issues and limited documentation for some modules.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "OpenAI",
+    "Docker"
+  ],
+  "name": "OpenDAN-Personal-AI-OS",
+  "slug": "fiatrete-opendan-personal-ai-os",
+  "description": "OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.",
+  "repository": "https://github.com/fiatrete/OpenDAN-Personal-AI-OS",
+  "stars": 1836,
+  "originator": "fiatrete",
+  "tags": [
+    "agent",
+    "ai",
+    "autogpt",
+    "llm",
+    "openai",
+    "os"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-08-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/fiatrete/OpenDAN-Personal-AI-OS/wiki",
+    "https://github.com/fiatrete/OpenDAN-Personal-AI-OS/issues",
+    "https://github.com/fiatrete/OpenDAN-Personal-AI-OS/releases"
+  ],
+  "highlight": "Consolidates various AI modules into a single personal operating system for enhanced personal use."
+}

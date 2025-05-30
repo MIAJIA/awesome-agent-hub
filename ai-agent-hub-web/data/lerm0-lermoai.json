@@ -1,0 +1,32 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "Provide an experimental AI framework for developing and testing new AI models and algorithms",
+  "principle": "Built using JavaScript with a focus on modular architecture to facilitate experimentation with AI models",
+  "reusability": "Designed for easy integration and extension with other JavaScript-based AI projects, modular components",
+  "limitations": "Limited documentation and examples, primarily for experimental use and not production-ready",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "LermoAI",
+  "slug": "lerm0-lermoai",
+  "description": "N/A",
+  "repository": "https://github.com/LERM0/LermoAI",
+  "stars": 185,
+  "originator": "LERM0",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-09",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/LERM0/LermoAI/blob/main/README.md"
+  ]
+}

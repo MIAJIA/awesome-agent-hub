@@ -1,0 +1,56 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "Facilitates complex thought mapping and knowledge organization using AI-enhanced graph structures",
+  "principle": "Utilizes fractal and rhizomatic graph structures to create interconnected maps of thoughts, notes, and code",
+  "reusability": "Offers an API for integration into other systems and supports custom extensions for data input",
+  "limitations": "Currently in alpha stage, may have stability issues and limited documentation; primarily supports JavaScript environments",
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "React",
+    "D3.js"
+  ],
+  "name": "Neurite",
+  "slug": "satellitecomponent-neurite",
+  "description": "Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.",
+  "repository": "https://github.com/satellitecomponent/Neurite",
+  "stars": 1751,
+  "originator": "satellitecomponent",
+  "tags": [
+    "ai-agents",
+    "ai-agents-framework",
+    "ai-graphs",
+    "ai-os",
+    "fractals",
+    "graph-of-thoughts",
+    "groq",
+    "knowledge-graph",
+    "llm-os",
+    "mandelbrot",
+    "mindmap",
+    "note-taking",
+    "ollama",
+    "ollama-gui",
+    "rag",
+    "retrieval-augmented-generation",
+    "second-brain",
+    "tree-of-thoughts",
+    "web-browsing",
+    "web-desktop"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/satellitecomponent/Neurite#readme",
+    "https://github.com/satellitecomponent/Neurite/wiki",
+    "https://github.com/satellitecomponent/Neurite/issues"
+  ],
+  "highlight": "Combines fractal graph structures with AI for advanced mind-mapping and knowledge management"
+}

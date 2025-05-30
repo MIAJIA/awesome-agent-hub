@@ -1,0 +1,35 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and assessment of autonomous agents for IT operations (AIOps) using a holistic approach",
+  "principle": "Leverages machine learning and automation to enhance IT operations through intelligent agent design and evaluation",
+  "reusability": "Modular design with APIs and plugins for easy integration into existing AIOps solutions",
+  "limitations": "Primarily focused on IT operations, may require customization for specific environments or use cases",
+  "platforms": [
+    "Linux",
+    "Azure"
+  ],
+  "stack": [
+    "Python",
+    "Azure",
+    "Machine Learning",
+    "Docker"
+  ],
+  "name": "AIOpsLab",
+  "slug": "microsoft-aiopslab",
+  "description": "A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.",
+  "repository": "https://github.com/microsoft/AIOpsLab",
+  "stars": 606,
+  "originator": "microsoft",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/AIOpsLab/blob/main/README.md",
+    "https://github.com/microsoft/AIOpsLab/wiki",
+    "https://github.com/microsoft/AIOpsLab/tree/main/examples"
+  ],
+  "highlight": "Comprehensive framework for developing and evaluating autonomous AIOps agents"
+}

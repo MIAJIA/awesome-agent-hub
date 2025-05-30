@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Showcase and provide examples of AI applications using LLMs and RAG for various use cases.",
+  "principle": "Leverages LLMs like OpenAI, Anthropic, and open-source models with RAG to enhance AI agent capabilities.",
+  "reusability": "Offers a collection of examples and templates for building AI applications, facilitating learning and adaptation for different projects.",
+  "limitations": "Primarily serves as a demonstration and educational resource; not intended for direct production use without customization.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Anthropic",
+    "Gemini",
+    "LangChain"
+  ],
+  "name": "awesome-llm-apps",
+  "slug": "shubhamsaboo-awesome-llm-apps",
+  "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+  "repository": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "stars": 32887,
+  "originator": "Shubhamsaboo",
+  "tags": [
+    "llms",
+    "python",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Shubhamsaboo/awesome-llm-apps#readme",
+    "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/examples"
+  ],
+  "highlight": "Comprehensive collection of AI agent implementations using various large language models (LLMs) and Retrieval-Augmented Generation (RAG) techniques."
+}

@@ -1,0 +1,39 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To automate the generation of admin panels, APIs, and UIs from existing database schemas.",
+  "principle": "Leverages AI agents and large language models to interpret database schemas and generate corresponding application components.",
+  "reusability": "Offers a plug-and-play solution for database-driven application development with potential API integrations.",
+  "limitations": "Currently in alpha stage, may have limited support for complex database schemas, and lacks a self-evolving runtime as of now.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "SQLAlchemy",
+    "React",
+    "Docker"
+  ],
+  "name": "revolve",
+  "slug": "self-evolving-runtimes-revolve",
+  "description": "Instantly generate full-stack admin panels, APIs, and UI from your database schema—powered by AI agents & LLMs and hope to have a self evolving runtime in the future based on usage",
+  "repository": "https://github.com/self-evolving-runtimes/revolve",
+  "stars": 205,
+  "originator": "self-evolving-runtimes",
+  "tags": [
+    "ai-agents",
+    "fullstack"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/self-evolving-runtimes/revolve#readme",
+    "https://github.com/self-evolving-runtimes/revolve/wiki",
+    "https://github.com/self-evolving-runtimes/revolve/issues"
+  ],
+  "highlight": "Generates full-stack admin panels and APIs from database schemas using AI and LLMs."
+}

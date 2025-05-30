@@ -1,0 +1,35 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a curated list of resources for learning and researching Deep Reinforcement Learning",
+  "principle": "Aggregates and categorizes high-quality resources related to Deep Reinforcement Learning from various sources",
+  "reusability": "Open-source resource list that can be extended by community contributions",
+  "limitations": "Dependent on community contributions for updates and may not cover all recent advancements",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-deep-rl",
+  "slug": "kengz-awesome-deep-rl",
+  "description": "A curated list of awesome Deep Reinforcement Learning resources.",
+  "repository": "https://github.com/kengz/awesome-deep-rl",
+  "stars": 765,
+  "originator": "kengz",
+  "tags": [
+    "awesome-list",
+    "deep-reinforcement-learning",
+    "deep-rl",
+    "reinforcement-learning",
+    "resources"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-07-30",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/kengz/awesome-deep-rl#readme"
+  ],
+  "highlight": "Comprehensive and curated list of Deep Reinforcement Learning resources"
+}

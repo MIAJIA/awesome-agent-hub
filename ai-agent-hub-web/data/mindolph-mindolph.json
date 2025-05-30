@@ -1,0 +1,56 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To provide a personal knowledge management tool that leverages generative AI for enhanced organization and retrieval of information.",
+  "principle": "Utilizes JavaFX for the desktop application interface and integrates with AI models via OpenAI API for generative capabilities.",
+  "reusability": "Open source and can be extended or integrated with other tools using its API support and modular architecture.",
+  "limitations": "Primarily designed for desktop platforms; may not support mobile environments. Requires internet connectivity for AI features.",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "Java",
+    "JavaFX",
+    "OpenAI API"
+  ],
+  "name": "Mindolph",
+  "slug": "mindolph-mindolph",
+  "description": "Mindolph is an open source personal knowledge management software with Gen-AI support for all desktop platforms.",
+  "repository": "https://github.com/mindolph/Mindolph",
+  "stars": 152,
+  "originator": "mindolph",
+  "tags": [
+    "csv",
+    "freemind",
+    "gen-ai",
+    "javafx",
+    "javafx-desktop-apps",
+    "knowlege",
+    "llm",
+    "markdown",
+    "markdown-editor",
+    "mind",
+    "mind-map",
+    "mindmap",
+    "mmd",
+    "ollama",
+    "openai",
+    "openai-api",
+    "pdf",
+    "plantuml",
+    "puml",
+    "xmind"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-04-27",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/mindolph/Mindolph/wiki",
+    "https://github.com/mindolph/Mindolph/issues",
+    "https://github.com/mindolph/Mindolph/releases"
+  ],
+  "highlight": "Integrates generative AI to enhance personal knowledge management with mind mapping and note-taking capabilities."
+}

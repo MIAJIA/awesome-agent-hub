@@ -1,0 +1,29 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide practical examples and implementations of AI agents in various domains to facilitate learning and experimentation.",
+  "principle": "Leverages shell scripts and various AI/ML frameworks to demonstrate the creation and deployment of AI agents in real-world scenarios.",
+  "reusability": "Designed as a learning tool with modular examples that can be adapted or extended for specific use cases.",
+  "limitations": "Primarily educational with limited production-grade features; examples may require significant adaptation for specific applications.",
+  "platforms": [
+    "Linux"
+  ],
+  "stack": [
+    "Shell"
+  ],
+  "name": "AI-Agent-In-Action",
+  "slug": "aigeniusinstitute-ai-agent-in-action",
+  "description": "AI Agent 开发实战",
+  "repository": "https://github.com/AIGeniusInstitute/AI-Agent-In-Action",
+  "stars": 682,
+  "originator": "AIGeniusInstitute",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-11-30",
+  "language": "Shell",
+  "useful_links": [
+    "https://github.com/AIGeniusInstitute/AI-Agent-In-Action/blob/main/README.md",
+    "https://github.com/AIGeniusInstitute/AI-Agent-In-Action/wiki"
+  ]
+}

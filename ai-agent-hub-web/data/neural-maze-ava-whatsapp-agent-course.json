@@ -1,0 +1,45 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "To facilitate automated and intelligent interactions on WhatsApp, enhancing user engagement and support capabilities.",
+  "principle": "Leverages AI-driven conversation models and vector databases for efficient query handling and response generation.",
+  "reusability": "Offers API endpoints and modular components that can be easily integrated into existing communication systems.",
+  "limitations": "Limited to WhatsApp platform; may require additional configuration for specific use cases or languages.",
+  "platforms": [
+    "Docker",
+    "Linux",
+    "WhatsApp"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "OpenAI",
+    "Weaviate",
+    "Twilio API"
+  ],
+  "name": "ava-whatsapp-agent-course",
+  "slug": "neural-maze-ava-whatsapp-agent-course",
+  "description": "Meet Ava, the WhatsApp Agent",
+  "repository": "https://github.com/neural-maze/ava-whatsapp-agent-course",
+  "stars": 1358,
+  "originator": "neural-maze",
+  "tags": [
+    "agent",
+    "agent-based",
+    "agentic-workflow",
+    "agents",
+    "stt",
+    "tts",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/neural-maze/ava-whatsapp-agent-course/blob/main/README.md",
+    "https://github.com/neural-maze/ava-whatsapp-agent-course/wiki",
+    "https://github.com/neural-maze/ava-whatsapp-agent-course/issues"
+  ],
+  "highlight": "Integrates seamlessly with WhatsApp to enable intelligent conversation handling using AI technologies."
+}

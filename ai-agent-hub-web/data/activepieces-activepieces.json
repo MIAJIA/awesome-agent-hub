@@ -1,0 +1,46 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To provide a platform for creating and automating workflows using AI agents and Multi-Channel Protocols (MCPs), enabling users to streamline processes without extensive coding.",
+  "principle": "Built on the principle of no-code automation, allowing users to create complex workflows easily and intuitively while leveraging AI capabilities.",
+  "reusability": "Components and workflows can be reused across different projects, promoting efficiency and reducing duplication of effort.",
+  "limitations": "Currently in alpha status, which may imply potential instability, incomplete features, and limited community support.",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Docker"
+  ],
+  "name": "activepieces",
+  "slug": "activepieces-activepieces",
+  "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+  "repository": "https://github.com/activepieces/activepieces",
+  "stars": 14966,
+  "originator": "activepieces",
+  "tags": [
+    "ai-agent",
+    "ai-agent-tools",
+    "ai-agents",
+    "ai-agents-framework",
+    "mcp",
+    "mcp-server",
+    "mcp-tools",
+    "mcps",
+    "n8n-alternative",
+    "no-code-automation",
+    "workflow",
+    "workflow-automation",
+    "workflows"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://activepieces.com/demo"
+  ],
+  "highlight": "Comprehensive AI workflow automation platform with support for Multi-Channel Protocols (MCPs) enabling seamless integration of AI agents."
+}

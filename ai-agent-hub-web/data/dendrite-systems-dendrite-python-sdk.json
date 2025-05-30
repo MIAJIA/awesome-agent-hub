@@ -1,0 +1,44 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitates the development of AI agents for web data extraction and interaction automation.",
+  "principle": "Utilizes Python libraries and web scraping techniques to automate web interactions and data extraction.",
+  "reusability": "Offers a modular SDK with reusable components for building custom web AI agents, supports API integration.",
+  "limitations": "Limited by the dynamic nature of websites and potential changes in web structure; requires compliance with website terms of service.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Requests",
+    "BeautifulSoup",
+    "Selenium"
+  ],
+  "name": "dendrite-python-sdk",
+  "slug": "dendrite-systems-dendrite-python-sdk",
+  "description": "Tools to build web AI agents that can authenticate, interact with and extract data from any website.",
+  "repository": "https://github.com/dendrite-systems/dendrite-python-sdk",
+  "stars": 290,
+  "originator": "dendrite-systems",
+  "tags": [
+    "agent",
+    "ai",
+    "aiagent",
+    "rpa",
+    "scraping",
+    "web",
+    "webagent"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-08",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/dendrite-systems/dendrite-python-sdk#readme",
+    "https://github.com/dendrite-systems/dendrite-python-sdk/wiki",
+    "https://github.com/dendrite-systems/dendrite-python-sdk/issues"
+  ],
+  "highlight": "Enables creation of web AI agents capable of authenticating, interacting, and extracting data from websites."
+}

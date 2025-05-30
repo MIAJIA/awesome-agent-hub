@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development and deployment of generalist AI agents for various tasks and domains.",
+  "principle": "Built on TypeScript, Suna leverages modular architecture to allow for flexible agent creation and integration with various AI models and APIs.",
+  "reusability": "Designed with modularity in mind, Suna supports plugin-based architecture and offers APIs for easy integration and customization.",
+  "limitations": "Currently in alpha stage, may have limited documentation and stability issues, and might not cover all edge cases.",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "OpenAI API"
+  ],
+  "name": "suna",
+  "slug": "kortix-ai-suna",
+  "description": "Suna - Open Source Generalist AI Agent",
+  "repository": "https://github.com/kortix-ai/suna",
+  "stars": 13313,
+  "originator": "kortix-ai",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/kortix-ai/suna#readme",
+    "https://github.com/kortix-ai/suna/wiki",
+    "https://github.com/kortix-ai/suna/issues"
+  ],
+  "highlight": "Suna is a versatile AI agent framework that allows for the creation and orchestration of generalist AI agents."
+}

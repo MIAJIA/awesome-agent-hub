@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development and deployment of AI-powered applications using TypeScript, focusing on chatbots and autonomous agents",
+  "principle": "Built on TypeScript, leveraging modern AI frameworks and libraries to provide a robust environment for creating AI-driven applications",
+  "reusability": "Modular architecture with support for plugins and extensions, allowing developers to integrate custom functionality easily",
+  "limitations": "Currently in alpha stage, may have incomplete features and potential bugs, limited documentation",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "OpenAI API"
+  ],
+  "name": "typedai",
+  "slug": "trafficguard-typedai",
+  "description": "TypeScript AI platform with AI chat, Autonomous agents, Software developer agents, chatbots and more",
+  "repository": "https://github.com/TrafficGuard/typedai",
+  "stars": 1060,
+  "originator": "TrafficGuard",
+  "tags": [
+    "agentic-framework",
+    "agents",
+    "ai-agents",
+    "ai-agents-framework",
+    "ai-code-review",
+    "ai-software-engineer",
+    "llm",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/TrafficGuard/typedai#readme",
+    "https://github.com/TrafficGuard/typedai/wiki",
+    "https://github.com/TrafficGuard/typedai/issues"
+  ],
+  "highlight": "Comprehensive TypeScript AI platform supporting AI chat, autonomous agents, and software development tools"
+}

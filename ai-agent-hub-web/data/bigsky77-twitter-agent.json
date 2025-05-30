@@ -1,0 +1,41 @@
+{
+  "category": "social-media",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of AI agents to automate tasks and interactions on Twitter.",
+  "principle": "Leverages OpenAI's language models and LangChain for processing and generating Twitter content.",
+  "reusability": "Offers modular components and APIs for easy integration with Twitter, allowing custom agent configurations.",
+  "limitations": "Dependent on Twitter API limitations and OpenAI API costs; primarily focused on text-based interactions.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain",
+    "Twitter API"
+  ],
+  "name": "twitter-agent",
+  "slug": "bigsky77-twitter-agent",
+  "description": "Build AI-powered Agents for Twitter🐣",
+  "repository": "https://github.com/bigsky77/twitter-agent",
+  "stars": 162,
+  "originator": "bigsky77",
+  "tags": [
+    "agi",
+    "gpt-3",
+    "langchain",
+    "openai",
+    "twitter"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-08-07",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/bigsky77/twitter-agent#readme",
+    "https://github.com/bigsky77/twitter-agent/wiki",
+    "https://github.com/bigsky77/twitter-agent/issues"
+  ],
+  "highlight": "Enables AI-driven interactions and automation on Twitter using language models."
+}

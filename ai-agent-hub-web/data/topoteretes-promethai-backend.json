@@ -1,0 +1,50 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates decision-making and goal-setting by providing AI-driven assistance and automation.",
+  "principle": "Leverages large language models and agent frameworks to create autonomous agents capable of executing tasks and generating insights.",
+  "reusability": "Offers a modular architecture with API support for easy integration and customization of AI agents.",
+  "limitations": "Currently in alpha stage, may have limited stability and feature set; requires setup and configuration for specific use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "LangChain",
+    "OpenAI API",
+    "Pinecone"
+  ],
+  "name": "PromethAI-Backend",
+  "slug": "topoteretes-promethai-backend",
+  "description": "Open-source framework that gives you AI Agents that help you navigate decision-making, get personalized goals and execute them",
+  "repository": "https://github.com/topoteretes/PromethAI-Backend",
+  "stars": 166,
+  "originator": "topoteretes",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-assistant",
+    "autonomous-agents",
+    "chatgpt",
+    "gpt-4",
+    "langchain",
+    "llm",
+    "llmops",
+    "openai",
+    "pinecone",
+    "promethai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-05",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/topoteretes/PromethAI-Backend#readme",
+    "https://github.com/topoteretes/PromethAI-Backend/wiki",
+    "https://github.com/topoteretes/PromethAI-Backend/issues"
+  ],
+  "highlight": "Provides AI agents to assist with decision-making and goal execution through a customizable backend framework."
+}

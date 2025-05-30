@@ -1,0 +1,40 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide a curated list and discovery platform for Model Context Protocol (MCP) servers",
+  "principle": "Aggregates and categorizes MCP server configurations and implementations for easy access and deployment",
+  "reusability": "Offers a structured repository of MCP server configurations that can be cloned or adapted for various projects",
+  "limitations": "Primarily serves as a reference guide, not a direct deployment tool; requires users to manually integrate servers into their systems",
+  "platforms": [
+    "Any platform supporting MCP server deployment"
+  ],
+  "stack": [
+    "GitHub",
+    "Markdown"
+  ],
+  "name": "awesome-mcp-servers",
+  "slug": "tensorblock-awesome-mcp-servers",
+  "description": "A comprehensive collection of Model Context Protocol (MCP) servers",
+  "repository": "https://github.com/TensorBlock/awesome-mcp-servers",
+  "stars": 284,
+  "originator": "TensorBlock",
+  "tags": [
+    "anthropic",
+    "awesome",
+    "genai",
+    "mcp",
+    "mcp-server",
+    "mcp-server-discovery",
+    "mcp-servers",
+    "model-context-protocol"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-03",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/TensorBlock/awesome-mcp-servers/blob/main/README.md",
+    "https://github.com/TensorBlock/awesome-mcp-servers/blob/main/CONTRIBUTING.md"
+  ],
+  "highlight": "Comprehensive and well-organized collection of Model Context Protocol servers, facilitating discovery and integration"
+}

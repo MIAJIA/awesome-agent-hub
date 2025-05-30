@@ -1,0 +1,36 @@
+{
+  "category": "writing",
+  "status": "alpha",
+  "purpose": "Create personalized newspapers tailored to user preferences by leveraging GPT models.",
+  "principle": "Uses GPT models to generate content based on user-defined preferences and topics of interest.",
+  "reusability": "Designed as a standalone application with potential for integration via API endpoints for content delivery.",
+  "limitations": "Relies on the quality and relevance of available data sources; may require fine-tuning for niche topics.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI API",
+    "Flask"
+  ],
+  "name": "gpt-newspaper",
+  "slug": "rotemweiss57-gpt-newspaper",
+  "description": "GPT based autonomous agent designed to create personalized newspapers tailored to user preferences. ",
+  "repository": "https://github.com/rotemweiss57/gpt-newspaper",
+  "stars": 1315,
+  "originator": "rotemweiss57",
+  "tags": [
+    "GPT",
+    "personalized content",
+    "news generation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-06-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/rotemweiss57/gpt-newspaper#readme"
+  ],
+  "highlight": "Generates personalized newspapers using user preferences and GPT technology."
+}

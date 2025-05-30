@@ -1,0 +1,38 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To provide a robust framework for developing AI agents that can be integrated with n8n and other automation platforms",
+  "principle": "Built on Python with a focus on creating flexible AI agents that can be easily integrated into workflows using n8n",
+  "reusability": "Designed for plug-and-play integration with n8n, supports modular agent development",
+  "limitations": "Currently in alpha stage, may have limited features and stability issues, documentation might be incomplete",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "n8n"
+  ],
+  "name": "Stride-AI-Agents",
+  "slug": "joshpocock-stride-ai-agents",
+  "description": "This Repo Is In Development. It will slowly but surely become one of the most potent repos available for open source AI agent code for n8n and other use cases that I cover in my YouTube videos. Star the repo to support and to stay up-to-date. Book a call with my team if you want AI agent DFY.",
+  "repository": "https://github.com/joshpocock/Stride-AI-Agents",
+  "stars": 317,
+  "originator": "joshpocock",
+  "tags": [
+    "agents",
+    "ai",
+    "aiagent",
+    "aiagents",
+    "n8n",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-10-15",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/joshpocock/Stride-AI-Agents"
+  ],
+  "highlight": "Open-source AI agent code for n8n and other automation use cases"
+}

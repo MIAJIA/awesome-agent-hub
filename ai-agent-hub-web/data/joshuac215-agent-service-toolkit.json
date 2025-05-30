@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a robust framework for creating, deploying, and managing AI agent services",
+  "principle": "Built on top of LangGraph for agent logic, FastAPI for backend services, and Streamlit for UI components",
+  "reusability": "Highly modular with support for REST APIs, allowing easy integration into existing systems and extensibility for custom use cases",
+  "limitations": "Currently in alpha stage, may have incomplete features and potential bugs; requires Python environment setup",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangGraph",
+    "FastAPI",
+    "Streamlit"
+  ],
+  "name": "agent-service-toolkit",
+  "slug": "joshuac215-agent-service-toolkit",
+  "description": "Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit",
+  "repository": "https://github.com/JoshuaC215/agent-service-toolkit",
+  "stars": 2970,
+  "originator": "JoshuaC215",
+  "tags": [
+    "agents",
+    "langgraph",
+    "streamlit"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-13",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/JoshuaC215/agent-service-toolkit#readme",
+    "https://github.com/JoshuaC215/agent-service-toolkit/wiki",
+    "https://github.com/JoshuaC215/agent-service-toolkit/issues"
+  ],
+  "highlight": "Comprehensive toolkit for building AI agent services with an emphasis on easy integration and extensibility"
+}

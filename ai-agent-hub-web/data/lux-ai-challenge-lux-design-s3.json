@@ -1,0 +1,39 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Provide a platform for developing and testing AI strategies in a competitive setting",
+  "principle": "Simulates a virtual environment where AI agents compete to complete tasks and optimize strategies",
+  "reusability": "Can be used as a benchmark for AI strategy development and testing, with support for custom AI agent integration",
+  "limitations": "Limited to the specific rules and environment of the Lux AI Challenge; not applicable for real-world scenarios",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "Gym"
+  ],
+  "name": "Lux-Design-S3",
+  "slug": "lux-ai-challenge-lux-design-s3",
+  "description": "Repository for the Lux AI Challenge, season 3 @NeurIPS 24. Hosted on @kaggle",
+  "repository": "https://github.com/Lux-AI-Challenge/Lux-Design-S3",
+  "stars": 324,
+  "originator": "Lux-AI-Challenge",
+  "tags": [
+    "ai",
+    "competition",
+    "programming"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-02-05",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Lux-AI-Challenge/Lux-Design-S3/wiki",
+    "https://www.kaggle.com/c/lux-ai-season-3",
+    "https://github.com/Lux-AI-Challenge/Lux-Design-S3/blob/main/README.md"
+  ],
+  "highlight": "Competitive environment for AI agents to solve complex challenges in a simulated world"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enhance AI agents with advanced memory capabilities for improved long-term interaction and state management.",
+  "principle": "Utilizes vector databases and embeddings to manage and retrieve memory efficiently, with a focus on local storage for security.",
+  "reusability": "Offers APIs for integration into various AI agent frameworks, supports plug-and-play with existing AI systems.",
+  "limitations": "Primarily focused on Python environments; may require customization for specific use cases or non-standard AI frameworks.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Vector Database",
+    "Embeddings",
+    "OpenMemory MCP"
+  ],
+  "name": "mem0",
+  "slug": "mem0ai-mem0",
+  "description": "Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.",
+  "repository": "https://github.com/mem0ai/mem0",
+  "stars": 32955,
+  "originator": "mem0ai",
+  "tags": [
+    "agent",
+    "ai",
+    "aiagent",
+    "application",
+    "chatbots",
+    "chatgpt",
+    "embeddings",
+    "llm",
+    "long-term-memory",
+    "memory",
+    "memory-management",
+    "python",
+    "rag",
+    "state-management",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/mem0ai/mem0/blob/main/README.md",
+    "https://github.com/mem0ai/mem0/wiki",
+    "https://github.com/mem0ai/mem0/issues"
+  ],
+  "highlight": "State-of-the-art memory management for AI agents with local and secure storage capabilities."
+}

@@ -1,0 +1,36 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To explore and demonstrate vulnerabilities in LLM agents by injecting backdoors through memory or knowledge base poisoning.",
+  "principle": "Utilizes backdoor poisoning techniques specifically targeting the memory or knowledge base of LLM agents to assess their security posture.",
+  "reusability": "Designed for researchers and security analysts, providing scripts and configurations to test LLM agent security.",
+  "limitations": "Primarily for research purposes, may not cover all types of LLM architectures, requires technical expertise to implement.",
+  "platforms": [
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers"
+  ],
+  "name": "AgentPoison",
+  "slug": "ai-secure-agentpoison",
+  "description": "[NeurIPS 2024] Official implementation for \"AgentPoison: Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Poisoning\"",
+  "repository": "https://github.com/AI-secure/AgentPoison",
+  "stars": 123,
+  "originator": "AI-secure",
+  "tags": [
+    "llm-agent",
+    "red-team",
+    "retrieval-augmented-generation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/AI-secure/AgentPoison/blob/main/README.md",
+    "https://github.com/AI-secure/AgentPoison/wiki"
+  ],
+  "highlight": "Introduces novel backdoor poisoning techniques for LLM agents to test their security and robustness."
+}

@@ -1,0 +1,31 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Collect and organize resources related to System 2 reasoning for research purposes",
+  "principle": "Curates and categorizes links and resources to aid in the study and understanding of System 2 reasoning",
+  "reusability": "Can be used as a reference for researchers interested in System 2 reasoning, easily extendable with additional resources",
+  "limitations": "Primarily a collection of links with no interactive or computational features",
+  "platforms": [],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "system-2-research",
+  "slug": "open-thought-system-2-research",
+  "description": "System 2 Reasoning Link Collection",
+  "repository": "https://github.com/open-thought/system-2-research",
+  "stars": 834,
+  "originator": "open-thought",
+  "tags": [
+    "System 2",
+    "reasoning",
+    "cognitive science",
+    "research"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-16",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/open-thought/system-2-research/blob/main/README.md"
+  ]
+}

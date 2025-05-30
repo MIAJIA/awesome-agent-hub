@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To solve complex tasks autonomously by leveraging large language models (LLMs)",
+  "principle": "Utilizes advanced language model techniques to autonomously analyze and solve complex tasks, integrating with various APIs and tools for extended functionality",
+  "reusability": "Designed for integration with other systems via APIs, modular architecture allows for customization and extension",
+  "limitations": "Being in alpha stage, it may have limited stability and incomplete feature set; requires substantial computational resources for LLM processing",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "Hugging Face",
+    "FastAPI"
+  ],
+  "name": "XAgent",
+  "slug": "openbmb-xagent",
+  "description": "An Autonomous LLM Agent for Complex Task Solving",
+  "repository": "https://github.com/OpenBMB/XAgent",
+  "stars": 8346,
+  "originator": "OpenBMB",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-08-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/OpenBMB/XAgent#readme",
+    "https://github.com/OpenBMB/XAgent/wiki",
+    "https://github.com/OpenBMB/XAgent/issues"
+  ],
+  "highlight": "Autonomous decision-making for complex task solving using advanced LLM capabilities"
+}

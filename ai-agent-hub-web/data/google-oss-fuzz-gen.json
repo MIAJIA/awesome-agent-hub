@@ -1,0 +1,38 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enhance software security testing by leveraging large language models to generate fuzzing inputs",
+  "principle": "Utilizes LLMs to create diverse and complex test cases for fuzzing, improving the detection of security vulnerabilities",
+  "reusability": "Designed to integrate with existing OSS-Fuzz setups, providing an API for custom fuzzing strategies",
+  "limitations": "Primarily supports projects compatible with OSS-Fuzz, may require significant computational resources for effective LLM utilization",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OSS-Fuzz",
+    "LLM"
+  ],
+  "name": "oss-fuzz-gen",
+  "slug": "google-oss-fuzz-gen",
+  "description": "LLM powered fuzzing via OSS-Fuzz.",
+  "repository": "https://github.com/google/oss-fuzz-gen",
+  "stars": 1209,
+  "originator": "google",
+  "tags": [
+    "ai",
+    "fuzzing",
+    "llm",
+    "security"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/google/oss-fuzz-gen",
+    "https://google.github.io/oss-fuzz/"
+  ],
+  "highlight": "Integrates LLM capabilities with OSS-Fuzz for enhanced security testing"
+}

@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Demonstrates the use of Amazon Bedrock with LangChain for creating generative AI applications",
+  "principle": "Leverages Amazon Bedrock's foundation models and LangChain's capabilities for building AI agents",
+  "reusability": "Offers examples and templates for integrating Amazon Bedrock with LangChain, facilitating rapid development of AI applications",
+  "limitations": "Primarily a demonstration repository; not intended for production use without further development and testing",
+  "platforms": [
+    "AWS"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "Amazon Bedrock",
+    "AWS"
+  ],
+  "name": "generative-ai-amazon-bedrock-langchain-agent-example",
+  "slug": "aws-samples-generative-ai-amazon-bedrock-langchain-agent-example",
+  "description": "N/A",
+  "repository": "https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example",
+  "stars": 248,
+  "originator": "aws-samples",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT-0",
+  "last_updated": "2024-07-08",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example#readme",
+    "https://aws.amazon.com/bedrock/"
+  ],
+  "highlight": "Integration of Amazon Bedrock with LangChain for advanced generative AI applications"
+}

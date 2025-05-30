@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for deploying and managing generative agents that can execute tasks onchain",
+  "principle": "Built on blockchain technology to ensure decentralized execution and management of generative agents",
+  "reusability": "Offers APIs and modular architecture for easy integration with blockchain applications",
+  "limitations": "Currently in alpha stage, may have limited support for complex agent interactions and scalability issues",
+  "platforms": [
+    "Ethereum",
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Ethereum",
+    "Solidity"
+  ],
+  "name": "daydreams",
+  "slug": "daydreamsai-daydreams",
+  "description": "Daydreams is a generative agent framework for executing anything onchain",
+  "repository": "https://github.com/daydreamsai/daydreams",
+  "stars": 462,
+  "originator": "daydreamsai",
+  "tags": [
+    "agent-framework",
+    "agent-frameworks",
+    "agents",
+    "ai",
+    "gaming",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/daydreamsai/daydreams/blob/main/README.md",
+    "https://github.com/daydreamsai/daydreams/wiki",
+    "https://github.com/daydreamsai/daydreams/issues"
+  ],
+  "highlight": "Enables execution of generative agents directly on blockchain platforms"
+}

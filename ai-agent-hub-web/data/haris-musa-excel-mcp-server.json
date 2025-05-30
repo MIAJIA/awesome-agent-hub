@@ -1,0 +1,43 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To enable automated and programmatic manipulation of Excel files using a server-based approach",
+  "principle": "Builds on a Model Context Protocol server architecture to interact with Excel files, enabling complex operations and automations",
+  "reusability": "Offers API endpoints for integration with other applications, allowing for seamless Excel file processing and manipulation",
+  "limitations": "Primarily focused on Excel files, may not support other spreadsheet formats or advanced Excel features",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "Pandas",
+    "OpenPyXL"
+  ],
+  "name": "excel-mcp-server",
+  "slug": "haris-musa-excel-mcp-server",
+  "description": "A Model Context Protocol server for Excel file manipulation",
+  "repository": "https://github.com/haris-musa/excel-mcp-server",
+  "stars": 854,
+  "originator": "haris-musa",
+  "tags": [
+    "ai",
+    "automation",
+    "excel",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "sse",
+    "toolcalling"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/haris-musa/excel-mcp-server/blob/main/README.md",
+    "https://github.com/haris-musa/excel-mcp-server/wiki"
+  ],
+  "highlight": "Facilitates advanced Excel file manipulation through a Model Context Protocol server"
+}

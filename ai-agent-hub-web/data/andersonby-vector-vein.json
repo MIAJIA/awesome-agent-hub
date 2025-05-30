@@ -1,0 +1,39 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Enable users to create and manage AI workflows without coding, facilitating integration with AI agents",
+  "principle": "Uses a visual interface to allow users to design workflows by connecting nodes, which represent tasks or actions, in a sequence",
+  "reusability": "Offers a modular design with reusable workflow nodes, supports integration with AI agents through a visual interface",
+  "limitations": "Currently in alpha stage, may have limited features and potential bugs, primarily focused on users familiar with AI concepts",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "Vue",
+    "JavaScript",
+    "Python",
+    "OpenAI"
+  ],
+  "name": "vector-vein",
+  "slug": "andersonby-vector-vein",
+  "description": "No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.",
+  "repository": "https://github.com/AndersonBY/vector-vein",
+  "stars": 922,
+  "originator": "AndersonBY",
+  "tags": [
+    "ai",
+    "openai",
+    "python",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-04-29",
+  "language": "Vue",
+  "useful_links": [
+    "https://github.com/AndersonBY/vector-vein#readme",
+    "https://github.com/AndersonBY/vector-vein/wiki"
+  ],
+  "highlight": "No-code AI workflow creation with drag-and-drop interface for AI agents"
+}

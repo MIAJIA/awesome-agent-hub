@@ -1,0 +1,34 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To provide an AI-powered assistant for executives to enhance productivity and decision-making.",
+  "principle": "Leverages natural language processing and machine learning models to automate tasks and provide insights.",
+  "reusability": "Offers APIs and modular components that can be integrated into existing workflows and applications.",
+  "limitations": "Limited to specific executive functions, may require customization for different industries.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "FastAPI"
+  ],
+  "name": "executive-ai-assistant",
+  "slug": "langchain-ai-executive-ai-assistant",
+  "description": "N/A",
+  "repository": "https://github.com/langchain-ai/executive-ai-assistant",
+  "stars": 1836,
+  "originator": "langchain-ai",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-04",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/langchain-ai/executive-ai-assistant#readme",
+    "https://github.com/langchain-ai/executive-ai-assistant/wiki"
+  ],
+  "highlight": "Integrates AI capabilities to enhance executive decision-making and task automation."
+}

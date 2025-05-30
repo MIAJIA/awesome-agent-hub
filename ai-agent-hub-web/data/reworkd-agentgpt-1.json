@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of autonomous AI agents for various tasks directly from a web interface.",
+  "principle": "Leverages modern web technologies and AI frameworks to allow users to design and run AI agents in a browser environment.",
+  "reusability": "Offers a modular architecture with customizable components, making it easy to extend and integrate with other AI models and services.",
+  "limitations": "Currently in alpha, may have limited features and stability; primarily designed for browser-based deployment.",
+  "platforms": [
+    "Browser",
+    "Vercel"
+  ],
+  "stack": [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "OpenAI API",
+    "LangChain"
+  ],
+  "name": "AgentGPT",
+  "slug": "reworkd-agentgpt-1",
+  "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+  "repository": "https://github.com/reworkd/AgentGPT",
+  "stars": 34187,
+  "originator": "reworkd",
+  "tags": [
+    "agent",
+    "agentgpt",
+    "agi",
+    "autogpt",
+    "baby-agi",
+    "gpt",
+    "langchain",
+    "next",
+    "openai",
+    "t3",
+    "t3-stack"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-04-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/reworkd/AgentGPT#readme",
+    "https://github.com/reworkd/AgentGPT/wiki",
+    "https://agentgpt.reworkd.ai/"
+  ],
+  "highlight": "Enables users to assemble, configure, and deploy autonomous AI agents directly in the browser."
+}

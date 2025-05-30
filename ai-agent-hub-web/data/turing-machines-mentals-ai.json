@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To allow users to create and deploy AI agents without writing code, streamlining the process of integrating AI into various applications",
+  "principle": "Builds on large language models (LLMs) like GPT-4 and LLaMA3 to provide AI capabilities through a command-line interface",
+  "reusability": "Offers a command-line interface for easy integration and deployment, supports multiple AI models",
+  "limitations": "Primarily designed for users comfortable with terminal interfaces, may have limitations in handling complex AI workflows without customization",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "C++",
+    "GPT-4",
+    "LLaMA3",
+    "OpenAI"
+  ],
+  "name": "mentals-ai",
+  "slug": "turing-machines-mentals-ai",
+  "description": "No code AI agents",
+  "repository": "https://github.com/turing-machines/mentals-ai",
+  "stars": 433,
+  "originator": "turing-machines",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "artificial-intelligence",
+    "cli",
+    "gpt",
+    "gpt-4o",
+    "llama3",
+    "llm",
+    "machine-learning",
+    "openai",
+    "terminal"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-16",
+  "language": "C++",
+  "useful_links": [
+    "https://github.com/turing-machines/mentals-ai#readme",
+    "https://github.com/turing-machines/mentals-ai/wiki",
+    "https://github.com/turing-machines/mentals-ai/issues"
+  ],
+  "highlight": "Enables the creation of AI agents without the need for coding expertise"
+}

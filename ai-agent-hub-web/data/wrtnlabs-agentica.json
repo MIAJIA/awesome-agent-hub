@@ -1,0 +1,52 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and orchestration of AI agents using a TypeScript framework that supports function calling.",
+  "principle": "Builds on TypeScript to enable AI function calling, leveraging compiler skills to enhance agent capabilities.",
+  "reusability": "Highly composable with support for TypeScript, includes plugins and API integration for extending functionality.",
+  "limitations": "Currently in alpha stage, may have limited documentation and stability issues typical of early-stage projects.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "OpenAI",
+    "Llama",
+    "Swagger",
+    "OpenAPI"
+  ],
+  "name": "agentica",
+  "slug": "wrtnlabs-agentica",
+  "description": "TypeScript AI AI Function Calling Framework enhanced by compiler skills.",
+  "repository": "https://github.com/wrtnlabs/agentica",
+  "stars": 802,
+  "originator": "wrtnlabs",
+  "tags": [
+    "agent",
+    "agentic",
+    "agentic-ai",
+    "agentic-framework",
+    "ai",
+    "chatbot",
+    "claude",
+    "function-calling",
+    "llama",
+    "llm-function-calling",
+    "multi-agent-system",
+    "openai",
+    "openapi",
+    "rag",
+    "retrieval-augmented-generation",
+    "swagger",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/wrtnlabs/agentica#readme",
+    "https://github.com/wrtnlabs/agentica/wiki"
+  ],
+  "highlight": "Integrates AI function calling with TypeScript, enhanced by compiler skills for advanced agent orchestration."
+}

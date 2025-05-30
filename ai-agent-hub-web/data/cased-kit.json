@@ -1,0 +1,35 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitate advanced codebase analysis and search to enhance developer productivity and tool creation",
+  "principle": "Utilizes static code analysis and AI techniques to map codebases and extract meaningful symbols for search and analysis",
+  "reusability": "Offers APIs and tools for integration into custom developer tools and workflows",
+  "limitations": "Primarily focused on Python codebases; may have limited support for other languages",
+  "platforms": [
+    "Linux",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "GraphQL",
+    "SQLAlchemy"
+  ],
+  "name": "kit",
+  "slug": "cased-kit",
+  "description": "The toolkit for codebase mapping, symbol extraction, and many kinds of code search. Build AI-powered devtools :ship:",
+  "repository": "https://github.com/cased/kit",
+  "stars": 437,
+  "originator": "cased",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/cased/kit#readme",
+    "https://github.com/cased/kit/wiki",
+    "https://github.com/cased/kit/issues"
+  ],
+  "highlight": "Comprehensive toolkit for codebase mapping and symbol extraction with AI-powered code search capabilities"
+}

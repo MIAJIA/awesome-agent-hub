@@ -1,0 +1,47 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide an agentic framework that can use computers and applications as a human would, enabling automation of GUI-based tasks.",
+  "principle": "Leverages in-context reinforcement learning and memory modules to interact with graphical user interfaces and perform tasks.",
+  "reusability": "Supports integration with various applications through a modular architecture, allowing users to add custom functionalities and extensions.",
+  "limitations": "Primarily focused on GUI-based automation, may not handle complex backend tasks, and could face challenges with non-standard interfaces.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "LangChain"
+  ],
+  "name": "Agent-S",
+  "slug": "simular-ai-agent-s",
+  "description": "Agent S: an open agentic framework that uses computers like a human",
+  "repository": "https://github.com/simular-ai/Agent-S",
+  "stars": 5241,
+  "originator": "simular-ai",
+  "tags": [
+    "agent-computer-interface",
+    "ai-agents",
+    "computer-automation",
+    "computer-use",
+    "grounding",
+    "gui-agents",
+    "in-context-reinforcement-learning",
+    "memory",
+    "mllm",
+    "planning",
+    "retrieval-augmented-generation"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/simular-ai/Agent-S/blob/main/README.md",
+    "https://github.com/simular-ai/Agent-S/wiki",
+    "https://github.com/simular-ai/Agent-S/issues"
+  ],
+  "highlight": "Agent S mimics human-like interaction with computers to automate tasks via a GUI-based approach."
+}

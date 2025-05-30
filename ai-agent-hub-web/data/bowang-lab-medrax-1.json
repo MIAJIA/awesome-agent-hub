@@ -1,0 +1,47 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "Enhance medical diagnostics by providing automated reasoning and analysis for chest X-ray images.",
+  "principle": "Utilizes machine learning models and medical imaging analysis to interpret chest X-ray data, offering insights and diagnostic suggestions.",
+  "reusability": "Designed as a modular framework with API support for integration into existing medical imaging systems.",
+  "limitations": "Primarily focused on chest X-rays, may not generalize well to other types of medical imaging without further training or adaptation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "name": "MedRAX",
+  "slug": "bowang-lab-medrax-1",
+  "description": "MedRAX: Medical Reasoning Agent for Chest X-ray",
+  "repository": "https://github.com/bowang-lab/MedRAX",
+  "stars": 611,
+  "originator": "bowang-lab",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "chest-xray",
+    "chest-xrays",
+    "healthcare",
+    "langchain",
+    "medical",
+    "medical-imaging",
+    "reasoning-agent"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/bowang-lab/MedRAX#readme",
+    "https://github.com/bowang-lab/MedRAX/wiki",
+    "https://github.com/bowang-lab/MedRAX/issues",
+    "https://github.com/bowang-lab/MedRAX/releases"
+  ],
+  "highlight": "Integrates advanced medical reasoning capabilities specifically for analyzing chest X-rays."
+}

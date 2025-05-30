@@ -1,0 +1,44 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive observability platform that enhances monitoring and troubleshooting capabilities in cloud-native environments.",
+  "principle": "Integrates OpenTelemetry for telemetry data collection and eBPF for kernel-level insights, using LLM for automated analysis and troubleshooting.",
+  "reusability": "Offers integration with existing observability tools via OpenTelemetry, supports plugin architecture for custom extensions.",
+  "limitations": "Currently in alpha stage, may have limited support for non-standard environments, requires expertise in observability tools for effective use.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "OpenTelemetry",
+    "eBPF"
+  ],
+  "name": "apo",
+  "slug": "clouddetail-apo",
+  "description": "APO is a comprehensive observability platform combining OpenTelemetry with eBPF. Leveraging LLM to enable automated analysis and troubleshooting 🚀.",
+  "repository": "https://github.com/CloudDetail/apo",
+  "stars": 318,
+  "originator": "CloudDetail",
+  "tags": [
+    "apm",
+    "ebpf",
+    "logs",
+    "metrics",
+    "microservice",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "tracing"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/CloudDetail/apo#readme",
+    "https://github.com/CloudDetail/apo/wiki",
+    "https://github.com/CloudDetail/apo/issues"
+  ],
+  "highlight": "Combines OpenTelemetry with eBPF for enhanced observability and automated analysis using LLM."
+}

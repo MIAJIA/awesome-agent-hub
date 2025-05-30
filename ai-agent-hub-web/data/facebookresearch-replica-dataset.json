@@ -1,0 +1,38 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Provide a photorealistic 3D indoor scene dataset for research in spatial AI and machine perception.",
+  "principle": "Captures 3D environments using advanced photogrammetry techniques, providing detailed spatial data for AI research.",
+  "reusability": "Data can be used for training and benchmarking AI models in spatial understanding and photorealistic rendering tasks.",
+  "limitations": "Limited to the predefined set of indoor scenes; not suitable for real-time applications due to data size.",
+  "platforms": [
+    "Linux"
+  ],
+  "stack": [
+    "C++",
+    "Photogrammetry",
+    "3D Rendering"
+  ],
+  "name": "Replica-Dataset",
+  "slug": "facebookresearch-replica-dataset",
+  "description": "The Replica Dataset v1 as published in https://arxiv.org/abs/1906.05797 .",
+  "repository": "https://github.com/facebookresearch/Replica-Dataset",
+  "stars": 1103,
+  "originator": "facebookresearch",
+  "tags": [
+    "3D",
+    "photorealistic",
+    "AI",
+    "dataset",
+    "spatial AI",
+    "machine perception"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-07-22",
+  "language": "C++",
+  "useful_links": [
+    "https://github.com/facebookresearch/Replica-Dataset/blob/main/README.md"
+  ],
+  "highlight": "High-quality 3D indoor scene dataset for photorealistic rendering and spatial AI applications."
+}

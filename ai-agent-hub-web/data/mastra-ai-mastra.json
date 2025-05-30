@@ -1,0 +1,54 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To facilitate the development of AI agents that can integrate with any large language model (LLM) and provide robust observability and retrieval-augmented generation (RAG) features.",
+  "principle": "Built on TypeScript, it leverages modular components to support various LLMs and provides tools for implementing RAG and monitoring agent performance.",
+  "reusability": "Highly composable with support for various LLMs, offering APIs and plugins for easy integration into existing systems.",
+  "limitations": "Currently in alpha stage, may have limited documentation and stability issues typical of early development projects.",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Next.js",
+    "React",
+    "GPT-4",
+    "Claude",
+    "Gemini",
+    "Llama"
+  ],
+  "name": "mastra",
+  "slug": "mastra-ai-mastra",
+  "description": "The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.",
+  "repository": "https://github.com/mastra-ai/mastra",
+  "stars": 13461,
+  "originator": "mastra-ai",
+  "tags": [
+    "agents",
+    "ai",
+    "chatbots",
+    "evals",
+    "javascript",
+    "llm",
+    "mcp",
+    "nextjs",
+    "nodejs",
+    "reactjs",
+    "tts",
+    "typescript",
+    "workflows"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/mastra-ai/mastra#readme",
+    "https://github.com/mastra-ai/mastra/wiki",
+    "https://github.com/mastra-ai/mastra/issues",
+    "https://github.com/mastra-ai/mastra/releases"
+  ],
+  "highlight": "A versatile TypeScript AI agent framework supporting multiple LLMs with observability and RAG capabilities."
+}

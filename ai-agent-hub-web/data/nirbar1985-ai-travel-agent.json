@@ -1,0 +1,34 @@
+{
+  "category": "lifestyle",
+  "status": "alpha",
+  "purpose": "Assist users in planning and booking travel itineraries using AI recommendations.",
+  "principle": "Leverages machine learning algorithms to suggest travel destinations, accommodations, and activities based on user preferences.",
+  "reusability": "Exposes RESTful APIs for integration with other travel-related services, modular design for easy customization.",
+  "limitations": "Limited to certain geographic locations, initial setup requires API key configuration for external services.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "OpenAI API",
+    "BeautifulSoup",
+    "SQLAlchemy"
+  ],
+  "name": "ai-travel-agent",
+  "slug": "nirbar1985-ai-travel-agent",
+  "description": "AI Travel Agent",
+  "repository": "https://github.com/nirbar1985/ai-travel-agent",
+  "stars": 496,
+  "originator": "nirbar1985",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-17",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/nirbar1985/ai-travel-agent/blob/main/README.md",
+    "https://github.com/nirbar1985/ai-travel-agent/wiki"
+  ]
+}

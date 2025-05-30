@@ -1,0 +1,40 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "To automate the process of subtitle creation and dubbing for videos, making it accessible and efficient for content creators",
+  "principle": "Utilizes AI-driven natural language processing and machine learning algorithms to handle subtitle translation and synchronization",
+  "reusability": "Offers a modular setup that can be integrated into video processing workflows, potentially with API support for custom integrations",
+  "limitations": "May be limited by language support and accuracy of translations depending on the source and target languages",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "FFmpeg"
+  ],
+  "name": "VideoLingo",
+  "slug": "huanshere-videolingo",
+  "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+  "repository": "https://github.com/Huanshere/VideoLingo",
+  "stars": 13028,
+  "originator": "Huanshere",
+  "tags": [
+    "ai-translation",
+    "dubbing",
+    "localization",
+    "video-translation",
+    "voice-cloning"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-18",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Huanshere/VideoLingo#readme",
+    "https://github.com/Huanshere/VideoLingo/wiki",
+    "https://github.com/Huanshere/VideoLingo/issues"
+  ],
+  "highlight": "One-click automated video subtitle processing including cutting, translation, alignment, and dubbing"
+}

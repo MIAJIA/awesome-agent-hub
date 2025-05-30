@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To manage tasks and enable communication between AI agents through a standardized protocol.",
+  "principle": "Utilizes the Agent2Agent (A2A) protocol to enable seamless task delegation and coordination among AI agents.",
+  "reusability": "Offers a modular architecture with API support for easy integration into existing AI systems, allowing for plug-and-play task management capabilities.",
+  "limitations": "Currently in alpha stage, which may involve incomplete features and potential bugs. Limited to environments supporting TypeScript.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "elkar-a2a",
+  "slug": "elkar-ai-elkar-a2a",
+  "description": "Elkar - Task management for AI Agents, ready for Agent2Agent (A2A) protocol",
+  "repository": "https://github.com/elkar-ai/elkar-a2a",
+  "stars": 120,
+  "originator": "elkar-ai",
+  "tags": [
+    "a2a",
+    "a2a-protocol",
+    "agent2agent",
+    "ai-agent",
+    "ai-agents",
+    "llm",
+    "task-management"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-21",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/elkar-ai/elkar-a2a#readme",
+    "https://github.com/elkar-ai/elkar-a2a/wiki"
+  ],
+  "highlight": "Facilitates task management and coordination between AI agents using the Agent2Agent (A2A) protocol."
+}

@@ -1,0 +1,40 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Assist HR departments by autonomously answering user queries using integrated tools and AI models",
+  "principle": "Leverages natural language processing and tool integration for query understanding and response generation",
+  "reusability": "Can be integrated into HR systems via APIs, allows customization of query handling through configuration",
+  "limitations": "Limited to predefined HR-related queries, requires setup of tools for full functionality",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "Flask"
+  ],
+  "name": "autonomous-hr-chatbot",
+  "slug": "stepanogil-autonomous-hr-chatbot-1",
+  "description": "An autonomous HR agent that can answer user queries using tools",
+  "repository": "https://github.com/stepanogil/autonomous-hr-chatbot",
+  "stars": 398,
+  "originator": "stepanogil",
+  "tags": [
+    "agent",
+    "ai",
+    "autonomous-agents",
+    "langchain",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-30",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/stepanogil/autonomous-hr-chatbot/blob/main/README.md",
+    "https://github.com/stepanogil/autonomous-hr-chatbot/wiki"
+  ]
+}

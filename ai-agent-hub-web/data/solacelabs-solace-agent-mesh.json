@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To build and orchestrate multi-agent AI systems using an event-driven framework.",
+  "principle": "Leverages event-driven architecture to facilitate agent coordination and interaction with external systems.",
+  "reusability": "Modular design with APIs for easy integration into existing systems, supports plug-and-play agent components.",
+  "limitations": "Currently in alpha stage, may lack full stability and feature completeness; limited documentation on scaling and performance.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "Docker"
+  ],
+  "name": "solace-agent-mesh",
+  "slug": "solacelabs-solace-agent-mesh",
+  "description": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.",
+  "repository": "https://github.com/SolaceLabs/solace-agent-mesh",
+  "stars": 189,
+  "originator": "SolaceLabs",
+  "tags": [
+    "agentframework",
+    "agents",
+    "ai",
+    "ai-agents",
+    "event-driven-architecture",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/SolaceLabs/solace-agent-mesh/blob/main/README.md",
+    "https://github.com/SolaceLabs/solace-agent-mesh/wiki"
+  ],
+  "highlight": "Seamless integration of AI agents with real-world data sources for orchestrating complex, multi-step workflows."
+}

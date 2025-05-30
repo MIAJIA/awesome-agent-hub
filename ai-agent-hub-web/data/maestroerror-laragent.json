@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Empower Laravel developers to easily integrate and manage AI agents within their applications",
+  "principle": "Builds on Laravel's service container and middleware to provide a flexible and extendable AI agent integration framework",
+  "reusability": "Designed as a Laravel package, it can be easily integrated into existing Laravel applications with support for custom agent configurations",
+  "limitations": "Currently in alpha stage, may have limited documentation and feature set; primarily targets Laravel-based projects",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "PHP",
+    "Laravel"
+  ],
+  "name": "LarAgent",
+  "slug": "maestroerror-laragent",
+  "description": "Power of AI Agents in your Laravel project",
+  "repository": "https://github.com/MaestroError/LarAgent",
+  "stars": 295,
+  "originator": "MaestroError",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "PHP",
+  "useful_links": [
+    "https://github.com/MaestroError/LarAgent#readme",
+    "https://github.com/MaestroError/LarAgent/wiki"
+  ],
+  "highlight": "Seamlessly integrates AI agents into Laravel projects, enhancing application capabilities with minimal setup"
+}

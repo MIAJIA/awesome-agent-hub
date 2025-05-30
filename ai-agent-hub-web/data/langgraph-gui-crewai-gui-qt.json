@@ -1,0 +1,44 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To provide a user-friendly interface for designing and managing AI workflows using a node-based system",
+  "principle": "Built on PySide6 and Qt for a graphical interface, integrating with CrewAI for workflow automation",
+  "reusability": "Designed to be extensible with plugins, allowing integration with various AI models and workflows",
+  "limitations": "Currently in alpha stage, may have incomplete features and potential stability issues",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "PySide6",
+    "Qt"
+  ],
+  "name": "CrewAI-GUI-Qt",
+  "slug": "langgraph-gui-crewai-gui-qt",
+  "description": "A Node-Based Frontend for CrewAI: Revolutionizing AI Workflow Creation",
+  "repository": "https://github.com/LangGraph-GUI/CrewAI-GUI-Qt",
+  "stars": 183,
+  "originator": "LangGraph-GUI",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "crewai",
+    "gui",
+    "pyside",
+    "pyside6",
+    "pyside6-examples",
+    "qt"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-05",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/LangGraph-GUI/CrewAI-GUI-Qt/blob/main/README.md",
+    "https://github.com/LangGraph-GUI/CrewAI-GUI-Qt/wiki"
+  ],
+  "highlight": "Node-based GUI for creating AI workflows with CrewAI integration"
+}

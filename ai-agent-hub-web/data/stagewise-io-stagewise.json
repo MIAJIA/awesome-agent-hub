@@ -1,0 +1,46 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates seamless interaction between code editors and web browsers to enhance developer productivity.",
+  "principle": "Integrates with code editors and uses browser extensions to provide context-aware suggestions and interactions.",
+  "reusability": "Open-source and easily integrable with popular frameworks like React, Next.js, Vue, and Nuxt.js. Provides plugins for VSCode.",
+  "limitations": "Currently in alpha, may have limited stability and feature set. Primarily supports popular JavaScript frameworks.",
+  "platforms": [
+    "Web",
+    "VSCode"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Vue",
+    "Nuxt.js",
+    "VSCode"
+  ],
+  "name": "stagewise",
+  "slug": "stagewise-io-stagewise",
+  "description": "What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js",
+  "repository": "https://github.com/stagewise-io/stagewise",
+  "stars": 2453,
+  "originator": "stagewise-io",
+  "tags": [
+    "code-editor",
+    "cursor",
+    "cursor-ai",
+    "ide",
+    "vscode",
+    "vscode-extension",
+    "windsurf",
+    "windsurf-extension"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-26",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/stagewise-io/stagewise#readme",
+    "https://github.com/stagewise-io/stagewise/wiki",
+    "https://github.com/stagewise-io/stagewise/issues"
+  ],
+  "highlight": "Enables interaction with the browser by integrating code editors and AI tools like Cursor, Github Copilot, and Windsurf."
+}

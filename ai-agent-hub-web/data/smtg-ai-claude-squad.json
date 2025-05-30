@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Manage and coordinate multiple AI agents for increased productivity in coding and development tasks",
+  "principle": "Utilizes a command-line interface to integrate and manage AI agents like Claude Code, Aider, Codex, and Amp",
+  "reusability": "Offers a CLI tool for easy integration and management of various AI agents, allowing for flexible usage in different development environments",
+  "limitations": "Currently in alpha stage, may have limited features and stability issues",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Go",
+    "CLI"
+  ],
+  "name": "claude-squad",
+  "slug": "smtg-ai-claude-squad",
+  "description": "Manage multiple AI agents like Claude Code, Aider, Codex, and Amp. 10x your productivity",
+  "repository": "https://github.com/smtg-ai/claude-squad",
+  "stars": 828,
+  "originator": "smtg-ai",
+  "tags": [
+    "aider",
+    "claude-code",
+    "cli",
+    "codex",
+    "vibe-coding"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/smtg-ai/claude-squad/blob/main/README.md",
+    "https://github.com/smtg-ai/claude-squad/wiki"
+  ],
+  "highlight": "Orchestrates multiple AI agents to enhance productivity and streamline workflows"
+}

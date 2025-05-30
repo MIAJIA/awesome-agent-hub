@@ -1,0 +1,39 @@
+{
+  "category": "commerce",
+  "status": "alpha",
+  "purpose": "Enable developers to submit and manage MCP servers for inclusion in Cline's MCP Marketplace, facilitating discoverability and installation by developers.",
+  "principle": "Operates as a submission and management platform for MCP servers, integrating with Cline's ecosystem for server discovery and installation.",
+  "reusability": "Provides a structured process for server submission to be listed in the marketplace, potentially supporting API-based submissions in the future.",
+  "limitations": "Currently limited to MCP server submissions; requires adherence to submission guidelines and approval process.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "mcp-marketplace",
+  "slug": "cline-mcp-marketplace",
+  "description": "This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of developers using Cline, submit your server here.",
+  "repository": "https://github.com/cline/mcp-marketplace",
+  "stars": 611,
+  "originator": "cline",
+  "tags": [
+    "MCP",
+    "marketplace",
+    "server",
+    "submission",
+    "Cline"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-24",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/cline/mcp-marketplace/blob/main/README.md",
+    "https://github.com/cline/mcp-marketplace/wiki"
+  ],
+  "highlight": "Official repository for submitting and managing MCP servers in Cline's marketplace ecosystem."
+}

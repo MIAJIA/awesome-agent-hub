@@ -1,0 +1,41 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "Facilitate secure and efficient interactions with blockchain technologies, including cryptocurrency swaps and strategic financial planning.",
+  "principle": "Built on Python, leveraging blockchain APIs and cryptocurrency trading strategies to provide a robust server for financial interactions.",
+  "reusability": "Offers APIs for blockchain interactions and trading strategies, suitable for integration into cryptocurrency trading platforms and wallet applications.",
+  "limitations": "Alpha stage with potential stability issues; limited to supported cryptocurrencies and blockchain networks.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Blockchain APIs",
+    "Cryptocurrency trading libraries"
+  ],
+  "name": "armor-crypto-mcp",
+  "slug": "armorwallet-armor-crypto-mcp",
+  "description": "The MCP server for interacting with Blockchain, Swaps, Strategic Planning and more.",
+  "repository": "https://github.com/armorwallet/armor-crypto-mcp",
+  "stars": 136,
+  "originator": "armorwallet",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "cryptocurrency",
+    "mcp",
+    "tradingbot",
+    "wallet"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/armorwallet/armor-crypto-mcp/blob/main/README.md",
+    "https://github.com/armorwallet/armor-crypto-mcp/wiki"
+  ],
+  "highlight": "Comprehensive server for blockchain interaction and strategic planning with a focus on cryptocurrency trading and wallet management."
+}

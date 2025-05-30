@@ -1,0 +1,51 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To educate individuals on Generative AI techniques and tools, ranging from ML fundamentals to advanced topics like LLMs and AI agents",
+  "principle": "Provides structured tutorials and practical exercises using Jupyter Notebooks to teach various AI and ML concepts",
+  "reusability": "Open-source educational content that can be reused and adapted for different learning paths; supports integration with various AI frameworks",
+  "limitations": "Requires a basic understanding of Python and machine learning concepts; self-paced format may not suit all learners",
+  "platforms": [
+    "Jupyter Notebook",
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "LangChain",
+    "LangGraph",
+    "Llama"
+  ],
+  "name": "AI-Bootcamp",
+  "slug": "curiousily-ai-bootcamp",
+  "description": "Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)",
+  "repository": "https://github.com/curiousily/AI-Bootcamp",
+  "stars": 572,
+  "originator": "curiousily",
+  "tags": [
+    "artificial-intelligence",
+    "chatgpt",
+    "crewai",
+    "langchain",
+    "langgraph",
+    "large-language-models",
+    "llama",
+    "machine-learning",
+    "ollama",
+    "prompt-engineering",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-06",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/curiousily/AI-Bootcamp/blob/main/README.md",
+    "https://github.com/curiousily/AI-Bootcamp/tree/main/tutorials",
+    "https://github.com/curiousily/AI-Bootcamp/issues",
+    "https://github.com/curiousily/AI-Bootcamp/wiki"
+  ],
+  "highlight": "Comprehensive self-paced bootcamp with tutorials on cutting-edge Generative AI techniques and tools"
+}

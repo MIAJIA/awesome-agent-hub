@@ -1,0 +1,42 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitates therapeutic reasoning by integrating various tools and AI models to support precision medicine",
+  "principle": "Builds on a modular architecture allowing integration of different AI models and therapeutic tools to enhance decision-making in medical treatments",
+  "reusability": "Designed for extensibility with a plugin-based architecture, allowing easy integration of new tools and models",
+  "limitations": "Currently in alpha stage, limited to specific therapeutic domains, requires domain expertise for effective use",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "Flask",
+    "Hugging Face Transformers"
+  ],
+  "name": "TxAgent",
+  "slug": "mims-harvard-txagent",
+  "description": "TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools",
+  "repository": "https://github.com/mims-harvard/TxAgent",
+  "stars": 452,
+  "originator": "mims-harvard",
+  "tags": [
+    "agents",
+    "precision-medicine",
+    "reasoning-agent",
+    "reasoning-language-models",
+    "therapeutics",
+    "tool-use"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/mims-harvard/TxAgent#readme",
+    "https://github.com/mims-harvard/TxAgent/wiki",
+    "https://github.com/mims-harvard/TxAgent/issues"
+  ],
+  "highlight": "Integrates multiple therapeutic tools and reasoning models for precision medicine"
+}

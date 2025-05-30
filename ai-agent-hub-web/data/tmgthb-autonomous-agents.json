@@ -1,0 +1,44 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive and up-to-date collection of research papers related to Autonomous Agents and LLMs.",
+  "principle": "Aggregates and curates research papers from various sources, focusing on advancements in autonomous agents and LLMs.",
+  "reusability": "Serves as a reference repository for researchers and developers interested in autonomous agents and LLMs.",
+  "limitations": "Primarily a static collection of research papers with no interactive features or real-time updates beyond daily additions.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "GitHub"
+  ],
+  "name": "Autonomous-Agents",
+  "slug": "tmgthb-autonomous-agents",
+  "description": "Autonomous Agents (LLMs) research papers. Updated Daily.",
+  "repository": "https://github.com/tmgthb/Autonomous-Agents",
+  "stars": 817,
+  "originator": "tmgthb",
+  "tags": [
+    "agent",
+    "agentic",
+    "agents",
+    "ai",
+    "ai-agents",
+    "aiagent",
+    "aiagents",
+    "autonomous-agents",
+    "embodied-agent",
+    "generalist-agent",
+    "llm",
+    "llm-agents",
+    "llmagents",
+    "research-paper"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/tmgthb/Autonomous-Agents"
+  ],
+  "highlight": "Daily updated repository of research papers on Autonomous Agents and Large Language Models (LLMs)."
+}

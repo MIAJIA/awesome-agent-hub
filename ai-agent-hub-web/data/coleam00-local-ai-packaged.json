@@ -1,0 +1,36 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a cohesive environment for running various local AI applications and services seamlessly.",
+  "principle": "Integrates multiple AI tools and services into a single package using Docker containers for easy deployment and management.",
+  "reusability": "Offers Docker-based deployment for easy integration and setup, allowing users to run multiple AI services with minimal configuration.",
+  "limitations": "Primarily designed for local deployment, may require significant resources depending on the AI models and services used.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Docker",
+    "Supabase",
+    "n8n",
+    "Open WebUI"
+  ],
+  "name": "local-ai-packaged",
+  "slug": "coleam00-local-ai-packaged",
+  "description": "Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!",
+  "repository": "https://github.com/coleam00/local-ai-packaged",
+  "stars": 1147,
+  "originator": "coleam00",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/coleam00/local-ai-packaged/blob/main/README.md",
+    "https://github.com/coleam00/local-ai-packaged/wiki",
+    "https://github.com/coleam00/local-ai-packaged/issues"
+  ],
+  "highlight": "Unified package for running multiple local AI tools together with minimal setup."
+}

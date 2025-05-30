@@ -1,0 +1,50 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Optimize and enhance the performance of AI agents through generative methods",
+  "principle": "Utilizes generative optimization techniques to improve agent workflows and decision-making processes",
+  "reusability": "Designed as a modular framework allowing integration with existing AI systems and workflows",
+  "limitations": "In early stages of development, primarily focused on theoretical models with limited real-world testing",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "NumPy",
+    "SciPy"
+  ],
+  "name": "Trace",
+  "slug": "microsoft-trace",
+  "description": "End-to-end Generative Optimization for AI Agents",
+  "repository": "https://github.com/microsoft/Trace",
+  "stars": 575,
+  "originator": "microsoft",
+  "tags": [
+    "agentic-agi",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "autodiff",
+    "compound-systems",
+    "end-to-end",
+    "generative-optimization",
+    "large-language-models",
+    "llm",
+    "machine-learning",
+    "optimization",
+    "optimizer",
+    "prompt-optimization",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/Trace/blob/main/README.md",
+    "https://github.com/microsoft/Trace/tree/main/docs"
+  ],
+  "highlight": "End-to-end generative optimization for AI agent workflows"
+}

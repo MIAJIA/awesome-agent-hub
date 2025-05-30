@@ -1,0 +1,42 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "To provide a decentralized platform for secure and efficient value transactions, enabling blockchain and cryptocurrency applications.",
+  "principle": "Built on a blockchain architecture using Java and Lisp, focusing on decentralized transactions and smart contract execution.",
+  "reusability": "Offers APIs for blockchain interactions, supports integration with decentralized applications (dApps) and smart contracts.",
+  "limitations": "Currently in alpha stage, may have stability and performance issues, limited documentation on advanced features.",
+  "platforms": [
+    "Cross-platform",
+    "Java Virtual Machine (JVM)"
+  ],
+  "stack": [
+    "Java",
+    "Lisp",
+    "Blockchain"
+  ],
+  "name": "convex",
+  "slug": "convex-dev-convex",
+  "description": "Convex Main Repository - Decentralised platform for the Internet of Value",
+  "repository": "https://github.com/Convex-Dev/convex",
+  "stars": 101,
+  "originator": "Convex-Dev",
+  "tags": [
+    "blockchain",
+    "cryptocurrency",
+    "database",
+    "gaming",
+    "java",
+    "lisp",
+    "metaverse"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-21",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/Convex-Dev/convex/blob/main/README.md",
+    "https://github.com/Convex-Dev/convex/wiki",
+    "https://github.com/Convex-Dev/convex/blob/main/LICENSE"
+  ],
+  "highlight": "Decentralized platform designed for the Internet of Value, focusing on blockchain and cryptocurrency applications."
+}

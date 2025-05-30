@@ -1,0 +1,32 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide educational resources and practical exercises for learning about large language model engineering",
+  "principle": "Utilizes Jupyter Notebooks and Python to deliver interactive learning experiences and hands-on coding exercises",
+  "reusability": "Course materials can be reused for educational purposes and adapted for different learning environments",
+  "limitations": "Primarily focused on educational content; not a standalone software application",
+  "platforms": [
+    "Cross-platform",
+    "Jupyter"
+  ],
+  "stack": [
+    "Jupyter Notebook",
+    "Python"
+  ],
+  "name": "LLM-Engineering-Essentials",
+  "slug": "nebius-academy-llm-engineering-essentials",
+  "description": "Materials for the LLM Engineering Essentials course",
+  "repository": "https://github.com/Nebius-Academy/LLM-Engineering-Essentials",
+  "stars": 558,
+  "originator": "Nebius-Academy",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/Nebius-Academy/LLM-Engineering-Essentials/blob/main/README.md",
+    "https://github.com/Nebius-Academy/LLM-Engineering-Essentials/tree/main/notebooks"
+  ],
+  "highlight": "Comprehensive course materials for mastering LLM engineering practices"
+}

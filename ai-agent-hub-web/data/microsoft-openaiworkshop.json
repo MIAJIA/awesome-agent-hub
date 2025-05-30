@@ -1,0 +1,40 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide educational resources and interactive workshops to build intelligent solutions using OpenAI technologies",
+  "principle": "Leverages OpenAI's APIs and Azure Cognitive Services for hands-on learning experiences in AI and machine learning",
+  "reusability": "Includes modular workshop materials and examples that can be reused or adapted for educational purposes and training sessions",
+  "limitations": "Primarily focused on educational use; requires access to OpenAI and Azure services for full functionality",
+  "platforms": [
+    "Azure",
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI API",
+    "Azure Cognitive Services"
+  ],
+  "name": "OpenAIWorkshop",
+  "slug": "microsoft-openaiworkshop",
+  "description": "workshop materials to build intelligent solutions on Open AI",
+  "repository": "https://github.com/microsoft/OpenAIWorkshop",
+  "stars": 582,
+  "originator": "microsoft",
+  "tags": [
+    "azure",
+    "cognitive-services",
+    "machine-learning",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-13",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/OpenAIWorkshop/blob/main/README.md",
+    "https://github.com/microsoft/OpenAIWorkshop/wiki",
+    "https://github.com/microsoft/OpenAIWorkshop/tree/main/examples"
+  ],
+  "highlight": "Interactive workshops and tutorials for building AI solutions with OpenAI and Azure"
+}

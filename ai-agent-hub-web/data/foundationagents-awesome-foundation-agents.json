@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To serve as a curated collection of resources related to foundation agents, facilitating research and development in this domain",
+  "principle": "Aggregates resources and information relevant to the study and development of foundation agents",
+  "reusability": "Can be used as a reference for researchers and developers interested in foundation agents; provides links to various resources",
+  "limitations": "Primarily a static collection of links and resources without direct integration or API support",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-foundation-agents",
+  "slug": "foundationagents-awesome-foundation-agents",
+  "description": "About Awesome things towards foundation agents. Papers / Repos / Blogs / ...",
+  "repository": "https://github.com/FoundationAgents/awesome-foundation-agents",
+  "stars": 1359,
+  "originator": "FoundationAgents",
+  "tags": [
+    "foundation agents",
+    "resources",
+    "research",
+    "development"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-11",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/FoundationAgents/awesome-foundation-agents#readme"
+  ],
+  "highlight": "Comprehensive resource repository for foundation agents, including papers, repositories, and blogs"
+}

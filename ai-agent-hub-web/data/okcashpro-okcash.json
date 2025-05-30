@@ -1,0 +1,47 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "Facilitate decentralized cryptocurrency transactions and community engagement through the use of AI agents.",
+  "principle": "Built on blockchain technology with AI agents to enhance transaction efficiency and community interaction.",
+  "reusability": "Open-source with an MIT license, allowing for integration into various cryptocurrency and blockchain projects.",
+  "limitations": "Primarily focused on the OK cryptocurrency ecosystem, may not support other cryptocurrencies directly.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "C++",
+    "Blockchain"
+  ],
+  "name": "okcash",
+  "slug": "okcashpro-okcash",
+  "description": "OK | Every voice, every meme, every transaction makes $OK stronger and more vibrant. Powered by all of us—and now, AI agents. OK is not just OK — it’s $OK. $OK?",
+  "repository": "https://github.com/okcashpro/okcash",
+  "stars": 426,
+  "originator": "okcashpro",
+  "tags": [
+    "agents",
+    "ai",
+    "coin",
+    "crypto",
+    "cryptocurrency",
+    "defi",
+    "iot",
+    "ok",
+    "okai",
+    "okcash",
+    "oktoken",
+    "token",
+    "wallet"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-12-23",
+  "language": "C++",
+  "useful_links": [
+    "https://github.com/okcashpro/okcash/wiki",
+    "https://github.com/okcashpro/okcash/releases"
+  ],
+  "highlight": "Empowers community-driven cryptocurrency transactions with AI agent integration."
+}

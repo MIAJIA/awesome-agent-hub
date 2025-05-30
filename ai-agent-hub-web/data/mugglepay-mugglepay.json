@@ -1,0 +1,50 @@
+{
+  "category": "payment",
+  "status": "alpha",
+  "purpose": "Facilitates cryptocurrency payment processing for merchants and AI agents, allowing them to accept a wide range of cryptocurrencies.",
+  "principle": "Integrates with popular e-commerce platforms like Shopify and WHMCS, utilizing JavaScript for seamless crypto transactions.",
+  "reusability": "Offers easy integration with existing e-commerce platforms through plugins and APIs, supporting multiple cryptocurrencies.",
+  "limitations": "Limited to merchants using supported platforms; requires understanding of cryptocurrency handling and regulations.",
+  "platforms": [
+    "Shopify",
+    "WHMCS"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Shopify API",
+    "WHMCS"
+  ],
+  "name": "MugglePay",
+  "slug": "mugglepay-mugglepay",
+  "description": "Make Payments Crypto Native. MugglePay makes merchants and AI agents accept crypto and sell more with it.",
+  "repository": "https://github.com/MugglePay/MugglePay",
+  "stars": 221,
+  "originator": "MugglePay",
+  "tags": [
+    "ai",
+    "aiagent",
+    "aiagents",
+    "bch",
+    "btc",
+    "crypto",
+    "cryptocurrency",
+    "eos",
+    "ltc",
+    "payment-gateway",
+    "payments",
+    "shopify",
+    "usdt",
+    "whmcs"
+  ],
+  "open_source": true,
+  "license": "BSD-2-Clause",
+  "last_updated": "2025-04-18",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/MugglePay/MugglePay#readme",
+    "https://github.com/MugglePay/MugglePay/wiki",
+    "https://github.com/MugglePay/MugglePay/issues"
+  ],
+  "highlight": "Enables merchants to accept cryptocurrency payments seamlessly, enhancing their sales potential."
+}

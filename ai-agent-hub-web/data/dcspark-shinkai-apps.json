@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates quick deployment and management of AI agents locally and remotely.",
+  "principle": "Provides a user-friendly interface to set up and manage AI agents, leveraging MCP (Multi-Channel Protocol) for exposure.",
+  "reusability": "Offers an MCP Server for integrating and managing agents and tools, allowing for easy extensibility and customization.",
+  "limitations": "Currently in alpha stage, may have limited features and potential stability issues.",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Electron",
+    "React"
+  ],
+  "name": "shinkai-apps",
+  "slug": "dcspark-shinkai-apps",
+  "description": "Shinkai is a two click install AI manager (Local and Remote) that allows you to create AI agents in 5 minutes or less using a simple UI.  Agents and tools are exposed as an MCP Server.",
+  "repository": "https://github.com/dcSpark/shinkai-apps",
+  "stars": 258,
+  "originator": "dcSpark",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "chatgpt",
+    "inference-ui",
+    "llm",
+    "llms",
+    "local-ai",
+    "mcp",
+    "mcp-server",
+    "ollama"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/dcSpark/shinkai-apps#readme",
+    "https://github.com/dcSpark/shinkai-apps/wiki",
+    "https://github.com/dcSpark/shinkai-apps/issues"
+  ],
+  "highlight": "Two-click install AI manager for rapid creation of AI agents with a simple UI."
+}

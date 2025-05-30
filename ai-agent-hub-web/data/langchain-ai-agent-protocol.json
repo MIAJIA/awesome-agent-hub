@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and management of AI agents using a standardized protocol",
+  "principle": "Leverages the LangChain framework to enable seamless integration and orchestration of AI agents",
+  "reusability": "Offers a standardized protocol for agent interaction, supports integration with various AI models and tools",
+  "limitations": "Still in early development; limited documentation and examples available",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "FastAPI"
+  ],
+  "name": "agent-protocol",
+  "slug": "langchain-ai-agent-protocol",
+  "description": "N/A",
+  "repository": "https://github.com/langchain-ai/agent-protocol",
+  "stars": 356,
+  "originator": "langchain-ai",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-15",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/langchain-ai/agent-protocol#readme",
+    "https://github.com/langchain-ai/agent-protocol/issues",
+    "https://github.com/langchain-ai/agent-protocol/pulls"
+  ]
+}

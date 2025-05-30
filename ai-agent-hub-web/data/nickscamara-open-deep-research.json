@@ -1,0 +1,37 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitate deep research and analysis by processing and reasoning over extensive web data",
+  "principle": "Utilizes AI techniques to analyze and synthesize large volumes of web data for research purposes",
+  "reusability": "Designed to be integrated with data extraction tools like Firecrawl, offering extensibility for custom research applications",
+  "limitations": "Primarily focused on web data; may require significant computational resources for large datasets",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Firecrawl"
+  ],
+  "name": "open-deep-research",
+  "slug": "nickscamara-open-deep-research",
+  "description": "An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl",
+  "repository": "https://github.com/nickscamara/open-deep-research",
+  "stars": 5646,
+  "originator": "nickscamara",
+  "tags": [
+    "AI",
+    "research",
+    "data-analysis",
+    "web-crawling"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-07",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/nickscamara/open-deep-research#readme"
+  ],
+  "highlight": "AI agent capable of reasoning over large datasets extracted from the web using Firecrawl"
+}

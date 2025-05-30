@@ -1,0 +1,38 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Facilitates user interaction with LangGraph agents through a chat interface, enhancing accessibility and usability",
+  "principle": "Built on a web application framework using TypeScript and integrates with LangGraph for agent communication",
+  "reusability": "Designed as a web app component, it can be integrated into existing web projects to enable chat-based interactions with LangGraph agents",
+  "limitations": "Currently in alpha stage, may have limited features and stability; primarily supports interactions with LangGraph agents",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js"
+  ],
+  "name": "agent-chat-ui",
+  "slug": "langchain-ai-agent-chat-ui",
+  "description": "🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface.",
+  "repository": "https://github.com/langchain-ai/agent-chat-ui",
+  "stars": 832,
+  "originator": "langchain-ai",
+  "tags": [
+    "agent",
+    "chat",
+    "langgraph",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-20",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/langchain-ai/agent-chat-ui/blob/main/README.md",
+    "https://github.com/langchain-ai/agent-chat-ui/issues",
+    "https://github.com/langchain-ai/agent-chat-ui/wiki"
+  ],
+  "highlight": "Interactive web-based chat interface for engaging with LangGraph agents using Python and TypeScript"
+}

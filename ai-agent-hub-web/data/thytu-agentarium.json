@@ -1,0 +1,32 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To create and manage simulations populated with AI-powered agents that can act, learn, and evolve in interactive environments",
+  "principle": "Utilizes Python for building multi-agent systems and simulations with support for agent learning and evolution",
+  "reusability": "Modular architecture allows for easy integration and extension of agent behaviors and environments; supports plug-and-play components",
+  "limitations": "Currently in alpha stage with potential stability issues; may have limited documentation and community support",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python"
+  ],
+  "name": "Agentarium",
+  "slug": "thytu-agentarium",
+  "description": "open-source framework for creating and managing simulations populated with AI-powered agents. It provides an intuitive platform for designing complex, interactive environments where agents can act, learn, and evolve.",
+  "repository": "https://github.com/Thytu/Agentarium",
+  "stars": 917,
+  "originator": "Thytu",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-01-30",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Thytu/Agentarium#readme",
+    "https://github.com/Thytu/Agentarium/wiki"
+  ],
+  "highlight": "Intuitive framework for designing and managing complex, interactive simulations with AI-powered agents"
+}

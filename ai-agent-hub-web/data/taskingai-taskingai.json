@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development and deployment of AI-native applications by providing tools and frameworks for integrating large language models.",
+  "principle": "Builds on large language models (LLMs) and retrieval-augmented generation (RAG) methods to enable AI-powered application development.",
+  "reusability": "Offers modular components and APIs for easy integration into existing systems, supports plugin architecture for extensibility.",
+  "limitations": "Primarily supports Python ecosystem, requires familiarity with AI/ML concepts, and may have performance constraints with very large datasets.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "Vector databases"
+  ],
+  "name": "TaskingAI",
+  "slug": "taskingai-taskingai",
+  "description": "The open source platform for AI-native application development.",
+  "repository": "https://github.com/TaskingAI/TaskingAI",
+  "stars": 5122,
+  "originator": "TaskingAI",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-native",
+    "function-call",
+    "generative-ai",
+    "gpt",
+    "langchain",
+    "llm",
+    "rag",
+    "retrieval-augmented-generation",
+    "vector"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-12-02",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/TaskingAI/TaskingAI#readme",
+    "https://github.com/TaskingAI/TaskingAI/wiki",
+    "https://github.com/TaskingAI/TaskingAI/issues",
+    "https://github.com/TaskingAI/TaskingAI/discussions"
+  ],
+  "highlight": "A platform for developing AI-native applications leveraging advanced LLM capabilities."
+}

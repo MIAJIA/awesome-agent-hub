@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To facilitate the development of complex, stateful applications that leverage large language models (LLMs) in Java environments.",
+  "principle": "Builds on Java frameworks such as Spring AI and Langchain4j to provide a structured approach for integrating LLMs into multi-actor systems.",
+  "reusability": "Designed for integration with existing Java applications, can be extended or customized through its API, and works seamlessly with Langchain4j.",
+  "limitations": "Primarily focused on Java environments and may require additional setup for non-Java integrations. Limited documentation on specific use cases.",
+  "platforms": [
+    "Java Runtime Environment"
+  ],
+  "stack": [
+    "Java",
+    "Spring AI",
+    "Langchain4j"
+  ],
+  "name": "langgraph4j",
+  "slug": "bsorrentino-langgraph4j",
+  "description": "🚀 LangGraph for Java. A library for building stateful, multi-actor applications with LLMs, built for work jointly with Langchain4j and Spring AI",
+  "repository": "https://github.com/bsorrentino/langgraph4j",
+  "stars": 522,
+  "originator": "bsorrentino",
+  "tags": [
+    "agents",
+    "ai",
+    "langchain4j",
+    "langgraph4j"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/bsorrentino/langgraph4j#readme",
+    "https://github.com/bsorrentino/langgraph4j/wiki",
+    "https://github.com/bsorrentino/langgraph4j/issues"
+  ],
+  "highlight": "Enables the creation of stateful, multi-actor applications using LLMs in Java, integrated with Langchain4j and Spring AI."
+}

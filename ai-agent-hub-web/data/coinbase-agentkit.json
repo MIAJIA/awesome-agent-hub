@@ -1,0 +1,34 @@
+{
+  "category": "payment",
+  "status": "alpha",
+  "purpose": "Provide AI agents with the ability to manage cryptocurrency transactions and wallet functionalities.",
+  "principle": "Builds on blockchain technology to enable secure and efficient crypto wallet operations for AI systems.",
+  "reusability": "Offers a modular API for integrating wallet functions into various AI agents, allowing seamless crypto transaction capabilities.",
+  "limitations": "Currently supports limited cryptocurrency networks; requires integration with specific blockchain platforms.",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Blockchain"
+  ],
+  "name": "agentkit",
+  "slug": "coinbase-agentkit",
+  "description": "Every AI Agent deserves a wallet.",
+  "repository": "https://github.com/coinbase/agentkit",
+  "stars": 722,
+  "originator": "coinbase",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/coinbase/agentkit#readme",
+    "https://github.com/coinbase/agentkit/wiki",
+    "https://github.com/coinbase/agentkit/issues"
+  ],
+  "highlight": "Empowers AI agents with cryptocurrency wallet capabilities."
+}

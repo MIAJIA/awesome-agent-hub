@@ -1,0 +1,56 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of custom AI agents and tools directly from the terminal.",
+  "principle": "Leverages Python and various AI/ML libraries to enable agent functionality, focusing on interactivity and tool integration.",
+  "reusability": "Designed to be extensible with a modular architecture, allowing users to build and customize their own agents.",
+  "limitations": "As an alpha release, it may have limited documentation and stability; primarily suited for experimentation.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Anthropic",
+    "Litellm",
+    "OpenTelemetry"
+  ],
+  "name": "agent-builder",
+  "slug": "strands-agents-agent-builder",
+  "description": "An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.",
+  "repository": "https://github.com/strands-agents/agent-builder",
+  "stars": 104,
+  "originator": "strands-agents",
+  "tags": [
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "anthropic",
+    "autonomous-agents",
+    "bedrock",
+    "genai",
+    "litellm",
+    "llama",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "multi-agent-systems",
+    "ollama",
+    "openai",
+    "opentelemetry",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/strands-agents/agent-builder/blob/main/README.md",
+    "https://github.com/strands-agents/agent-builder/issues",
+    "https://github.com/strands-agents/agent-builder/wiki"
+  ],
+  "highlight": "Interactive agent builder that demonstrates streaming, tool use, and terminal interactivity."
+}

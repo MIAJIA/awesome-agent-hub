@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To serve as a centralized repository of information, tools, and research on the emerging field of Large Language Model Operating Systems.",
+  "principle": "Curated list format, aggregating links and descriptions of relevant resources, tools, and research papers.",
+  "reusability": "Open source and community-driven, allowing for contributions and updates by users interested in LLM-OS.",
+  "limitations": "Dependent on community contributions for updates; may not cover all existing or new resources comprehensively.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-llm-os",
+  "slug": "bilalonur-awesome-llm-os",
+  "description": "A curated list of awesome resources, tools, research papers, and projects related to the concept of Large Language Model Operating Systems (LLM-OS).",
+  "repository": "https://github.com/bilalonur/awesome-llm-os",
+  "stars": 105,
+  "originator": "bilalonur",
+  "tags": [
+    "agent",
+    "awesome",
+    "awesome-list",
+    "computer-use",
+    "large-language-model",
+    "large-language-models",
+    "llm",
+    "llm-os",
+    "llmos",
+    "natural-language-processing",
+    "operating-systems"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-05",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/bilalonur/awesome-llm-os#readme"
+  ],
+  "highlight": "Comprehensive collection of resources and tools dedicated to Large Language Model Operating Systems (LLM-OS)."
+}

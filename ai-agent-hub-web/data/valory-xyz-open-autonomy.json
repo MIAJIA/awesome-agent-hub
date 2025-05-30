@@ -1,0 +1,51 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of autonomous agent services in decentralized networks.",
+  "principle": "Builds on the Autonomous Economic Agent (AEA) framework to enable multi-agent systems and decentralized applications.",
+  "reusability": "Highly modular with support for plugins and extensions, allowing easy customization and integration into decentralized ecosystems.",
+  "limitations": "Primarily focused on decentralized applications; may require familiarity with blockchain and multi-agent systems.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Open-AEA",
+    "Ethereum",
+    "IPFS"
+  ],
+  "name": "open-autonomy",
+  "slug": "valory-xyz-open-autonomy",
+  "description": "A framework for the creation of autonomous agent services.",
+  "repository": "https://github.com/valory-xyz/open-autonomy",
+  "stars": 101,
+  "originator": "valory-xyz",
+  "tags": [
+    "aea",
+    "agent-framework",
+    "agent-services",
+    "ai",
+    "ai-agents",
+    "autonomous-economic-agents",
+    "autonomy",
+    "cryptocurrencies",
+    "cryptocurrency",
+    "decentralized",
+    "decentralized-network",
+    "multi-agent",
+    "multi-agent-systems",
+    "open-aea",
+    "open-autonomy"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/valory-xyz/open-autonomy/blob/main/README.md",
+    "https://docs.autonolas.network/",
+    "https://forum.autonolas.network/"
+  ],
+  "highlight": "A comprehensive framework for building decentralized, autonomous economic agent services."
+}

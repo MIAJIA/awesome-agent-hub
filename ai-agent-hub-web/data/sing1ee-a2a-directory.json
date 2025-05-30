@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a directory and coordination platform for agents using the Agent2Agent protocol",
+  "principle": "Utilizes the A2A protocol to enable communication and coordination between different agent systems",
+  "reusability": "Designed to be a plug-and-play solution for developers implementing the A2A protocol, offering extensibility and integration with existing agent systems",
+  "limitations": "Limited to environments supporting the A2A protocol; primarily experimental with potential instability",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "a2a-directory",
+  "slug": "sing1ee-a2a-directory",
+  "description": "Agent2Agent (A2A) – AgentCards, Servers, Clients, Docs",
+  "repository": "https://github.com/sing1ee/a2a-directory",
+  "stars": 285,
+  "originator": "sing1ee",
+  "tags": [
+    "a2a",
+    "a2a-protocol",
+    "agent",
+    "agent2agent",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-24",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/sing1ee/a2a-directory/blob/main/README.md",
+    "https://github.com/sing1ee/a2a-directory/wiki"
+  ],
+  "highlight": "Facilitates interaction and coordination between agents using the A2A protocol"
+}

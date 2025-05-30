@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate AI agents in making informed decisions by providing secure data access and action tools.",
+  "principle": "Built on TypeScript, it leverages secure data handling and structured context for AI decision-making.",
+  "reusability": "Offers a modular architecture with API support for integration into various AI-driven workflows.",
+  "limitations": "Currently in alpha stage, may have stability and feature completeness issues.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "GraphQL"
+  ],
+  "name": "mcp",
+  "slug": "mondaycom-mcp",
+  "description": "Enable AI agents to work reliably - giving them secure access to structured data, tools to take action, and the context needed to make smart decisions.",
+  "repository": "https://github.com/mondaycom/mcp",
+  "stars": 202,
+  "originator": "mondaycom",
+  "tags": [
+    "agents",
+    "copilot",
+    "mcp",
+    "mcp-server",
+    "monday"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/mondaycom/mcp#readme",
+    "https://github.com/mondaycom/mcp/wiki",
+    "https://github.com/mondaycom/mcp/issues"
+  ],
+  "highlight": "Enables secure and reliable AI agent operations with structured data access and action tools."
+}

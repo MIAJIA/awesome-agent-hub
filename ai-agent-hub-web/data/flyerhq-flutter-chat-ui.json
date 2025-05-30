@@ -1,0 +1,42 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "To provide developers with a flexible and high-performance chat UI for creating real-time chat applications.",
+  "principle": "Built using the Flutter framework, leveraging Dart for cross-platform UI development.",
+  "reusability": "Easily integrated into Flutter projects as a widget, highly customizable with various UI components.",
+  "limitations": "Limited to applications built with Flutter; customization requires familiarity with Flutter and Dart.",
+  "platforms": [
+    "Android",
+    "iOS",
+    "Web"
+  ],
+  "stack": [
+    "Flutter",
+    "Dart"
+  ],
+  "name": "flutter_chat_ui",
+  "slug": "flyerhq-flutter-chat-ui",
+  "description": "Free and open-source chat SDK. Build fast, real-time apps and generative AI agents with a high-performance, customizable, cross-platform UI.",
+  "repository": "https://github.com/flyerhq/flutter_chat_ui",
+  "stars": 1861,
+  "originator": "flyerhq",
+  "tags": [
+    "android",
+    "chat",
+    "dart",
+    "flutter",
+    "ios",
+    "ui",
+    "widget"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Dart",
+  "useful_links": [
+    "https://github.com/flyerhq/flutter_chat_ui#readme",
+    "https://pub.dev/packages/flutter_chat_ui",
+    "https://flyer.chat"
+  ],
+  "highlight": "High-performance, customizable chat UI for building real-time apps across multiple platforms."
+}

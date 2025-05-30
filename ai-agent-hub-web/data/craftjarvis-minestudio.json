@@ -1,0 +1,44 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and training of AI agents within the Minecraft game world",
+  "principle": "Utilizes reinforcement learning and imitation learning techniques to train agents in an open-world environment",
+  "reusability": "Offers modular components and APIs for easy integration with custom Minecraft mods and scenarios",
+  "limitations": "Primarily focused on Minecraft, may lack generalization to other game environments; requires Minecraft setup",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "Minecraft"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Minecraft Forge",
+    "OpenAI Gym"
+  ],
+  "name": "MineStudio",
+  "slug": "craftjarvis-minestudio",
+  "description": "MineStudio: A Streamlined Package for Minecraft AI Agent Development",
+  "repository": "https://github.com/CraftJarvis/MineStudio",
+  "stars": 255,
+  "originator": "CraftJarvis",
+  "tags": [
+    "ai-agent",
+    "dataset",
+    "game",
+    "imitation-learning",
+    "minecraft",
+    "open-world",
+    "reinforcement-learning"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/CraftJarvis/MineStudio#readme",
+    "https://github.com/CraftJarvis/MineStudio/wiki",
+    "https://github.com/CraftJarvis/MineStudio/issues"
+  ],
+  "highlight": "Streamlined package for developing AI agents in Minecraft environments"
+}

@@ -1,0 +1,41 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To provide an open-source browser API for AI agents and applications, enabling web automation.",
+  "principle": "Built on a TypeScript-based framework, leveraging browser automation techniques to interact with web pages programmatically.",
+  "reusability": "Offers a comprehensive API for web automation, designed to be easily integrated into AI-driven applications.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential bugs. Limited to web-based interactions.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Puppeteer"
+  ],
+  "name": "steel-browser",
+  "slug": "steel-dev-steel-browser",
+  "description": "🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.",
+  "repository": "https://github.com/steel-dev/steel-browser",
+  "stars": 4548,
+  "originator": "steel-dev",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/steel-dev/steel-browser#readme",
+    "https://github.com/steel-dev/steel-browser/wiki",
+    "https://github.com/steel-dev/steel-browser/issues"
+  ],
+  "highlight": "A batteries-included browser API that automates web interactions without infrastructure concerns."
+}

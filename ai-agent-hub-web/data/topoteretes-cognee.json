@@ -1,0 +1,54 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a simple and efficient memory management system for AI agents using a graph-based approach",
+  "principle": "Utilizes Neo4j as a graph database to store and retrieve memory structures for AI agents, enabling efficient cognitive memory management",
+  "reusability": "Designed to be easily integrated with existing AI systems, providing a straightforward API for memory operations",
+  "limitations": "Currently in alpha stage, may have limited scalability and feature set; primarily focused on graph-based memory management",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "Neo4j"
+  ],
+  "name": "cognee",
+  "slug": "topoteretes-cognee",
+  "description": "Memory for AI Agents in 5 lines of code",
+  "repository": "https://github.com/topoteretes/cognee",
+  "stars": 2204,
+  "originator": "topoteretes",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-memory",
+    "cognitive-architecture",
+    "cognitive-memory",
+    "contributions-welcome",
+    "good-first-issue",
+    "good-first-pr",
+    "graph-database",
+    "graph-rag",
+    "graphrag",
+    "help-wanted",
+    "knowledge",
+    "knowledge-graph",
+    "neo4j",
+    "open-source",
+    "openai",
+    "rag",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/topoteretes/cognee#readme",
+    "https://github.com/topoteretes/cognee/issues",
+    "https://github.com/topoteretes/cognee/wiki"
+  ],
+  "highlight": "Minimalistic memory management for AI agents using graph databases"
+}

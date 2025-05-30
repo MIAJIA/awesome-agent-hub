@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and orchestration of AI agents using a modular and scalable framework",
+  "principle": "Built on Python, leveraging modular architecture to enable customization and integration of multiple AI agents",
+  "reusability": "Offers a plug-and-play architecture with APIs for easy integration and extension of agent functionalities",
+  "limitations": "Currently in alpha stage, may have limited documentation and stability issues; primarily suited for experimental use",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Django",
+    "Flask"
+  ],
+  "name": "ZerePy",
+  "slug": "blorm-network-zerepy",
+  "description": "ZerePy an open-source framework for AI agents written in Python",
+  "repository": "https://github.com/blorm-network/ZerePy",
+  "stars": 586,
+  "originator": "blorm-network",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-10",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/blorm-network/ZerePy/blob/main/README.md",
+    "https://github.com/blorm-network/ZerePy/wiki",
+    "https://github.com/blorm-network/ZerePy/issues"
+  ],
+  "highlight": "Flexible and extensible framework for building AI agents with a focus on multi-agent systems"
+}

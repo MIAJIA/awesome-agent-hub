@@ -1,0 +1,47 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a centralized repository of resources, tools, and references for Azure OpenAI and LLM enthusiasts and developers",
+  "principle": "Aggregates and organizes resources related to Azure OpenAI, RAG, and LLMs, including tools, libraries, and documentation",
+  "reusability": "Serves as a reference guide for developers and researchers interested in Azure OpenAI and LLM technologies",
+  "limitations": "Primarily a collection of links and references; does not provide executable code or direct implementations",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub"
+  ],
+  "name": "awesome-azure-openai-llm",
+  "slug": "kimtth-awesome-azure-openai-llm-1",
+  "description": "A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.",
+  "repository": "https://github.com/kimtth/awesome-azure-openai-llm",
+  "stars": 361,
+  "originator": "kimtth",
+  "tags": [
+    "agent",
+    "awesome",
+    "awesome-list",
+    "azure-openai",
+    "chatgpt",
+    "copilot",
+    "gpt",
+    "langchain",
+    "llama-index",
+    "llm",
+    "llm-agent",
+    "llm-evaluation",
+    "openai",
+    "prompt-engineering",
+    "rag",
+    "semantic-kernel"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md"
+  ],
+  "highlight": "Comprehensive curated list of resources and tools for Azure OpenAI and Large Language Models"
+}

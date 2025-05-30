@@ -1,0 +1,28 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive guide and resources for AI engineers to effectively build and deploy AI systems",
+  "principle": "The handbook compiles best practices, design patterns, and practical advice for AI system development and deployment",
+  "reusability": "The handbook is open-source and can be freely accessed, modified, and shared by AI engineers and educators",
+  "limitations": "Being in alpha, the content may be incomplete and subject to significant changes",
+  "platforms": [
+    "Jupyter Notebook"
+  ],
+  "stack": [
+    "Jupyter Notebook"
+  ],
+  "name": "ai-angineers-handbook",
+  "slug": "swirl-ai-ai-angineers-handbook",
+  "description": "N/A",
+  "repository": "https://github.com/swirl-ai/ai-angineers-handbook",
+  "stars": 392,
+  "originator": "swirl-ai",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-11",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/swirl-ai/ai-angineers-handbook"
+  ]
+}

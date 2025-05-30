@@ -1,0 +1,39 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide a centralized resource for finding high-quality online courses about Large Language Models.",
+  "principle": "Curates and organizes links to various online courses that cover different aspects of Large Language Models, making it easier for learners to find relevant educational content.",
+  "reusability": "Can be easily integrated into educational platforms or personal learning environments as a reference resource.",
+  "limitations": "Limited to the scope of courses available at the time of curation; does not provide direct course content or updates.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-llm-courses",
+  "slug": "wikit-ai-awesome-llm-courses",
+  "description": "A curated list of awesome online courses about Large Langage Models (LLMs)",
+  "repository": "https://github.com/wikit-ai/awesome-llm-courses",
+  "stars": 188,
+  "originator": "wikit-ai",
+  "tags": [
+    "awesome",
+    "awesome-list",
+    "courses",
+    "large-language-models",
+    "llm",
+    "llms",
+    "natural-language-processing",
+    "nlp",
+    "online-courses"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2024-10-08",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/wikit-ai/awesome-llm-courses#readme"
+  ],
+  "highlight": "Comprehensive curated list of online courses specifically focused on Large Language Models (LLMs)."
+}

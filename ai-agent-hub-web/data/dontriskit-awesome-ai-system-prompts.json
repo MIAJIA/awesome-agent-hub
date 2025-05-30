@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive collection of system prompts to assist developers in building and optimizing AI agents across multiple platforms.",
+  "principle": "Aggregates and organizes system prompts for popular AI tools, enabling easy access and usage by developers.",
+  "reusability": "Offers a library of prompts that can be easily integrated into AI development workflows for tools like ChatGPT, Claude, and others.",
+  "limitations": "Primarily focused on prompt curation; does not include tools for prompt generation or customization.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "TypeScript"
+  ],
+  "name": "awesome-ai-system-prompts",
+  "slug": "dontriskit-awesome-ai-system-prompts",
+  "description": "🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. ",
+  "repository": "https://github.com/dontriskit/awesome-ai-system-prompts",
+  "stars": 2204,
+  "originator": "dontriskit",
+  "tags": [
+    "AI",
+    "prompts",
+    "system prompts",
+    "AI tools",
+    "ChatGPT",
+    "Claude"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-16",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/dontriskit/awesome-ai-system-prompts"
+  ],
+  "highlight": "Curated collection of system prompts for various AI tools, aiding AI agent builders and prompt engineers."
+}

@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a curated list of high-quality ChatGPT software and resources for developers and researchers",
+  "principle": "Aggregates notable ChatGPT software and resources from various contributors, categorized for easy navigation",
+  "reusability": "Serves as a reference for finding ChatGPT projects, tools, libraries, and applications",
+  "limitations": "Dependent on community contributions for updates and maintenance; not a standalone software tool",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "HTML"
+  ],
+  "name": "awesome-chatgpt",
+  "slug": "korchasa-awesome-chatgpt",
+  "description": "A curated list of awesome ChatGPT software.",
+  "repository": "https://github.com/korchasa/awesome-chatgpt",
+  "stars": 293,
+  "originator": "korchasa",
+  "tags": [
+    "awesome",
+    "awesome-list",
+    "chatgpt",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-06",
+  "language": "HTML",
+  "useful_links": [
+    "https://github.com/korchasa/awesome-chatgpt#readme"
+  ],
+  "highlight": "Comprehensive collection of ChatGPT-related projects and resources"
+}

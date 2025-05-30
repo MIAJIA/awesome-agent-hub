@@ -1,0 +1,44 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitate AI-driven browser automation tasks for developers and researchers",
+  "principle": "Leverages Playwright for browser automation, enabling AI agents to interact with web pages programmatically",
+  "reusability": "Offers a flexible API for integration with various AI systems, supports custom automation scripts",
+  "limitations": "Limited to environments where Playwright is supported; requires JavaScript knowledge for scripting",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Playwright"
+  ],
+  "name": "browserable",
+  "slug": "browserable-browserable",
+  "description": "Open source and self-hostable browser automation library for AI agents",
+  "repository": "https://github.com/browserable/browserable",
+  "stars": 577,
+  "originator": "browserable",
+  "tags": [
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "browser-use-js",
+    "deep-research",
+    "javascript",
+    "llm",
+    "playwright"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-17",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/browserable/browserable#readme",
+    "https://github.com/browserable/browserable/wiki",
+    "https://github.com/browserable/browserable/issues"
+  ],
+  "highlight": "Self-hostable browser automation library specifically designed for AI agents"
+}

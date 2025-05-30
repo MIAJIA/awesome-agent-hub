@@ -1,0 +1,38 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To automate web browser tasks and interactions using a programmable interface",
+  "principle": "Built on TypeScript, leverages browser automation libraries to interact with web pages programmatically",
+  "reusability": "Offers a modular architecture with API support for easy integration into other systems, enabling custom automation scripts",
+  "limitations": "Limited to browser-based tasks; may not support all browser features or complex user interactions",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Puppeteer"
+  ],
+  "name": "surf.new",
+  "slug": "steel-dev-surf-new",
+  "description": "🌊 An open-source alternative to OpenAI Operator",
+  "repository": "https://github.com/steel-dev/surf.new",
+  "stars": 440,
+  "originator": "steel-dev",
+  "tags": [
+    "ai-agents",
+    "browser-automation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-22",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/steel-dev/surf.new#readme",
+    "https://github.com/steel-dev/surf.new/wiki",
+    "https://github.com/steel-dev/surf.new/issues"
+  ],
+  "highlight": "Provides a browser automation solution as an open-source alternative to proprietary operators"
+}

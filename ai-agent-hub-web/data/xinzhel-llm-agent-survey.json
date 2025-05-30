@@ -1,0 +1,36 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To analyze and categorize different LLM agents, providing a detailed survey of their capabilities and applications.",
+  "principle": "Compiles and synthesizes research data on LLM agents, categorizing them by functionality and use cases.",
+  "reusability": "The survey can be used as a reference for researchers and developers to understand the landscape of LLM agents.",
+  "limitations": "The repository is primarily a survey and may not provide direct implementations or code for LLM agents.",
+  "platforms": [
+    "Any platform supporting Python"
+  ],
+  "stack": [
+    "Python",
+    "Markdown"
+  ],
+  "name": "LLM-Agent-Survey",
+  "slug": "xinzhel-llm-agent-survey",
+  "description": "Survey on LLM Agents (Published on CoLing 2025) ",
+  "repository": "https://github.com/xinzhel/LLM-Agent-Survey",
+  "stars": 278,
+  "originator": "xinzhel",
+  "tags": [
+    "LLM",
+    "survey",
+    "research",
+    "AI agents"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-06",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/xinzhel/LLM-Agent-Survey/blob/main/README.md",
+    "https://github.com/xinzhel/LLM-Agent-Survey/blob/main/docs"
+  ],
+  "highlight": "Comprehensive survey and analysis of various LLM agents, providing insights into their design and application."
+}

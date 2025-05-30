@@ -1,0 +1,33 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enable privacy-preserving smart contracts on blockchain through secure computation",
+  "principle": "Leverages Trusted Execution Environments (TEEs) to execute smart contracts securely and privately",
+  "reusability": "Offers modular components for integration into blockchain networks, supports various TEE hardware",
+  "limitations": "Limited to hardware supporting TEEs, requires specific blockchain integration",
+  "platforms": [
+    "Linux",
+    "Intel SGX"
+  ],
+  "stack": [
+    "Rust",
+    "Substrate",
+    "Trusted Execution Environments (TEEs)"
+  ],
+  "name": "phala-blockchain",
+  "slug": "phala-network-phala-blockchain",
+  "description": "Phala Network 1.0 Monorepo",
+  "repository": "https://github.com/Phala-Network/phala-blockchain",
+  "stars": 354,
+  "originator": "Phala-Network",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/Phala-Network/phala-blockchain/blob/main/docs/README.md",
+    "https://github.com/Phala-Network/phala-blockchain/wiki"
+  ],
+  "highlight": "Secure and private smart contract execution using Trusted Execution Environments (TEEs)"
+}

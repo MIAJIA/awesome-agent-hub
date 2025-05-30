@@ -1,0 +1,35 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates AI-driven development by providing a framework for stateful product requirements documentation (PRD) without external dependencies",
+  "principle": "Operates as a stateful framework that manages product requirements documentation, leveraging JavaScript for zero-dependency implementation",
+  "reusability": "Designed to be integrated into existing development workflows without additional dependencies, allowing for easy adoption",
+  "limitations": "In its alpha stage, the framework may lack extensive documentation and community support; limited to JavaScript environments",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "JavaScript"
+  ],
+  "name": "bivvy",
+  "slug": "taggartbg-bivvy",
+  "description": "A Zero-Dependency Stateful PRD Framework for AI-Driven Development",
+  "repository": "https://github.com/taggartbg/bivvy",
+  "stars": 155,
+  "originator": "taggartbg",
+  "tags": [
+    "AI-driven development",
+    "stateful framework",
+    "zero-dependency"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-20",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/taggartbg/bivvy#readme",
+    "https://github.com/taggartbg/bivvy/issues",
+    "https://github.com/taggartbg/bivvy/wiki"
+  ],
+  "highlight": "Zero-dependency framework for stateful AI-driven development"
+}

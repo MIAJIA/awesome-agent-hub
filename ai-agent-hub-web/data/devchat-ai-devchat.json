@@ -1,0 +1,47 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitate the creation of AI-driven workflows using natural language inputs, specifically for software development and programming tasks.",
+  "principle": "Utilizes natural language processing to convert user inputs into executable workflows, leveraging AI models for code generation and task automation.",
+  "reusability": "Integrates as a VSCode extension and provides APIs for custom workflow creation and execution.",
+  "limitations": "Primarily focused on software development, may not cover all programming languages or frameworks comprehensively.",
+  "platforms": [
+    "VSCode",
+    "Linux",
+    "MacOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "VSCode Extension",
+    "OpenAI",
+    "LangChain"
+  ],
+  "name": "devchat",
+  "slug": "devchat-ai-devchat",
+  "description": "AI workflows generated with natural language",
+  "repository": "https://github.com/devchat-ai/devchat",
+  "stars": 382,
+  "originator": "devchat-ai",
+  "tags": [
+    "agent",
+    "ai",
+    "chatgpt",
+    "deepseek",
+    "programming",
+    "software-development",
+    "software-engineering",
+    "vscode-extension",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/devchat-ai/devchat#readme",
+    "https://github.com/devchat-ai/devchat/wiki",
+    "https://github.com/devchat-ai/devchat/issues"
+  ],
+  "highlight": "Natural language-driven AI workflow generation for software development"
+}

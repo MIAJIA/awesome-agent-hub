@@ -1,0 +1,46 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To facilitate automated and rigorous scientific experimentation by leveraging AI agents, thereby improving the efficiency and reproducibility of research processes",
+  "principle": "Utilizes AI agents to design, execute, and analyze scientific experiments, ensuring adherence to rigorous scientific methodologies",
+  "reusability": "Supports integration with various AI models and scientific tools, offering a modular architecture for customization and extension",
+  "limitations": "Currently in alpha stage, may have limited support for complex scientific domains and requires significant setup for custom experiments",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "OpenAI",
+    "Hugging Face",
+    "NumPy",
+    "SciPy"
+  ],
+  "name": "Curie",
+  "slug": "just-curieous-curie",
+  "description": "❓Curie: Automated and Rigorous Scientific Experimentation with AI Agents",
+  "repository": "https://github.com/Just-Curieous/Curie",
+  "stars": 125,
+  "originator": "Just-Curieous",
+  "tags": [
+    "ai-agents",
+    "ai-for-science",
+    "artificial-intelligence",
+    "cli",
+    "gpt",
+    "llm",
+    "scientific-experiment",
+    "scientific-research"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Just-Curieous/Curie/blob/main/README.md",
+    "https://github.com/Just-Curieous/Curie/wiki",
+    "https://github.com/Just-Curieous/Curie/issues"
+  ],
+  "highlight": "Automates and enhances scientific experimentation using AI agents to ensure rigorous and reproducible research outcomes"
+}

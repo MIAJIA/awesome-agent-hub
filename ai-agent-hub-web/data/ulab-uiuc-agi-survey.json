@@ -1,0 +1,29 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive survey and analysis of Artificial General Intelligence (AGI) research and developments.",
+  "principle": "Aggregates and synthesizes data from various AGI research papers and sources to present a cohesive overview of the field.",
+  "reusability": "Includes Jupyter Notebooks that can be reused or adapted for further research analysis and educational purposes.",
+  "limitations": "Primarily focused on AGI research; may not cover all aspects or recent developments comprehensively.",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "name": "AGI-survey",
+  "slug": "ulab-uiuc-agi-survey",
+  "description": "N/A",
+  "repository": "https://github.com/ulab-uiuc/AGI-survey",
+  "stars": 355,
+  "originator": "ulab-uiuc",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-03",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ulab-uiuc/AGI-survey"
+  ]
+}

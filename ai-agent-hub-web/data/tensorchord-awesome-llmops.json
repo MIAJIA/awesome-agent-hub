@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide developers with a comprehensive and curated list of tools for managing and optimizing large language models (LLMs) in production environments",
+  "principle": "Aggregates community-contributed resources and tools related to LLMOps, offering a centralized repository for developers to explore and choose the right tools for their needs",
+  "reusability": "The list is open-source and community-driven, allowing developers to contribute additional resources and tools, making it a continuously evolving resource",
+  "limitations": "The repository is a list of tools and resources rather than a functional software package; its utility is dependent on the quality and relevance of the listed tools",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "Awesome-LLMOps",
+  "slug": "tensorchord-awesome-llmops",
+  "description": "An awesome & curated list of best LLMOps tools for developers",
+  "repository": "https://github.com/tensorchord/Awesome-LLMOps",
+  "stars": 4916,
+  "originator": "tensorchord",
+  "tags": [
+    "ai-development-tools",
+    "awesome-list",
+    "llmops",
+    "mlops"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-10",
+  "language": "Shell",
+  "useful_links": [
+    "https://github.com/tensorchord/Awesome-LLMOps"
+  ],
+  "highlight": "Curated list of the best LLMOps tools for developers"
+}

@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and management of complex multi-agent systems for various AI-driven tasks.",
+  "principle": "Builds on agent-based modeling and coordination patterns to enable seamless interaction between specialized AI agents.",
+  "reusability": "Offers a modular architecture allowing developers to plug in different AI agents and customize their interactions.",
+  "limitations": "Currently in alpha stage, may have limited documentation and support for complex use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Django",
+    "Celery",
+    "Redis"
+  ],
+  "name": "OpenManus",
+  "slug": "foundationagents-openmanus",
+  "description": "No fortress, purely open ground.  OpenManus is Coming.",
+  "repository": "https://github.com/FoundationAgents/OpenManus",
+  "stars": 46205,
+  "originator": "FoundationAgents",
+  "tags": [
+    "multi-agent",
+    "AI orchestration",
+    "agent framework"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/FoundationAgents/OpenManus/blob/main/README.md",
+    "https://github.com/FoundationAgents/OpenManus/wiki",
+    "https://github.com/FoundationAgents/OpenManus/issues"
+  ],
+  "highlight": "OpenManus is a framework for orchestrating and coordinating multiple specialized AI agents."
+}

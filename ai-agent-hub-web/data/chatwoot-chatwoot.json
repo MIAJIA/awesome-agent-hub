@@ -1,0 +1,59 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive customer support platform integrating live chat, email, and other communication channels",
+  "principle": "Built on Ruby on Rails framework with a Vue.js frontend, utilizing ActionCable for real-time communications",
+  "reusability": "Offers REST API for integration with other platforms, supports custom widgets and plugins, can be self-hosted or deployed on cloud services",
+  "limitations": "May require technical expertise for setup and customization, limited to the features implemented by the community",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Heroku"
+  ],
+  "stack": [
+    "Ruby",
+    "Ruby on Rails",
+    "Vue.js",
+    "PostgreSQL",
+    "Redis",
+    "Docker",
+    "ActionCable"
+  ],
+  "name": "chatwoot",
+  "slug": "chatwoot-chatwoot",
+  "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+  "repository": "https://github.com/chatwoot/chatwoot",
+  "stars": 23793,
+  "originator": "chatwoot",
+  "tags": [
+    "actioncable",
+    "chat-widget",
+    "conversation",
+    "customer-support",
+    "dashboard",
+    "design",
+    "docker",
+    "docker-image",
+    "heroku",
+    "intercom",
+    "javascript",
+    "livechat",
+    "opensource",
+    "rails",
+    "ruby",
+    "sass",
+    "vuejs",
+    "whatsapp",
+    "zendesk"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-29",
+  "language": "Ruby",
+  "useful_links": [
+    "https://www.chatwoot.com/docs",
+    "https://www.chatwoot.com/demo",
+    "https://github.com/chatwoot/chatwoot/wiki"
+  ],
+  "highlight": "Open-source alternative to Intercom and Zendesk for omni-channel customer support"
+}

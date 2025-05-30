@@ -1,0 +1,41 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a robust evaluation framework for assessing the performance and capabilities of large language models.",
+  "principle": "Utilizes a modular architecture allowing users to define custom evaluation metrics and benchmarks, facilitating comprehensive LLM performance analysis.",
+  "reusability": "Offers a flexible API for integrating custom metrics and datasets, supporting extensibility and adaptability to various LLM evaluation needs.",
+  "limitations": "May require expertise in defining custom evaluation metrics; dependent on the quality and relevance of provided datasets.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "PyTorch"
+  ],
+  "name": "deepeval",
+  "slug": "confident-ai-deepeval",
+  "description": "The LLM Evaluation Framework",
+  "repository": "https://github.com/confident-ai/deepeval",
+  "stars": 6820,
+  "originator": "confident-ai",
+  "tags": [
+    "evaluation-framework",
+    "evaluation-metrics",
+    "llm-evaluation",
+    "llm-evaluation-framework",
+    "llm-evaluation-metrics"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/confident-ai/deepeval#readme",
+    "https://github.com/confident-ai/deepeval/wiki"
+  ],
+  "highlight": "Comprehensive framework for evaluating large language models (LLMs) with customizable metrics and benchmarks."
+}

@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for creating, deploying, and managing autonomous AI agents powered by large language models.",
+  "principle": "Built on TypeScript, leveraging large language models (LLMs) to enable autonomous agent interactions and decision-making.",
+  "reusability": "Modular architecture with API support for integrating custom agents and workflows, enabling plug-and-play functionality.",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and stability; potential performance limitations with large-scale deployments.",
+  "platforms": [
+    "Docker",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "LangChain",
+    "OpenAI"
+  ],
+  "name": "ai-legion",
+  "slug": "eumemic-ai-legion",
+  "description": "An LLM-powered autonomous agent platform",
+  "repository": "https://github.com/eumemic/ai-legion",
+  "stars": 1408,
+  "originator": "eumemic",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/eumemic/ai-legion#readme",
+    "https://github.com/eumemic/ai-legion/wiki",
+    "https://github.com/eumemic/ai-legion/issues"
+  ],
+  "highlight": "A platform for orchestrating and managing multiple autonomous AI agents with LLM capabilities."
+}

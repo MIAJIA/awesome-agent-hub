@@ -1,0 +1,42 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Assist developers by generating practical and functional code snippets to accelerate the development process",
+  "principle": "Leverages AI models to understand user input and generate relevant code in JavaScript and TypeScript",
+  "reusability": "Designed as a plug-and-play tool that integrates with development environments; supports API-based interactions",
+  "limitations": "Currently focused on JavaScript and TypeScript; may require additional configuration for specific environments",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "React"
+  ],
+  "name": "micro-agent",
+  "slug": "builderio-micro-agent",
+  "description": "An AI agent that writes (actually useful) code for you",
+  "repository": "https://github.com/BuilderIO/micro-agent",
+  "stars": 4038,
+  "originator": "BuilderIO",
+  "tags": [
+    "agent",
+    "ai",
+    "figma",
+    "javascript",
+    "react",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-14",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/BuilderIO/micro-agent#readme",
+    "https://github.com/BuilderIO/micro-agent/tree/main/docs",
+    "https://github.com/BuilderIO/micro-agent/tree/main/examples"
+  ],
+  "highlight": "Generates useful and functional code snippets tailored to user needs"
+}

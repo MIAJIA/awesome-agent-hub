@@ -1,0 +1,37 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide resources and practical implementations for developing intelligent applications across multiple domains using large language models.",
+  "principle": "Builds on large language models for deployment, inference, and training, offering practical examples and resources.",
+  "reusability": "Includes example projects and code that can be adapted for different applications. Open source with MIT license for easy integration.",
+  "limitations": "Primarily focused on educational purposes; may not be suitable for production use without further development.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "React"
+  ],
+  "name": "llm-dev",
+  "slug": "little51-llm-dev",
+  "description": "《大模型项目实战：多领域智能应用开发》配套资源",
+  "repository": "https://github.com/little51/llm-dev",
+  "stars": 141,
+  "originator": "little51",
+  "tags": [
+    "chat-application",
+    "llm",
+    "llm-deployment",
+    "llm-inference",
+    "llm-training"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/little51/llm-dev"
+  ]
+}

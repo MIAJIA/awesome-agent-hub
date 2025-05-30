@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a customizable AI agent that allows users to interact with their computers and applications through natural language.",
+  "principle": "Leverages the Model Context Protocol (MCP) to facilitate natural language understanding and execution of commands across various applications and systems.",
+  "reusability": "Offers plug-and-play capabilities with support for custom extensions, allowing integration with various applications through MCP.",
+  "limitations": "Currently in alpha stage, which may include limited features and potential bugs. Designed for experimentation and development rather than production use.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "name": "saiki",
+  "slug": "truffle-ai-saiki",
+  "description": "A customizable, general purpose AI Agent that supports MCP. Talk to Saiki in natural language to control computers, applications and more!",
+  "repository": "https://github.com/truffle-ai/saiki",
+  "stars": 138,
+  "originator": "truffle-ai",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-tools",
+    "contributions-welcome",
+    "function-calling",
+    "llm",
+    "mcp",
+    "mcp-client",
+    "modelcontextprotocol",
+    "open-source-project",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/truffle-ai/saiki#readme",
+    "https://github.com/truffle-ai/saiki/wiki",
+    "https://github.com/truffle-ai/saiki/issues",
+    "https://github.com/truffle-ai/saiki/pulls"
+  ],
+  "highlight": "Enables natural language interaction to control computers and applications using the Model Context Protocol (MCP)."
+}

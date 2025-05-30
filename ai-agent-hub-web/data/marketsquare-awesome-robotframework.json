@@ -1,0 +1,36 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide a centralized collection of high-quality resources and libraries for users of the Robot Framework",
+  "principle": "Crowdsourced and community-driven curation of resources, categorized and maintained through GitHub",
+  "reusability": "Easily accessible and integratable list of resources for enhancing Robot Framework usage, with contributions from the community",
+  "limitations": "Dependent on community contributions for updates and may not cover all emerging tools or libraries",
+  "platforms": [
+    "Any platform supporting Python and Robot Framework"
+  ],
+  "stack": [
+    "Python",
+    "Robot Framework"
+  ],
+  "name": "awesome-robotframework",
+  "slug": "marketsquare-awesome-robotframework",
+  "description": "A curated list of awesome Robot Framework resources and libraries",
+  "repository": "https://github.com/MarketSquare/awesome-robotframework",
+  "stars": 469,
+  "originator": "MarketSquare",
+  "tags": [
+    "python",
+    "robot-framework",
+    "test-automation",
+    "testing"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/MarketSquare/awesome-robotframework/blob/master/README.md",
+    "https://github.com/MarketSquare/awesome-robotframework#contributing"
+  ],
+  "highlight": "Comprehensive collection of curated resources and libraries for Robot Framework users"
+}

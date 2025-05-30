@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and management of autonomous AI agents capable of complex task execution.",
+  "principle": "Leverages Python-based frameworks and multi-agent system principles to enable agent coordination and task automation.",
+  "reusability": "Offers modular architecture with APIs for integrating custom agents and extending functionalities.",
+  "limitations": "Being in alpha, it may have stability issues and limited documentation for complex use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Celery",
+    "Redis"
+  ],
+  "name": "agent-os",
+  "slug": "smartcomputer-ai-agent-os",
+  "description": "Build autonomous AI agents! 🌞",
+  "repository": "https://github.com/smartcomputer-ai/agent-os",
+  "stars": 121,
+  "originator": "smartcomputer-ai",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-06-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/smartcomputer-ai/agent-os/blob/main/README.md",
+    "https://github.com/smartcomputer-ai/agent-os/wiki",
+    "https://github.com/smartcomputer-ai/agent-os/issues"
+  ],
+  "highlight": "Build and orchestrate autonomous AI agents with a focus on multi-agent systems."
+}

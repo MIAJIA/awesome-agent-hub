@@ -1,0 +1,51 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To automate the process of web data extraction using AI techniques for improved accuracy and efficiency",
+  "principle": "Leverages AI models to interpret and extract structured data from web pages, converting HTML into usable formats like Markdown",
+  "reusability": "Offers a Python library that can be integrated into existing projects, providing customizable scraping workflows",
+  "limitations": "May face challenges with dynamic content and JavaScript-heavy websites; requires ongoing updates to adapt to website changes",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "BeautifulSoup",
+    "Requests",
+    "Markdown",
+    "LangChain"
+  ],
+  "name": "Scrapegraph-ai",
+  "slug": "scrapegraphai-scrapegraph-ai",
+  "description": "Python scraper based on AI",
+  "repository": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+  "stars": 19800,
+  "originator": "ScrapeGraphAI",
+  "tags": [
+    "ai",
+    "ai-scraping",
+    "automated-scraper",
+    "crawler",
+    "html-to-markdown",
+    "llm",
+    "markdown",
+    "rag",
+    "scraping",
+    "scraping-python",
+    "web-crawler",
+    "web-crawlers",
+    "web-scraping"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ScrapeGraphAI/Scrapegraph-ai#documentation",
+    "https://github.com/ScrapeGraphAI/Scrapegraph-ai#examples",
+    "https://github.com/ScrapeGraphAI/Scrapegraph-ai#api-reference"
+  ],
+  "highlight": "AI-powered web scraping with advanced data extraction capabilities"
+}

@@ -1,0 +1,53 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates deep research by integrating language models with various tools to automate information gathering and analysis.",
+  "principle": "Utilizes a combination of language models and external tools such as web crawling and Python execution to perform comprehensive research tasks.",
+  "reusability": "Modular design allows for integration with different tools and APIs, enabling customization for specific research needs.",
+  "limitations": "Being in alpha stage, it may have stability issues and limited documentation; primarily focused on research tasks.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Python",
+    "LangChain"
+  ],
+  "name": "deer-flow",
+  "slug": "bytedance-deer-flow",
+  "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.",
+  "repository": "https://github.com/bytedance/deer-flow",
+  "stars": 12097,
+  "originator": "bytedance",
+  "tags": [
+    "agent",
+    "agentic",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "bytedance",
+    "deep-research",
+    "langchain",
+    "langgraph",
+    "langmanus",
+    "llm",
+    "multi-agent",
+    "nodejs",
+    "podcast",
+    "python",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/bytedance/deer-flow#readme",
+    "https://github.com/bytedance/deer-flow/wiki",
+    "https://github.com/bytedance/deer-flow/issues"
+  ],
+  "highlight": "Combines language models with tools like web search, crawling, and Python execution for deep research tasks."
+}

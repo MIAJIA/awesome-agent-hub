@@ -1,0 +1,32 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a private and flexible AI agent platform that can be run locally without cloud dependencies.",
+  "principle": "Built with Go, it leverages local hardware (CPU/GPU) to run AI models and replaces cloud-based APIs with local processing.",
+  "reusability": "Designed for easy integration as a drop-in replacement for existing OpenAI API implementations, with a focus on privacy and local execution.",
+  "limitations": "Limited to consumer-grade hardware capabilities, potential performance variations based on local hardware configuration.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "Docker"
+  ],
+  "name": "LocalAGI",
+  "slug": "mudler-localagi",
+  "description": "LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).",
+  "repository": "https://github.com/mudler/LocalAGI",
+  "stars": 733,
+  "originator": "mudler",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/mudler/LocalAGI#readme",
+    "https://github.com/mudler/LocalAGI/wiki"
+  ],
+  "highlight": "Self-hostable AI agent platform offering a complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities."
+}

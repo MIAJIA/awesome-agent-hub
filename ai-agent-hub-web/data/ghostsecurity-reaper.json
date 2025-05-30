@@ -1,0 +1,46 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "To automate security testing and vulnerability discovery in applications through fuzzing and proxying",
+  "principle": "Utilizes fuzzing methodologies to test applications for security vulnerabilities by sending unexpected or random data inputs",
+  "reusability": "Can be integrated into existing security workflows, supports custom fuzzing configurations, and provides extensibility through plugins",
+  "limitations": "May require significant configuration for specific applications, potential false positives in vulnerability detection",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "OWASP",
+    "Apache-2.0"
+  ],
+  "name": "reaper",
+  "slug": "ghostsecurity-reaper",
+  "description": "💀 Don't fear the Reaper 👻",
+  "repository": "https://github.com/ghostsecurity/reaper",
+  "stars": 519,
+  "originator": "ghostsecurity",
+  "tags": [
+    "agentic",
+    "ai",
+    "appsec",
+    "automation",
+    "bug-bounty",
+    "fuzz",
+    "fuzzing",
+    "hacking",
+    "owasp",
+    "proxy",
+    "security"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-15",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/ghostsecurity/reaper#readme",
+    "https://github.com/ghostsecurity/reaper/wiki",
+    "https://github.com/ghostsecurity/reaper/issues"
+  ],
+  "highlight": "Integrates advanced fuzzing techniques for security testing and vulnerability discovery"
+}

@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide an identity layer for managing and personalizing agent interactions in the agentic world.",
+  "principle": "Builds on LangChain and vector search to manage context and memory for AI agents, enabling personalized interactions.",
+  "reusability": "Offers APIs for integrating identity and personalization capabilities into existing AI agent frameworks.",
+  "limitations": "Primarily in alpha stage with potential for rapid changes; may lack comprehensive documentation and stability.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "Vector Search"
+  ],
+  "name": "honcho",
+  "slug": "plastic-labs-honcho",
+  "description": "The Identity layer for the agentic world ",
+  "repository": "https://github.com/plastic-labs/honcho",
+  "stars": 188,
+  "originator": "plastic-labs",
+  "tags": [
+    "agents",
+    "ai",
+    "context",
+    "langchain",
+    "llm",
+    "memory",
+    "personalization",
+    "vectorsearch"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/plastic-labs/honcho#readme",
+    "https://github.com/plastic-labs/honcho/issues",
+    "https://github.com/plastic-labs/honcho/wiki"
+  ]
+}

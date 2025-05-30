@@ -1,0 +1,57 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the deployment and execution of AI applications and agents in a secure cloud environment.",
+  "principle": "Built on modern web technologies with a focus on security and open-source principles, leveraging popular frameworks for seamless AI app deployment.",
+  "reusability": "Offers a modular architecture with plugins and API support for easy integration and customization.",
+  "limitations": "Currently in alpha stage, which may include limited features and potential stability issues.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Python",
+    "OpenAI"
+  ],
+  "name": "E2B",
+  "slug": "e2b-dev-e2b",
+  "description": "Secure open source cloud runtime for AI apps & AI agents",
+  "repository": "https://github.com/e2b-dev/E2B",
+  "stars": 8467,
+  "originator": "e2b-dev",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "code-interpreter",
+    "copilot",
+    "development",
+    "devtools",
+    "gpt",
+    "gpt-4",
+    "javascript",
+    "llm",
+    "nextjs",
+    "openai",
+    "python",
+    "react",
+    "software",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "MDX",
+  "useful_links": [
+    "https://github.com/e2b-dev/E2B#readme",
+    "https://github.com/e2b-dev/E2B/wiki",
+    "https://github.com/e2b-dev/E2B/issues"
+  ],
+  "highlight": "Provides a secure and open-source cloud runtime environment tailored for AI applications and agents."
+}

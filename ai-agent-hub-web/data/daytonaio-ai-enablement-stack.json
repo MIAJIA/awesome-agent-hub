@@ -1,0 +1,36 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a centralized resource for developers to discover and evaluate AI development tools.",
+  "principle": "Aggregates and categorizes various AI tools by leveraging community contributions and open-source collaboration.",
+  "reusability": "Open-source project that can be forked, extended, and integrated into other AI tool discovery platforms.",
+  "limitations": "Dependent on community contributions for updates; coverage may be incomplete or outdated.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "HTML",
+    "JavaScript"
+  ],
+  "name": "ai-enablement-stack",
+  "slug": "daytonaio-ai-enablement-stack",
+  "description": "A Community-Driven Mapping of AI Development Tools",
+  "repository": "https://github.com/daytonaio/ai-enablement-stack",
+  "stars": 450,
+  "originator": "daytonaio",
+  "tags": [
+    "AI tools",
+    "community-driven",
+    "open-source",
+    "tool discovery"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-11",
+  "language": "HTML",
+  "useful_links": [
+    "https://github.com/daytonaio/ai-enablement-stack/blob/main/README.md",
+    "https://github.com/daytonaio/ai-enablement-stack/wiki"
+  ],
+  "highlight": "Comprehensive mapping of AI development tools driven by community contributions."
+}

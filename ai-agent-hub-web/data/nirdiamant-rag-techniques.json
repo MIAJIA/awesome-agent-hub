@@ -1,0 +1,44 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To explore and demonstrate advanced techniques for improving the performance and accuracy of Retrieval-Augmented Generation systems.",
+  "principle": "Combines information retrieval with generative models to provide accurate and contextually rich responses.",
+  "reusability": "Can be integrated into existing RAG systems to enhance their retrieval and generation capabilities, with modular components for experimentation.",
+  "limitations": "Primarily experimental with a focus on advanced techniques, may require significant customization for specific use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "LangChain",
+    "LlamaIndex"
+  ],
+  "name": "RAG_Techniques",
+  "slug": "nirdiamant-rag-techniques",
+  "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+  "repository": "https://github.com/NirDiamant/RAG_Techniques",
+  "stars": 16349,
+  "originator": "NirDiamant",
+  "tags": [
+    "ai",
+    "langchain",
+    "llama-index",
+    "llm",
+    "llms",
+    "opeani",
+    "python",
+    "rag",
+    "tutorials"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-27",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/NirDiamant/RAG_Techniques#readme",
+    "https://github.com/NirDiamant/RAG_Techniques/tree/main/examples"
+  ],
+  "highlight": "Showcases advanced techniques for enhancing Retrieval-Augmented Generation (RAG) systems."
+}

@@ -1,0 +1,33 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Curate a comprehensive list of academic and industrial resources related to Large Language Models (LLM) and AIOps.",
+  "principle": "Aggregates and categorizes research papers, articles, and resources related to LLMs and AI for IT Operations.",
+  "reusability": "Serves as a reference repository for researchers and practitioners interested in LLMs and AIOps, providing links to various external resources.",
+  "limitations": "Primarily a curated list, does not provide original content or tools; relies on external resources for detailed information.",
+  "platforms": [],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-LLM-AIOps",
+  "slug": "jun-jie-huang-awesome-llm-aiops",
+  "description": "A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).",
+  "repository": "https://github.com/Jun-jie-Huang/awesome-LLM-AIOps",
+  "stars": 211,
+  "originator": "Jun-jie-Huang",
+  "tags": [
+    "LLM",
+    "AIOps",
+    "research",
+    "resources",
+    "academic",
+    "industrial"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-05",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/Jun-jie-Huang/awesome-LLM-AIOps"
+  ]
+}

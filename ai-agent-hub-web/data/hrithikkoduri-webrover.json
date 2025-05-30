@@ -1,0 +1,36 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To interpret user input and execute actions on web pages autonomously to gather information or complete tasks",
+  "principle": "Leverages advanced language models and web automation tools to interact with web elements, navigate sites, and retrieve structured information",
+  "reusability": "Can be integrated into other projects via its API and extended with custom web automation scripts",
+  "limitations": "Limited to websites that allow automation, may face challenges with dynamic content or CAPTCHA-protected sites",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Selenium",
+    "BeautifulSoup",
+    "OpenAI"
+  ],
+  "name": "WebRover",
+  "slug": "hrithikkoduri-webrover",
+  "description": "WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs.",
+  "repository": "https://github.com/hrithikkoduri/WebRover",
+  "stars": 921,
+  "originator": "hrithikkoduri",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-15",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/hrithikkoduri/WebRover#readme",
+    "https://github.com/hrithikkoduri/WebRover/wiki",
+    "https://github.com/hrithikkoduri/WebRover/issues"
+  ],
+  "highlight": "Autonomous web interaction and information retrieval using AI language models"
+}

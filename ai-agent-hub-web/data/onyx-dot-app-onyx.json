@@ -1,0 +1,46 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Enhance team communication by integrating AI chat with access to team-specific knowledge and resources.",
+  "principle": "Utilizes RAG (Retrieval-Augmented Generation) to combine AI chat capabilities with team-specific data retrieval for accurate and context-aware responses.",
+  "reusability": "Offers REST API for easy integration with existing team communication tools and supports custom knowledge base integration.",
+  "limitations": "Currently in alpha stage, limited to specific team knowledge bases, and may require significant setup for custom integrations.",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Vercel"
+  ],
+  "stack": [
+    "Python",
+    "Next.js",
+    "RAG",
+    "Vercel",
+    "PostgreSQL"
+  ],
+  "name": "onyx",
+  "slug": "onyx-dot-app-onyx",
+  "description": "Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.",
+  "repository": "https://github.com/onyx-dot-app/onyx",
+  "stars": 12912,
+  "originator": "onyx-dot-app",
+  "tags": [
+    "ai-chat",
+    "chatgpt",
+    "enterprise-search",
+    "gen-ai",
+    "information-retrieval",
+    "nextjs",
+    "python",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/onyx-dot-app/onyx#readme",
+    "https://github.com/onyx-dot-app/onyx/wiki",
+    "https://github.com/onyx-dot-app/onyx/issues"
+  ],
+  "highlight": "Integrates team-specific knowledge with AI chat capabilities for enhanced team communication."
+}

@@ -1,0 +1,49 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Enhance and automate common data science workflows using AI agents",
+  "principle": "Leverages AI models and tools to automate data processing, analysis, and machine learning tasks",
+  "reusability": "Modular design with API support for integration into existing data science pipelines",
+  "limitations": "Early-stage development with limited support for complex customizations and scalability",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Pandas",
+    "Scikit-learn"
+  ],
+  "name": "ai-data-science-team",
+  "slug": "business-science-ai-data-science-team",
+  "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+  "repository": "https://github.com/business-science/ai-data-science-team",
+  "stars": 2044,
+  "originator": "business-science",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-engineer",
+    "ai-engineering",
+    "copilot",
+    "data-science",
+    "data-scientist",
+    "generative-ai",
+    "gpt",
+    "machine-learning",
+    "ml-engineer",
+    "ml-engineering",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-03",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/business-science/ai-data-science-team#readme",
+    "https://github.com/business-science/ai-data-science-team/wiki",
+    "https://github.com/business-science/ai-data-science-team/issues"
+  ],
+  "highlight": "AI-powered agents for accelerating data science tasks by 10X"
+}

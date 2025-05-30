@@ -1,0 +1,55 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development and orchestration of autonomous agents using a ReAct-based framework",
+  "principle": "Employs ReAct (Reason + Act) framework to enable agents to reason and perform actions autonomously in a coordinated manner",
+  "reusability": "Modular design with support for plug-and-play agent components, extensive API documentation for integration",
+  "limitations": "Alpha status indicates potential instability and incomplete features, limited documentation on real-world applications",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "Transformers"
+  ],
+  "name": "Autono",
+  "slug": "vortezwohl-autono",
+  "description": "A ReAct-Based Highly Robust Autonomous Agent Framework",
+  "repository": "https://github.com/vortezwohl/Autono",
+  "stars": 201,
+  "originator": "vortezwohl",
+  "tags": [
+    "agent",
+    "agi",
+    "ai",
+    "aiagent",
+    "autogen",
+    "autonomous-agents",
+    "framework",
+    "langchain",
+    "llm-framework",
+    "mcp",
+    "mcp-agent",
+    "mcp-agent-framework",
+    "mcp-client",
+    "multiagent",
+    "nlp",
+    "openai",
+    "python",
+    "tool-learning",
+    "tool-oriented-learning",
+    "transformer"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-04-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/vortezwohl/Autono/wiki",
+    "https://github.com/vortezwohl/Autono/tree/main/examples"
+  ],
+  "highlight": "Highly robust autonomous agent framework built on ReAct principles for multi-agent coordination"
+}

@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To create a dynamic system of AI agents that can evolve and improve autonomously",
+  "principle": "Utilizes evolutionary algorithms and multi-agent systems to enable agents to adapt and optimize their performance over time",
+  "reusability": "Modular architecture allows for integration with existing AI systems and supports extensibility for new agent types",
+  "limitations": "Currently in alpha stage with limited real-world testing, potential scalability issues with large agent populations",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "Django",
+    "Docker"
+  ],
+  "name": "EvoAgentX",
+  "slug": "evoagentx-evoagentx",
+  "description": "🚀 EvoAgentX: Building a Self-Evolving Ecosystem of AI Agents",
+  "repository": "https://github.com/EvoAgentX/EvoAgentX",
+  "stars": 512,
+  "originator": "EvoAgentX",
+  "tags": [
+    "AI",
+    "evolutionary algorithms",
+    "multi-agent systems",
+    "automation"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/EvoAgentX/EvoAgentX/blob/main/README.md",
+    "https://github.com/EvoAgentX/EvoAgentX/wiki",
+    "https://github.com/EvoAgentX/EvoAgentX/issues"
+  ],
+  "highlight": "Self-evolving ecosystem of AI agents designed to autonomously improve over time"
+}

@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the orchestration and management of web browser-based tasks for RAG (Retrieval-Augmented Generation) applications.",
+  "principle": "Built on a server-client architecture using Node.js to manage RAG workflows and interactions with web browsers.",
+  "reusability": "Offers a modular architecture with APIs for integrating with other systems and extending functionalities.",
+  "limitations": "Primarily experimental with limited documentation and support; may require significant customization for specific use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "mcp-server-rag-web-browser",
+  "slug": "apify-mcp-server-rag-web-browser",
+  "description": "A MCP Server for the RAG Web Browser Actor",
+  "repository": "https://github.com/apify/mcp-server-rag-web-browser",
+  "stars": 142,
+  "originator": "apify",
+  "tags": [
+    "RAG",
+    "orchestration",
+    "web browser"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-17",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/apify/mcp-server-rag-web-browser#readme",
+    "https://github.com/apify/mcp-server-rag-web-browser/issues"
+  ]
+}

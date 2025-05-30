@@ -1,0 +1,30 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "Explore AI-driven cognitive drift and its applications in creative and exploratory tasks",
+  "principle": "Utilizes AI algorithms to simulate cognitive drift, generating novel ideas and associations",
+  "reusability": "Designed as a modular TypeScript library with configurable parameters for drift simulation",
+  "limitations": "Experimental nature with unpredictable outcomes, requires tuning for specific use cases",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "name": "ai-agent-cognitivedriftt",
+  "slug": "dabit3-ai-agent-cognitivedriftt",
+  "description": "Cognitive Drift AI Agent",
+  "repository": "https://github.com/dabit3/ai-agent-cognitivedriftt",
+  "stars": 116,
+  "originator": "dabit3",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-12-10",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/dabit3/ai-agent-cognitivedriftt"
+  ],
+  "highlight": "Simulates cognitive drift to inspire creativity and novel idea generation"
+}

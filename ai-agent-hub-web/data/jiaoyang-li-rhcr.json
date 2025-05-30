@@ -1,0 +1,30 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Solve Multi-Agent Path Finding problems efficiently over the long term",
+  "principle": "Utilizes heuristic search algorithms to optimize pathfinding for multiple agents over time",
+  "reusability": "The solver can be integrated into larger systems requiring multi-agent coordination, with customizable parameters for different scenarios",
+  "limitations": "Primarily focused on pathfinding; may not handle dynamic changes in agent goals or environments without re-computation",
+  "platforms": [
+    "Linux"
+  ],
+  "stack": [
+    "C++"
+  ],
+  "name": "RHCR",
+  "slug": "jiaoyang-li-rhcr",
+  "description": "An efficient solver for lifelong Multi-Agent Path Finding",
+  "repository": "https://github.com/Jiaoyang-Li/RHCR",
+  "stars": 167,
+  "originator": "Jiaoyang-Li",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-12-17",
+  "language": "C++",
+  "useful_links": [
+    "https://github.com/Jiaoyang-Li/RHCR#readme",
+    "https://github.com/Jiaoyang-Li/RHCR/wiki"
+  ],
+  "highlight": "Efficient solver for lifelong Multi-Agent Path Finding (MAPF) problems"
+}

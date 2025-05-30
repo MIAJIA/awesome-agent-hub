@@ -1,0 +1,42 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To create AI agents and MCP servers that adhere to security and compliance standards.",
+  "principle": "Utilizes security-focused design patterns and compliance frameworks to ensure safe AI deployments.",
+  "reusability": "Offers modular components and APIs for integrating secure AI functionalities into existing systems.",
+  "limitations": "Currently in alpha stage, may have incomplete features and potential security vulnerabilities.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "Docker"
+  ],
+  "name": "compliant-llm",
+  "slug": "fiddlecube-compliant-llm",
+  "description": "Build Secure and Compliant AI agents and MCP Servers. YC W23",
+  "repository": "https://github.com/fiddlecube/compliant-llm",
+  "stars": 126,
+  "originator": "fiddlecube",
+  "tags": [
+    "agent-security",
+    "ai-agents",
+    "ai-compliance",
+    "ai-security",
+    "mcp",
+    "mcp-gateway",
+    "mcp-security",
+    "mcp-server"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/fiddlecube/compliant-llm#readme",
+    "https://github.com/fiddlecube/compliant-llm/wiki"
+  ],
+  "highlight": "Focuses on building secure and compliant AI agents and MCP servers."
+}

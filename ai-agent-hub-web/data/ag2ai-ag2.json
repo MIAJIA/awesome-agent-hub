@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "AG2 aims to provide a flexible and extensible framework for building and deploying AI agents that can perform a variety of tasks autonomously.",
+  "principle": "The core principle of AG2 is to enable users to create agents that can learn from their environment and improve their performance over time through interaction and feedback.",
+  "reusability": "AG2 is designed with modular components that allow developers to reuse existing agents and functionalities, facilitating quicker development cycles and easier integration.",
+  "limitations": "As an alpha project, AG2 may have stability issues, limited documentation, and incomplete features that are still under development.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "name": "ag2",
+  "slug": "ag2ai-ag2",
+  "description": "AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ",
+  "repository": "https://github.com/ag2ai/ag2",
+  "stars": 2671,
+  "originator": "ag2ai",
+  "tags": [
+    "AI",
+    "agents",
+    "automation",
+    "open-source",
+    "experimental"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ag2ai/ag2#demo"
+  ],
+  "highlight": "AG2 offers a flexible and extensible framework for building autonomous AI agents with modular components."
+}

@@ -1,0 +1,41 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive development environment for creating AI agents, including NPCs for games and various powerful agent tools, enabling users to design and customize agents to meet specific needs.",
+  "principle": "To empower developers with a flexible and extensible platform that promotes creativity and innovation in AI agent design, leveraging a wide range of programming languages and tools.",
+  "reusability": "The platform is designed to allow developers to reuse components and modules across different AI projects, enhancing productivity and reducing development time.",
+  "limitations": "As an alpha version, the platform may have incomplete features, limited documentation, and potential stability issues that could affect development workflows.",
+  "platforms": [
+    "Web",
+    "Desktop"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Electron"
+  ],
+  "name": "chatdev",
+  "slug": "10cl-chatdev",
+  "description": "ChatDev IDE is an tools for building your ai agent, Whether it's NPCs in games or powerful agent tools, you can design what you want for this platform.",
+  "repository": "https://github.com/10cl/chatdev",
+  "stars": 551,
+  "originator": "10cl",
+  "tags": [
+    "ai-agents-framework",
+    "aigame",
+    "gpts",
+    "prompt-engineering",
+    "prompt-ide",
+    "promptflow"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2024-08-05",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ],
+  "highlight": "Provides a flexible platform for designing AI agents tailored for gaming and other applications."
+}

@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enhance data analytics capabilities by leveraging multi-agent systems with PostgreSQL databases.",
+  "principle": "Utilizes multi-agent systems to interact with PostgreSQL databases, enabling dynamic data analysis and interaction.",
+  "reusability": "Designed for integration with existing PostgreSQL databases, providing modular components that can be extended or customized.",
+  "limitations": "Currently in alpha stage, may have limited scalability and performance issues under heavy load.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PostgreSQL"
+  ],
+  "name": "multi-agent-postgres-data-analytics",
+  "slug": "disler-multi-agent-postgres-data-analytics",
+  "description": "The way we interact with our data is changing.",
+  "repository": "https://github.com/disler/multi-agent-postgres-data-analytics",
+  "stars": 830,
+  "originator": "disler",
+  "tags": [
+    "multi-agent systems",
+    "data analytics",
+    "PostgreSQL"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-07-24",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/disler/multi-agent-postgres-data-analytics#readme",
+    "https://github.com/disler/multi-agent-postgres-data-analytics/wiki"
+  ],
+  "highlight": "Facilitates advanced data interaction using multi-agent systems with PostgreSQL."
+}

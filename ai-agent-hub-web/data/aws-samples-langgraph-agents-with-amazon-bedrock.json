@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for developing AI agents that leverage Amazon Bedrock for language model capabilities",
+  "principle": "Utilizes LangChain for chaining language models and GraphQL for querying data sources, integrated with Amazon Bedrock's AI services",
+  "reusability": "Designed to be modular with support for custom agent configurations and integration with various data sources via GraphQL",
+  "limitations": "Primarily focused on AWS ecosystem, requires familiarity with LangChain and GraphQL, limited to environments supporting Amazon Bedrock",
+  "platforms": [
+    "AWS"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "GraphQL",
+    "Amazon Bedrock",
+    "Jupyter Notebook"
+  ],
+  "name": "langgraph-agents-with-amazon-bedrock",
+  "slug": "aws-samples-langgraph-agents-with-amazon-bedrock",
+  "description": "N/A",
+  "repository": "https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock",
+  "stars": 148,
+  "originator": "aws-samples",
+  "tags": [
+    "AI",
+    "Amazon Bedrock",
+    "LangChain",
+    "GraphQL"
+  ],
+  "open_source": true,
+  "license": "MIT-0",
+  "last_updated": "2025-05-24",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock",
+    "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html"
+  ],
+  "highlight": "Integrates with Amazon Bedrock for building scalable AI agents using LangChain and GraphQL"
+}

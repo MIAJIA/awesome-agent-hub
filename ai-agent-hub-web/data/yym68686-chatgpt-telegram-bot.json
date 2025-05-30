@@ -1,0 +1,60 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "To provide an AI-powered chat experience on Telegram, leveraging multiple AI models and APIs for enhanced interaction.",
+  "principle": "Utilizes Python with integrations to GPT-3.5/4, Claude, and other AI models via APIs, hosted on platforms like Zeabur and fly.io.",
+  "reusability": "The bot can be deployed using Docker and configured with various API keys for different AI models, allowing customization and scalability.",
+  "limitations": "Dependent on external AI APIs which may incur costs, requires configuration of API keys and deployment environment.",
+  "platforms": [
+    "Docker",
+    "Zeabur",
+    "fly.io",
+    "Replit"
+  ],
+  "stack": [
+    "Python",
+    "Telegram Bot API",
+    "GPT-3.5/4",
+    "Claude API",
+    "Docker",
+    "Zeabur",
+    "fly.io",
+    "Replit"
+  ],
+  "name": "ChatGPT-Telegram-Bot",
+  "slug": "yym68686-chatgpt-telegram-bot",
+  "description": "TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.",
+  "repository": "https://github.com/yym68686/ChatGPT-Telegram-Bot",
+  "stars": 1043,
+  "originator": "yym68686",
+  "tags": [
+    "agent",
+    "chatgpt",
+    "claude",
+    "claude-3-opus",
+    "claude-api",
+    "docker",
+    "fly-io",
+    "gemini",
+    "gpt-4-api",
+    "groq",
+    "koyeb",
+    "langchain",
+    "mixtral-8x7b",
+    "python-telegram-bot",
+    "replit",
+    "replit-bot",
+    "telegram-bot",
+    "vertex-ai",
+    "zeabur"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-13",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/yym68686/ChatGPT-Telegram-Bot#readme",
+    "https://github.com/yym68686/ChatGPT-Telegram-Bot/wiki"
+  ],
+  "highlight": "Integrates multiple AI models and APIs to provide a versatile Telegram chat experience with web search capabilities."
+}

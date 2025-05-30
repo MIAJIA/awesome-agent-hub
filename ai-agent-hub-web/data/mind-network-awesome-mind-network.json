@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive list of code implementations and resources for the Mind Network ecosystem, focusing on AI, consensus mechanisms, and Web3 technologies.",
+  "principle": "Aggregates various code examples and resources related to Mind Network technologies, facilitating learning and integration for developers.",
+  "reusability": "Offers a collection of resources and code snippets that can be used as references or starting points for developers working within the Mind Network ecosystem.",
+  "limitations": "Primarily serves as a resource repository, may lack detailed documentation on individual code implementations.",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "stack": [
+    "JavaScript",
+    "Python",
+    "Web3",
+    "AI"
+  ],
+  "name": "Awesome-Mind-Network",
+  "slug": "mind-network-awesome-mind-network",
+  "description": "List of Codes by Mind Network",
+  "repository": "https://github.com/mind-network/Awesome-Mind-Network",
+  "stars": 202,
+  "originator": "mind-network",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "consensus",
+    "fhe",
+    "wallet",
+    "web3"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-11",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/mind-network/Awesome-Mind-Network/blob/main/README.md"
+  ],
+  "highlight": "Comprehensive resource hub for AI and Web3 technologies within the Mind Network ecosystem."
+}

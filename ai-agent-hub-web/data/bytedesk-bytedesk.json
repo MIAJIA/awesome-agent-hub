@@ -1,0 +1,49 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Provide an AI-powered omni-channel customer service platform with live chat, email support, and team collaboration features",
+  "principle": "Integrates AI for automated responses and support ticket management, enabling seamless customer interaction across multiple channels",
+  "reusability": "Offers API integration for embedding live chat and support features into existing platforms, supports custom configurations for different channels",
+  "limitations": "Limited to basic chat functionalities in early stages, may require additional setup for full feature utilization",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "React",
+    "MongoDB",
+    "Express",
+    "Socket.io"
+  ],
+  "name": "bytedesk",
+  "slug": "bytedesk-bytedesk",
+  "description": "Enterprise IM Solution with AI powered live chat, email support, omni-channel customer service & team im，alternative to slack + zendesk/intercom",
+  "repository": "https://github.com/Bytedesk/bytedesk",
+  "stars": 225,
+  "originator": "Bytedesk",
+  "tags": [
+    "ai",
+    "chatbot",
+    "chatpdf",
+    "flowable",
+    "helpdesk",
+    "livechat",
+    "omnichannel",
+    "rag",
+    "support",
+    "team",
+    "ticket-system"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "HTML",
+  "useful_links": [
+    "https://github.com/Bytedesk/bytedesk/blob/main/README.md",
+    "https://github.com/Bytedesk/bytedesk/wiki",
+    "https://github.com/Bytedesk/bytedesk/issues"
+  ],
+  "highlight": "Combines live chat and team collaboration with AI-driven support, aiming to be an alternative to platforms like Slack and Zendesk"
+}

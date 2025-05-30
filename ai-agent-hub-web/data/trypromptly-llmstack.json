@@ -1,0 +1,47 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable users to create and manage AI-driven agents and workflows without coding, leveraging LLMs for automation and data interaction",
+  "principle": "Utilizes a no-code interface to orchestrate LLM-based agents and workflows, allowing users to build applications by integrating data sources and AI capabilities",
+  "reusability": "Highly composable with support for custom workflows and data integrations; provides an extensible framework for building and managing LLM-driven applications",
+  "limitations": "Currently in alpha stage, which may include limited features and potential instability; requires understanding of LLM capabilities for effective use",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "FastAPI"
+  ],
+  "name": "LLMStack",
+  "slug": "trypromptly-llmstack",
+  "description": "No-code multi-agent framework to build LLM Agents, workflows and applications with your data",
+  "repository": "https://github.com/trypromptly/LLMStack",
+  "stars": 1949,
+  "originator": "trypromptly",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents-framework",
+    "generative-ai",
+    "llm-agents",
+    "llm-chain",
+    "llm-framework",
+    "llmops",
+    "llms",
+    "no-code-ai",
+    "platform"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-12-11",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/trypromptly/LLMStack#readme",
+    "https://github.com/trypromptly/LLMStack/wiki",
+    "https://github.com/trypromptly/LLMStack/issues"
+  ],
+  "highlight": "No-code framework for building multi-agent systems and workflows with large language models (LLMs)"
+}

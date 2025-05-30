@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a unified interface to build, test, and manage AI agents efficiently.",
+  "principle": "Leverages modern web technologies to offer a centralized UI for managing AI agent workflows, including testing and deployment.",
+  "reusability": "Designed as a central hub for AI agent management, it can be integrated with various AI frameworks and platforms via plugins or extensions.",
+  "limitations": "Currently in alpha stage, may lack features for full-scale production deployment, and could have limited support for certain AI frameworks.",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SCSS"
+  ],
+  "name": "BotSharp-UI",
+  "slug": "scisharp-botsharp-ui",
+  "description": "Build, test and manage your AI Agents in the central place.",
+  "repository": "https://github.com/SciSharp/BotSharp-UI",
+  "stars": 127,
+  "originator": "SciSharp",
+  "tags": [
+    "agent",
+    "ai",
+    "botsharp",
+    "chatbot"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-23",
+  "language": "SCSS",
+  "useful_links": [
+    "https://github.com/SciSharp/BotSharp-UI#readme"
+  ]
+}

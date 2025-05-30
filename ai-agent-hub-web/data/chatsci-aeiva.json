@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a general-purpose AI framework that can be customized for different applications and environments",
+  "principle": "Built on Python with support for multimodal inputs and large language models, enabling versatile AI agent development",
+  "reusability": "Modular architecture allowing for easy integration and customization; supports various plugins and API extensions",
+  "limitations": "Currently in alpha stage, which may include incomplete features and limited documentation",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "Hugging Face Transformers"
+  ],
+  "name": "Aeiva",
+  "slug": "chatsci-aeiva",
+  "description": "A general AI agent framework that can be adapted to various tasks and environments.",
+  "repository": "https://github.com/chatsci/Aeiva",
+  "stars": 100,
+  "originator": "chatsci",
+  "tags": [
+    "agent",
+    "ai",
+    "ai4science",
+    "computer-usage",
+    "computer-use",
+    "large-languge-models",
+    "llm",
+    "memory",
+    "multi-agent-system",
+    "multimodal",
+    "self-evolving-systems",
+    "world-model"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-02-03",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/chatsci/Aeiva/blob/main/README.md",
+    "https://github.com/chatsci/Aeiva/wiki",
+    "https://github.com/chatsci/Aeiva/issues"
+  ],
+  "highlight": "Flexible and adaptable AI agent framework for various tasks and environments"
+}

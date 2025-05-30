@@ -1,0 +1,39 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the creation, editing, and deployment of full-stack web applications entirely within the browser environment",
+  "principle": "Built on WebContainers technology, allowing Node.js environments to run natively in the browser without the need for a backend server",
+  "reusability": "Highly composable with support for various web technologies and frameworks, offering a seamless development experience directly in the browser",
+  "limitations": "Currently in alpha stage, may have stability issues, and is limited to environments that support WebContainers",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "TypeScript",
+    "WebContainers",
+    "Node.js",
+    "React"
+  ],
+  "name": "bolt.new",
+  "slug": "stackblitz-bolt-new",
+  "description": "Prompt, run, edit, and deploy full-stack web applications",
+  "repository": "https://github.com/stackblitz/bolt.new",
+  "stars": 14815,
+  "originator": "stackblitz",
+  "tags": [
+    "ai-playground",
+    "anthropic",
+    "chatbot",
+    "webcontainers-api"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-12-17",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/stackblitz/bolt.new#readme",
+    "https://stackblitz.com/docs",
+    "https://blog.stackblitz.com/posts/introducing-webcontainers/"
+  ],
+  "highlight": "Enables rapid prototyping and deployment of full-stack applications directly in the browser using WebContainers"
+}

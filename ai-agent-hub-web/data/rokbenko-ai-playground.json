@@ -1,0 +1,55 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide educational AI and machine learning code examples and tutorials for learners and developers.",
+  "principle": "Demonstrates AI concepts through practical coding examples using popular AI frameworks and libraries.",
+  "reusability": "Code snippets and projects can be reused and adapted for educational purposes or as starting points for AI projects.",
+  "limitations": "Primarily educational with varying levels of completeness; not production-ready applications.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain",
+    "Spacy",
+    "PostgreSQL",
+    "Milvus"
+  ],
+  "name": "ai-playground",
+  "slug": "rokbenko-ai-playground",
+  "description": "Code from tutorials presented on the \"Code AI with Rok\" YouTube channel",
+  "repository": "https://github.com/rokbenko/ai-playground",
+  "stars": 274,
+  "originator": "rokbenko",
+  "tags": [
+    "anthropic",
+    "crewai",
+    "exa",
+    "fetchai",
+    "gemini",
+    "langchain",
+    "langgraph",
+    "langsmith",
+    "llamaindex",
+    "milvus",
+    "mistral",
+    "openai",
+    "pgvector",
+    "postgresql",
+    "snowflake",
+    "spacy",
+    "tavily",
+    "vertexai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-08",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/rokbenko/ai-playground#readme",
+    "https://github.com/rokbenko/ai-playground/tree/main/tutorials"
+  ],
+  "highlight": "Collection of AI tutorials and projects from the 'Code AI with Rok' YouTube channel, showcasing diverse AI and ML techniques."
+}

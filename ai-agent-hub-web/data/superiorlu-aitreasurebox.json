@@ -1,0 +1,45 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To serve as a curated repository of AI resources for developers, researchers, and enthusiasts",
+  "principle": "Aggregates and organizes AI-related content, providing easy access to a wide range of resources",
+  "reusability": "Open-source project that can be easily accessed and contributed to by the community",
+  "limitations": "Primarily a static collection; does not offer dynamic content updates or personalized recommendations",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Ruby"
+  ],
+  "name": "AITreasureBox",
+  "slug": "superiorlu-aitreasurebox",
+  "description": "🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎 ",
+  "repository": "https://github.com/superiorlu/AITreasureBox",
+  "stars": 591,
+  "originator": "superiorlu",
+  "tags": [
+    "agi",
+    "ai",
+    "ai-gents",
+    "ai-prompts",
+    "ai-tools",
+    "alpaca",
+    "awesome-list",
+    "deep-learning",
+    "deepseek",
+    "gpt",
+    "llama",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-29",
+  "language": "Ruby",
+  "useful_links": [
+    "https://github.com/superiorlu/AITreasureBox/blob/main/README.md"
+  ],
+  "highlight": "Comprehensive collection of practical AI resources including repositories, tools, websites, papers, and tutorials"
+}

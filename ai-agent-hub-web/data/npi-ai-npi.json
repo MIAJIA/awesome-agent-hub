@@ -1,0 +1,50 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development and integration of autonomous AI agents capable of performing a wide range of tasks",
+  "principle": "Builds on large language models and integrates with OpenAI's GPT-4 for action execution and decision-making",
+  "reusability": "Offers a modular library with extensible actions that can be integrated into various AI agent workflows",
+  "limitations": "Primarily reliant on OpenAI's GPT-4, which may incur usage costs; requires significant setup for custom task definitions",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain"
+  ],
+  "name": "npi",
+  "slug": "npi-ai-npi",
+  "description": "Action library for AI Agent",
+  "repository": "https://github.com/npi-ai/npi",
+  "stars": 214,
+  "originator": "npi-ai",
+  "tags": [
+    "agent",
+    "artificial-intelligence",
+    "autogpt",
+    "autonomous-agent",
+    "browser-automation",
+    "chatgpt",
+    "function-calling",
+    "gpt-4",
+    "intergration",
+    "large-language-models",
+    "llm",
+    "openai",
+    "prompt-engineering",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-31",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/npi-ai/npi#readme",
+    "https://github.com/npi-ai/npi/wiki",
+    "https://github.com/npi-ai/npi/issues",
+    "https://github.com/npi-ai/npi/pulls"
+  ],
+  "highlight": "Comprehensive action library enabling AI agents to perform complex tasks autonomously"
+}

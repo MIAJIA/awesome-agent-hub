@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development and deployment of reinforcement learning models in production environments",
+  "principle": "Builds on reinforcement learning algorithms and provides tools for training, evaluation, and deployment of AI agents",
+  "reusability": "Modular design with reusable components for different reinforcement learning tasks; supports integration with existing ML workflows",
+  "limitations": "Primarily focused on reinforcement learning, may not support other AI paradigms; requires understanding of RL principles",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "NumPy"
+  ],
+  "name": "Pearl",
+  "slug": "facebookresearch-pearl",
+  "description": "A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta. ",
+  "repository": "https://github.com/facebookresearch/Pearl",
+  "stars": 2829,
+  "originator": "facebookresearch",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-15",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/facebookresearch/Pearl/blob/main/docs/README.md",
+    "https://github.com/facebookresearch/Pearl/blob/main/examples"
+  ],
+  "highlight": "Production-ready library for implementing reinforcement learning agents"
+}

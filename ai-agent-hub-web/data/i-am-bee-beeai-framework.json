@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation of production-ready AI agents using a framework that supports both Python and TypeScript.",
+  "principle": "Provides a framework for building AI agents, leveraging both Python and TypeScript, likely utilizing popular AI/ML libraries and APIs.",
+  "reusability": "Designed for plug-and-play integration with Python and TypeScript projects, providing reusable components for AI agent development.",
+  "limitations": "Currently in alpha status, indicating potential instability and incomplete features.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "TypeScript",
+    "Node.js"
+  ],
+  "name": "beeai-framework",
+  "slug": "i-am-bee-beeai-framework",
+  "description": "Build production-ready AI agents in both Python and Typescript.",
+  "repository": "https://github.com/i-am-bee/beeai-framework",
+  "stars": 2477,
+  "originator": "i-am-bee",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agent",
+    "framework",
+    "llm",
+    "multiagent",
+    "python",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/i-am-bee/beeai-framework#readme",
+    "https://github.com/i-am-bee/beeai-framework/wiki"
+  ],
+  "highlight": "Supports building AI agents in both Python and TypeScript for production-ready applications."
+}

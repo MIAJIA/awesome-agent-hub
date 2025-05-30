@@ -1,0 +1,46 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable the creation and management of AI agents that can integrate with various AI models and services, facilitating complex multi-agent systems.",
+  "principle": "Built on a modular architecture allowing plug-and-play integration of different AI models and services, leveraging TypeScript for robust development.",
+  "reusability": "Highly composable with support for modular integrations, provides APIs for extending capabilities and integrating new models and services.",
+  "limitations": "Currently in alpha stage, may have limited stability and incomplete features, primarily focused on integration rather than standalone AI model development.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Docker"
+  ],
+  "name": "evo-ai",
+  "slug": "evolutionapi-evo-ai-1",
+  "description": "Evo AI is an open-source platform for creating and managing AI agents, enabling integration with different AI models and services.",
+  "repository": "https://github.com/EvolutionAPI/evo-ai",
+  "stars": 309,
+  "originator": "EvolutionAPI",
+  "tags": [
+    "a2a-protocol",
+    "adk",
+    "agent",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai",
+    "crewai",
+    "langgraph",
+    "mcp",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-24",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/EvolutionAPI/evo-ai/wiki",
+    "https://github.com/EvolutionAPI/evo-ai/issues",
+    "https://github.com/EvolutionAPI/evo-ai/pulls"
+  ],
+  "highlight": "Evo AI provides a versatile platform for integrating and managing multiple AI models and services within a unified agent framework."
+}

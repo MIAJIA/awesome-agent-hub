@@ -1,0 +1,50 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the integration of AI agents with a vast array of tools and services, enabling seamless function calling and access management.",
+  "principle": "Leverages multi-tenant authentication and a unified MCP server to manage connections and permissions for AI agents.",
+  "reusability": "Offers a unified API for integrating various tools, supports multi-tenant environments, and provides granular permission settings.",
+  "limitations": "Currently in alpha stage, which may imply limited stability and evolving features.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "OAuth2",
+    "MCP"
+  ],
+  "name": "aci",
+  "slug": "aipotheosis-labs-aci",
+  "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.",
+  "repository": "https://github.com/aipotheosis-labs/aci",
+  "stars": 3665,
+  "originator": "aipotheosis-labs",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "api",
+    "developer-tools",
+    "function-calling",
+    "integration",
+    "llm",
+    "mcp",
+    "oauth2",
+    "open-source",
+    "permissions",
+    "tools"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/aipotheosis-labs/aci/blob/main/README.md",
+    "https://github.com/aipotheosis-labs/aci/wiki",
+    "https://github.com/aipotheosis-labs/aci/issues",
+    "https://github.com/aipotheosis-labs/aci/releases"
+  ],
+  "highlight": "Connects AI agents to over 600 tool integrations with multi-tenant authentication and granular permissions."
+}

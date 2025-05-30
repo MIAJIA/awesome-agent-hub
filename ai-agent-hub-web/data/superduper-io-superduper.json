@@ -1,0 +1,58 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive framework for developing and deploying custom AI applications and agents.",
+  "principle": "Built on Python, leveraging PyTorch for machine learning tasks, and supports LLM inference and serving with RAG and semantic search capabilities.",
+  "reusability": "Offers modular components and APIs for easy integration, supports various AI and ML operations, and is designed for scalability and customization.",
+  "limitations": "Currently in alpha stage, may have limited stability and feature set; primarily designed for Python environments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "MongoDB",
+    "Transformers",
+    "RAG",
+    "Torch"
+  ],
+  "name": "superduper",
+  "slug": "superduper-io-superduper",
+  "description": "Superduper: End-to-end framework for building custom AI applications and agents.",
+  "repository": "https://github.com/superduper-io/superduper",
+  "stars": 5066,
+  "originator": "superduper-io",
+  "tags": [
+    "ai",
+    "chatbot",
+    "data",
+    "database",
+    "distributed-ml",
+    "inference",
+    "llm-inference",
+    "llm-serving",
+    "llmops",
+    "ml",
+    "mlops",
+    "mongodb",
+    "pretrained-models",
+    "python",
+    "pytorch",
+    "rag",
+    "semantic-search",
+    "torch",
+    "transformers",
+    "vector-search"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/superduper-io/superduper/blob/main/README.md",
+    "https://github.com/superduper-io/superduper/wiki",
+    "https://github.com/superduper-io/superduper/issues"
+  ],
+  "highlight": "End-to-end framework for building custom AI applications with a focus on LLM operations and distributed machine learning."
+}

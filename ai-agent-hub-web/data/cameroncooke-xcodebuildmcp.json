@@ -1,0 +1,38 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates integration of Xcode tools with AI assistants and other MCP clients.",
+  "principle": "Operates as a server using the Model Context Protocol to communicate and integrate with Xcode tools.",
+  "reusability": "Designed for integration with AI assistants and MCP clients, providing a server interface for Xcode tools.",
+  "limitations": "Primarily focused on Xcode-related tasks, may not support non-Xcode development environments.",
+  "platforms": [
+    "macOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "XcodeBuildMCP",
+  "slug": "cameroncooke-xcodebuildmcp",
+  "description": "A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.",
+  "repository": "https://github.com/cameroncooke/XcodeBuildMCP",
+  "stars": 1286,
+  "originator": "cameroncooke",
+  "tags": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "model-context-protocol-servers",
+    "xcode",
+    "xcodebuild"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-15",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/cameroncooke/XcodeBuildMCP#readme"
+  ],
+  "highlight": "Provides Xcode integration tools for AI assistants using the Model Context Protocol (MCP)."
+}

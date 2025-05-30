@@ -1,0 +1,40 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To offer an environment and benchmark suite for developing and evaluating autonomous agents in Android-based simulations.",
+  "principle": "Utilizes Android emulation to create realistic environments where agents can interact and be benchmarked on their performance.",
+  "reusability": "Designed to be extensible with custom scenarios and tasks, supports integration with various reinforcement learning frameworks.",
+  "limitations": "Primarily focused on Android environments, may not generalize to non-Android systems, and requires significant computational resources for emulation.",
+  "platforms": [
+    "Linux",
+    "Android"
+  ],
+  "stack": [
+    "Python",
+    "Android Emulator",
+    "TensorFlow",
+    "OpenAI Gym"
+  ],
+  "name": "android_world",
+  "slug": "google-research-android-world",
+  "description": "AndroidWorld is an environment and benchmark for autonomous agents",
+  "repository": "https://github.com/google-research/android_world",
+  "stars": 319,
+  "originator": "google-research",
+  "tags": [
+    "autonomous agents",
+    "benchmarking",
+    "Android",
+    "reinforcement learning",
+    "simulation"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-22",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/google-research/android_world/blob/main/README.md",
+    "https://github.com/google-research/android_world/tree/main/docs"
+  ],
+  "highlight": "Provides a comprehensive environment and benchmark specifically designed for testing autonomous agents on Android platforms."
+}

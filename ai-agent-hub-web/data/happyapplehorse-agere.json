@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the building and management of workflows specifically designed for AI projects.",
+  "principle": "Leverages Python for creating and managing workflows that can construct and control AI agents.",
+  "reusability": "Modular design allows for plug-and-play workflow components, with API support for integration into larger systems.",
+  "limitations": "Currently in alpha stage, which may include limited documentation and potential instability.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Celery"
+  ],
+  "name": "agere",
+  "slug": "happyapplehorse-agere",
+  "description": "The tool is used for building and driving workflows specifically tailored for AI initiatives. It can be used to construct AI agents.",
+  "repository": "https://github.com/happyapplehorse/agere",
+  "stars": 146,
+  "originator": "happyapplehorse",
+  "tags": [
+    "agent",
+    "ai",
+    "framwork",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-07-03",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/happyapplehorse/agere/blob/main/README.md",
+    "https://github.com/happyapplehorse/agere/wiki"
+  ],
+  "highlight": "Enables the construction and orchestration of AI agents through customizable workflows."
+}

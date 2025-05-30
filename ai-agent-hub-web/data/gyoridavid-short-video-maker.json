@@ -1,0 +1,55 @@
+{
+  "category": "social-media",
+  "status": "alpha",
+  "purpose": "To automate the creation of short videos tailored for social media platforms like TikTok, Instagram Reels, and YouTube Shorts.",
+  "principle": "Leverages the Model Context Protocol (MCP) to generate video content programmatically, integrating with a REST API for video rendering and management.",
+  "reusability": "Exposes a REST API for video creation, allowing integration into other applications and workflows. Configurable for different video formats and platforms.",
+  "limitations": "Primarily focused on faceless video content; may not support complex video editing tasks. Limited to platforms that support short video formats.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Remotion",
+    "REST API"
+  ],
+  "name": "short-video-maker",
+  "slug": "gyoridavid-short-video-maker",
+  "description": "Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.",
+  "repository": "https://github.com/gyoridavid/short-video-maker",
+  "stars": 285,
+  "originator": "gyoridavid",
+  "tags": [
+    "faceless-video",
+    "instagram",
+    "instagram-reels",
+    "instagram-reels-automation",
+    "mcp",
+    "model-context-protocol",
+    "reels",
+    "remotion",
+    "shorts",
+    "shorts-automate",
+    "shorts-maker",
+    "tiktok",
+    "tiktok-creator",
+    "video-creation-tool",
+    "video-creator",
+    "video-generation",
+    "video-generator",
+    "video-maker",
+    "youtube",
+    "youtube-shorts"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-22",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/gyoridavid/short-video-maker#readme",
+    "https://github.com/gyoridavid/short-video-maker/wiki"
+  ],
+  "highlight": "Automated creation of faceless short videos using the Model Context Protocol (MCP) and REST API."
+}

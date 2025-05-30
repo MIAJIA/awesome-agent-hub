@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development and coordination of AI agents for complex tasks",
+  "principle": "Built on a modular architecture leveraging Python for agent development and Bedrock for orchestration",
+  "reusability": "Offers a flexible framework for creating and integrating multiple AI agents, supports plug-and-play components",
+  "limitations": "Early-stage development with potential stability issues and limited documentation",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Bedrock"
+  ],
+  "name": "ai-agents",
+  "slug": "viktoriasemaan-ai-agents",
+  "description": "AI Agents with Bedrock",
+  "repository": "https://github.com/viktoriasemaan/ai-agents",
+  "stars": 196,
+  "originator": "viktoriasemaan",
+  "tags": [
+    "multi-agent systems",
+    "orchestration",
+    "AI framework"
+  ],
+  "open_source": true,
+  "license": "MIT-0",
+  "last_updated": "2024-07-30",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/viktoriasemaan/ai-agents#readme",
+    "https://github.com/viktoriasemaan/ai-agents/wiki"
+  ],
+  "highlight": "A framework for building and orchestrating multi-agent systems using Bedrock"
+}

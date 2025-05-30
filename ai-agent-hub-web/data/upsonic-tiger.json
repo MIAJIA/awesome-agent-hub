@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates advanced coordination and communication between AI agents using neural network principles",
+  "principle": "Builds on LangChain and other AI frameworks to create a neural network-like structure for AI agent interaction",
+  "reusability": "Designed for integration with existing AI systems via LangChain, supports modular agent development",
+  "limitations": "Currently in alpha stage with limited documentation and potential stability issues",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "Autogen",
+    "CrewAI"
+  ],
+  "name": "Tiger",
+  "slug": "upsonic-tiger",
+  "description": "Neuralink for your AI Agents - LangChain - Autogen - CrewAI",
+  "repository": "https://github.com/Upsonic/Tiger",
+  "stars": 450,
+  "originator": "Upsonic",
+  "tags": [
+    "agent",
+    "ai",
+    "function-calling",
+    "llm",
+    "neuralink",
+    "tools"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Upsonic/Tiger/blob/main/README.md",
+    "https://github.com/Upsonic/Tiger/wiki",
+    "https://github.com/Upsonic/Tiger/issues"
+  ],
+  "highlight": "Integrates multiple AI frameworks to enhance agent capabilities and coordination"
+}

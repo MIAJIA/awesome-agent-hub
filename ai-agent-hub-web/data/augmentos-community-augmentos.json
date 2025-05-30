@@ -1,0 +1,45 @@
+{
+  "category": "iot",
+  "status": "alpha",
+  "purpose": "AugmentOS provides an operating system for smart glasses, offering users features like AI assistance, notifications, and translation, while enabling developers to create cross-compatible applications.",
+  "principle": "Built as a modular OS with a focus on compatibility and extensibility for various smart glasses models, leveraging Java as the primary language.",
+  "reusability": "Supports app development through a unified API, allowing developers to create applications that are compatible across different smart glasses platforms.",
+  "limitations": "Currently in alpha stage, may have limited support for some smart glasses models and feature stability may vary.",
+  "platforms": [
+    "Smart Glasses",
+    "Android"
+  ],
+  "stack": [
+    "Java",
+    "Android SDK",
+    "Wearable API"
+  ],
+  "name": "AugmentOS",
+  "slug": "augmentos-community-augmentos",
+  "description": "Smart glasses OS, with dozens of built-in apps. Users get AI assistant, notifications, translation, screen mirror, captions, and more. Devs get to write 1 app that runs on any pair of smart glases.",
+  "repository": "https://github.com/AugmentOS-Community/AugmentOS",
+  "stars": 514,
+  "originator": "AugmentOS-Community",
+  "tags": [
+    "activelook",
+    "conversational-ai",
+    "rayneo",
+    "smart-glasses",
+    "smartglasses",
+    "vuzix",
+    "vuzix-shield",
+    "vuzix-ultralite",
+    "wearable",
+    "wearables"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-29",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/AugmentOS-Community/AugmentOS/blob/main/README.md",
+    "https://github.com/AugmentOS-Community/AugmentOS/wiki",
+    "https://github.com/AugmentOS-Community/AugmentOS/releases"
+  ],
+  "highlight": "Allows developers to write a single app that runs on any pair of smart glasses."
+}

@@ -1,0 +1,39 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a template for setting up a self-hosted AI environment for secure and customizable AI workflows.",
+  "principle": "Leverages Docker to containerize AI tools and services, enabling easy deployment and management of AI workflows locally.",
+  "reusability": "The template is modular and can be extended with additional AI tools and workflows. It supports Docker for easy integration and deployment.",
+  "limitations": "Requires knowledge of Docker and self-hosting infrastructure; limited to the tools and services included in the template.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Docker",
+    "Node.js",
+    "n8n"
+  ],
+  "name": "self-hosted-ai-starter-kit",
+  "slug": "n8n-io-self-hosted-ai-starter-kit",
+  "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+  "repository": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
+  "stars": 8947,
+  "originator": "n8n-io",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "low-code",
+    "self-hosted",
+    "starter-kit"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-24",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/n8n-io/self-hosted-ai-starter-kit/blob/main/README.md",
+    "https://github.com/n8n-io/self-hosted-ai-starter-kit/wiki"
+  ],
+  "highlight": "Quickly sets up a secure, self-hosted AI environment with essential tools for AI workflows."
+}

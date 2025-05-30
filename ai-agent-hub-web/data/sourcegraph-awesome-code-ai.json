@@ -1,0 +1,32 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Curate and provide a comprehensive list of AI coding tools to assist developers in finding suitable AI-based coding assistants, completion engines, and refactoring tools.",
+  "principle": "Aggregates and categorizes various AI coding tools available in the market, providing descriptions and links to their respective repositories or documentation.",
+  "reusability": "",
+  "limitations": "",
+  "platforms": [],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-code-ai",
+  "slug": "sourcegraph-awesome-code-ai",
+  "description": "A list of AI coding tools (assistants, completions, refactoring, etc.)",
+  "repository": "https://github.com/sourcegraph/awesome-code-ai",
+  "stars": 1216,
+  "originator": "sourcegraph",
+  "tags": [
+    "AI",
+    "coding tools",
+    "programming",
+    "developer resources"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-09",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/sourcegraph/awesome-code-ai#readme"
+  ],
+  "highlight": "Comprehensive list of AI coding tools categorized for easy navigation by developers."
+}

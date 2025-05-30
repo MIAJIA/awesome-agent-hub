@@ -1,0 +1,47 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enhances developer productivity by integrating advanced language models into the code editing environment",
+  "principle": "Integrates with popular language models like ChatGPT and Claude to provide AI-assisted coding features within Visual Studio Code",
+  "reusability": "Available as a Visual Studio Code extension, easily installable and configurable for developers",
+  "limitations": "Currently in alpha stage, potential issues with model integration stability and limited language support",
+  "platforms": [
+    "Visual Studio Code"
+  ],
+  "stack": [
+    "TypeScript",
+    "Visual Studio Code Extension API",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "name": "void",
+  "slug": "voideditor-void",
+  "description": "N/A",
+  "repository": "https://github.com/voideditor/void",
+  "stars": 22191,
+  "originator": "voideditor",
+  "tags": [
+    "chatgpt",
+    "claude",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "editor",
+    "llm",
+    "open-source",
+    "openai",
+    "visual-studio-code",
+    "vscode",
+    "vscode-extension"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/voideditor/void/blob/main/README.md",
+    "https://github.com/voideditor/void/wiki",
+    "https://marketplace.visualstudio.com/items?itemName=voideditor.void"
+  ],
+  "highlight": "A cutting-edge code editor extension that leverages multiple LLMs for enhanced developer productivity"
+}

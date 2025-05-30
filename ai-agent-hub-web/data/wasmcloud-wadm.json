@@ -1,0 +1,42 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Manage and scale declarative wasmCloud applications",
+  "principle": "Utilizes a reconciliation loop and OAM (Open Application Model) for orchestrating WebAssembly applications",
+  "reusability": "Integrates with wasmCloud ecosystem, supports NATS for messaging, and uses declarative application definitions",
+  "limitations": "Currently in alpha stage, may have limited stability and feature coverage",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "NATS",
+    "OAM",
+    "WebAssembly"
+  ],
+  "name": "wadm",
+  "slug": "wasmcloud-wadm",
+  "description": "wasmCloud Application Deployment Manager (wadm) is a Wasm-native orchestrator for managing and scaling declarative wasmCloud applications.",
+  "repository": "https://github.com/wasmCloud/wadm",
+  "stars": 114,
+  "originator": "wasmCloud",
+  "tags": [
+    "nats",
+    "oam",
+    "reconciliation",
+    "wasm-native",
+    "wasmcloud",
+    "webassembly"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/wasmCloud/wadm#readme",
+    "https://wasmcloud.dev/docs/",
+    "https://github.com/wasmCloud/wadm/issues"
+  ],
+  "highlight": "Wasm-native orchestrator for declarative wasmCloud applications"
+}

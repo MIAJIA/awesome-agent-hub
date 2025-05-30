@@ -1,0 +1,47 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Optimize AI workflows and programs for improved quality, reduced execution latency, and lower costs.",
+  "principle": "Utilizes autotuning techniques to automatically adjust parameters and configurations in LangChain, LangGraph, and DSPy programs.",
+  "reusability": "Can be integrated into existing AI workflows with support for LangChain, LangGraph, and DSPy, providing a framework for workflow optimization.",
+  "limitations": "Currently in alpha stage; may have limited support for certain AI frameworks and lacks comprehensive documentation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "LangGraph",
+    "DSPy"
+  ],
+  "name": "cognify",
+  "slug": "genseeai-cognify-1",
+  "description": "Multi-Faceted AI Agent and Workflow Autotuning. Automatically optimizes LangChain, LangGraph, DSPy programs for better quality, lower execution latency, and lower execution cost. Also has a simple agent/workflow framework",
+  "repository": "https://github.com/GenseeAI/cognify",
+  "stars": 233,
+  "originator": "GenseeAI",
+  "tags": [
+    "agent",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "automl",
+    "autotuning",
+    "dspy",
+    "langchain",
+    "langgraph",
+    "model-selection",
+    "optimization",
+    "prompt-tuning"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-16",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/GenseeAI/cognify/blob/main/README.md",
+    "https://github.com/GenseeAI/cognify/wiki",
+    "https://github.com/GenseeAI/cognify/issues"
+  ]
+}

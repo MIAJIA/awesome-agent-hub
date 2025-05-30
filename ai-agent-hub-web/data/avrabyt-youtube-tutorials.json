@@ -1,0 +1,52 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To educate and provide resources for learning Python programming and its applications in fields like bioinformatics and web development.",
+  "principle": "Utilizes Python scripts and Streamlit for creating interactive web applications, along with OpenAI APIs for AI-driven functionalities.",
+  "reusability": "The tutorials can be reused by developers to learn and implement similar projects. The code is open-source under the MIT license, allowing for modification and redistribution.",
+  "limitations": "Primarily focuses on Python and Streamlit; limited to the scope of tutorials provided. May require external dependencies for full functionality.",
+  "platforms": [
+    "Cross-platform",
+    "Web"
+  ],
+  "stack": [
+    "Python",
+    "Streamlit",
+    "OpenAI API"
+  ],
+  "name": "YouTube-Tutorials",
+  "slug": "avrabyt-youtube-tutorials",
+  "description": "📹 Collection of my Youtube Tutorials over the years! Read, write, and share what you create ✨🎈",
+  "repository": "https://github.com/avrabyt/YouTube-Tutorials",
+  "stars": 118,
+  "originator": "avrabyt",
+  "tags": [
+    "bioinformatics-python",
+    "bioinformatics-tool",
+    "chatgpt3",
+    "google-sheet",
+    "google-spreadsheet",
+    "langchain",
+    "machinelearning",
+    "machinelearning-python",
+    "openai",
+    "openai-api",
+    "openai-gpt3",
+    "python",
+    "python-beginners",
+    "python-programming",
+    "python-webapp",
+    "streamlit",
+    "streamlit-application",
+    "streamlit-components",
+    "streamlit-web-app"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-15",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/avrabyt/YouTube-Tutorials"
+  ],
+  "highlight": "Comprehensive collection of Python tutorials for various applications, including bioinformatics and web apps, shared via YouTube."
+}

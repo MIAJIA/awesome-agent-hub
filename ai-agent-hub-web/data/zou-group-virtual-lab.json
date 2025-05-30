@@ -1,0 +1,43 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitate scientific research through the use of virtual lab environments powered by LLM agents",
+  "principle": "Utilizes Jupyter Notebooks to create interactive and reproducible research workflows enhanced by LLM capabilities",
+  "reusability": "Designed for integration within Jupyter environments, allowing researchers to adapt and extend functionalities for specific scientific needs",
+  "limitations": "Primarily focused on Jupyter Notebook environments; may require additional setup for specific scientific domains",
+  "platforms": [
+    "Jupyter",
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Jupyter Notebook",
+    "Python",
+    "Hugging Face Transformers",
+    "SciPy",
+    "NumPy"
+  ],
+  "name": "virtual-lab",
+  "slug": "zou-group-virtual-lab",
+  "description": "A virtual lab of LLM agents for science research",
+  "repository": "https://github.com/zou-group/virtual-lab",
+  "stars": 162,
+  "originator": "zou-group",
+  "tags": [
+    "LLM",
+    "science",
+    "research",
+    "Jupyter",
+    "automation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/zou-group/virtual-lab#readme",
+    "https://github.com/zou-group/virtual-lab/wiki",
+    "https://github.com/zou-group/virtual-lab/issues"
+  ],
+  "highlight": "Integration of Large Language Models (LLMs) for scientific research automation"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To track and report on trending GitHub repositories automatically.",
+  "principle": "Utilizes GitHub Actions to periodically fetch and analyze trending repositories data from GitHub.",
+  "reusability": "Can be integrated into any GitHub repository to automate the tracking of trending projects, customizable through GitHub Actions workflows.",
+  "limitations": "Dependent on GitHub's trending API and GitHub Actions; may have limitations in terms of frequency and scope of data retrieval.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Python",
+    "GitHub Actions"
+  ],
+  "name": "github-trending",
+  "slug": "aneasystone-github-trending",
+  "description": "使用 Github Actions 跟踪 Github 趋势项目。",
+  "repository": "https://github.com/aneasystone/github-trending",
+  "stars": 174,
+  "originator": "aneasystone",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/aneasystone/github-trending"
+  ],
+  "highlight": "Automates tracking of trending GitHub repositories using GitHub Actions."
+}

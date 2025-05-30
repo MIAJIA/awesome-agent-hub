@@ -1,0 +1,35 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "To simplify and automate the process of website creation using AI-driven design and code generation.",
+  "principle": "Utilizes machine learning algorithms to analyze design patterns and generate corresponding HTML/CSS code.",
+  "reusability": "Designed to be easily integrated into existing web development workflows, with API support for automation.",
+  "limitations": "Currently in alpha stage, may have limited design templates and customization options.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "TensorFlow",
+    "HTML",
+    "CSS"
+  ],
+  "name": "WebDesignAgent",
+  "slug": "damo-nlp-sg-webdesignagent",
+  "description": "WebDesignAgent : Towards Effortless Website Creation",
+  "repository": "https://github.com/DAMO-NLP-SG/WebDesignAgent",
+  "stars": 249,
+  "originator": "DAMO-NLP-SG",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-09-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/DAMO-NLP-SG/WebDesignAgent#readme",
+    "https://github.com/DAMO-NLP-SG/WebDesignAgent/wiki"
+  ],
+  "highlight": "Automates website creation by generating code and design elements using AI."
+}

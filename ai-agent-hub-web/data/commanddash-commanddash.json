@@ -1,0 +1,40 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Simplify and accelerate the integration of APIs and SDKs by providing AI-assisted guidance.",
+  "principle": "Leverages AI to understand and guide API and SDK integration through intelligent code suggestions and automation.",
+  "reusability": "Offers a plug-and-play solution for developers, with support for multiple APIs and SDKs, and easy integration into existing projects.",
+  "limitations": "Currently in alpha stage with potential for incomplete API coverage and integration edge cases.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "commanddash",
+  "slug": "commanddash-commanddash",
+  "description": "AI assist to integrate APIs and SDKs without reading docs. ",
+  "repository": "https://github.com/CommandDash/commanddash",
+  "stars": 313,
+  "originator": "CommandDash",
+  "tags": [
+    "api",
+    "copilot",
+    "package",
+    "sdk"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-10-21",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/CommandDash/commanddash#readme",
+    "https://github.com/CommandDash/commanddash/wiki",
+    "https://github.com/CommandDash/commanddash/issues"
+  ],
+  "highlight": "Enables seamless integration of APIs and SDKs without reading extensive documentation."
+}

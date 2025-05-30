@@ -1,0 +1,57 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate semantic search, language model orchestration, and language model workflows",
+  "principle": "Leverages vector embeddings and transformers to perform semantic search and retrieval-augmented generation",
+  "reusability": "Offers REST API and Python library for easy integration, supports various language models and vector databases",
+  "limitations": "Primarily focused on Python environments, requires sufficient computational resources for handling large models",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Transformers",
+    "FastAPI",
+    "Hugging Face",
+    "PyTorch"
+  ],
+  "name": "txtai",
+  "slug": "neuml-txtai",
+  "description": "💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows",
+  "repository": "https://github.com/neuml/txtai",
+  "stars": 10996,
+  "originator": "neuml",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "embeddings",
+    "information-retrieval",
+    "language-model",
+    "large-language-models",
+    "llm",
+    "machine-learning",
+    "nlp",
+    "python",
+    "rag",
+    "retrieval-augmented-generation",
+    "search",
+    "search-engine",
+    "semantic-search",
+    "sentence-embeddings",
+    "transformers",
+    "txtai",
+    "vector-database",
+    "vector-search"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/neuml/txtai#readme",
+    "https://github.com/neuml/txtai/tree/master/examples",
+    "https://github.com/neuml/txtai/tree/master/docs"
+  ],
+  "highlight": "All-in-one open-source AI framework for semantic search and LLM orchestration"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "To democratize investment research by providing tools for financial analysis and market insights.",
+  "principle": "Utilizes Python libraries for data analysis and visualization, integrating various financial data sources for comprehensive market analysis.",
+  "reusability": "Offers a modular architecture with API support, allowing users to extend functionality and integrate with other financial tools.",
+  "limitations": "Primarily designed for advanced users familiar with financial markets and data analysis; requires Python environment setup.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "pandas",
+    "matplotlib",
+    "yfinance",
+    "Quantlib"
+  ],
+  "name": "OpenBB",
+  "slug": "openbb-finance-openbb",
+  "description": "Investment Research for Everyone, Everywhere.",
+  "repository": "https://github.com/OpenBB-finance/OpenBB",
+  "stars": 41775,
+  "originator": "OpenBB-finance",
+  "tags": [
+    "ai",
+    "crypto",
+    "derivatives",
+    "economics",
+    "equity",
+    "finance",
+    "fixed-income",
+    "machine-learning",
+    "openbb",
+    "options",
+    "python",
+    "quantitative-finance",
+    "stocks"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-24",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/OpenBB-finance/OpenBB/blob/main/README.md",
+    "https://openbb-finance.github.io/OpenBBTerminal/",
+    "https://github.com/OpenBB-finance/OpenBB/wiki"
+  ],
+  "highlight": "Comprehensive investment research platform with extensive financial data analysis capabilities."
+}

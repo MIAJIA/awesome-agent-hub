@@ -1,0 +1,56 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the development and deployment of large language model applications with an intuitive interface",
+  "principle": "Integrates RAG (Retrieval-Augmented Generation) pipelines, agent capabilities, and model management to streamline LLM app development",
+  "reusability": "Supports integration through APIs, offers modular components for custom workflows, and is open-source for community-driven enhancements",
+  "limitations": "Limited to the capabilities of the underlying LLMs, may require significant computational resources for large-scale deployments",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Next.js",
+    "Python",
+    "OpenAI",
+    "RAG"
+  ],
+  "name": "dify",
+  "slug": "langgenius-dify",
+  "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+  "repository": "https://github.com/langgenius/dify",
+  "stars": 99525,
+  "originator": "langgenius",
+  "tags": [
+    "agent",
+    "ai",
+    "automation",
+    "backend-as-a-service",
+    "gemini",
+    "genai",
+    "gpt",
+    "gpt-4",
+    "llm",
+    "llmops",
+    "low-code",
+    "mcp",
+    "nextjs",
+    "no-code",
+    "openai",
+    "orchestration",
+    "python",
+    "rag",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/langgenius/dify#readme",
+    "https://github.com/langgenius/dify/wiki",
+    "https://github.com/langgenius/dify/releases"
+  ],
+  "highlight": "Combines AI workflow, RAG pipeline, and model management for rapid LLM app development"
+}

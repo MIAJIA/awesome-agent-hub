@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of web-based agents for various tasks post-training",
+  "principle": "Built on a modular architecture allowing users to integrate and deploy web agents quickly using pre-defined templates and components",
+  "reusability": "Offers a plug-and-play architecture with support for various templates and components, making it easy to extend and customize",
+  "limitations": "Currently in alpha stage with limited community support and documentation",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "JavaScript",
+    "React"
+  ],
+  "name": "WebCanvas",
+  "slug": "imeanai-webcanvas",
+  "description": "All-in-one Web Agent framework for post-training. Start building with a few clicks!",
+  "repository": "https://github.com/iMeanAI/WebCanvas",
+  "stars": 252,
+  "originator": "iMeanAI",
+  "tags": [
+    "agent",
+    "benchmark-framework",
+    "llm-agent",
+    "llm-evaluation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/iMeanAI/WebCanvas/wiki",
+    "https://github.com/iMeanAI/WebCanvas/issues",
+    "https://github.com/iMeanAI/WebCanvas/releases"
+  ],
+  "highlight": "All-in-one framework for building and deploying web agents with minimal setup"
+}

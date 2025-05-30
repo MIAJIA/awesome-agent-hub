@@ -1,0 +1,40 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To enhance code security and quality by detecting vulnerabilities and code smells using AI.",
+  "principle": "Utilizes AI models from OpenAI and Gemini to analyze code bases for security issues and code quality improvements.",
+  "reusability": "Can be integrated into CI/CD pipelines and used with different AI models by bringing your own API keys.",
+  "limitations": "Requires API keys for AI model access, may have limited language support based on AI model capabilities.",
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI API",
+    "Gemini"
+  ],
+  "name": "LAST",
+  "slug": "latiotech-last",
+  "description": "Use AI to Scan Your Code from the Command Line for security and code smells. Bring your own keys. Supports OpenAI and Gemini",
+  "repository": "https://github.com/latiotech/LAST",
+  "stars": 169,
+  "originator": "latiotech",
+  "tags": [
+    "ai",
+    "open-source",
+    "python",
+    "sast",
+    "security-tools",
+    "vulnerability-scanners"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-04-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/latiotech/LAST#readme",
+    "https://github.com/latiotech/LAST/wiki"
+  ],
+  "highlight": "AI-powered code scanning for security vulnerabilities and code smells directly from the command line."
+}

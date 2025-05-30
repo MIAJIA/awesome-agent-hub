@@ -1,0 +1,51 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To provide an AI-driven search and answer engine for workplace knowledge retrieval and integration",
+  "principle": "Utilizes large language models (LLMs) and retrieval-augmented generation (RAG) techniques to deliver accurate and context-aware search results",
+  "reusability": "Offers integration capabilities with various enterprise systems and APIs, customizable for different organizational needs",
+  "limitations": "May require significant setup for integration with existing enterprise systems, performance dependent on LLM size and data volume",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "OpenAI",
+    "LangChain",
+    "Bun",
+    "PostgreSQL"
+  ],
+  "name": "xyne",
+  "slug": "xynehq-xyne",
+  "description": "AI-first Search & Answer Engine for work. Open-source alternative to Glean.",
+  "repository": "https://github.com/xynehq/xyne",
+  "stars": 528,
+  "originator": "xynehq",
+  "tags": [
+    "assistants",
+    "bedrock",
+    "bun",
+    "claude",
+    "enterprise-search",
+    "gen-ai",
+    "generative-ai",
+    "information-retrieval",
+    "integrations",
+    "llm",
+    "openai",
+    "rag",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/xynehq/xyne/blob/main/README.md",
+    "https://github.com/xynehq/xyne/wiki",
+    "https://github.com/xynehq/xyne/issues"
+  ],
+  "highlight": "Open-source alternative to Glean for enterprise search and knowledge retrieval"
+}

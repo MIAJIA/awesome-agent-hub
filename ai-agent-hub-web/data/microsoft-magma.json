@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive foundation model that facilitates the development of multimodal AI agents capable of understanding and generating content across multiple data types.",
+  "principle": "Built on advanced deep learning techniques, leveraging neural networks to process and integrate information from different modalities such as text and images.",
+  "reusability": "Offers a modular architecture with APIs for integration into various AI applications, allowing developers to customize and extend functionalities for specific multimodal tasks.",
+  "limitations": "Currently in alpha stage, which may include limited documentation, potential bugs, and incomplete features. Primarily focused on research and experimental use cases.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "Hugging Face"
+  ],
+  "name": "Magma",
+  "slug": "microsoft-magma",
+  "description": "[CVPR 2025] Magma: A Foundation Model for Multimodal AI Agents",
+  "repository": "https://github.com/microsoft/Magma",
+  "stars": 1667,
+  "originator": "microsoft",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/Magma/blob/main/docs/getting_started.md",
+    "https://github.com/microsoft/Magma/blob/main/docs/api_reference.md",
+    "https://github.com/microsoft/Magma/blob/main/docs/examples.md"
+  ],
+  "highlight": "A foundation model designed for multimodal AI agents, integrating advanced capabilities across text, vision, and other modalities."
+}

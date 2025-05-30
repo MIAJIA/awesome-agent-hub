@@ -1,0 +1,36 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitates the integration and use of language models in TypeScript applications",
+  "principle": "Offers a TypeScript SDK that abstracts the complexities of API calls and model interactions",
+  "reusability": "Can be easily integrated into any TypeScript project, with extensive support for custom configurations and API interactions",
+  "limitations": "Currently in alpha stage, may have limited support for certain language models or configurations",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "name": "lmstudio-js",
+  "slug": "lmstudio-ai-lmstudio-js",
+  "description": "LM Studio TypeScript SDK",
+  "repository": "https://github.com/lmstudio-ai/lmstudio-js",
+  "stars": 1128,
+  "originator": "lmstudio-ai",
+  "tags": [
+    "llm",
+    "lmstudio",
+    "nodejs",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/lmstudio-ai/lmstudio-js#readme",
+    "https://github.com/lmstudio-ai/lmstudio-js/wiki"
+  ],
+  "highlight": "Provides a comprehensive TypeScript SDK for interacting with language models"
+}

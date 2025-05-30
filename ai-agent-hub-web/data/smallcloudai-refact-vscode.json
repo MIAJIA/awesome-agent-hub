@@ -1,0 +1,33 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enhance code development productivity through AI-assisted code generation and interactive chat support.",
+  "principle": "Leverages AI models to generate code snippets and provide interactive chat support within VSCode for multiple languages.",
+  "reusability": "Can be integrated as a VSCode extension, allowing developers to utilize AI capabilities directly in their coding environment.",
+  "limitations": "Currently in alpha stage, may have limited language support and potential stability issues.",
+  "platforms": [
+    "VSCode"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "VSCode API"
+  ],
+  "name": "refact-vscode",
+  "slug": "smallcloudai-refact-vscode",
+  "description": "Refact - Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.",
+  "repository": "https://github.com/smallcloudai/refact-vscode",
+  "stars": 107,
+  "originator": "smallcloudai",
+  "tags": [],
+  "open_source": true,
+  "license": "BSD-3-Clause",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/smallcloudai/refact-vscode#readme",
+    "https://github.com/smallcloudai/refact-vscode/wiki",
+    "https://github.com/smallcloudai/refact-vscode/issues"
+  ],
+  "highlight": "Open-source AI agent with code generation and chat capabilities for multiple programming languages."
+}

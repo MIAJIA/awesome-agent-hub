@@ -1,0 +1,52 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "Provides a command-line interface for interacting with various large language models and AI tools for enhanced productivity and automation.",
+  "principle": "Leverages multiple LLMs and AI agents, enabling users to perform tasks like shell assistance, chat interactions, and retrieval-augmented generation through a unified CLI.",
+  "reusability": "Highly composable with support for various AI models and tools, allowing users to extend functionality with custom commands and integrations.",
+  "limitations": "Primarily designed for command-line usage; may require familiarity with CLI operations. Limited to the models and services it integrates with.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Rust",
+    "OpenAI API",
+    "Anthropic Claude",
+    "Gemini",
+    "Ollama",
+    "Groq"
+  ],
+  "name": "aichat",
+  "slug": "sigoden-aichat",
+  "description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
+  "repository": "https://github.com/sigoden/aichat",
+  "stars": 6848,
+  "originator": "sigoden",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "chatbot",
+    "claude",
+    "cli",
+    "function-calling",
+    "gemini",
+    "llm",
+    "ollama",
+    "openai",
+    "rag",
+    "rust",
+    "shell",
+    "webui"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/sigoden/aichat#readme",
+    "https://github.com/sigoden/aichat/wiki"
+  ],
+  "highlight": "All-in-one CLI tool that integrates multiple LLMs and AI agents for versatile chat and automation tasks."
+}

@@ -1,0 +1,33 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Curate and provide a comprehensive list of resources and tools related to Large Language Models (LLMs)",
+  "principle": "Aggregates and organizes information about various LLM resources, including papers, models, datasets, and tools",
+  "reusability": "Acts as a reference guide for researchers and developers interested in LLMs; can be easily linked or referenced in educational and research contexts",
+  "limitations": "Primarily serves as a static resource list; does not provide dynamic content or real-time updates on LLM advancements",
+  "platforms": [],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "Awesome-LLM",
+  "slug": "hannibal046-awesome-llm",
+  "description": "Awesome-LLM: a curated list of Large Language Model",
+  "repository": "https://github.com/Hannibal046/Awesome-LLM",
+  "stars": 23559,
+  "originator": "Hannibal046",
+  "tags": [
+    "LLM",
+    "resources",
+    "AI",
+    "machine learning",
+    "natural language processing"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-09",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/Hannibal046/Awesome-LLM#readme"
+  ],
+  "highlight": "Extensive and curated compilation of resources related to Large Language Models"
+}

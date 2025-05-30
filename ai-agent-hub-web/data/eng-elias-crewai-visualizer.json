@@ -1,0 +1,34 @@
+{
+  "category": "data-visualization",
+  "status": "alpha",
+  "purpose": "To offer an interactive user interface that visualizes and enhances the functionality of the CrewAI package.",
+  "principle": "Built using modern web technologies to create a dynamic and interactive UI for visualizing AI model outputs and configurations.",
+  "reusability": "Designed as a standalone interface that can be integrated with the CrewAI package, offering extensibility through modular components and API endpoints.",
+  "limitations": "Primarily dependent on the CrewAI package for core functionalities, limited to the features supported by CrewAI.",
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "D3.js"
+  ],
+  "name": "CrewAI-Visualizer",
+  "slug": "eng-elias-crewai-visualizer",
+  "description": "Interactive user interface for CrewAI package.",
+  "repository": "https://github.com/Eng-Elias/CrewAI-Visualizer",
+  "stars": 359,
+  "originator": "Eng-Elias",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-11",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Eng-Elias/CrewAI-Visualizer#readme",
+    "https://github.com/Eng-Elias/CrewAI-Visualizer/wiki"
+  ],
+  "highlight": "Provides an interactive visualization interface specifically designed for the CrewAI package, enhancing user interaction with AI models."
+}

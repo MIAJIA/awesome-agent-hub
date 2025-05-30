@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and deployment of AI agents with a focus on skill integration and open collaboration",
+  "principle": "Builds on a modular architecture allowing developers to integrate various skills and intents into AI agents using Python and blockchain technologies",
+  "reusability": "Highly modular and composable, supports integration with multiple skills and intents, API support for agent interaction",
+  "limitations": "Alpha status indicates potential instability and incomplete features, limited documentation on advanced use cases",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Blockchain",
+    "Web3"
+  ],
+  "name": "intentkit",
+  "slug": "crestalnetwork-intentkit",
+  "description": "An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!",
+  "repository": "https://github.com/crestalnetwork/intentkit",
+  "stars": 6417,
+  "originator": "crestalnetwork",
+  "tags": [
+    "agentic-workflow",
+    "ai",
+    "ai-agent",
+    "ai-agent-framework",
+    "blockchain",
+    "intents",
+    "launchpad",
+    "python",
+    "web3"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/crestalnetwork/intentkit#readme",
+    "https://github.com/crestalnetwork/intentkit/wiki",
+    "https://github.com/crestalnetwork/intentkit/issues"
+  ],
+  "highlight": "Open and fair framework for building AI agents with powerful skills"
+}

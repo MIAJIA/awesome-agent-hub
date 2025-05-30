@@ -1,0 +1,58 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enhance AI agent collaboration to achieve tasks that require coordinated multi-agent interactions.",
+  "principle": "Utilizes a framework for orchestrating AI agents, integrating with LLMs and vector databases to enable complex task execution.",
+  "reusability": "Modular architecture with API support for integrating new agents and customizing workflows.",
+  "limitations": "May require significant configuration for specific use cases, and is in early development stages.",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "LangChain",
+    "OpenAI",
+    "GPT-3",
+    "GPT-4",
+    "Vector DB"
+  ],
+  "name": "team-of-ai-agents",
+  "slug": "l3vels-team-of-ai-agents",
+  "description": "Open-source framework to make AI agents' team collaboration as effective as human collaboration.",
+  "repository": "https://github.com/l3vels/team-of-ai-agents",
+  "stars": 225,
+  "originator": "l3vels",
+  "tags": [
+    "agent",
+    "agent-simulations",
+    "agi",
+    "ai",
+    "artificial-general-intelligence",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "datasources",
+    "gpt-3",
+    "gpt-4",
+    "langchain",
+    "llm",
+    "llma-index",
+    "multi-agents",
+    "openai",
+    "react",
+    "team",
+    "team-of-agents",
+    "toolkits",
+    "vector-db"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-01-23",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/l3vels/team-of-ai-agents#readme",
+    "https://github.com/l3vels/team-of-ai-agents/wiki",
+    "https://github.com/l3vels/team-of-ai-agents/issues"
+  ],
+  "highlight": "Facilitates seamless collaboration among AI agents to mimic effective human teamwork."
+}

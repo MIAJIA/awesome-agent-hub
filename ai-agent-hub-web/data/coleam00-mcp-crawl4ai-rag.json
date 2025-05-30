@@ -1,0 +1,34 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To enhance AI agents and coding assistants with web crawling and information retrieval capabilities.",
+  "principle": "Utilizes web crawling to gather data from the web, combined with RAG to provide contextually relevant information to AI agents.",
+  "reusability": "Modular design with API endpoints for easy integration into existing AI systems, supports custom crawling configurations.",
+  "limitations": "Limited to publicly accessible web data, may require compliance with website terms of service, potential challenges with dynamic content.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Scrapy",
+    "LangChain",
+    "OpenAI"
+  ],
+  "name": "mcp-crawl4ai-rag",
+  "slug": "coleam00-mcp-crawl4ai-rag",
+  "description": "Web Crawling and RAG Capabilities for AI Agents and AI Coding Assistants",
+  "repository": "https://github.com/coleam00/mcp-crawl4ai-rag",
+  "stars": 594,
+  "originator": "coleam00",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-07",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/coleam00/mcp-crawl4ai-rag/blob/main/README.md",
+    "https://github.com/coleam00/mcp-crawl4ai-rag/wiki"
+  ],
+  "highlight": "Integrates web crawling with Retrieval-Augmented Generation (RAG) for enhanced AI agent capabilities."
+}

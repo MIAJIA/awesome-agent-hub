@@ -1,0 +1,40 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "To enhance financial analysis and decision-making using generative AI and large language models.",
+  "principle": "Utilizes large language models to analyze financial data and generate insights, potentially integrating with financial data APIs for real-time analysis.",
+  "reusability": "Modular code structure allows for integration with various financial data sources and APIs. Can be adapted for different financial analysis tasks.",
+  "limitations": "Alpha status indicates potential instability and limited feature set. May require significant customization for specific financial use cases.",
+  "platforms": [
+    "Jupyter Notebook"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "Hugging Face Transformers",
+    "Pandas",
+    "NumPy"
+  ],
+  "name": "LLMs-in-Finance",
+  "slug": "hananedupouy-llms-in-finance",
+  "description": "LLMs in Finance - Generative AI - AI Agents ",
+  "repository": "https://github.com/hananedupouy/LLMs-in-Finance",
+  "stars": 520,
+  "originator": "hananedupouy",
+  "tags": [
+    "finance",
+    "AI",
+    "LLMs",
+    "financial analysis",
+    "generative AI"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-18",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/hananedupouy/LLMs-in-Finance/blob/main/README.md",
+    "https://github.com/hananedupouy/LLMs-in-Finance/issues"
+  ],
+  "highlight": "Focuses on leveraging large language models (LLMs) for financial analysis and decision-making."
+}

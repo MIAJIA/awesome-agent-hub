@@ -1,0 +1,53 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To extract structured data from various sources such as documents and the web, and return it in a machine-readable format",
+  "principle": "Leverages AI models and context-aware structured outputs to parse and extract specific data points from unstructured data",
+  "reusability": "Offers a flexible API for integration into other systems, supports multiple data formats, and can be customized for different data extraction needs",
+  "limitations": "May have limitations in handling highly complex or ambiguous data structures, performance may vary based on data source complexity",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain",
+    "ETL frameworks"
+  ],
+  "name": "open-extract",
+  "slug": "velocitybolt-open-extract",
+  "description": "Structured Data Extractor for AI Agents. Search your documents or the web for specific data and get it back in JSON or Markdown in a single tool call.",
+  "repository": "https://github.com/velocitybolt/open-extract",
+  "stars": 170,
+  "originator": "velocitybolt",
+  "tags": [
+    "agent-tools",
+    "ai",
+    "autogen",
+    "context-aware",
+    "context-aware-structured-outputs",
+    "crewai",
+    "etl",
+    "etl-automation",
+    "etl-framework",
+    "langchain",
+    "langgraph",
+    "llm",
+    "openai",
+    "python",
+    "rag",
+    "structured-outputs",
+    "unstructured-data"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/velocitybolt/open-extract#readme",
+    "https://github.com/velocitybolt/open-extract/wiki",
+    "https://github.com/velocitybolt/open-extract/issues"
+  ],
+  "highlight": "Structured Data Extraction from documents and web using a single tool call with JSON or Markdown outputs"
+}

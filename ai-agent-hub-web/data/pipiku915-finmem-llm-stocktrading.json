@@ -1,0 +1,35 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "To optimize stock trading strategies using advanced memory and character design in LLMs",
+  "principle": "Utilizes a performance-enhanced LLM with a layered memory system to improve trading decisions",
+  "reusability": "Designed as a modular system with configurable components for various trading strategies and environments",
+  "limitations": "Primarily experimental with potential limitations in real-world trading environments due to market unpredictability",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "Pandas",
+    "NumPy"
+  ],
+  "name": "FinMem-LLM-StockTrading",
+  "slug": "pipiku915-finmem-llm-stocktrading",
+  "description": "FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design",
+  "repository": "https://github.com/pipiku915/FinMem-LLM-StockTrading",
+  "stars": 630,
+  "originator": "pipiku915",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-08-18",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/pipiku915/FinMem-LLM-StockTrading#readme",
+    "https://github.com/pipiku915/FinMem-LLM-StockTrading/wiki"
+  ],
+  "highlight": "Integrates layered memory architecture with character design for enhanced stock trading performance"
+}

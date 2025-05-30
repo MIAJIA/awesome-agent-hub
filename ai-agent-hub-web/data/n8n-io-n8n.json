@@ -1,0 +1,61 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitates workflow automation by enabling users to create complex workflows with over 400 integrations",
+  "principle": "Leverages a visual editor for workflow creation and a modular architecture to support integrations and custom code execution",
+  "reusability": "Highly extensible with a plugin system, supports custom nodes and integrations, offers REST API for workflow execution",
+  "limitations": "Requires technical knowledge for self-hosting, limited to integrations provided or custom developed",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Self-hosted",
+    "Cloud"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Vue.js",
+    "PostgreSQL",
+    "Docker"
+  ],
+  "name": "n8n",
+  "slug": "n8n-io-n8n",
+  "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+  "repository": "https://github.com/n8n-io/n8n",
+  "stars": 100390,
+  "originator": "n8n-io",
+  "tags": [
+    "ai",
+    "apis",
+    "automation",
+    "cli",
+    "data-flow",
+    "development",
+    "integration-framework",
+    "integrations",
+    "ipaas",
+    "low-code",
+    "low-code-platform",
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "n8n",
+    "no-code",
+    "self-hosted",
+    "typescript",
+    "workflow",
+    "workflow-automation"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/n8n-io/n8n",
+    "https://docs.n8n.io/",
+    "https://n8n.io/integrations",
+    "https://community.n8n.io/"
+  ],
+  "highlight": "Combines visual workflow building with extensive integration capabilities in a fair-code model"
+}

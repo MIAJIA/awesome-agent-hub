@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To demonstrate and reference multi-agent system projects built with Crew AI, serving as a comprehensive hub for enthusiasts and developers.",
+  "principle": "Leverages Crew AI for creating and coordinating multi-agent systems, focusing on collaboration and integration of different agent functionalities.",
+  "reusability": "Includes examples and references that can be adapted or expanded upon by developers interested in multi-agent systems.",
+  "limitations": "Primarily serves as a showcase and reference; specific implementations may require additional customization for production use.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Crew AI"
+  ],
+  "name": "Awesome-AI-Agents-HUB-for-CrewAI",
+  "slug": "oneduckyboy-awesome-ai-agents-hub-for-crewai",
+  "description": "In this repository I will showcase my cool multi agent system projects with Crew AI, and will reference other cool projects on the subject : )",
+  "repository": "https://github.com/OneDuckyBoy/Awesome-AI-Agents-HUB-for-CrewAI",
+  "stars": 240,
+  "originator": "OneDuckyBoy",
+  "tags": [
+    "crewai",
+    "multiagent-systems",
+    "projects",
+    "projects-done"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-07",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/OneDuckyBoy/Awesome-AI-Agents-HUB-for-CrewAI#readme"
+  ],
+  "highlight": "Showcases a variety of multi-agent system projects using Crew AI, providing a hub for learning and reference."
+}

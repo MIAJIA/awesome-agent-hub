@@ -1,0 +1,41 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To enable easy integration of the DeepSeek API into widely used software applications, enhancing their data search and retrieval functionalities.",
+  "principle": "Utilizes the DeepSeek API to provide advanced search and data retrieval features within third-party software platforms.",
+  "reusability": "Offers plug-and-play integration modules and API support for easy adoption across different software environments.",
+  "limitations": "Currently in alpha, may have limited support for certain software platforms and APIs, and might require additional development for full functionality.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "DeepSeek API"
+  ],
+  "name": "awesome-deepseek-integration",
+  "slug": "deepseek-ai-awesome-deepseek-integration",
+  "description": "Integrate the DeepSeek API into popular softwares",
+  "repository": "https://github.com/deepseek-ai/awesome-deepseek-integration",
+  "stars": 32522,
+  "originator": "deepseek-ai",
+  "tags": [
+    "DeepSeek",
+    "API Integration",
+    "Data Retrieval",
+    "Software Integration"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-13",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/deepseek-ai/awesome-deepseek-integration/wiki",
+    "https://github.com/deepseek-ai/awesome-deepseek-integration/issues",
+    "https://github.com/deepseek-ai/awesome-deepseek-integration/pulls"
+  ],
+  "highlight": "Seamlessly integrates the DeepSeek API into various popular software platforms for enhanced data retrieval capabilities."
+}

@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the design, simulation, and auditing of multi-agent systems particularly in blockchain and smart contract domains.",
+  "principle": "Built using Rust for high performance and reliability, it integrates with Ethereum for smart contract simulation and auditing.",
+  "reusability": "Modular architecture allows for plug-and-play integration with existing blockchain projects; provides APIs for customization and extension.",
+  "limitations": "Primarily focused on Ethereum and Rust environments; may require significant adaptation for other blockchain platforms.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "Ethereum",
+    "Smart Contracts",
+    "WebAssembly"
+  ],
+  "name": "arbiter",
+  "slug": "harnesslabs-arbiter",
+  "description": "Multi-agent framework for design, simulation, and auditing.",
+  "repository": "https://github.com/harnesslabs/arbiter",
+  "stars": 708,
+  "originator": "harnesslabs",
+  "tags": [
+    "auditing",
+    "ethereum",
+    "rust",
+    "simulation-framework",
+    "smart-contracts"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/harnesslabs/arbiter#readme",
+    "https://github.com/harnesslabs/arbiter/wiki",
+    "https://github.com/harnesslabs/arbiter/issues"
+  ],
+  "highlight": "Comprehensive framework for simulating and auditing multi-agent systems with a focus on smart contracts and blockchain environments."
+}

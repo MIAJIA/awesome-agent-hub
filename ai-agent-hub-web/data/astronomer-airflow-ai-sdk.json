@@ -1,0 +1,33 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the integration and management of large language models (LLMs) and AI agents within Apache Airflow workflows.",
+  "principle": "Built on Pydantic AI, it leverages Python to integrate LLMs into Apache Airflow, allowing for robust workflow automation and AI-driven task management.",
+  "reusability": "Designed as an SDK, it provides modular components and APIs for easy integration into existing Airflow workflows, promoting reusability across different AI-driven tasks.",
+  "limitations": "As an alpha release, it may have limited stability and feature set; primarily focused on users already utilizing Apache Airflow.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Apache Airflow",
+    "Pydantic"
+  ],
+  "name": "airflow-ai-sdk",
+  "slug": "astronomer-airflow-ai-sdk",
+  "description": "An SDK for working with LLMs and AI Agents from Apache Airflow, based on Pydantic AI",
+  "repository": "https://github.com/astronomer/airflow-ai-sdk",
+  "stars": 386,
+  "originator": "astronomer",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-22",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/astronomer/airflow-ai-sdk/blob/main/README.md",
+    "https://github.com/astronomer/airflow-ai-sdk/wiki"
+  ],
+  "highlight": "Seamlessly integrates with Apache Airflow to enhance AI and LLM capabilities within workflows."
+}

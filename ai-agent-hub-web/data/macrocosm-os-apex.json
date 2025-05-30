@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To create an incentive mechanism for fostering internet-scale conversational intelligence",
+  "principle": "Combines blockchain technology with conversational AI to create a scalable incentive system",
+  "reusability": "Modular architecture allows integration with various conversational AI systems and blockchain platforms",
+  "limitations": "Currently in alpha stage with limited real-world testing; scalability and security aspects need further evaluation",
+  "platforms": [
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "Blockchain"
+  ],
+  "name": "apex",
+  "slug": "macrocosm-os-apex",
+  "description": "SN1: An incentive mechanism for internet-scale conversational intelligence",
+  "repository": "https://github.com/macrocosm-os/apex",
+  "stars": 105,
+  "originator": "macrocosm-os",
+  "tags": [
+    "ai",
+    "blockchain",
+    "cryptocurrency",
+    "llm",
+    "network"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/macrocosm-os/apex/blob/main/README.md",
+    "https://github.com/macrocosm-os/apex/wiki",
+    "https://github.com/macrocosm-os/apex/issues"
+  ],
+  "highlight": "Incentive mechanism for conversational intelligence using blockchain technology"
+}

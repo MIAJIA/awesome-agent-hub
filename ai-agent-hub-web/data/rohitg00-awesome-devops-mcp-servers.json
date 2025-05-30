@@ -1,0 +1,35 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive list of DevOps-focused MCP (Multi-Cloud Platform) servers and tools",
+  "principle": "Curates and organizes information about various MCP servers and DevOps tools, facilitating easier discovery and comparison",
+  "reusability": "Can be used as a reference for DevOps professionals looking to explore and integrate new MCP servers into their workflows",
+  "limitations": "Does not provide direct integration or automation capabilities; serves as an informational resource",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-devops-mcp-servers",
+  "slug": "rohitg00-awesome-devops-mcp-servers",
+  "description": "A curated list of awesome MCP servers focused on DevOps tools and capabilities.",
+  "repository": "https://github.com/rohitg00/awesome-devops-mcp-servers",
+  "stars": 194,
+  "originator": "rohitg00",
+  "tags": [
+    "ai",
+    "cloudnative",
+    "devops",
+    "genai",
+    "llm",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-22",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/rohitg00/awesome-devops-mcp-servers"
+  ]
+}

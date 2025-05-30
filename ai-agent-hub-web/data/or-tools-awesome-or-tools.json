@@ -1,0 +1,32 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a centralized list of valuable resources, tutorials, and tools related to OR-Tools for optimization problems",
+  "principle": "Collates and organizes community-contributed resources and tools related to OR-Tools, facilitating access to knowledge and best practices",
+  "reusability": "Acts as a reference point for developers and researchers using OR-Tools, with links to various resources that can be integrated into their projects",
+  "limitations": "Dependent on community contributions for updates and completeness; may not cover all available resources comprehensively",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome_or-tools",
+  "slug": "or-tools-awesome-or-tools",
+  "description": "A curated list of awesome OR-Tools community resources.",
+  "repository": "https://github.com/or-tools/awesome_or-tools",
+  "stars": 170,
+  "originator": "or-tools",
+  "tags": [
+    "awesome-list",
+    "reading-materials"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-10-22",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/or-tools/awesome_or-tools#readme"
+  ],
+  "highlight": "Comprehensive collection of OR-Tools resources curated by the community"
+}

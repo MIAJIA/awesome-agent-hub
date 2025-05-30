@@ -1,0 +1,39 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitates the automation of tasks in real-world applications through natural language processing and RESTful API integration",
+  "principle": "Leverages large language models to interpret user instructions and execute tasks through RESTful API calls",
+  "reusability": "Designed to be easily integrated with existing applications via REST APIs, allowing for flexible task automation",
+  "limitations": "Dependent on the availability and reliability of the external APIs it interacts with; performance may vary based on the complexity of tasks and API constraints",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "OpenAI",
+    "Requests"
+  ],
+  "name": "RestGPT",
+  "slug": "yifan-song793-restgpt",
+  "description": "An LLM-based autonomous agent controlling real-world applications via RESTful APIs",
+  "repository": "https://github.com/Yifan-Song793/RestGPT",
+  "stars": 1367,
+  "originator": "Yifan-Song793",
+  "tags": [
+    "LLM",
+    "API Automation",
+    "Task Automation",
+    "RESTful APIs"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-06-07",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Yifan-Song793/RestGPT#readme",
+    "https://github.com/Yifan-Song793/RestGPT/wiki"
+  ],
+  "highlight": "Enables autonomous control of real-world applications via RESTful APIs using LLMs"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "x402",
+  "slug": "x402",
+  "description": "A payment protocol enabling AI agents to perform blockchain payments via HTTP 402 extensions.",
+  "purpose": "Allow AI agents to autonomously pay for API access using stablecoins.",
+  "repository": "https://github.com/coinbase/x402",
+  "stars": 532,
+  "category": "payment",
+  "originator": "Coinbase",
+  "principle": "Extends HTTP 402 with X-PAYMENT headers, defines a standard payment interaction model.",
+  "stack": [
+    "Blockchain",
+    "Node.js",
+    "Python",
+    "Facilitator API"
+  ],
+  "tags": [
+    "payment",
+    "protocol",
+    "agentic-commerce",
+    "onchain"
+  ],
+  "reusability": "Open standard. SDKs available. Chain/token agnostic. Easy to implement on both sides.",
+  "limitations": "Requires stablecoin support. Both client and server must adopt. Gas fees and latency exist.",
+  "status": "alpha",
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "platforms": [
+    "Web",
+    "API",
+    "Blockchain"
+  ],
+  "useful_links": [
+    "https://github.com/coinbase/x402",
+    "https://www.coinbase.com/blog/introducing-x402-agentic-commerce"
+  ]
+}

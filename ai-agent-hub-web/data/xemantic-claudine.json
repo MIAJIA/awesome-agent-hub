@@ -1,0 +1,47 @@
+{
+  "category": "lifestyle",
+  "status": "alpha",
+  "purpose": "To serve as a personalized AI assistant that uses the user's machine as a window to perceive and interact with their external world.",
+  "principle": "Built on Kotlin, Claudine leverages the user's local environment to tailor its functionality to individual needs and contexts.",
+  "reusability": "Designed as a standalone AI assistant, it can be integrated into various personal computing environments.",
+  "limitations": "As an alpha version, it may have limited functionality and stability. It is dependent on the local machine's capabilities.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Kotlin"
+  ],
+  "name": "claudine",
+  "slug": "xemantic-claudine",
+  "description": "Claudine, the only AI assistant you will ever need. An AI agent, which is using your machine as a window to external world, therefore perceiving your reality, values and needs, and reasoning how to fulfill them.",
+  "repository": "https://github.com/xemantic/claudine",
+  "stars": 123,
+  "originator": "xemantic",
+  "tags": [
+    "agentic",
+    "agentic-ai",
+    "agentic-ai-cli",
+    "agentic-ai-development",
+    "agentic-framework",
+    "ai",
+    "aiagent",
+    "claude",
+    "claude-3",
+    "claude-ai",
+    "claude-api",
+    "cli",
+    "cli-app",
+    "kotlin"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-04-21",
+  "language": "Kotlin",
+  "useful_links": [
+    "https://github.com/xemantic/claudine/blob/main/README.md",
+    "https://github.com/xemantic/claudine/wiki"
+  ],
+  "highlight": "Claudine acts as an AI assistant that perceives and adapts to the user's environment, values, and needs."
+}

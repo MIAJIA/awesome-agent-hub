@@ -1,0 +1,40 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To enable game developers and researchers to train and deploy reinforcement learning agents within the Godot game engine.",
+  "principle": "Utilizes reinforcement learning algorithms to train agents within simulated environments created in the Godot engine.",
+  "reusability": "Easily integrates with the Godot engine, providing a framework for training and deploying custom RL agents in game environments.",
+  "limitations": "Primarily designed for use within the Godot engine, may not be suitable for other game engines or standalone applications.",
+  "platforms": [
+    "Godot",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Godot Engine",
+    "Reinforcement Learning"
+  ],
+  "name": "godot_rl_agents",
+  "slug": "edbeeching-godot-rl-agents",
+  "description": "An Open Source package that allows video game creators, AI researchers and hobbyists the opportunity to learn complex behaviors for their Non Player Characters or agents",
+  "repository": "https://github.com/edbeeching/godot_rl_agents",
+  "stars": 1166,
+  "originator": "edbeeching",
+  "tags": [
+    "godot",
+    "reinforcement-learning",
+    "simulation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-18",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/edbeeching/godot_rl_agents/blob/main/README.md",
+    "https://github.com/edbeeching/godot_rl_agents/wiki",
+    "https://github.com/edbeeching/godot_rl_agents/tree/main/examples"
+  ],
+  "highlight": "Integrates reinforcement learning with the Godot game engine to train NPCs with complex behaviors."
+}

@@ -1,0 +1,55 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and conversion of OpenAPI definitions and LLM function schemas for developers",
+  "principle": "Utilizes TypeScript to provide tools for generating, validating, and converting OpenAPI schemas, supporting integration with LLMs",
+  "reusability": "Offers a TypeScript library that can be integrated into Node.js applications for OpenAPI schema management and LLM function composition",
+  "limitations": "Primarily focused on TypeScript and OpenAPI, may not support all LLM frameworks or languages",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "NestJS",
+    "OpenAPI"
+  ],
+  "name": "openapi",
+  "slug": "samchon-openapi",
+  "description": "OpenAPI definitions, converters and LLM function calling schema composer.",
+  "repository": "https://github.com/samchon/openapi",
+  "stars": 106,
+  "originator": "samchon",
+  "tags": [
+    "ai",
+    "chatgpt",
+    "claude",
+    "deepseek",
+    "gemini",
+    "llama",
+    "llm",
+    "llm-function-call",
+    "mcp",
+    "model-context-protocol",
+    "nestia",
+    "nestjs",
+    "openapi",
+    "openapi-generator",
+    "openapi-generators",
+    "openapi-validator",
+    "structured-output",
+    "swagger",
+    "typescript",
+    "typia"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-21",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/samchon/openapi#readme",
+    "https://github.com/samchon/openapi/wiki",
+    "https://github.com/samchon/openapi/issues"
+  ],
+  "highlight": "Comprehensive toolkit for OpenAPI definitions and LLM function schema composition"
+}

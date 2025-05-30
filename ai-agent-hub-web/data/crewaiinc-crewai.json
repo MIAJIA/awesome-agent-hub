@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the orchestration and collaboration of autonomous AI agents to solve complex tasks collectively.",
+  "principle": "Built on a framework that supports role-playing and collaborative intelligence among AI agents, leveraging Python-based technologies.",
+  "reusability": "Designed as a framework that can be extended and integrated into various applications requiring multi-agent coordination.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential stability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "FastAPI"
+  ],
+  "name": "crewAI",
+  "slug": "crewaiinc-crewai",
+  "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+  "repository": "https://github.com/crewAIInc/crewAI",
+  "stars": 32170,
+  "originator": "crewAIInc",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "aiagentframework",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/crewAIInc/crewAI/blob/main/README.md",
+    "https://github.com/crewAIInc/crewAI/wiki",
+    "https://github.com/crewAIInc/crewAI/tree/main/examples"
+  ],
+  "highlight": "Enables seamless coordination among multiple autonomous AI agents for complex task execution."
+}

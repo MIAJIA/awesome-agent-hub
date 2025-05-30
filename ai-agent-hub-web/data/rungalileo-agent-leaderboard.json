@@ -1,0 +1,38 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To evaluate and rank the performance of large language models on tasks that require agent-like capabilities.",
+  "principle": "Utilizes a set of predefined agentic tasks and benchmarks to assess the capabilities of LLMs, comparing their performance metrics.",
+  "reusability": "The framework is open-source and can be extended or adapted for evaluating different LLMs or agentic tasks.",
+  "limitations": "The evaluation is limited to the predefined set of agentic tasks and may not cover all possible use cases of LLMs.",
+  "platforms": [
+    "Jupyter Notebook"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "name": "agent-leaderboard",
+  "slug": "rungalileo-agent-leaderboard",
+  "description": "Ranking LLMs on agentic tasks",
+  "repository": "https://github.com/rungalileo/agent-leaderboard",
+  "stars": 135,
+  "originator": "rungalileo",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-evaluation",
+    "evaluation",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-16",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/rungalileo/agent-leaderboard/blob/main/README.md",
+    "https://github.com/rungalileo/agent-leaderboard/issues",
+    "https://github.com/rungalileo/agent-leaderboard/wiki"
+  ],
+  "highlight": "Ranks large language models (LLMs) specifically on agentic tasks, providing a benchmark for their performance."
+}

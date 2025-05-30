@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the integration of large language models (LLMs) into applications, enabling developers to build intelligent systems quickly.",
+  "principle": "Builds on top of OpenAI and other LLMs, providing a set of tools and abstractions to simplify the integration process.",
+  "reusability": "Offers a modular SDK with APIs and plugins for easy integration into various applications, supporting extensibility through custom connectors.",
+  "limitations": "Primarily supports C# and .NET environments, with limited language support beyond English, and requires understanding of LLMs for effective use.",
+  "platforms": [
+    ".NET",
+    "Azure"
+  ],
+  "stack": [
+    "C#",
+    ".NET",
+    "OpenAI"
+  ],
+  "name": "semantic-kernel",
+  "slug": "microsoft-semantic-kernel",
+  "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+  "repository": "https://github.com/microsoft/semantic-kernel",
+  "stars": 24809,
+  "originator": "microsoft",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "llm",
+    "openai",
+    "sdk"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/microsoft/semantic-kernel/wiki",
+    "https://github.com/microsoft/semantic-kernel/tree/main/samples",
+    "https://github.com/microsoft/semantic-kernel/issues"
+  ],
+  "highlight": "Seamlessly integrates large language models into applications with a focus on extensibility and ease of use."
+}

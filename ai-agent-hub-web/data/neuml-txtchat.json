@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development of language model-powered chat applications and autonomous agents.",
+  "principle": "Built on retrieval-augmented generation (RAG) techniques, leveraging language models to enhance chat capabilities.",
+  "reusability": "Offers modular components and APIs for building custom chat applications and integrating with existing systems.",
+  "limitations": "Primarily supports Python; requires understanding of RAG processes for effective implementation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "txtai",
+    "RAG"
+  ],
+  "name": "txtchat",
+  "slug": "neuml-txtchat",
+  "description": "💭 Build autonomous agents, retrieval augmented generation (RAG) processes and language model powered chat applications",
+  "repository": "https://github.com/neuml/txtchat",
+  "stars": 291,
+  "originator": "neuml",
+  "tags": [
+    "large-language-models",
+    "llm",
+    "machine-learning",
+    "nlp",
+    "python",
+    "rag",
+    "retrieval-augmented-generation",
+    "search",
+    "txtai"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-15",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/neuml/txtchat#readme",
+    "https://github.com/neuml/txtchat/tree/main/examples",
+    "https://github.com/neuml/txtchat/wiki"
+  ],
+  "highlight": "Enables the creation of autonomous agents and chat applications using retrieval-augmented generation (RAG) processes."
+}

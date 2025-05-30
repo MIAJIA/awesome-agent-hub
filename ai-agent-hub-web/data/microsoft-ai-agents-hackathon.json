@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable developers to build AI agents through a collaborative hackathon environment with Microsoft and Azure.",
+  "principle": "Leverages Azure cloud services and AI frameworks to provide a platform for developing and deploying AI agents.",
+  "reusability": "Designed for hackathon participants to create AI agents, with examples and templates for quick setup and deployment.",
+  "limitations": "Primarily focused on hackathon use cases; may not be suitable for production-scale applications without further development.",
+  "platforms": [
+    "Azure",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Azure",
+    "Docker"
+  ],
+  "name": "AI_Agents_Hackathon",
+  "slug": "microsoft-ai-agents-hackathon",
+  "description": "A free virtual hackathon for building AI agents with Microsoft and Azure.",
+  "repository": "https://github.com/microsoft/AI_Agents_Hackathon",
+  "stars": 275,
+  "originator": "microsoft",
+  "tags": [
+    "agents",
+    "azure"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/AI_Agents_Hackathon#readme",
+    "https://github.com/microsoft/AI_Agents_Hackathon/tree/main/examples"
+  ],
+  "highlight": "Facilitates the creation and deployment of AI agents using Azure services."
+}

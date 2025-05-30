@@ -1,0 +1,42 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide tutorials and implementations for effectively communicating with and leveraging large language models",
+  "principle": "Utilizes prompt engineering techniques to optimize interactions with AI models, focusing on crafting precise prompts to achieve desired outcomes",
+  "reusability": "Offers modular tutorials and code examples that can be integrated into AI applications for enhanced language model interactions",
+  "limitations": "Primarily focused on educational use; may require additional customization for specific application deployment",
+  "platforms": [
+    "Jupyter Notebook",
+    "GitHub"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "OpenAI"
+  ],
+  "name": "Prompt_Engineering",
+  "slug": "nirdiamant-prompt-engineering",
+  "description": "This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications.",
+  "repository": "https://github.com/NirDiamant/Prompt_Engineering",
+  "stars": 5667,
+  "originator": "NirDiamant",
+  "tags": [
+    "ai",
+    "genai",
+    "llm",
+    "llms",
+    "opeani",
+    "prompt-engineering",
+    "python",
+    "tutorials"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-14",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/NirDiamant/Prompt_Engineering/blob/main/README.md",
+    "https://github.com/NirDiamant/Prompt_Engineering/tree/main/tutorials"
+  ],
+  "highlight": "Comprehensive resource for mastering Prompt Engineering with large language models"
+}

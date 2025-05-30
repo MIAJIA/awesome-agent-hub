@@ -1,0 +1,40 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a standardized benchmark for assessing the capabilities of large language models (LLMs) when deployed as autonomous agents",
+  "principle": "Leverages a series of tests and scenarios designed to evaluate the decision-making, reasoning, and interaction capabilities of LLMs in agent roles",
+  "reusability": "Offers a modular framework that can be extended with custom tests and integrated with various LLMs for benchmarking purposes",
+  "limitations": "Primarily focused on LLMs, may not cover all aspects of agent capabilities beyond language understanding and generation",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers"
+  ],
+  "name": "AgentBench",
+  "slug": "thudm-agentbench",
+  "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+  "repository": "https://github.com/THUDM/AgentBench",
+  "stars": 2589,
+  "originator": "THUDM",
+  "tags": [
+    "chatgpt",
+    "gpt-4",
+    "llm",
+    "llm-agent"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-01-30",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/THUDM/AgentBench/blob/main/README.md",
+    "https://github.com/THUDM/AgentBench/wiki",
+    "https://github.com/THUDM/AgentBench/issues"
+  ],
+  "highlight": "Comprehensive benchmark suite for evaluating LLMs as autonomous agents"
+}

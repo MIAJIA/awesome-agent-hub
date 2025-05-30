@@ -1,0 +1,50 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a curated and comprehensive list of top artificial intelligence tools across different domains.",
+  "principle": "Aggregates and categorizes various AI tools based on their functionality and use cases.",
+  "reusability": "Serves as a reference for developers and researchers to discover AI tools, easily accessible and updatable.",
+  "limitations": "Primarily a static list, dependent on manual updates for new tools and categories.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-ai-tools",
+  "slug": "mahseema-awesome-ai-tools",
+  "description": "A curated list of Artificial Intelligence Top Tools",
+  "repository": "https://github.com/mahseema/awesome-ai-tools",
+  "stars": 2489,
+  "originator": "mahseema",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-assistant",
+    "ai-tools",
+    "ai-tools-list",
+    "ai-top-tools",
+    "awesome",
+    "awesome-ai",
+    "awesome-ai-tools",
+    "awesome-list",
+    "bestofai",
+    "easywithai",
+    "futurepedia",
+    "futuretools",
+    "machine-learning",
+    "ml",
+    "mlops",
+    "theresanaiforthat",
+    "top-ai-tools"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-03",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/mahseema/awesome-ai-tools"
+  ],
+  "highlight": "Comprehensive and curated list of top AI tools for various applications."
+}

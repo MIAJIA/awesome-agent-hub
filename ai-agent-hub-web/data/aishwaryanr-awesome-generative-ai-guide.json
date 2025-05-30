@@ -1,0 +1,37 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a centralized repository of resources, research updates, and practical tools related to generative AI",
+  "principle": "Aggregates and curates a wide range of generative AI resources including research papers, tutorials, and Jupyter notebooks",
+  "reusability": "Offers a collection of resources and links that can be easily accessed and utilized by researchers, students, and professionals interested in generative AI",
+  "limitations": "Primarily serves as a resource aggregation; does not include original software tools or applications",
+  "platforms": [],
+  "stack": [
+    "Markdown",
+    "Jupyter Notebook"
+  ],
+  "name": "awesome-generative-ai-guide",
+  "slug": "aishwaryanr-awesome-generative-ai-guide",
+  "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+  "repository": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+  "stars": 12613,
+  "originator": "aishwaryanr",
+  "tags": [
+    "awesome",
+    "awesome-list",
+    "generative-ai",
+    "interview-questions",
+    "large-language-models",
+    "llms",
+    "notebook-jupyter",
+    "vision-and-language"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-14",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/aishwaryanr/awesome-generative-ai-guide#readme"
+  ],
+  "highlight": "Comprehensive resource for generative AI research and practical applications"
+}

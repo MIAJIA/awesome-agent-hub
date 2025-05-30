@@ -1,0 +1,41 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide a framework for efficient deployment and inference of large language models on Apple Silicon hardware",
+  "principle": "Utilizes optimized computation techniques and hardware-specific optimizations to serve LLMs efficiently on Apple Silicon",
+  "reusability": "Can be integrated into systems requiring LLM inference on Apple Silicon, with potential for adaptation to other architectures",
+  "limitations": "Currently focused on Apple Silicon, may not be directly applicable to other hardware architectures",
+  "platforms": [
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Apple Silicon"
+  ],
+  "name": "tiny-llm",
+  "slug": "skyzh-tiny-llm",
+  "description": "(🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers.",
+  "repository": "https://github.com/skyzh/tiny-llm",
+  "stars": 1928,
+  "originator": "skyzh",
+  "tags": [
+    "course",
+    "large-language-model",
+    "llm",
+    "python",
+    "qwen",
+    "qwen2",
+    "serving"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/skyzh/tiny-llm#readme",
+    "https://github.com/skyzh/tiny-llm/issues",
+    "https://github.com/skyzh/tiny-llm/wiki"
+  ],
+  "highlight": "Optimized LLM inference serving tailored for Apple Silicon, ideal for systems engineers"
+}

@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and management of AI agents with enhanced observability and integration capabilities",
+  "principle": "Leverages TypeScript and Node.js to provide a modular and extensible framework for AI agent development",
+  "reusability": "Offers a modular architecture with plugins and APIs for easy integration and customization",
+  "limitations": "Still in alpha stage, may lack stability and comprehensive documentation for all features",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "LLM integrations"
+  ],
+  "name": "voltagent",
+  "slug": "voltagent-voltagent",
+  "description": "Open Source TypeScript AI Agent Framework",
+  "repository": "https://github.com/VoltAgent/voltagent",
+  "stars": 1775,
+  "originator": "VoltAgent",
+  "tags": [
+    "agents",
+    "ai",
+    "autogen",
+    "chatbots",
+    "framework",
+    "javascript",
+    "llm",
+    "llm-observability",
+    "mcp",
+    "nodejs",
+    "observability",
+    "tts",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/VoltAgent/voltagent/blob/main/README.md",
+    "https://github.com/VoltAgent/voltagent/wiki",
+    "https://github.com/VoltAgent/voltagent/issues"
+  ],
+  "highlight": "Comprehensive framework for building and orchestrating AI agents using TypeScript"
+}

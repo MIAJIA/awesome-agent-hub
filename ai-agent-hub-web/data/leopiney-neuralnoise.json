@@ -1,0 +1,46 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "To automate the creation of podcast content, including script writing and audio generation, using AI technology",
+  "principle": "Utilizes large language models (LLMs) for script generation and audio synthesis APIs for producing audio",
+  "reusability": "Offers modular AI components for script and audio generation that can be integrated into other media production workflows",
+  "limitations": "May have limitations in handling highly specific topics or niche audio styles, and may require manual intervention for quality assurance",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "ElevenLabs",
+    "LangChain"
+  ],
+  "name": "neuralnoise",
+  "slug": "leopiney-neuralnoise",
+  "description": "The AI Podcast Studio: generate podcasts scripts and their audio version with a team of AI workers in a Podcast Studio 🎙️📜",
+  "repository": "https://github.com/leopiney/neuralnoise",
+  "stars": 176,
+  "originator": "leopiney",
+  "tags": [
+    "ag2",
+    "ai",
+    "audio-generation",
+    "autogen",
+    "elevenlabs",
+    "llms",
+    "notebooklm",
+    "openai",
+    "podcast",
+    "podcast-generator"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-05",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/leopiney/neuralnoise#readme",
+    "https://github.com/leopiney/neuralnoise/issues",
+    "https://github.com/leopiney/neuralnoise/wiki"
+  ],
+  "highlight": "Generates podcast scripts and audio using AI workers in a collaborative studio environment"
+}

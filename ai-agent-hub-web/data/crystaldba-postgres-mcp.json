@@ -1,0 +1,36 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide configurable read/write access and performance analysis for PostgreSQL databases, optimizing interactions for AI agents.",
+  "principle": "Utilizes Python to interface with PostgreSQL, offering tools for database performance analysis and query optimization.",
+  "reusability": "Designed to be integrated with existing AI systems for enhanced database interactions, provides APIs for custom configurations.",
+  "limitations": "Primarily focused on PostgreSQL databases, may not support other database systems, limited to current PostgreSQL features.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PostgreSQL"
+  ],
+  "name": "postgres-mcp",
+  "slug": "crystaldba-postgres-mcp",
+  "description": "Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.",
+  "repository": "https://github.com/crystaldba/postgres-mcp",
+  "stars": 292,
+  "originator": "crystaldba",
+  "tags": [
+    "PostgreSQL",
+    "Database",
+    "Performance Analysis",
+    "AI Integration"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-16",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/crystaldba/postgres-mcp/blob/main/README.md",
+    "https://github.com/crystaldba/postgres-mcp/wiki"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and management of language model-driven agents using a graph-based approach",
+  "principle": "Builds on LangChain for language model orchestration and FastAPI for API interfacing",
+  "reusability": "Offers a modular architecture with API endpoints for easy integration and extension",
+  "limitations": "Currently in alpha stage; may lack comprehensive documentation and stability",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "LangChain"
+  ],
+  "name": "LangGraph-Chatchat",
+  "slug": "chatchat-space-langgraph-chatchat",
+  "description": "N/A",
+  "repository": "https://github.com/chatchat-space/LangGraph-Chatchat",
+  "stars": 111,
+  "originator": "chatchat-space",
+  "tags": [
+    "agent",
+    "agents",
+    "fastapi",
+    "langchain",
+    "langchain-agent",
+    "langchain-agents",
+    "langchain-python",
+    "langgraph",
+    "langgraph-python",
+    "llm",
+    "llm-ops"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-07",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/chatchat-space/LangGraph-Chatchat#readme",
+    "https://github.com/chatchat-space/LangGraph-Chatchat/issues",
+    "https://github.com/chatchat-space/LangGraph-Chatchat/pulls"
+  ],
+  "highlight": "Integration of LangChain with FastAPI for building language model-based applications"
+}

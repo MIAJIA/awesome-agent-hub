@@ -1,0 +1,46 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Provides a web-based chat interface with advanced capabilities like Google search integration and code interpretation.",
+  "principle": "Built on a web UI framework that integrates with various APIs for search and code execution, leveraging RAG (Retrieval-Augmented Generation) for enhanced interactions.",
+  "reusability": "Can be integrated into existing web applications as a frontend chat interface, with support for API-based enhancements.",
+  "limitations": "Limited to specific functionalities like Google search and code interpretation; may require additional backend setup for full capabilities.",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "Svelte",
+    "JavaScript",
+    "Google API",
+    "LangChain"
+  ],
+  "name": "ChatPilot",
+  "slug": "shibing624-chatpilot",
+  "description": "ChatPilot: Chat Agent Web UI，实现Chat对话前端，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。",
+  "repository": "https://github.com/shibing624/ChatPilot",
+  "stars": 563,
+  "originator": "shibing624",
+  "tags": [
+    "agent",
+    "agentica",
+    "agents",
+    "chat",
+    "chatbot",
+    "chatgpt",
+    "chatpdf",
+    "chatpilot",
+    "kimi",
+    "langchain",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-01-05",
+  "language": "Svelte",
+  "useful_links": [
+    "https://github.com/shibing624/ChatPilot#readme",
+    "https://github.com/shibing624/ChatPilot/wiki"
+  ],
+  "highlight": "Supports Google search, file and URL-based conversations, and a code interpreter in a chat interface."
+}

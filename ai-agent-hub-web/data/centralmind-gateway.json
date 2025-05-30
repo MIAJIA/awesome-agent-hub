@@ -1,0 +1,60 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a universal MCP-Server that facilitates efficient database management and interaction for LLMs and AI-Agents.",
+  "principle": "Built using Go, it leverages REST APIs and integrates with multiple databases to serve as a middleware communication protocol server.",
+  "reusability": "Offers a REST API for easy integration with various databases and supports multiple AI platforms for enhanced versatility.",
+  "limitations": "Currently in alpha status, which may imply potential instability and limited feature set.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "REST API",
+    "ClickHouse",
+    "DuckDB",
+    "Elasticsearch",
+    "MySQL",
+    "Oracle",
+    "PostgreSQL",
+    "Snowflake",
+    "Supabase"
+  ],
+  "name": "gateway",
+  "slug": "centralmind-gateway",
+  "description": "Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.",
+  "repository": "https://github.com/centralmind/gateway",
+  "stars": 365,
+  "originator": "centralmind",
+  "tags": [
+    "amazon-bedrock",
+    "anthropic-claude",
+    "api",
+    "automatic-api",
+    "clickhouse",
+    "duckdb",
+    "elasticsearch",
+    "golang",
+    "google-vertex-ai",
+    "llm",
+    "mcp",
+    "mysql-database",
+    "openai",
+    "oracle-database",
+    "postgresql",
+    "rest-api",
+    "snowflake",
+    "supabase"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-25",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/centralmind/gateway#readme",
+    "https://github.com/centralmind/gateway/wiki",
+    "https://github.com/centralmind/gateway/issues"
+  ],
+  "highlight": "Optimized for seamless integration with LLMs and AI-Agents for database management."
+}

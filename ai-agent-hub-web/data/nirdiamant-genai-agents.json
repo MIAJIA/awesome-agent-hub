@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a detailed guide and implementation resources for building generative AI agents from basic to advanced levels.",
+  "principle": "Leverages generative AI models and frameworks like LangChain and OpenAI to create interactive AI systems.",
+  "reusability": "Offers modular tutorials and code snippets that can be integrated into other AI projects, with a focus on generative AI techniques.",
+  "limitations": "Primarily focused on educational and experimental use cases; may not be optimized for production environments.",
+  "platforms": [
+    "Jupyter Notebook",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "LangChain",
+    "OpenAI"
+  ],
+  "name": "GenAI_Agents",
+  "slug": "nirdiamant-genai-agents",
+  "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+  "repository": "https://github.com/NirDiamant/GenAI_Agents",
+  "stars": 12449,
+  "originator": "NirDiamant",
+  "tags": [
+    "agents",
+    "ai",
+    "genai",
+    "langchain",
+    "langgraph",
+    "llm",
+    "llms",
+    "openai",
+    "tutorials"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-14",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/NirDiamant/GenAI_Agents",
+    "https://github.com/NirDiamant/GenAI_Agents/blob/main/README.md"
+  ],
+  "highlight": "Comprehensive tutorials and implementations for building intelligent, interactive generative AI agents."
+}

@@ -1,0 +1,30 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "List and manage principal entities for AI tour repositories",
+  "principle": "Utilizes a structured list of principal entities to organize and manage AI-related repositories",
+  "reusability": "Designed to be integrated with GitHub for managing repository metadata, supports API interactions",
+  "limitations": "Currently limited to managing principal lists on GitHub repositories, requires manual updates for new entities",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "GitHub API"
+  ],
+  "name": "aitour-repo-principal-list",
+  "slug": "microsoft-aitour-repo-principal-list",
+  "description": "N/A",
+  "repository": "https://github.com/microsoft/aitour-repo-principal-list",
+  "stars": 209,
+  "originator": "microsoft",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-28",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/microsoft/aitour-repo-principal-list/blob/main/README.md"
+  ]
+}

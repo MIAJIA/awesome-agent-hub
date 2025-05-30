@@ -1,0 +1,41 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitate backward-traceable AI-driven scientific research by automating the generation of scientific papers from data.",
+  "principle": "Utilizes machine learning models to analyze datasets and generate structured scientific content, ensuring traceability from data to final paper.",
+  "reusability": "Offers modular components that can be integrated into existing research workflows, with API support for data input and paper generation.",
+  "limitations": "Currently in alpha stage; may have limited support for complex datasets and specific scientific domains.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Flask"
+  ],
+  "name": "data-to-paper",
+  "slug": "technion-kishony-lab-data-to-paper",
+  "description": "data-to-paper: Backward-traceable AI-driven scientific research",
+  "repository": "https://github.com/Technion-Kishony-lab/data-to-paper",
+  "stars": 650,
+  "originator": "Technion-Kishony-lab",
+  "tags": [
+    "agents",
+    "ai",
+    "autonomous-agents",
+    "interactive-machine-learning",
+    "llm",
+    "scientific-research"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-09",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Technion-Kishony-lab/data-to-paper#readme",
+    "https://github.com/Technion-Kishony-lab/data-to-paper/wiki"
+  ],
+  "highlight": "Enables traceable generation of scientific papers directly from datasets, bridging the gap between data analysis and publication."
+}

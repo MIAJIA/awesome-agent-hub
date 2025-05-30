@@ -1,0 +1,40 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To streamline and automate the process of penetration testing by leveraging intelligent agents",
+  "principle": "Utilizes Python-based automation scripts and AI models to simulate and execute penetration testing tasks",
+  "reusability": "Designed with modular components that can be integrated into existing security workflows; provides APIs for customization and extension",
+  "limitations": "Currently in alpha stage, may have limited support for complex network configurations and requires expert configuration",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Scapy",
+    "Nmap"
+  ],
+  "name": "TARS",
+  "slug": "osgil-defense-tars",
+  "description": "Using Agents To Automate Pentesting",
+  "repository": "https://github.com/osgil-defense/TARS",
+  "stars": 275,
+  "originator": "osgil-defense",
+  "tags": [
+    "pentesting",
+    "automation",
+    "security",
+    "AI"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-17",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/osgil-defense/TARS/wiki",
+    "https://github.com/osgil-defense/TARS/issues",
+    "https://github.com/osgil-defense/TARS/releases"
+  ],
+  "highlight": "Automates and enhances penetration testing using AI-driven agents"
+}

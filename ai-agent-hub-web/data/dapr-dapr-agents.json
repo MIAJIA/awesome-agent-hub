@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and management of autonomous AI agents with enhanced resilience and observability",
+  "principle": "Built on Dapr's distributed application runtime, leveraging its capabilities for state management, pub/sub, and observability",
+  "reusability": "Modular architecture with support for plug-and-play components, APIs for integration with existing systems",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and stability for production use",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Kubernetes"
+  ],
+  "stack": [
+    "Python",
+    "Dapr",
+    "Docker",
+    "Kubernetes"
+  ],
+  "name": "dapr-agents",
+  "slug": "dapr-dapr-agents",
+  "description": "Build autonomous, resilient and observable AI agents with built-in workflow orchestration, security, statefulness and telemetry.",
+  "repository": "https://github.com/dapr/dapr-agents",
+  "stars": 398,
+  "originator": "dapr",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/dapr/dapr-agents/blob/main/README.md",
+    "https://github.com/dapr/dapr-agents/wiki",
+    "https://github.com/dapr/dapr-agents/issues"
+  ],
+  "highlight": "Combines workflow orchestration, security, statefulness, and telemetry for autonomous AI agents"
+}

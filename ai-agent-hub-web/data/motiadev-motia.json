@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development and integration of APIs, event-driven systems, and agent-based applications",
+  "principle": "Built on a modular architecture using TypeScript, allowing seamless integration of various backend components",
+  "reusability": "Offers a highly modular and extensible framework with API support for custom integrations and event handling",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and stability for production use",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Docker"
+  ],
+  "name": "motia",
+  "slug": "motiadev-motia",
+  "description": "Unified Backend Framework for APIs, Events and Agents",
+  "repository": "https://github.com/MotiaDev/motia",
+  "stars": 1932,
+  "originator": "MotiaDev",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/MotiaDev/motia#readme",
+    "https://github.com/MotiaDev/motia/wiki",
+    "https://github.com/MotiaDev/motia/issues"
+  ],
+  "highlight": "Unified framework for handling APIs, events, and agent orchestration"
+}

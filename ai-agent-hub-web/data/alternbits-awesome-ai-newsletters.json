@@ -1,0 +1,40 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a curated list of top AI-related newsletters, helping users stay updated with the latest trends and developments in AI.",
+  "principle": "Aggregates and organizes AI newsletters into a single repository for easy access and reference.",
+  "reusability": "Can be easily referenced by anyone interested in AI newsletters, suitable for integration into personal or organizational reading lists.",
+  "limitations": "Dependent on external newsletter sources; requires manual updates to stay current.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-ai-newsletters",
+  "slug": "alternbits-awesome-ai-newsletters",
+  "description": "A curated list of top best AI Related Newsletters and ai agents newsletters",
+  "repository": "https://github.com/alternbits/awesome-ai-newsletters",
+  "stars": 119,
+  "originator": "alternbits",
+  "tags": [
+    "ai",
+    "ai-newsletter",
+    "ai-newsletters",
+    "ai-newslettter",
+    "awesome",
+    "awesome-list",
+    "deep-learning",
+    "machine-learning",
+    "newsletter",
+    "newsletters"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-04-25",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/alternbits/awesome-ai-newsletters"
+  ],
+  "highlight": "Comprehensive collection of AI and AI agent newsletters curated for enthusiasts and professionals."
+}

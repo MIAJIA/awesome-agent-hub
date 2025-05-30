@@ -1,0 +1,38 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To provide an AI-driven solution for automating tasks on mobile devices, enhancing user efficiency and experience.",
+  "principle": "Operit operates on the principle of leveraging artificial intelligence to understand user behavior and preferences, allowing for seamless interaction with mobile applications.",
+  "reusability": "The codebase is designed to be modular, enabling developers to reuse components for various mobile automation tasks.",
+  "limitations": "Operit may face challenges with device compatibility and may not support all applications due to varying permissions and API restrictions inherent in different Android versions.",
+  "platforms": [
+    "Android"
+  ],
+  "stack": [
+    "Kotlin",
+    "Android",
+    "Jetpack Compose"
+  ],
+  "name": "Operit",
+  "slug": "aaswordman-operit",
+  "description": "An android AI agent can automatically operate your mobile phone",
+  "repository": "https://github.com/AAswordman/Operit",
+  "stars": 209,
+  "originator": "AAswordman",
+  "tags": [
+    "agent",
+    "ai",
+    "android",
+    "compose",
+    "kotlin"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "Kotlin",
+  "useful_links": [
+    "https://github.com/AAswordman/Operit/blob/main/README.md",
+    "https://github.com/AAswordman/Operit/tree/main/docs"
+  ],
+  "highlight": "Operit leverages AI to automate mobile phone operations by understanding user behavior and preferences."
+}

@@ -1,0 +1,41 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To curate and provide a comprehensive list of academic papers that explore the integration of knowledge graphs with large language models.",
+  "principle": "Aggregates and categorizes research papers to facilitate exploration and study of KG-LLM integration.",
+  "reusability": "Can be used by researchers and practitioners as a reference point for understanding current trends and methodologies in KG-LLM integration.",
+  "limitations": "Limited to the scope of papers included in the repository; requires manual updates to stay current.",
+  "platforms": [],
+  "stack": [],
+  "name": "KG-LLM-Papers",
+  "slug": "zjukg-kg-llm-papers",
+  "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
+  "repository": "https://github.com/zjukg/KG-LLM-Papers",
+  "stars": 1897,
+  "originator": "zjukg",
+  "tags": [
+    "awesome",
+    "awesome-kg",
+    "awesome-llm",
+    "awsome-list",
+    "commonsense",
+    "gpt",
+    "knowledge",
+    "knowledge-graph",
+    "language-models",
+    "large-language-models",
+    "llm",
+    "nlp",
+    "paper-list",
+    "prompt",
+    "survey"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-25",
+  "language": "",
+  "useful_links": [
+    "https://github.com/zjukg/KG-LLM-Papers"
+  ],
+  "highlight": "Comprehensive list of research papers focused on integrating knowledge graphs with large language models."
+}

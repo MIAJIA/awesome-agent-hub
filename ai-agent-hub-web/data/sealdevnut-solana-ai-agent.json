@@ -1,0 +1,45 @@
+{
+  "category": "social-media",
+  "status": "alpha",
+  "purpose": "To autonomously manage social media accounts using AI, with a focus on blockchain integration.",
+  "principle": "Leverages AI algorithms to schedule posts, engage with followers, and analyze social media metrics, with a specific integration on the Solana blockchain.",
+  "reusability": "Modular design with API endpoints for social media platforms and blockchain interactions, allowing for easy integration and customization.",
+  "limitations": "Currently in alpha stage, may have limited platform support and scalability issues; specific to Solana blockchain.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Solana",
+    "Express",
+    "Twitter API"
+  ],
+  "name": "solana-ai-agent",
+  "slug": "sealdevnut-solana-ai-agent",
+  "description": "This project aims to create an autonomous AI-driven agent that can manage social media accounts",
+  "repository": "https://github.com/sealdevnut/solana-ai-agent",
+  "stars": 120,
+  "originator": "sealdevnut",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "aiagent",
+    "aiagents",
+    "blockchain-ai-agent",
+    "evm",
+    "evm-ai-agent",
+    "solana",
+    "solana-ai-agent"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-12",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/sealdevnut/solana-ai-agent#readme",
+    "https://github.com/sealdevnut/solana-ai-agent/wiki"
+  ],
+  "highlight": "Integrates AI-driven automation for managing social media accounts on the Solana blockchain."
+}

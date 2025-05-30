@@ -1,0 +1,57 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive toolkit for monitoring AI agents, tracking costs associated with large language models (LLMs), and benchmarking their performance across various frameworks.",
+  "principle": "To enhance the efficiency and transparency of AI agent operations by providing detailed insights and analytics, allowing developers to make informed decisions.",
+  "reusability": "The SDK is designed to be modular, enabling developers to integrate it easily into existing workflows and applications across different programming environments.",
+  "limitations": "As an alpha version, the SDK may have incomplete features and potential bugs. Users should expect limited documentation and support as the project evolves.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Langchain",
+    "Autogen",
+    "CrewAI",
+    "CamelAI"
+  ],
+  "name": "agentops",
+  "slug": "agentops-ai-agentops-3",
+  "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI",
+  "repository": "https://github.com/AgentOps-AI/agentops",
+  "stars": 4464,
+  "originator": "AgentOps-AI",
+  "tags": [
+    "agent",
+    "agentops",
+    "agents-sdk",
+    "ai",
+    "anthropic",
+    "autogen",
+    "cost-estimation",
+    "crewai",
+    "evals",
+    "evaluation-metrics",
+    "groq",
+    "langchain",
+    "llm",
+    "mistral",
+    "ollama",
+    "openai",
+    "openai-agents"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/AgentOps-AI/agentops#readme",
+    "https://github.com/AgentOps-AI/agentops/wiki",
+    "https://github.com/AgentOps-AI/agentops/issues",
+    "https://github.com/AgentOps-AI/agentops/releases"
+  ],
+  "highlight": "Comprehensive toolkit for AI agent monitoring and LLM cost tracking across multiple frameworks."
+}

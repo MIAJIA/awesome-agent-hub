@@ -1,0 +1,57 @@
+{
+  "category": "lifestyle",
+  "status": "alpha",
+  "purpose": "Assist healthcare professionals, researchers, and patients with medical diagnostics and research through a multi-agent chatbot system.",
+  "principle": "Utilizes generative AI and multi-agent coordination to process medical images and provide diagnostic assistance, leveraging technologies like LangChain and RAG (Retrieval-Augmented Generation).",
+  "reusability": "Designed to be integrated into healthcare systems via APIs, supporting modular agent configurations and custom medical datasets.",
+  "limitations": "Currently in alpha stage, may have limited coverage of medical conditions, and requires validation for clinical use.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "Vector Databases"
+  ],
+  "name": "Multi-Agent-Medical-Assistant",
+  "slug": "souvikmajumder26-multi-agent-medical-assistant",
+  "description": "⚕️GenAI powered multi-agentic medical diagnostics and healthcare research assistance chatbot. 🏥 Designed for healthcare professionals, researchers and patients.",
+  "repository": "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant",
+  "stars": 442,
+  "originator": "souvikmajumder26",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agents",
+    "chatbot",
+    "computer-vision",
+    "disease-detection",
+    "genai",
+    "genai-chatbot",
+    "generative-ai",
+    "guardrails",
+    "langchain",
+    "langgraph",
+    "large-language-models",
+    "llm",
+    "medical-image-processing",
+    "medical-imaging",
+    "python",
+    "rag",
+    "retrieval-augmented-generation",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-03",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant#readme",
+    "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/wiki",
+    "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/issues"
+  ],
+  "highlight": "GenAI powered multi-agent system for medical diagnostics and healthcare research assistance."
+}

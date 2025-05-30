@@ -1,0 +1,36 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the creation, testing, and debugging of AI assistants using OpenAI technologies",
+  "principle": "Built on Python, leveraging middleware to streamline assistant development and testing processes",
+  "reusability": "Offers modular components and middleware that can be integrated into existing Python applications",
+  "limitations": "Experimental status with potential for frequent changes; limited to environments supporting Python",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "Azure"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Flask",
+    "Azure"
+  ],
+  "name": "azureai-assistant-tool",
+  "slug": "azure-samples-azureai-assistant-tool",
+  "description": "The Azure AI Assistant Tool is experimental Python application and middleware designed to simplify the development, experimentation, testing, and debugging of OpenAI assistants.",
+  "repository": "https://github.com/Azure-Samples/azureai-assistant-tool",
+  "stars": 137,
+  "originator": "Azure-Samples",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Azure-Samples/azureai-assistant-tool/blob/main/README.md",
+    "https://github.com/Azure-Samples/azureai-assistant-tool/wiki",
+    "https://github.com/Azure-Samples/azureai-assistant-tool/issues"
+  ],
+  "highlight": "Simplifies development and debugging of OpenAI-based assistants with a focus on experimentation"
+}

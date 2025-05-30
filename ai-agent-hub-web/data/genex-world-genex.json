@@ -1,0 +1,40 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To create and explore procedurally generated virtual worlds for research and entertainment",
+  "principle": "Utilizes generative algorithms and procedural generation techniques to create expansive and dynamic virtual environments",
+  "reusability": "Offers API and plugin support for integration into game engines and virtual reality platforms",
+  "limitations": "Limited to predefined algorithms for world generation, may require significant computational resources for large-scale environments",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Unity",
+    "Blender"
+  ],
+  "name": "genex",
+  "slug": "genex-world-genex",
+  "description": "Generative World Explorer",
+  "repository": "https://github.com/GenEx-world/genex",
+  "stars": 143,
+  "originator": "GenEx-world",
+  "tags": [
+    "generative",
+    "virtual worlds",
+    "gaming",
+    "procedural generation"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/GenEx-world/genex/wiki",
+    "https://github.com/GenEx-world/genex/demo"
+  ],
+  "highlight": "Explores and generates virtual worlds using advanced generative algorithms"
+}

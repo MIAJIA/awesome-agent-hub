@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development and management of AI agents that can perform complex tasks beyond simple code suggestions",
+  "principle": "Built on a modular architecture allowing integration with various large language models (LLMs) for executing, editing, and testing code",
+  "reusability": "Highly composable with support for plugin-based extensions, can be integrated with different LLMs via APIs",
+  "limitations": "Currently in alpha stage, may have stability issues; limited to environments where Rust and supported LLMs can be used",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Rust",
+    "LLM integrations"
+  ],
+  "name": "goose",
+  "slug": "block-goose",
+  "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "repository": "https://github.com/block/goose",
+  "stars": 13164,
+  "originator": "block",
+  "tags": [
+    "AI",
+    "agent framework",
+    "LLM",
+    "extensible",
+    "open source"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/block/goose#readme",
+    "https://github.com/block/goose/wiki",
+    "https://github.com/block/goose/issues"
+  ],
+  "highlight": "Extensible AI agent framework that allows installation, execution, editing, and testing with any LLM"
+}

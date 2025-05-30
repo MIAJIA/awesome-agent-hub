@@ -1,0 +1,34 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Serve as a curated repository of resources and information for Machine Learning Summer Schools worldwide",
+  "principle": "Organizes and provides access to various educational resources, event details, and learning materials for ML enthusiasts",
+  "reusability": "Open-source repository that can be extended or forked by the community to add more resources or adapt for specific educational purposes",
+  "limitations": "The list may not be exhaustive, and the information might require periodic updates to remain current and accurate",
+  "platforms": [],
+  "stack": [
+    "HTML"
+  ],
+  "name": "awesome-mlss",
+  "slug": "awesome-mlss-awesome-mlss",
+  "description": "🤖 Machine Learning Summer School Guide",
+  "repository": "https://github.com/awesome-mlss/awesome-mlss",
+  "stars": 2780,
+  "originator": "awesome-mlss",
+  "tags": [
+    "artificial-intelligence",
+    "deep-learning",
+    "machine-learning",
+    "reinforcement-learning",
+    "summer-school",
+    "summer-schools"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-21",
+  "language": "HTML",
+  "useful_links": [
+    "https://github.com/awesome-mlss/awesome-mlss"
+  ],
+  "highlight": "Comprehensive guide to global Machine Learning Summer Schools with valuable resources for learners"
+}

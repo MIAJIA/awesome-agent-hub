@@ -1,0 +1,36 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enhance software development productivity by integrating AI-powered orchestration directly into the VS Code editor.",
+  "principle": "Leverages AI to automate and coordinate development tasks, providing a seamless integration with VS Code for enhanced coding efficiency.",
+  "reusability": "Can be integrated as a plugin in VS Code, offering extensibility through its API for custom development workflows.",
+  "limitations": "Primarily designed for use within VS Code; may not support other editors or IDEs. Limited to JavaScript-based projects.",
+  "platforms": [
+    "VS Code"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "VS Code Extension API"
+  ],
+  "name": "roo-commander",
+  "slug": "jezweb-roo-commander",
+  "description": "Think of it like having a virtual, specialized software development team right inside your editor, orchestrated by the 👑 Roo Commander, powered by Roo Code on VS Code",
+  "repository": "https://github.com/jezweb/roo-commander",
+  "stars": 476,
+  "originator": "jezweb",
+  "tags": [
+    "aiagents",
+    "roocode"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-14",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/jezweb/roo-commander#readme",
+    "https://github.com/jezweb/roo-commander/wiki",
+    "https://github.com/jezweb/roo-commander/issues"
+  ],
+  "highlight": "Virtual software development team within VS Code for orchestrated coding tasks."
+}

@@ -1,0 +1,47 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and deployment of generative AI applications tailored to specific use cases",
+  "principle": "Built on a modular architecture leveraging Python and popular AI/ML frameworks for flexibility and scalability",
+  "reusability": "Offers a plugin-based architecture for easy integration and extension, with support for various AI models and APIs",
+  "limitations": "Alpha status implies potential instability and incomplete features; primarily supports Python-based environments",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "LangChain"
+  ],
+  "name": "council",
+  "slug": "chain-ml-council",
+  "description": "Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications",
+  "repository": "https://github.com/chain-ml/council",
+  "stars": 825,
+  "originator": "chain-ml",
+  "tags": [
+    "agent",
+    "ai",
+    "artificial-intelligence",
+    "chatgpt",
+    "generative-ai",
+    "gpt",
+    "gpt3",
+    "gpt4",
+    "machine-learning",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-01-16",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/chain-ml/council/blob/main/README.md",
+    "https://github.com/chain-ml/council/wiki",
+    "https://github.com/chain-ml/council/issues",
+    "https://github.com/chain-ml/council/discussions"
+  ],
+  "highlight": "Rapid development and deployment of customized generative AI applications"
+}

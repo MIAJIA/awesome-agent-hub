@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To serve as a repository for community-created applications and projects using Palantir's AIP Platform.",
+  "principle": "Community-driven contributions using Palantir's AIP Platform APIs and infrastructure.",
+  "reusability": "Open-source repository allowing contributions and integrations from the community, extensible with Palantir's AIP APIs.",
+  "limitations": "Dependent on community contributions for content diversity and maintenance; may have varying quality and documentation standards.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Palantir AIP"
+  ],
+  "name": "aip-community-registry",
+  "slug": "palantir-aip-community-registry",
+  "description": "Collection of community-built applications and projects leveraging Palantir's AIP Platform.",
+  "repository": "https://github.com/palantir/aip-community-registry",
+  "stars": 158,
+  "originator": "palantir",
+  "tags": [
+    "octo-correct-managed"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/palantir/aip-community-registry/blob/main/README.md",
+    "https://github.com/palantir/aip-community-registry/wiki"
+  ],
+  "highlight": "Centralized registry for community-driven applications leveraging Palantir's AIP platform."
+}

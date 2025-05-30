@@ -1,0 +1,38 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of AI-driven workflows in TypeScript environments.",
+  "principle": "Builds on Vercel AI SDK, leveraging serverless functions for scalable AI workflow execution.",
+  "reusability": "Designed for easy integration into TypeScript projects, supporting modular and reusable workflow components.",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and stability for production use.",
+  "platforms": [
+    "Vercel",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Vercel AI SDK",
+    "Node.js"
+  ],
+  "name": "flows-ai",
+  "slug": "callstackincubator-flows-ai",
+  "description": "Run AI workflows with TypeScript & Vercel AI SDK",
+  "repository": "https://github.com/callstackincubator/flows-ai",
+  "stars": 237,
+  "originator": "callstackincubator",
+  "tags": [
+    "agents",
+    "ai",
+    "flows",
+    "workflows"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-02",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/callstackincubator/flows-ai#readme",
+    "https://github.com/callstackincubator/flows-ai/tree/main/examples"
+  ],
+  "highlight": "Seamlessly integrates AI workflows with TypeScript using Vercel AI SDK for efficient development."
+}

@@ -1,0 +1,43 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Automates engineering tasks by planning, executing, and iterating within development environments",
+  "principle": "Integrates with tools like VSCode and uses AI to assist in coding, debugging, and project management",
+  "reusability": "Designed to be self-hosted with open-source code, integrates with VSCode and other developer tools",
+  "limitations": "Alpha status indicates potential instability and limited feature set; primarily supports Rust language",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "VSCode",
+    "GitHub Actions"
+  ],
+  "name": "refact",
+  "slug": "smallcloudai-refact",
+  "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+  "repository": "https://github.com/smallcloudai/refact",
+  "stars": 1978,
+  "originator": "smallcloudai",
+  "tags": [
+    "ai-agent",
+    "developer-tools",
+    "enterprise",
+    "fine-tuning",
+    "on-prem",
+    "open-source",
+    "rag",
+    "self-hosted",
+    "vscode"
+  ],
+  "open_source": true,
+  "license": "BSD-3-Clause",
+  "last_updated": "2025-05-28",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/smallcloudai/refact#readme",
+    "https://github.com/smallcloudai/refact/wiki"
+  ],
+  "highlight": "End-to-end AI agent for engineering tasks with integration into developer tools"
+}

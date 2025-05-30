@@ -1,0 +1,58 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the development and deployment of agent-native applications using Dapr and Kubernetes.",
+  "principle": "Builds on Dapr's distributed application runtime and Kubernetes for scalable, containerized agent-native applications.",
+  "reusability": "Highly modular with support for various cloud-native technologies and APIs, enabling flexible integration and deployment.",
+  "limitations": "Requires familiarity with cloud-native technologies like Kubernetes and Dapr; primarily for educational and experimental purposes.",
+  "platforms": [
+    "Docker",
+    "Kubernetes"
+  ],
+  "stack": [
+    "Jupyter Notebook",
+    "Dapr",
+    "Kubernetes",
+    "OpenAI Agents SDK",
+    "Rancher Desktop",
+    "Docker"
+  ],
+  "name": "learn-agentic-ai",
+  "slug": "panaversity-learn-agentic-ai",
+  "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+  "repository": "https://github.com/panaversity/learn-agentic-ai",
+  "stars": 2714,
+  "originator": "panaversity",
+  "tags": [
+    "a2a",
+    "agentic-ai",
+    "dapr",
+    "dapr-pub-sub",
+    "dapr-service-invocation",
+    "dapr-sidecar",
+    "dapr-workflow",
+    "docker",
+    "kafka",
+    "kubernetes",
+    "langmem",
+    "mcp",
+    "openai",
+    "openai-agents-sdk",
+    "openai-api",
+    "postgresql-database",
+    "rabbitmq",
+    "rancher-desktop",
+    "redis",
+    "serverless-containers"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/panaversity/learn-agentic-ai/blob/main/README.md",
+    "https://github.com/panaversity/learn-agentic-ai/wiki",
+    "https://github.com/panaversity/learn-agentic-ai/tree/main/examples"
+  ],
+  "highlight": "Integrates Dapr and Kubernetes with OpenAI Agents SDK for building agent-native cloud applications."
+}

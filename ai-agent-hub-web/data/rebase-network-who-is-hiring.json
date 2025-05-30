@@ -1,0 +1,35 @@
+{
+  "category": "social-media",
+  "status": "alpha",
+  "purpose": "To provide a platform for companies to post job openings and for job seekers to find opportunities, especially in the blockchain industry.",
+  "principle": "Aggregates job postings from companies and disseminates them through the Rebase community's media channels.",
+  "reusability": "Open source repository that can be forked and adapted for similar job posting purposes in different communities.",
+  "limitations": "Focus is primarily on the blockchain industry; may not cover other industries comprehensively.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "who-is-hiring",
+  "slug": "rebase-network-who-is-hiring",
+  "description": "这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！ ",
+  "repository": "https://github.com/rebase-network/who-is-hiring",
+  "stars": 1100,
+  "originator": "rebase-network",
+  "tags": [
+    "blockchain",
+    "remote-jobs",
+    "remote-work",
+    "remote-working",
+    "remotely-work"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-28",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/rebase-network/who-is-hiring"
+  ],
+  "highlight": "Free platform for companies to post job openings in the blockchain and other industries, with wide dissemination through the Rebase community."
+}

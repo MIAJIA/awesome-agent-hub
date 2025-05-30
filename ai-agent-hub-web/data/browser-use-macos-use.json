@@ -1,0 +1,37 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitate AI-driven automation and interaction with macOS applications for enhanced accessibility and control.",
+  "principle": "Leverages macOS accessibility APIs to automate and control native applications, allowing AI agents to perform tasks traditionally done by users.",
+  "reusability": "Can be integrated into AI systems requiring macOS application automation, with potential for customization based on specific app interactions.",
+  "limitations": "Limited to macOS applications and may require specific accessibility permissions; not all applications may be fully supported.",
+  "platforms": [
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "macOS Accessibility API"
+  ],
+  "name": "macOS-use",
+  "slug": "browser-use-macos-use",
+  "description": "Make Mac apps accessible for AI agents",
+  "repository": "https://github.com/browser-use/macOS-use",
+  "stars": 1077,
+  "originator": "browser-use",
+  "tags": [
+    "macOS",
+    "accessibility",
+    "automation",
+    "AI integration"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-05",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/browser-use/macOS-use/blob/main/README.md",
+    "https://github.com/browser-use/macOS-use/wiki",
+    "https://github.com/browser-use/macOS-use/issues"
+  ],
+  "highlight": "Enables AI agents to interact with native macOS applications through accessibility features."
+}

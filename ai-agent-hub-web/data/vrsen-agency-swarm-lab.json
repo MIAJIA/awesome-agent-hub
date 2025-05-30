@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate multi-agent simulations and experiments in a virtual environment",
+  "principle": "Leverages Python-based simulation frameworks to model and coordinate multi-agent systems in a controlled environment",
+  "reusability": "Modular design allowing integration with custom agent models and simulation parameters",
+  "limitations": "Currently in alpha stage with limited documentation, may require significant setup for custom use cases",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "NumPy",
+    "Matplotlib",
+    "NetworkX"
+  ],
+  "name": "agency-swarm-lab",
+  "slug": "vrsen-agency-swarm-lab",
+  "description": "N/A",
+  "repository": "https://github.com/VRSEN/agency-swarm-lab",
+  "stars": 622,
+  "originator": "VRSEN",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-07",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/VRSEN/agency-swarm-lab/blob/main/README.md",
+    "https://github.com/VRSEN/agency-swarm-lab/wiki"
+  ]
+}

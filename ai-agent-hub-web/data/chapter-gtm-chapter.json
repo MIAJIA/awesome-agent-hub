@@ -1,0 +1,41 @@
+{
+  "category": "marketing",
+  "status": "alpha",
+  "purpose": "Provide an open-source go-to-market (GTM) solution tailored for developer tools, focusing on lead generation and sales qualification.",
+  "principle": "Built using Python, leveraging CRM and sales processes to streamline outbound marketing and lead qualification.",
+  "reusability": "Offers APIs for integration with existing CRM systems, modular design for extending functionality, and Docker support for easy deployment.",
+  "limitations": "Currently in alpha stage, may have limited features and potential bugs, primarily focused on developer tools market.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "PostgreSQL",
+    "Redis"
+  ],
+  "name": "chapter",
+  "slug": "chapter-gtm-chapter",
+  "description": "Chapter: Open Source GTM for Developer Tools.",
+  "repository": "https://github.com/chapter-gtm/chapter",
+  "stars": 104,
+  "originator": "chapter-gtm",
+  "tags": [
+    "crm",
+    "gtm",
+    "leads",
+    "outbound",
+    "qualification",
+    "sales"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-10",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/chapter-gtm/chapter#readme",
+    "https://github.com/chapter-gtm/chapter/wiki",
+    "https://github.com/chapter-gtm/chapter/issues"
+  ]
+}

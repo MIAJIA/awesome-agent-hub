@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a set of reusable skills for enhancing AI agent functionalities within the Autogen Studio ecosystem.",
+  "principle": "Builds on the Model Context Protocol (MCP) to enable seamless skill integration and execution within AI agents.",
+  "reusability": "Designed as modular skills that can be plugged into the Autogen Studio framework, allowing for flexible and extensible agent development.",
+  "limitations": "Currently in alpha stage; may have limited documentation and stability issues. Primarily focused on users familiar with Autogen Studio.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Model Context Protocol (MCP)"
+  ],
+  "name": "autogenstudio-skills",
+  "slug": "madtank-autogenstudio-skills",
+  "description": "Repo of skills for autogen studio using model context protocol (mcp)",
+  "repository": "https://github.com/madtank/autogenstudio-skills",
+  "stars": 298,
+  "originator": "madtank",
+  "tags": [
+    "AI",
+    "skills",
+    "MCP",
+    "Autogen Studio"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-22",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/madtank/autogenstudio-skills"
+  ],
+  "highlight": "A collection of skills for Autogen Studio leveraging the Model Context Protocol (MCP) to enhance AI agent capabilities."
+}

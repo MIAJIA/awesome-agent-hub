@@ -1,0 +1,34 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Curate and integrate open-source projects for the DingTalk platform to enhance its functionalities and ecosystem.",
+  "principle": "Aggregates various open-source projects and tools that are compatible with DingTalk, providing a centralized resource for developers and users.",
+  "reusability": "Offers a collection of projects that can be integrated into DingTalk, serving as a resource hub for developers looking to extend DingTalk capabilities.",
+  "limitations": "Dependent on the quality and maintenance of individual projects; primarily a collection rather than a singular tool or framework.",
+  "platforms": [
+    "DingTalk"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub Pages"
+  ],
+  "name": "awesome-dingtalk-integration",
+  "slug": "dingtalk-ai-awesome-dingtalk-integration",
+  "description": "钉钉平台优秀开源项目集合",
+  "repository": "https://github.com/dingtalk-ai/awesome-dingtalk-integration",
+  "stars": 205,
+  "originator": "dingtalk-ai",
+  "tags": [
+    "DingTalk",
+    "integration",
+    "open-source",
+    "communication"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2025-05-16",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/dingtalk-ai/awesome-dingtalk-integration"
+  ]
+}

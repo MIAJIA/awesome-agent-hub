@@ -1,0 +1,54 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a high-performance, scalable database solution for time-series data, particularly in Industrial IoT applications.",
+  "principle": "TDengine works by optimizing storage and query performance for time-series data, using a unique architecture that supports fast data ingestion and retrieval.",
+  "reusability": "Offers a SQL-like interface and supports integration with various data visualization and analysis tools, making it adaptable for different use cases.",
+  "limitations": "Primarily focused on time-series data, which may not be suitable for other types of data storage needs.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Docker"
+  ],
+  "stack": [
+    "C",
+    "SQL",
+    "Docker"
+  ],
+  "name": "TDengine",
+  "slug": "taosdata-tdengine",
+  "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+  "repository": "https://github.com/taosdata/TDengine",
+  "stars": 23909,
+  "originator": "taosdata",
+  "tags": [
+    "bigdata",
+    "cloud-native",
+    "cluster",
+    "connected-vehicles",
+    "database",
+    "distributed",
+    "financial-analysis",
+    "industrial-iot",
+    "iot",
+    "metrics",
+    "monitoring",
+    "scalability",
+    "sql",
+    "tdengine",
+    "time-series",
+    "time-series-database",
+    "tsdb"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-29",
+  "language": "C",
+  "useful_links": [
+    "https://github.com/taosdata/TDengine/blob/develop/README.md",
+    "https://docs.tdengine.com/",
+    "https://github.com/taosdata/TDengine/blob/develop/docs/quick-start.md"
+  ],
+  "highlight": "Designed specifically for high-performance and scalable time-series data management in Industrial IoT scenarios."
+}

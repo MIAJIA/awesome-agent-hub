@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Simplify the creation of full-stack, multichannel, trusted agents for Microsoft 365 and related platforms.",
+  "principle": "Utilizes C# and the Microsoft Bot Framework to facilitate agent development across multiple channels.",
+  "reusability": "Offers SDK and APIs for integration with Microsoft platforms, supports extensibility through plugins.",
+  "limitations": "Primarily designed for Microsoft ecosystems, limited support for non-Microsoft platforms.",
+  "platforms": [
+    "Microsoft 365",
+    "Teams",
+    "Copilot Studio",
+    "Windows"
+  ],
+  "stack": [
+    "C#",
+    ".NET",
+    "Microsoft Bot Framework"
+  ],
+  "name": "Agents",
+  "slug": "microsoft-agents",
+  "description": "The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.",
+  "repository": "https://github.com/microsoft/Agents",
+  "stars": 236,
+  "originator": "microsoft",
+  "tags": [
+    "agents",
+    "bot",
+    "botframework",
+    "copilot",
+    "copilotstudio",
+    "sdk",
+    "teams"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "C#",
+  "useful_links": [
+    "https://github.com/microsoft/Agents/blob/main/README.md",
+    "https://github.com/microsoft/Agents/wiki",
+    "https://github.com/microsoft/Agents/issues"
+  ],
+  "highlight": "Enables developers to build multichannel agents for Microsoft platforms like Teams and Copilot Studio."
+}

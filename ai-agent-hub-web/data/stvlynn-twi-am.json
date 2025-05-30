@@ -1,0 +1,33 @@
+{
+  "category": "social-media",
+  "status": "alpha",
+  "purpose": "Analyze Twitter user data to provide MBTI personality type insights",
+  "principle": "Utilizes Twitter API to fetch user data and apply personality analysis algorithms",
+  "reusability": "Can be integrated into other applications via API for personality analysis based on social media data",
+  "limitations": "Dependent on Twitter API access, analysis limited to available Twitter data, potential inaccuracies in personality assessment",
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "stack": [
+    "JavaScript",
+    "Vue.js",
+    "Node.js",
+    "Twitter API"
+  ],
+  "name": "twi.am",
+  "slug": "stvlynn-twi-am",
+  "description": "Twitter MBTI Receipt",
+  "repository": "https://github.com/stvlynn/twi.am",
+  "stars": 116,
+  "originator": "stvlynn",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-12-16",
+  "language": "Vue",
+  "useful_links": [
+    "https://github.com/stvlynn/twi.am"
+  ],
+  "highlight": "Generates MBTI personality insights from Twitter data"
+}

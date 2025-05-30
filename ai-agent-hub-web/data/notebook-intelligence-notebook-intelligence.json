@@ -1,0 +1,38 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide AI-powered coding assistance directly within JupyterLab, enhancing productivity and code quality for data scientists and developers.",
+  "principle": "Utilizes machine learning models to understand code context and provide intelligent suggestions, error detection, and code completion.",
+  "reusability": "Designed as a JupyterLab extension, allowing easy installation and integration into existing JupyterLab environments. Offers an API for further customization.",
+  "limitations": "Currently in alpha stage, may have limited support for complex codebases or languages beyond Python. Performance may vary depending on the dataset and model used.",
+  "platforms": [
+    "JupyterLab"
+  ],
+  "stack": [
+    "Python",
+    "JupyterLab",
+    "Machine Learning"
+  ],
+  "name": "notebook-intelligence",
+  "slug": "notebook-intelligence-notebook-intelligence",
+  "description": "AI coding assistant for JupyterLab",
+  "repository": "https://github.com/notebook-intelligence/notebook-intelligence",
+  "stars": 139,
+  "originator": "notebook-intelligence",
+  "tags": [
+    "AI",
+    "coding assistant",
+    "JupyterLab",
+    "productivity"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/notebook-intelligence/notebook-intelligence/blob/main/README.md",
+    "https://github.com/notebook-intelligence/notebook-intelligence/wiki",
+    "https://github.com/notebook-intelligence/notebook-intelligence/issues"
+  ],
+  "highlight": "Seamless integration with JupyterLab for enhanced coding assistance"
+}

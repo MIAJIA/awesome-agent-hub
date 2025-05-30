@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enhance the capabilities of large language models (LLMs) by integrating domain expertise, enabling more accurate and context-aware responses in various applications.",
+  "principle": "OpenAGI operates on the principle of collaborative intelligence, where the synergy of LLMs and human domain experts leads to improved decision-making and knowledge dissemination.",
+  "reusability": "The components of OpenAGI are designed for modular integration, allowing developers to reuse its functionalities across different projects and applications.",
+  "limitations": "As an experimental project in alpha status, OpenAGI may exhibit instability and limited functionality; it may not cover all domains comprehensively and is subject to ongoing development and improvements.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face",
+    "Flask"
+  ],
+  "name": "OpenAGI",
+  "slug": "agiresearch-openagi",
+  "description": "OpenAGI: When LLM Meets Domain Experts",
+  "repository": "https://github.com/agiresearch/OpenAGI",
+  "stars": 2151,
+  "originator": "agiresearch",
+  "tags": [
+    "AI",
+    "LLM",
+    "Domain Expertise",
+    "Collaborative Intelligence"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-11-28",
+  "language": "Python",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ],
+  "highlight": "Integrates domain expertise with large language models to enhance context-aware decision-making."
+}

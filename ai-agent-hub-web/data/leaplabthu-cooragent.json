@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate coordination and management of multi-agent systems for complex task execution",
+  "principle": "Builds on multi-agent reinforcement learning (MARL) to enable cooperative strategies among agents",
+  "reusability": "Offers a flexible framework for defining and training multi-agent systems, with support for custom environments",
+  "limitations": "Primarily experimental with limited support for real-world deployment, requires significant computational resources",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Ray",
+    "NumPy"
+  ],
+  "name": "cooragent",
+  "slug": "leaplabthu-cooragent",
+  "description": "Official Repository of Cooragent",
+  "repository": "https://github.com/LeapLabTHU/cooragent",
+  "stars": 1224,
+  "originator": "LeapLabTHU",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/LeapLabTHU/cooragent#documentation",
+    "https://github.com/LeapLabTHU/cooragent#examples",
+    "https://github.com/LeapLabTHU/cooragent#installation"
+  ],
+  "highlight": "Unique focus on coordination strategies in multi-agent reinforcement learning environments"
+}

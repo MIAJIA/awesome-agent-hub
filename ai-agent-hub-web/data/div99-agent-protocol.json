@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a common interface to interact with AI agents, facilitating interoperability across different tech stacks.",
+  "principle": "Defines a standardized protocol using OpenAPI specifications to enable communication with AI agents, regardless of the underlying technology.",
+  "reusability": "Highly reusable through its OpenAPI-based interface, allowing integration with various agent frameworks and languages.",
+  "limitations": "Being in alpha stage, it may have incomplete features and potential stability issues. Limited documentation might affect ease of adoption.",
+  "platforms": [
+    "Cross-platform",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "OpenAPI"
+  ],
+  "name": "agent-protocol",
+  "slug": "div99-agent-protocol",
+  "description": "Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.",
+  "repository": "https://github.com/Div99/agent-protocol",
+  "stars": 1209,
+  "originator": "Div99",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agent",
+    "api",
+    "auto-gpt",
+    "gpt-4",
+    "javascript",
+    "llms",
+    "openapi",
+    "protocol",
+    "python",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-08",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Div99/agent-protocol#readme",
+    "https://github.com/Div99/agent-protocol/blob/main/docs/usage.md",
+    "https://github.com/Div99/agent-protocol/blob/main/examples"
+  ],
+  "highlight": "Tech stack agnostic protocol for seamless integration with any AI agent framework."
+}

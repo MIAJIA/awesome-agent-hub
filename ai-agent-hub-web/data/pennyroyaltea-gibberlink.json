@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates secure and efficient communication between AI agents by transitioning from natural language to sound-level protocols.",
+  "principle": "Utilizes a dual-protocol communication strategy, starting with natural language for initial identification before switching to a sound-based protocol for secure exchanges.",
+  "reusability": "Designed as a modular system that can be integrated into existing AI communication frameworks with support for custom protocol extensions.",
+  "limitations": "Limited to scenarios where both communicating parties are AI agents; does not support human-AI interactions.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "WebSocket",
+    "Express"
+  ],
+  "name": "gibberlink",
+  "slug": "pennyroyaltea-gibberlink",
+  "description": "Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents",
+  "repository": "https://github.com/PennyroyalTea/gibberlink",
+  "stars": 4329,
+  "originator": "PennyroyalTea",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-04",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/PennyroyalTea/gibberlink#readme",
+    "https://github.com/PennyroyalTea/gibberlink/wiki"
+  ],
+  "highlight": "Enables AI agents to switch from English to a sound-level protocol for communication after mutual AI confirmation."
+}

@@ -1,0 +1,47 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide resources and examples for building applications using large language models with LangChain.",
+  "principle": "Leverages LangChain to integrate various large language models like ChatGPT and Claude for application development.",
+  "reusability": "Includes reusable code snippets and examples that can be adapted for different LLM applications; supports integration with multiple LLMs.",
+  "limitations": "Primarily serves as an educational resource; may require adaptation for production use cases.",
+  "platforms": [
+    "Jupyter Notebook"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "Hugging Face"
+  ],
+  "name": "generative_ai_with_langchain",
+  "slug": "benman1-generative-ai-with-langchain",
+  "description": "Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.",
+  "repository": "https://github.com/benman1/generative_ai_with_langchain",
+  "stars": 789,
+  "originator": "benman1",
+  "tags": [
+    "agent",
+    "chatgpt",
+    "claude",
+    "claude-3-5-sonnet",
+    "deepseek",
+    "deepseek-r1",
+    "gpt",
+    "gpt-4o",
+    "huggingface",
+    "langchain",
+    "llms",
+    "ollama",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/benman1/generative_ai_with_langchain#readme",
+    "https://github.com/benman1/generative_ai_with_langchain/tree/main/examples"
+  ],
+  "highlight": "Companion repository for a book on building LLM applications with LangChain, offering practical examples and insights."
+}

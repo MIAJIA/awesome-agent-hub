@@ -1,0 +1,56 @@
+{
+  "category": "data-visualization",
+  "status": "alpha",
+  "purpose": "Facilitates natural language interaction with databases to generate SQL queries and enhance business intelligence capabilities.",
+  "principle": "Leverages large language models (LLMs) to interpret natural language inputs and generate corresponding SQL queries, enabling users to extract and visualize data insights without deep technical knowledge.",
+  "reusability": "Offers an API for integration into existing data workflows, supports multiple database backends, and can be customized for specific business intelligence needs.",
+  "limitations": "May face challenges with complex queries or ambiguous natural language inputs, and requires model fine-tuning for domain-specific applications.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "OpenAI",
+    "PostgreSQL",
+    "DuckDB",
+    "BigQuery"
+  ],
+  "name": "WrenAI",
+  "slug": "canner-wrenai",
+  "description": "🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their databases to generate Text-to-SQL, BI and embedded AI. 📈📊📋🧑‍💻",
+  "repository": "https://github.com/Canner/WrenAI",
+  "stars": 7896,
+  "originator": "Canner",
+  "tags": [
+    "agent",
+    "anthropic",
+    "bedrock",
+    "bigquery",
+    "business-intelligence",
+    "charts",
+    "duckdb",
+    "genbi",
+    "llm",
+    "openai",
+    "postgresql",
+    "rag",
+    "spreadsheets",
+    "sql",
+    "sqlai",
+    "text-to-sql",
+    "text2sql",
+    "vertex"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Canner/WrenAI#readme",
+    "https://github.com/Canner/WrenAI/wiki",
+    "https://github.com/Canner/WrenAI/issues"
+  ],
+  "highlight": "Empowers data-driven teams to interact with databases using natural language for seamless Text-to-SQL conversion and business intelligence."
+}

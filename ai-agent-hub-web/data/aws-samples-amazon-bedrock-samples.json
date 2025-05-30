@@ -1,0 +1,41 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide examples and guidance for using foundational models with Amazon Bedrock Service",
+  "principle": "Demonstrates the use of various foundational models in Amazon Bedrock, including Amazon Titan, by providing sample code and Jupyter Notebooks",
+  "reusability": "Sample code and notebooks can be adapted for custom use cases, providing a starting point for integrating Amazon Bedrock models",
+  "limitations": "Examples are limited to the foundational models available in Amazon Bedrock; requires AWS account and setup",
+  "platforms": [
+    "AWS"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "LangChain",
+    "Amazon Bedrock"
+  ],
+  "name": "amazon-bedrock-samples",
+  "slug": "aws-samples-amazon-bedrock-samples",
+  "description": "This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models",
+  "repository": "https://github.com/aws-samples/amazon-bedrock-samples",
+  "stars": 1057,
+  "originator": "aws-samples",
+  "tags": [
+    "amazon-bedrock",
+    "amazon-titan",
+    "bedrock",
+    "embeddings",
+    "generative-ai",
+    "knowledge-base",
+    "langchain",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "MIT-0",
+  "last_updated": "2025-05-22",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/aws-samples/amazon-bedrock-samples/tree/main/docs",
+    "https://github.com/aws-samples/amazon-bedrock-samples/tree/main/notebooks"
+  ]
+}

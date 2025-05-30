@@ -1,0 +1,53 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To design, conduct, and analyze AI-powered surveys and experiments, simulating social science and market research.",
+  "principle": "Utilizes domain-specific languages and AI agents to automate the creation and analysis of surveys and experiments.",
+  "reusability": "Offers a framework for creating and running experiments with AI agents, potentially extensible with custom modules.",
+  "limitations": "Currently in alpha, may have limited functionality and stability. Primarily for experimental use.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "name": "edsl",
+  "slug": "expectedparrot-edsl",
+  "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
+  "repository": "https://github.com/expectedparrot/edsl",
+  "stars": 249,
+  "originator": "expectedparrot",
+  "tags": [
+    "anthropic",
+    "data-labeling",
+    "deepinfra",
+    "domain-specific-language",
+    "experiments",
+    "llama2",
+    "llm",
+    "llm-agent",
+    "llm-framework",
+    "llm-inference",
+    "market-research",
+    "mixtral",
+    "open-source",
+    "openai",
+    "python",
+    "social-science",
+    "surveys",
+    "synthetic-data"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/expectedparrot/edsl#readme",
+    "https://github.com/expectedparrot/edsl/wiki"
+  ],
+  "highlight": "Simulates social science and market research using AI agents and large language models (LLMs)."
+}

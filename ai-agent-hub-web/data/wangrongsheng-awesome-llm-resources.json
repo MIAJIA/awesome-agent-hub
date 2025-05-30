@@ -1,0 +1,41 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive collection of resources related to large language models (LLMs) across various domains such as video generation, data processing, and model training.",
+  "principle": "Aggregates and organizes resources, tools, and literature related to LLMs, making it easier for users to find and access relevant information.",
+  "reusability": "Serves as a curated list that can be referenced by developers, researchers, and enthusiasts looking for LLM-related resources.",
+  "limitations": "The repository is a static collection of links and resources; it does not provide interactive tools or dynamic content.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-LLM-resources",
+  "slug": "wangrongsheng-awesome-llm-resources",
+  "description": "🧑‍🚀 全世界最好的LLM资料总结（视频生成、Agent、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. ",
+  "repository": "https://github.com/WangRongsheng/awesome-LLM-resources",
+  "stars": 5338,
+  "originator": "WangRongsheng",
+  "tags": [
+    "awesome-list",
+    "book",
+    "course",
+    "large-language-models",
+    "llama",
+    "llm",
+    "mistral",
+    "openai",
+    "qwen",
+    "rag",
+    "retrieval-augmented-generation",
+    "webui"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-25",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/WangRongsheng/awesome-LLM-resources"
+  ]
+}

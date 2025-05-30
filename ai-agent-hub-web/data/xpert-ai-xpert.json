@@ -1,0 +1,44 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Provide enterprises with AI-driven data analysis and decision-making capabilities",
+  "principle": "Leverages AI models and data processing frameworks to analyze business data and generate insights",
+  "reusability": "Offers modular components and APIs for easy integration into existing enterprise systems",
+  "limitations": "Currently in alpha stage, may have incomplete features and limited scalability",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "React",
+    "OpenAI"
+  ],
+  "name": "xpert",
+  "slug": "xpert-ai-xpert",
+  "description": "Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.",
+  "repository": "https://github.com/xpert-ai/xpert",
+  "stars": 143,
+  "originator": "xpert-ai",
+  "tags": [
+    "agent",
+    "ai",
+    "bi",
+    "data",
+    "dw",
+    "erp",
+    "openai",
+    "xpert"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/xpert-ai/xpert/blob/main/README.md",
+    "https://github.com/xpert-ai/xpert/wiki",
+    "https://github.com/xpert-ai/xpert/issues"
+  ]
+}

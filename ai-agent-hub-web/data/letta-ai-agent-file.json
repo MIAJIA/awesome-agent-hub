@@ -1,0 +1,30 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable the sharing, checkpointing, and version control of stateful AI agents across compatible frameworks.",
+  "principle": "Utilizes an open file format (.af) to serialize AI agent states, allowing for persistent memory and behavior across sessions.",
+  "reusability": "Designed for integration with various AI frameworks, supporting serialization and deserialization of agent states.",
+  "limitations": "Currently in alpha stage, may have limited support for complex agent behaviors and integrations.",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "stack": [
+    "Python"
+  ],
+  "name": "agent-file",
+  "slug": "letta-ai-agent-file",
+  "description": "Agent File (.af): An open file format for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks.",
+  "repository": "https://github.com/letta-ai/agent-file",
+  "stars": 464,
+  "originator": "letta-ai",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-24",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/letta-ai/agent-file#readme",
+    "https://github.com/letta-ai/agent-file/wiki"
+  ],
+  "highlight": "Facilitates serialization of stateful AI agents for persistent memory and behavior management."
+}

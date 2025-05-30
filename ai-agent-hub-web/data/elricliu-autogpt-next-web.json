@@ -1,0 +1,46 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable users to assemble, configure, and deploy autonomous AI agents easily through a web interface.",
+  "principle": "Built on Next.js and React, leveraging OpenAI's API for AI capabilities, and uses Docker for containerized deployments.",
+  "reusability": "Highly modular and extensible with support for Docker and Docker Compose, allowing easy deployment and integration.",
+  "limitations": "Requires familiarity with Docker and web technologies for setup, limited to browser-based deployment.",
+  "platforms": [
+    "Docker",
+    "Vercel"
+  ],
+  "stack": [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Docker",
+    "OpenAI"
+  ],
+  "name": "AutoGPT-Next-Web",
+  "slug": "elricliu-autogpt-next-web",
+  "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用",
+  "repository": "https://github.com/ElricLiu/AutoGPT-Next-Web",
+  "stars": 3007,
+  "originator": "ElricLiu",
+  "tags": [
+    "auto-gpt",
+    "connect-ai",
+    "docker",
+    "docker-compose",
+    "langchangjs",
+    "llm",
+    "nextjs",
+    "openai",
+    "react",
+    "vercel"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-02-10",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/ElricLiu/AutoGPT-Next-Web/blob/main/README.md",
+    "https://github.com/ElricLiu/AutoGPT-Next-Web/wiki"
+  ],
+  "highlight": "Deploy autonomous AI agents directly in your browser with minimal setup."
+}

@@ -1,0 +1,40 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Optimize and streamline Python codebases for improved performance and efficiency",
+  "principle": "Utilizes advanced algorithms to compress code and resolve dependencies automatically, ensuring minimal resource usage and maximum execution speed",
+  "reusability": "Designed to be integrated into Python development workflows, with potential for API-based automation and scripting",
+  "limitations": "Currently in alpha stage, may have limited support for complex dependency graphs, and lacks extensive documentation",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "Pytest",
+    "Setuptools"
+  ],
+  "name": "agent",
+  "slug": "machinegpt-agent",
+  "description": "An autonomous Python optimization agent forged in chaos and precision. Lightning-fast code compressor, dependency resolver, and ruthless executor. Designed for developers who demand performance, efficiency, and an edge of madness.",
+  "repository": "https://github.com/machinegpt/agent",
+  "stars": 355,
+  "originator": "machinegpt",
+  "tags": [
+    "optimization",
+    "code-compression",
+    "dependency-resolution",
+    "Python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/machinegpt/agent/blob/main/README.md",
+    "https://github.com/machinegpt/agent/issues",
+    "https://github.com/machinegpt/agent/wiki"
+  ],
+  "highlight": "Lightning-fast code compression and dependency resolution for Python projects"
+}

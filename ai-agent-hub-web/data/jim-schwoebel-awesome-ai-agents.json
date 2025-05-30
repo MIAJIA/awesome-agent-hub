@@ -1,0 +1,51 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive list of resources and tools related to AI agents",
+  "principle": "Curated list of links and resources categorized to help users discover AI agent frameworks, tools, and libraries",
+  "reusability": "Open-source list that can be freely accessed and contributed to by the community",
+  "limitations": "Primarily a curated list without direct functionality; relies on external resources for practical applications",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "GitHub",
+    "Markdown"
+  ],
+  "name": "awesome_ai_agents",
+  "slug": "jim-schwoebel-awesome-ai-agents",
+  "description": "🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.",
+  "repository": "https://github.com/jim-schwoebel/awesome_ai_agents",
+  "stars": 154,
+  "originator": "jim-schwoebel",
+  "tags": [
+    "agent-based-modeling",
+    "agentic",
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "ai-agent",
+    "ai-agent-framework",
+    "ai-agent-tools",
+    "ai-agents-cli",
+    "ai-agents-framework",
+    "aiagent",
+    "aiagents",
+    "aiworkflow",
+    "awesome-list",
+    "awesome-lists",
+    "learning",
+    "multi-agent",
+    "multi-agent-system",
+    "multi-agent-systems"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-01-03",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/jim-schwoebel/awesome_ai_agents#readme"
+  ],
+  "highlight": "Over 1,500 resources and tools related to AI agents curated in a single repository"
+}

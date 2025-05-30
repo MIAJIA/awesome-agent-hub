@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a flexible and adaptable AI agent that can perform a wide range of tasks autonomously",
+  "principle": "Built on large language models (LLMs) and integrates with multiple APIs for dynamic task execution",
+  "reusability": "Modular design with plug-and-play components, supports API integrations for extensibility",
+  "limitations": "In alpha stage, may have stability issues and limited task-specific optimizations",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "LangChain",
+    "OpenAI API"
+  ],
+  "name": "AIlice",
+  "slug": "myshell-ai-ailice",
+  "description": "AIlice is a fully autonomous, general-purpose AI agent.",
+  "repository": "https://github.com/myshell-ai/AIlice",
+  "stars": 1169,
+  "originator": "myshell-ai",
+  "tags": [
+    "agent",
+    "ai",
+    "llm",
+    "llm-agent"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/myshell-ai/AIlice/blob/main/README.md",
+    "https://github.com/myshell-ai/AIlice/wiki",
+    "https://github.com/myshell-ai/AIlice/issues"
+  ],
+  "highlight": "Fully autonomous AI agent capable of general-purpose tasks"
+}

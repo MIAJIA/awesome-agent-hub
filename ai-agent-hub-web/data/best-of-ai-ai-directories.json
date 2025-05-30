@@ -1,0 +1,50 @@
+{
+  "category": "marketing",
+  "status": "alpha",
+  "purpose": "To provide a curated list of directories where AI tools can be submitted for increased visibility",
+  "principle": "Aggregates and categorizes AI directories, making it easier for developers to find submission platforms",
+  "reusability": "Can be used by AI tool developers to identify and submit their tools to relevant directories",
+  "limitations": "The list is subject to change and may require regular updates to remain current",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "ai-directories",
+  "slug": "best-of-ai-ai-directories",
+  "description": "An awesome list of best top AI directories to submit your ai tools",
+  "repository": "https://github.com/best-of-ai/ai-directories",
+  "stars": 419,
+  "originator": "best-of-ai",
+  "tags": [
+    "ai-directories",
+    "ai-directory",
+    "ai-directory-list",
+    "ai-list",
+    "ai-pedia-hub",
+    "ai-scout",
+    "ai-tools-arena",
+    "ai-tools-directory",
+    "ai-tools-guru",
+    "ai-tools-list",
+    "ai-tools-marketer",
+    "ai-top-tools",
+    "aidirwiki",
+    "all-things-ai",
+    "altern",
+    "awesome-list",
+    "futurepedia",
+    "futuretools",
+    "theresanai",
+    "theresanaiforthat"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-01",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/best-of-ai/ai-directories#readme"
+  ],
+  "highlight": "Comprehensive list of AI directories for tool submission and discovery"
+}

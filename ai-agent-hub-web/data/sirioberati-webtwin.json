@@ -1,0 +1,34 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a framework for automating web interactions, enabling tasks like testing, scraping, and web automation",
+  "principle": "Leverages headless browser automation to simulate user interactions on web pages",
+  "reusability": "Offers a modular API for scripting web interactions, supports integration with testing frameworks",
+  "limitations": "Limited to browser-supported interactions, may require updates for compatibility with new web technologies",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "Selenium",
+    "BeautifulSoup"
+  ],
+  "name": "WebTwin",
+  "slug": "sirioberati-webtwin",
+  "description": "N/A",
+  "repository": "https://github.com/sirioberati/WebTwin",
+  "stars": 142,
+  "originator": "sirioberati",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-17",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/sirioberati/WebTwin#readme",
+    "https://github.com/sirioberati/WebTwin/wiki"
+  ],
+  "highlight": "Simulates web browsing and interaction for automated testing and data extraction"
+}

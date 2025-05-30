@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the building of real-time knowledge graphs to empower AI agents with contextual understanding and dynamic information retrieval.",
+  "principle": "Leverages graph databases and real-time data processing to construct and maintain knowledge graphs that can be queried and updated dynamically.",
+  "reusability": "Offers APIs for seamless integration with various AI systems, allowing for customizable graph structures and data inputs.",
+  "limitations": "Currently in alpha stage, may have limited support for certain graph operations and scalability issues with large datasets.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Neo4j",
+    "FastAPI",
+    "GraphQL"
+  ],
+  "name": "graphiti",
+  "slug": "getzep-graphiti",
+  "description": "Build Real-Time Knowledge Graphs for AI Agents",
+  "repository": "https://github.com/getzep/graphiti",
+  "stars": 9916,
+  "originator": "getzep",
+  "tags": [
+    "agents",
+    "graph",
+    "llms",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/getzep/graphiti#readme",
+    "https://github.com/getzep/graphiti/wiki",
+    "https://github.com/getzep/graphiti/issues"
+  ],
+  "highlight": "Enables the creation of real-time knowledge graphs for AI agents, enhancing their ability to process and utilize complex data relationships."
+}

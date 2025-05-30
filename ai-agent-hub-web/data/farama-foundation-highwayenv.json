@@ -1,0 +1,40 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To facilitate research and development in autonomous driving by offering a flexible simulation environment.",
+  "principle": "Built on the OpenAI Gym framework, it simulates highway driving scenarios for reinforcement learning tasks.",
+  "reusability": "Highly modular with support for custom scenarios and agents, integrates easily with reinforcement learning libraries.",
+  "limitations": "Primarily focused on highway scenarios, may require additional customization for urban or complex environments.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI Gym",
+    "NumPy",
+    "Matplotlib"
+  ],
+  "name": "HighwayEnv",
+  "slug": "farama-foundation-highwayenv",
+  "description": "A minimalist environment for decision-making in autonomous driving ",
+  "repository": "https://github.com/Farama-Foundation/HighwayEnv",
+  "stars": 2917,
+  "originator": "Farama-Foundation",
+  "tags": [
+    "autonomous-driving",
+    "gym-environment",
+    "reinforcement-learning"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Farama-Foundation/HighwayEnv",
+    "https://highway-env.readthedocs.io/en/latest/",
+    "https://github.com/Farama-Foundation/HighwayEnv/tree/main/examples"
+  ],
+  "highlight": "Provides a modular and customizable environment for simulating autonomous driving scenarios."
+}

@@ -1,0 +1,57 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To teach developers how to effectively use GitHub Copilot for paired programming",
+  "principle": "Provides structured lessons and exercises demonstrating GitHub Copilot's capabilities in a collaborative coding environment",
+  "reusability": "The course material can be reused by educators to teach GitHub Copilot in various programming and development courses",
+  "limitations": "Focused on developers familiar with GitHub, limited to languages and environments supported by GitHub Copilot",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "JavaScript",
+    "Python",
+    "C#",
+    "SQL",
+    "Visual Studio Code"
+  ],
+  "name": "Mastering-GitHub-Copilot-for-Paired-Programming",
+  "slug": "microsoft-mastering-github-copilot-for-paired-programming",
+  "description": "A 12-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource.",
+  "repository": "https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+  "stars": 5746,
+  "originator": "microsoft",
+  "tags": [
+    "copilot",
+    "csharp",
+    "dotnet",
+    "github",
+    "github-copilot",
+    "github-copilot-chat",
+    "github-copilot-for-azure",
+    "github-copilot-free",
+    "github-copilot-training",
+    "javascript",
+    "lab",
+    "labs",
+    "microsoft",
+    "python",
+    "sql",
+    "tutorial",
+    "tutorial-code",
+    "tutorial-exercises",
+    "visual-studio-code",
+    "vscode"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/blob/main/README.md",
+    "https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/docs"
+  ],
+  "highlight": "Comprehensive course on using GitHub Copilot for enhanced paired programming"
+}

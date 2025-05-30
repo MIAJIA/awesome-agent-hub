@@ -1,0 +1,42 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates efficient data querying and LLM inference for AI-driven applications.",
+  "principle": "Built with Rust for performance, leveraging SQL for data querying and integration with large language models for inference.",
+  "reusability": "Designed as a modular engine that can be integrated into various data-driven AI applications, with support for SQL queries and LLM inference.",
+  "limitations": "Primarily supports Rust and requires knowledge of SQL and LLMs for effective use.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Rust",
+    "SQL"
+  ],
+  "name": "spiceai",
+  "slug": "spiceai-spiceai",
+  "description": "A portable accelerated data query and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+  "repository": "https://github.com/spiceai/spiceai",
+  "stars": 2437,
+  "originator": "spiceai",
+  "tags": [
+    "artificial-intelligence",
+    "data",
+    "data-federation",
+    "developers",
+    "infrastructure",
+    "machine-learning",
+    "sql"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/spiceai/spiceai/blob/main/README.md",
+    "https://github.com/spiceai/spiceai/wiki",
+    "https://github.com/spiceai/spiceai/issues"
+  ],
+  "highlight": "Portable accelerated data query and LLM-inference engine for data-grounded AI applications."
+}

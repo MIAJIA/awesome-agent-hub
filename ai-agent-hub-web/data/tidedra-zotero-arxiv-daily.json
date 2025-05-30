@@ -1,0 +1,41 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To automate the recommendation of new arXiv papers that align with a user's research interests as reflected in their Zotero library.",
+  "principle": "Integrates with Zotero to analyze a user's library and uses this data to filter and recommend relevant new arXiv papers.",
+  "reusability": "Can be set up as a GitHub Action, allowing for easy integration into workflows that involve Zotero and arXiv.",
+  "limitations": "Recommendations are limited to the scope of arXiv and depend on the accuracy of the user's Zotero library metadata.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Python",
+    "GitHub Actions",
+    "Zotero API",
+    "arXiv API"
+  ],
+  "name": "zotero-arxiv-daily",
+  "slug": "tidedra-zotero-arxiv-daily",
+  "description": "Recommend new arxiv papers of your interest daily according to your Zotero libarary.",
+  "repository": "https://github.com/TideDra/zotero-arxiv-daily",
+  "stars": 1269,
+  "originator": "TideDra",
+  "tags": [
+    "arxiv",
+    "automation",
+    "e-mail",
+    "github-action",
+    "paper",
+    "recommendation",
+    "research",
+    "zotero"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-17",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/TideDra/zotero-arxiv-daily#readme"
+  ],
+  "highlight": "Daily recommendations of new arXiv papers tailored to users' interests based on their Zotero library."
+}

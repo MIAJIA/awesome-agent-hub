@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the orchestration and collaboration of diverse AI agents to solve complex tasks through distributed systems",
+  "principle": "Utilizes a framework for multi-agent coordination, allowing agents to communicate and collaborate over a network",
+  "reusability": "Designed to be modular and extensible, allowing developers to integrate their own agents and customize interactions",
+  "limitations": "Still in alpha stage, potential stability issues, limited documentation and community support",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "gRPC",
+    "Docker"
+  ],
+  "name": "IoA",
+  "slug": "openbmb-ioa",
+  "description": "An open-source framework for collaborative AI agents, enabling diverse, distributed agents to team up and tackle complex tasks through internet-like connectivity.",
+  "repository": "https://github.com/OpenBMB/IoA",
+  "stars": 719,
+  "originator": "OpenBMB",
+  "tags": [
+    "agent",
+    "ai",
+    "genai",
+    "ioa",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-10-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/OpenBMB/IoA/blob/main/README.md",
+    "https://github.com/OpenBMB/IoA/wiki"
+  ],
+  "highlight": "Enables collaborative AI agents to connect and work together in a distributed, internet-like fashion"
+}

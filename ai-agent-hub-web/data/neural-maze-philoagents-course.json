@@ -1,0 +1,44 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To explore the intersection of philosophy and AI through agent-based simulations, offering philosophical insights into AI behaviors and decision-making processes",
+  "principle": "Utilizes agent-based modeling and simulation techniques to create environments where philosophical theories can be tested and analyzed in the context of AI",
+  "reusability": "Modular design allows for the integration of different philosophical models and AI techniques; supports extensions through Python APIs",
+  "limitations": "Primarily focused on theoretical exploration rather than practical applications; limited real-world use cases",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "MongoDB",
+    "Groq",
+    "LangGraph"
+  ],
+  "name": "philoagents-course",
+  "slug": "neural-maze-philoagents-course",
+  "description": "When Philosophy meets AI",
+  "repository": "https://github.com/neural-maze/philoagents-course",
+  "stars": 751,
+  "originator": "neural-maze",
+  "tags": [
+    "agent",
+    "agent-based-simulation",
+    "agentic-workflow",
+    "groq",
+    "langgraph",
+    "mongodb",
+    "opik",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-08",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/neural-maze/philoagents-course/wiki",
+    "https://github.com/neural-maze/philoagents-course/docs",
+    "https://github.com/neural-maze/philoagents-course/examples"
+  ],
+  "highlight": "Integration of philosophical concepts with AI to explore new paradigms in agent-based simulations"
+}

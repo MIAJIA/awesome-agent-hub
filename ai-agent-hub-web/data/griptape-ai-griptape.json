@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and orchestration of AI agents and workflows with advanced reasoning and memory management.",
+  "principle": "Builds on modular components for chain-of-thought reasoning, integrating tools and memory management for AI workflows.",
+  "reusability": "Highly modular with extensive API support, allowing for easy integration and customization of AI agent components.",
+  "limitations": "Still in alpha stage, may have incomplete features and potential stability issues; documentation might be evolving.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Anthropic",
+    "Hugging Face"
+  ],
+  "name": "griptape",
+  "slug": "griptape-ai-griptape",
+  "description": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. ",
+  "repository": "https://github.com/griptape-ai/griptape",
+  "stars": 2302,
+  "originator": "griptape-ai",
+  "tags": [
+    "ai",
+    "anthropic",
+    "claude",
+    "gpt",
+    "huggingface",
+    "llm",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/griptape-ai/griptape/blob/main/README.md",
+    "https://github.com/griptape-ai/griptape/wiki",
+    "https://github.com/griptape-ai/griptape/tree/main/examples"
+  ],
+  "highlight": "Modular framework for building AI agents with chain-of-thought reasoning and memory capabilities."
+}

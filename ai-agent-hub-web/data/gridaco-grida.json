@@ -1,0 +1,49 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Provides an open-source framework for building canvas-based applications with integrated database and UI components.",
+  "principle": "Leverages Supabase for database management and Shadcn UI for user interface design, facilitating rapid development of canvas applications.",
+  "reusability": "Modular design with plug-and-play components, allows integration with existing projects via APIs and UI components.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and potential stability issues.",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Supabase",
+    "Shadcn UI",
+    "TailwindCSS",
+    "PostgreSQL",
+    "WebGPU"
+  ],
+  "name": "grida",
+  "slug": "gridaco-grida",
+  "description": "Open Source Canvas Framework - with ⚡️ Supabase + Shadcn UI Built-in",
+  "repository": "https://github.com/gridaco/grida",
+  "stars": 2064,
+  "originator": "gridaco",
+  "tags": [
+    "admin",
+    "ai",
+    "artboard",
+    "canvas",
+    "database",
+    "no-code",
+    "postgresql",
+    "supabase",
+    "svg",
+    "tailwindcss",
+    "webgpu"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/gridaco/grida#readme",
+    "https://github.com/gridaco/grida/wiki",
+    "https://github.com/gridaco/grida/issues"
+  ],
+  "highlight": "Integrates Supabase and Shadcn UI for a seamless canvas framework experience with no-code capabilities."
+}

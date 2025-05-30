@@ -1,0 +1,46 @@
+{
+  "category": "marketing",
+  "status": "alpha",
+  "purpose": "To help businesses find, manage, and optimize affiliate partnerships to boost sales and marketing efforts",
+  "principle": "Utilizes AI algorithms to analyze affiliate performance data and recommend strategic partnerships",
+  "reusability": "Offers a REST API for integration with existing business systems, supports customizable affiliate management workflows",
+  "limitations": "Currently focused on specific platforms like Vercel and Supabase, may require custom adaptation for other environments",
+  "platforms": [
+    "Vercel",
+    "Web"
+  ],
+  "stack": [
+    "TypeScript",
+    "Next.js",
+    "Prisma",
+    "Supabase",
+    "Tailwind CSS",
+    "Vercel",
+    "Vercel AI SDK"
+  ],
+  "name": "mangosqueezy",
+  "slug": "mangosqueezy-mangosqueezy",
+  "description": "AI agent to find and manage affiliates for businesses 🤖",
+  "repository": "https://github.com/mangosqueezy/mangosqueezy",
+  "stars": 175,
+  "originator": "mangosqueezy",
+  "tags": [
+    "nextjs",
+    "prisma",
+    "shadcn-ui",
+    "supabase",
+    "tailwindcss",
+    "vercel",
+    "vercel-ai-sdk"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/mangosqueezy/mangosqueezy#readme",
+    "https://github.com/mangosqueezy/mangosqueezy/wiki",
+    "https://github.com/mangosqueezy/mangosqueezy/issues"
+  ],
+  "highlight": "Efficiently manages and expands affiliate networks using AI-driven insights"
+}

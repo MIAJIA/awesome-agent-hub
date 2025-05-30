@@ -1,0 +1,56 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation, testing, and iteration of agentic workflows with a visual interface",
+  "principle": "Leverages a visual programming environment to enable users to design and iterate on workflows involving agents",
+  "reusability": "Designed to be modular with support for plugin integration, allowing users to extend functionality and integrate with existing agent frameworks",
+  "limitations": "Currently in alpha stage, so it may have stability issues and limited documentation; primarily focused on visual workflow design rather than backend processing",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "React",
+    "Express"
+  ],
+  "name": "pyspur",
+  "slug": "pyspur-dev-pyspur",
+  "description": "A visual playground for agentic workflows: Iterate over your agents 10x faster",
+  "repository": "https://github.com/PySpur-Dev/pyspur",
+  "stars": 4991,
+  "originator": "PySpur-Dev",
+  "tags": [
+    "agent",
+    "agents",
+    "ai",
+    "builder",
+    "deepseek",
+    "framework",
+    "gemini",
+    "graph",
+    "human-in-the-loop",
+    "llm",
+    "llms",
+    "loops",
+    "multimodal",
+    "ollama",
+    "python",
+    "rag",
+    "reasoning",
+    "tool",
+    "trace",
+    "workflow"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-12",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/PySpur-Dev/pyspur#readme",
+    "https://github.com/PySpur-Dev/pyspur/wiki",
+    "https://github.com/PySpur-Dev/pyspur/issues"
+  ],
+  "highlight": "Visual interface for rapid iteration of agentic workflows, enhancing development speed by 10x"
+}

@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Demonstrate the integration of large language models with Reflex for building interactive applications.",
+  "principle": "Utilizes the Reflex framework to create interactive applications that leverage large language models for various tasks.",
+  "reusability": "Examples can be adapted for different LLM tasks, providing a foundation for developers to build upon using Reflex.",
+  "limitations": "Examples are primarily for demonstration purposes and may not be production-ready or optimized for all use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Reflex",
+    "OpenAI API"
+  ],
+  "name": "reflex-llm-examples",
+  "slug": "reflex-dev-reflex-llm-examples",
+  "description": "N/A",
+  "repository": "https://github.com/reflex-dev/reflex-llm-examples",
+  "stars": 817,
+  "originator": "reflex-dev",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-15",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/reflex-dev/reflex-llm-examples/blob/main/README.md",
+    "https://reflex.dev/docs"
+  ],
+  "highlight": "Showcases various examples and use cases of integrating large language models with Reflex framework."
+}

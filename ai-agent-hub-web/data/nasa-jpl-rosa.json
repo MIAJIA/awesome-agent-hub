@@ -1,0 +1,45 @@
+{
+  "category": "iot",
+  "status": "alpha",
+  "purpose": "Facilitate robot developers in inspecting, diagnosing, understanding, and operating robots through natural language interfaces",
+  "principle": "Integrates with ROS1 and ROS2 frameworks to interpret natural language queries and execute corresponding actions on robotics systems",
+  "reusability": "Designed to be integrated with any ROS1 or ROS2-based system, providing a plug-and-play solution for natural language interaction",
+  "limitations": "Limited to robotics systems that are based on ROS1 or ROS2; may require customization for specific robot configurations",
+  "platforms": [
+    "Linux",
+    "ROS"
+  ],
+  "stack": [
+    "Python",
+    "ROS1",
+    "ROS2",
+    "Natural Language Processing"
+  ],
+  "name": "rosa",
+  "slug": "nasa-jpl-rosa",
+  "description": "ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.",
+  "repository": "https://github.com/nasa-jpl/rosa",
+  "stars": 1193,
+  "originator": "nasa-jpl",
+  "tags": [
+    "agents",
+    "ai",
+    "developer-tools",
+    "jpl",
+    "llm",
+    "nasa",
+    "robotics",
+    "ros",
+    "ros2"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-04-21",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/nasa-jpl/rosa/blob/main/README.md",
+    "https://github.com/nasa-jpl/rosa/wiki",
+    "https://github.com/nasa-jpl/rosa/tree/main/docs"
+  ],
+  "highlight": "Seamless interaction with ROS1 and ROS2 systems using natural language queries"
+}

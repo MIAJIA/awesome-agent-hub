@@ -1,0 +1,46 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To provide a simple and powerful command-line tool for coding assistance using AI.",
+  "principle": "Built on TypeScript, leveraging AI models for code generation and enhancement.",
+  "reusability": "Can be integrated into existing development workflows via command-line interface.",
+  "limitations": "Currently in alpha stage, may have limited functionality and stability issues.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "name": "mycoder",
+  "slug": "drivecore-mycoder",
+  "description": "Simple to install, powerful command-line based AI agent system for coding.",
+  "repository": "https://github.com/drivecore/mycoder",
+  "stars": 481,
+  "originator": "drivecore",
+  "tags": [
+    "agent",
+    "agentic",
+    "ai",
+    "claude",
+    "coder",
+    "coding",
+    "software",
+    "swe",
+    "swe-agent",
+    "tool-use",
+    "tools"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-26",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/drivecore/mycoder#readme",
+    "https://github.com/drivecore/mycoder/wiki",
+    "https://github.com/drivecore/mycoder/issues"
+  ],
+  "highlight": "Command-line based AI agent system designed to enhance coding efficiency."
+}

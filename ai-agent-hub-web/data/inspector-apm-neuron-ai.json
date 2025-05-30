@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable developers to build and manage AI agents using PHP, with enhanced observability and debugging capabilities",
+  "principle": "Built on PHP, leveraging Inspector.dev for monitoring, it provides a framework for developing AI agents with logging and performance tracking",
+  "reusability": "Modular design allows for easy integration with existing PHP applications; supports Inspector.dev for monitoring",
+  "limitations": "Limited to PHP environment; requires familiarity with Inspector.dev for full functionality",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "PHP",
+    "Inspector.dev"
+  ],
+  "name": "neuron-ai",
+  "slug": "inspector-apm-neuron-ai",
+  "description": "Open source framework to create full featured AI Agents in PHP - powered by Inspector.dev",
+  "repository": "https://github.com/inspector-apm/neuron-ai",
+  "stars": 636,
+  "originator": "inspector-apm",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "ai",
+    "llm",
+    "llm-inference",
+    "llms",
+    "php",
+    "vector-database"
+  ],
+  "open_source": true,
+  "license": "MPL-2.0",
+  "last_updated": "2025-05-28",
+  "language": "PHP",
+  "useful_links": [
+    "https://github.com/inspector-apm/neuron-ai#readme",
+    "https://inspector.dev/"
+  ],
+  "highlight": "Framework for creating AI Agents in PHP with Inspector.dev integration for monitoring and debugging"
+}

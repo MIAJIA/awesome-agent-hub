@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To streamline and automate the process of prompt engineering for AI models.",
+  "principle": "Leverages AI algorithms to generate and refine prompts for improved AI model interactions.",
+  "reusability": "Offers a modular architecture with an API for integration into various AI workflows.",
+  "limitations": "Currently in alpha stage; may have limited support for complex multi-turn interactions and specific domains.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI API",
+    "Flask"
+  ],
+  "name": "Advanced-Prompt-Generator",
+  "slug": "thunderhead-exe-advanced-prompt-generator",
+  "description": "Automating prompt engineering using AI Agents.",
+  "repository": "https://github.com/Thunderhead-exe/Advanced-Prompt-Generator",
+  "stars": 116,
+  "originator": "Thunderhead-exe",
+  "tags": [
+    "AI",
+    "prompt engineering",
+    "automation"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-18",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Thunderhead-exe/Advanced-Prompt-Generator/blob/main/README.md"
+  ],
+  "highlight": "Automates the creation and optimization of AI prompts, enhancing AI interaction efficiency."
+}

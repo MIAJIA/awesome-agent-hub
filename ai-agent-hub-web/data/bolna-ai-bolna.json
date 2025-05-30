@@ -1,0 +1,57 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Develop conversational voice AI agents that can interact with users through natural voice communication",
+  "principle": "Leverages advanced speech recognition and synthesis technologies, integrating with platforms like Deepgram and ElevenLabs for voice processing",
+  "reusability": "Offers API integrations with popular communication platforms like Twilio and Plivo for voice call functionalities",
+  "limitations": "Primarily supports English; requires integration with external voice processing services for full functionality",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Deepgram",
+    "ElevenLabs",
+    "Twilio",
+    "Plivo"
+  ],
+  "name": "bolna",
+  "slug": "bolna-ai-bolna",
+  "description": "Conversational voice AI agents",
+  "repository": "https://github.com/bolna-ai/bolna",
+  "stars": 301,
+  "originator": "bolna-ai",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "cartesia",
+    "deepgram",
+    "deepseek",
+    "deepseek-chat",
+    "deepseek-r1",
+    "elevenlabs",
+    "function-calling",
+    "gpt-4",
+    "hacktoberfest",
+    "llama",
+    "openai",
+    "plivo",
+    "twilio",
+    "voice-agents",
+    "voice-assistant",
+    "whisper"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/bolna-ai/bolna/blob/main/README.md",
+    "https://github.com/bolna-ai/bolna/wiki",
+    "https://github.com/bolna-ai/bolna/issues"
+  ],
+  "highlight": "Integrates voice capabilities with conversational AI for enhanced user interactions"
+}

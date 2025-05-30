@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and management of AI agents that can leverage multiple LLMs for diverse tasks.",
+  "principle": "Utilizes a modular architecture to allow agents to interact with various LLMs, supporting cross-compatibility and dynamic task assignment.",
+  "reusability": "Offers a flexible API for integrating with different LLMs, enabling developers to build custom AI agents with ease.",
+  "limitations": "May require specific configurations for optimal performance with different LLMs; limited documentation on advanced usage scenarios.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain"
+  ],
+  "name": "nagato-ai",
+  "slug": "kenshiro-o-nagato-ai",
+  "description": "Simple cross-LLM AI Agent library",
+  "repository": "https://github.com/kenshiro-o/nagato-ai",
+  "stars": 117,
+  "originator": "kenshiro-o",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "autonomous-agents",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/kenshiro-o/nagato-ai#readme",
+    "https://github.com/kenshiro-o/nagato-ai/wiki"
+  ],
+  "highlight": "Enables seamless integration and orchestration of multiple large language models (LLMs) for complex AI agent tasks."
+}

@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a range of GPT models for different tasks and use cases, facilitating experimentation and development",
+  "principle": "Utilizes OpenAI's GPT architecture to create specialized models for distinct applications",
+  "reusability": "Offers modular GPT models that can be integrated into various projects with ease, supporting API usage",
+  "limitations": "May require substantial computational resources for training and inference; models might need fine-tuning for specific applications",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Hugging Face Transformers"
+  ],
+  "name": "gpts",
+  "slug": "ruvnet-gpts",
+  "description": "A collection of the GPTs created by rUv",
+  "repository": "https://github.com/ruvnet/gpts",
+  "stars": 276,
+  "originator": "ruvnet",
+  "tags": [
+    "GPT",
+    "AI",
+    "Machine Learning",
+    "Natural Language Processing"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-07-18",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ruvnet/gpts#readme",
+    "https://github.com/ruvnet/gpts/wiki",
+    "https://github.com/ruvnet/gpts/issues"
+  ],
+  "highlight": "A versatile collection of GPT models tailored for various applications"
+}

@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and management of AI-driven agents in decentralized environments",
+  "principle": "Leverages blockchain and AI technologies to enable autonomous agent operations in Web3 ecosystems",
+  "reusability": "Offers modular components and APIs for easy integration with Web3 platforms and dApps",
+  "limitations": "Limited to blockchain-based environments, may require substantial setup for non-technical users",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Web3.py",
+    "Ethereum",
+    "IPFS",
+    "Flask"
+  ],
+  "name": "OpenAgent",
+  "slug": "webisopen-openagent",
+  "description": "The Web3 AI Agent Solution",
+  "repository": "https://github.com/webisopen/OpenAgent",
+  "stars": 172,
+  "originator": "webisopen",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-14",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/webisopen/OpenAgent#readme",
+    "https://github.com/webisopen/OpenAgent/wiki",
+    "https://github.com/webisopen/OpenAgent/examples"
+  ],
+  "highlight": "Seamless integration of AI capabilities with Web3 technologies for decentralized applications"
+}

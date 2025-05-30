@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and deployment of intelligent agents through a modular and extensible framework.",
+  "principle": "Built on a multi-agent system architecture, leveraging Python for agent logic and coordination.",
+  "reusability": "Modular architecture allows for easy integration and extension; includes APIs for agent communication and orchestration.",
+  "limitations": "Currently in alpha stage, may have stability issues and limited documentation; primarily supports Python environments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Celery",
+    "Redis"
+  ],
+  "name": "ii-agent",
+  "slug": "intelligent-internet-ii-agent",
+  "description": "II-Agent: a new open-source framework to build and deploy intelligent agents",
+  "repository": "https://github.com/Intelligent-Internet/ii-agent",
+  "stars": 2137,
+  "originator": "Intelligent-Internet",
+  "tags": [
+    "intelligent agents",
+    "multi-agent systems",
+    "framework"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Intelligent-Internet/ii-agent/blob/main/README.md",
+    "https://github.com/Intelligent-Internet/ii-agent/wiki",
+    "https://github.com/Intelligent-Internet/ii-agent/issues"
+  ],
+  "highlight": "A versatile framework for building and deploying intelligent agents with a focus on multi-agent coordination."
+}

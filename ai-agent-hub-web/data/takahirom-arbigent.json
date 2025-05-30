@@ -1,0 +1,43 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitate automated testing of Android, iOS, and Web applications with a focus on ease of use and scalability",
+  "principle": "Leverages a scenario breakdown feature to handle complex testing tasks and provides a user-friendly interface for quick setup",
+  "reusability": "Designed to be accessible for both technical and non-technical users, with potential for integration into existing CI/CD pipelines",
+  "limitations": "Currently in alpha stage, may have limited support for certain advanced testing scenarios or integrations",
+  "platforms": [
+    "Android",
+    "iOS",
+    "Web"
+  ],
+  "stack": [
+    "Kotlin",
+    "Android SDK",
+    "iOS SDK",
+    "Web technologies"
+  ],
+  "name": "arbigent",
+  "slug": "takahirom-arbigent",
+  "description": "AI Agent for testing Android, iOS, and Web apps. Get Started in 5 Minutes. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature ensures scalability for even the most complex tasks.",
+  "repository": "https://github.com/takahirom/arbigent",
+  "stars": 282,
+  "originator": "takahirom",
+  "tags": [
+    "agentic",
+    "ai",
+    "aiagent",
+    "android",
+    "gemini",
+    "ios",
+    "testing"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-10",
+  "language": "Kotlin",
+  "useful_links": [
+    "https://github.com/takahirom/arbigent#readme",
+    "https://github.com/takahirom/arbigent/wiki"
+  ],
+  "highlight": "Intuitive UI and powerful code interface for testing across Android, iOS, and Web platforms"
+}

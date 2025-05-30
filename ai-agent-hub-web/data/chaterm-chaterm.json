@@ -1,0 +1,49 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enhance security and operational efficiency for developers and cloud practitioners through a smart terminal interface",
+  "principle": "Leverages TypeScript for building a secure, rollbackable terminal interface with SSH and PAM integration for enhanced security",
+  "reusability": "Offers extensibility through plugins and API integrations, allowing customization for specific security and operational needs",
+  "limitations": "Currently in alpha stage, may have limited support for non-standard environments and lacks comprehensive documentation",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "SSH",
+    "PAM",
+    "CyberArk"
+  ],
+  "name": "Chaterm",
+  "slug": "chaterm-chaterm",
+  "description": "Smart, agentic, security AI terminal for developers and cloud practitioners",
+  "repository": "https://github.com/chaterm/Chaterm",
+  "stars": 247,
+  "originator": "chaterm",
+  "tags": [
+    "aiagent",
+    "bastion",
+    "cursor",
+    "cyberark",
+    "pam",
+    "q-developer-cli",
+    "rollbackable",
+    "security",
+    "sre",
+    "ssh",
+    "terminal",
+    "windsurf"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/chaterm/Chaterm#readme",
+    "https://github.com/chaterm/Chaterm/wiki",
+    "https://github.com/chaterm/Chaterm/issues"
+  ],
+  "highlight": "Agentic security AI terminal designed for secure and efficient cloud and development operations"
+}

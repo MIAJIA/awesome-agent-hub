@@ -1,0 +1,40 @@
+{
+  "category": "writing",
+  "status": "alpha",
+  "purpose": "Facilitates the creation of standardized machine learning research papers using Typst templates.",
+  "principle": "Utilizes Typst, a modern typesetting system, to offer templates for various machine learning conferences and journals.",
+  "reusability": "Templates can be easily adapted for different machine learning conferences and journals, offering a plug-and-play experience for researchers.",
+  "limitations": "Limited to the Typst typesetting system; users unfamiliar with Typst may face a learning curve.",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "stack": [
+    "Typst"
+  ],
+  "name": "typst-templates",
+  "slug": "daskol-typst-templates",
+  "description": "A list of paper templates in the area of machine learning.",
+  "repository": "https://github.com/daskol/typst-templates",
+  "stars": 164,
+  "originator": "daskol",
+  "tags": [
+    "cvpr",
+    "iclr",
+    "icml",
+    "jmlr",
+    "neurips",
+    "rlc",
+    "rlj",
+    "tmlr",
+    "typst",
+    "typst-template"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-15",
+  "language": "Typst",
+  "useful_links": [
+    "https://github.com/daskol/typst-templates#readme"
+  ],
+  "highlight": "Provides a comprehensive collection of Typst templates for machine learning paper submissions."
+}

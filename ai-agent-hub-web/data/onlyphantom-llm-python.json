@@ -1,0 +1,47 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide educational resources and practical examples for using LLMs like GPT-3 and frameworks like LangChain.",
+  "principle": "Utilizes Python scripts and Jupyter Notebooks to demonstrate the integration and application of LLMs with various libraries and APIs.",
+  "reusability": "Includes modular scripts and notebooks that can be adapted for different LLM use cases, with examples of integration with external APIs like OpenAI and Pinecone.",
+  "limitations": "Primarily focused on educational purposes; may not be optimized for production environments.",
+  "platforms": [
+    "Cross-platform",
+    "Jupyter"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "OpenAI API",
+    "LangChain",
+    "Pinecone",
+    "ChromaDB"
+  ],
+  "name": "llm-python",
+  "slug": "onlyphantom-llm-python",
+  "description": "Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb & pinecone",
+  "repository": "https://github.com/onlyphantom/llm-python",
+  "stars": 835,
+  "originator": "onlyphantom",
+  "tags": [
+    "chromadb",
+    "gpt-3",
+    "langchain",
+    "langchain-python",
+    "llamaindex",
+    "llm",
+    "llmops",
+    "openai-api",
+    "pinecone",
+    "tutorial"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-02",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/onlyphantom/llm-python/blob/main/README.md",
+    "https://github.com/onlyphantom/llm-python/tree/main/examples"
+  ],
+  "highlight": "Comprehensive tutorials and sample scripts for working with various Large Language Models and tools."
+}

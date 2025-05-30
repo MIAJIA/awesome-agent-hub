@@ -1,0 +1,52 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates semantic understanding for AI agents and MCP clients, enabling more effective data analysis and business intelligence operations",
+  "principle": "Builds on semantic layer technology to provide a unified interface for data querying and analysis, leveraging SQL and MCP",
+  "reusability": "Designed for integration with MCP clients; offers APIs for semantic data processing and analysis",
+  "limitations": "Currently in alpha stage, may have limited support for non-MCP environments, and potential stability issues",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Java",
+    "SQL",
+    "MCP"
+  ],
+  "name": "wren-engine",
+  "slug": "canner-wren-engine",
+  "description": "🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥 ",
+  "repository": "https://github.com/Canner/wren-engine",
+  "stars": 333,
+  "originator": "Canner",
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "business-intelligence",
+    "data",
+    "data-analysis",
+    "data-analytics",
+    "data-lake",
+    "data-warehouse",
+    "hacktoberfest",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "semantic",
+    "semantic-layer",
+    "sql"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/Canner/wren-engine#readme",
+    "https://github.com/Canner/wren-engine/wiki",
+    "https://github.com/Canner/wren-engine/issues",
+    "https://github.com/Canner/wren-engine/pulls"
+  ],
+  "highlight": "Semantic engine designed to enhance AI agent capabilities by integrating with the Model Context Protocol (MCP)"
+}

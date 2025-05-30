@@ -1,0 +1,40 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide educational resources and examples for learning and building agentic AI systems",
+  "principle": "Utilizes Jupyter Notebooks to provide interactive learning experiences and hands-on coding exercises",
+  "reusability": "Course materials and code examples can be reused for educational purposes and as a foundation for building custom AI agents",
+  "limitations": "Primarily educational with limited production-ready code, requires foundational knowledge in AI and programming",
+  "platforms": [
+    "Cross-platform",
+    "Jupyter"
+  ],
+  "stack": [
+    "Jupyter Notebook",
+    "Python",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "name": "agents",
+  "slug": "ed-donner-agents",
+  "description": "Repo for the Complete Agentic AI Engineering Course",
+  "repository": "https://github.com/ed-donner/agents",
+  "stars": 385,
+  "originator": "ed-donner",
+  "tags": [
+    "AI",
+    "education",
+    "agents",
+    "Jupyter",
+    "learning"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/ed-donner/agents/blob/main/README.md",
+    "https://github.com/ed-donner/agents/tree/main/notebooks"
+  ],
+  "highlight": "Comprehensive course repository for learning agentic AI engineering"
+}

@@ -1,0 +1,41 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Robbie-g2 is designed to facilitate the development and deployment of AI agents, providing a framework for experimentation and innovation in agent-based systems.",
+  "principle": "The agent operates on principles of modularity and adaptability, allowing developers to customize and extend functionalities according to their needs.",
+  "reusability": "Robbie-g2 promotes code reusability through a modular architecture, enabling components to be reused across different projects and applications.",
+  "limitations": "As an experimental project in alpha status, Robbie-g2 may lack comprehensive documentation and support, and it may not be fully stable for production use.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "TensorFlow",
+    "Docker"
+  ],
+  "name": "robbie-g2",
+  "slug": "agentsea-robbie-g2",
+  "description": "N/A",
+  "repository": "https://github.com/agentsea/robbie-g2",
+  "stars": 108,
+  "originator": "agentsea",
+  "tags": [
+    "AI",
+    "agent",
+    "automation",
+    "development",
+    "experimental"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-23",
+  "language": "Python",
+  "useful_links": [
+    "https://example.com/demo1",
+    "https://example.com/demo2"
+  ],
+  "highlight": "Robbie-g2 offers a modular framework for developing and deploying AI agents, emphasizing adaptability and customization."
+}

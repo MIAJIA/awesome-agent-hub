@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate large-scale simulations of social interactions and behaviors using AI agents.",
+  "principle": "Leverages large language models to enable realistic and scalable multi-agent simulations.",
+  "reusability": "Designed as a framework for simulating agent interactions, can be extended or integrated into other simulation projects.",
+  "limitations": "Currently in alpha stage, may have scalability and performance limitations with extremely large simulations.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Hugging Face Transformers"
+  ],
+  "name": "oasis",
+  "slug": "camel-ai-oasis",
+  "description": "🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents. https://oasis.camel-ai.org",
+  "repository": "https://github.com/camel-ai/oasis",
+  "stars": 1470,
+  "originator": "camel-ai",
+  "tags": [
+    "agent-based-framework",
+    "agent-based-simulation",
+    "ai-societies",
+    "deep-learning",
+    "large-language-models",
+    "large-scale",
+    "llm-agents",
+    "multi-agent-systems",
+    "natural-language-processing"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-25",
+  "language": "Python",
+  "useful_links": [
+    "https://oasis.camel-ai.org",
+    "https://github.com/camel-ai/oasis#readme",
+    "https://github.com/camel-ai/oasis/wiki"
+  ],
+  "highlight": "Simulates social interactions with one million agents using large language models."
+}

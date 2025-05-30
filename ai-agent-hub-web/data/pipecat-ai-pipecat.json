@@ -1,0 +1,42 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitate the development of advanced conversational AI applications with voice and multimodal interaction capabilities",
+  "principle": "Builds on modular architecture with support for various AI and ML models to handle voice and text inputs, enabling seamless multimodal interactions",
+  "reusability": "Offers a flexible API and plugin system for easy integration into existing applications, supports custom extensions and modules",
+  "limitations": "Currently in alpha stage, may have limited documentation and stability, and might lack extensive community support",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "name": "pipecat",
+  "slug": "pipecat-ai-pipecat",
+  "description": "Open Source framework for voice and multimodal conversational AI",
+  "repository": "https://github.com/pipecat-ai/pipecat",
+  "stars": 6244,
+  "originator": "pipecat-ai",
+  "tags": [
+    "ai",
+    "chatbot-framework",
+    "chatbots",
+    "real-time",
+    "voice",
+    "voice-assistant"
+  ],
+  "open_source": true,
+  "license": "BSD-2-Clause",
+  "last_updated": "2025-05-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/pipecat-ai/pipecat/wiki",
+    "https://github.com/pipecat-ai/pipecat/issues",
+    "https://github.com/pipecat-ai/pipecat/releases"
+  ],
+  "highlight": "Comprehensive framework for building voice and multimodal conversational AI applications"
+}

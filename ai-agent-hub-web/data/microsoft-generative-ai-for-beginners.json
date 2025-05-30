@@ -1,0 +1,49 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To educate beginners on the fundamentals of generative AI and guide them through building projects with various AI models",
+  "principle": "Utilizes Jupyter Notebooks to provide hands-on lessons that cover different aspects of generative AI, including model usage and prompt engineering",
+  "reusability": "Open-source educational resource that can be adapted for self-learning or integrated into educational programs",
+  "limitations": "Requires a basic understanding of Python and access to computational resources for running AI models",
+  "platforms": [
+    "Jupyter Notebook",
+    "Azure"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "OpenAI API",
+    "Azure"
+  ],
+  "name": "generative-ai-for-beginners",
+  "slug": "microsoft-generative-ai-for-beginners",
+  "description": "21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+  "repository": "https://github.com/microsoft/generative-ai-for-beginners",
+  "stars": 84054,
+  "originator": "microsoft",
+  "tags": [
+    "ai",
+    "azure",
+    "chatgpt",
+    "dall-e",
+    "generative-ai",
+    "generativeai",
+    "gpt",
+    "language-model",
+    "llms",
+    "microsoft-for-beginners",
+    "openai",
+    "prompt-engineering",
+    "semantic-search",
+    "transformers"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://microsoft.github.io/generative-ai-for-beginners/",
+    "https://github.com/microsoft/generative-ai-for-beginners"
+  ],
+  "highlight": "Comprehensive beginner-friendly curriculum for learning and building with Generative AI using practical examples"
+}

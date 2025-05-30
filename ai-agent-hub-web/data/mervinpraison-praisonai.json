@@ -1,0 +1,55 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To streamline the creation and management of AI agents for automating tasks ranging from simple to complex challenges.",
+  "principle": "Builds on a multi-agent framework using large language models (LLMs) to facilitate agent collaboration and task automation.",
+  "reusability": "Offers a flexible API for integrating custom agents, supports modular agent design for easy composition and customization.",
+  "limitations": "Primarily focused on Python environments, may require additional configuration for non-standard use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "FastAPI"
+  ],
+  "name": "PraisonAI",
+  "slug": "mervinpraison-praisonai",
+  "description": "PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.",
+  "repository": "https://github.com/MervinPraison/PraisonAI",
+  "stars": 4273,
+  "originator": "MervinPraison",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agent-framework",
+    "ai-agent-sdk",
+    "ai-agents",
+    "ai-agents-framework",
+    "ai-agents-sdk",
+    "ai-framwork",
+    "aiagent",
+    "aiagentframework",
+    "aiagents",
+    "aiagentsframework",
+    "framework",
+    "multi-agent",
+    "multi-agent-collaboration",
+    "multi-agent-system",
+    "multi-agent-systems",
+    "multi-agents",
+    "multi-ai-agent",
+    "multi-ai-agents"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/MervinPraison/PraisonAI/wiki",
+    "https://github.com/MervinPraison/PraisonAI/tree/main/examples"
+  ],
+  "highlight": "Low-code framework for building and managing multi-agent AI systems with a focus on human-agent collaboration."
+}

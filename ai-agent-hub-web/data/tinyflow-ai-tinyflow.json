@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provide a streamlined framework for developing and deploying AI agents with minimal overhead",
+  "principle": "Built on a modular architecture using Svelte for front-end components and lightweight server-side processing",
+  "reusability": "Highly modular with plug-and-play components, supports easy integration with existing AI models and APIs",
+  "limitations": "Currently in alpha stage, may lack extensive documentation and community support, limited to specific use cases",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Svelte",
+    "JavaScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "tinyflow",
+  "slug": "tinyflow-ai-tinyflow",
+  "description": "Tinyflow is a lightweight AI agent solution. ",
+  "repository": "https://github.com/tinyflow-ai/tinyflow",
+  "stars": 498,
+  "originator": "tinyflow-ai",
+  "tags": [
+    "AI framework",
+    "lightweight",
+    "agent development"
+  ],
+  "open_source": true,
+  "license": "LGPL-3.0",
+  "last_updated": "2025-05-22",
+  "language": "Svelte",
+  "useful_links": [
+    "https://github.com/tinyflow-ai/tinyflow#readme",
+    "https://github.com/tinyflow-ai/tinyflow/wiki",
+    "https://github.com/tinyflow-ai/tinyflow/issues"
+  ],
+  "highlight": "Lightweight and efficient AI agent framework optimized for rapid deployment and minimal resource usage"
+}

@@ -1,0 +1,43 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To automate and enhance the code review process using AI, providing insights similar to those of an experienced developer.",
+  "principle": "Utilizes machine learning models to analyze code quality, suggest improvements, and ensure best practices are followed.",
+  "reusability": "Can be integrated into existing CI/CD pipelines, supports API access for custom integrations.",
+  "limitations": "May not cover all programming languages, relies on training data quality, and may require manual oversight for nuanced code assessments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "OpenAI"
+  ],
+  "name": "kodus-ai",
+  "slug": "kodustech-kodus-ai",
+  "description": "Open source AI code reviews — just like your senior dev would do.",
+  "repository": "https://github.com/kodustech/kodus-ai",
+  "stars": 372,
+  "originator": "kodustech",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-code-review",
+    "ai-coding-tools",
+    "code-review",
+    "coding-assistant",
+    "generative-ai"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/kodustech/kodus-ai/blob/main/README.md",
+    "https://github.com/kodustech/kodus-ai/wiki",
+    "https://github.com/kodustech/kodus-ai/issues"
+  ],
+  "highlight": "Performs AI-driven code reviews to mimic the insights of a senior developer."
+}

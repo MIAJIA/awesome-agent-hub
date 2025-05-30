@@ -1,0 +1,35 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Serve as the main server for ElevenLabs' MCP, providing core functionalities and API endpoints for interaction.",
+  "principle": "Built using Python, leveraging web frameworks and APIs to facilitate interaction with ElevenLabs' services.",
+  "reusability": "Designed to be integrated with other ElevenLabs services via APIs, facilitating extensibility and modularity.",
+  "limitations": "Being in alpha stage, it may have limited features and possible stability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "ElevenLabs API"
+  ],
+  "name": "elevenlabs-mcp",
+  "slug": "elevenlabs-elevenlabs-mcp",
+  "description": "The official ElevenLabs MCP server",
+  "repository": "https://github.com/elevenlabs/elevenlabs-mcp",
+  "stars": 700,
+  "originator": "elevenlabs",
+  "tags": [
+    "elevenlabs",
+    "elevenlabs-api",
+    "mcp"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/elevenlabs/elevenlabs-mcp"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "payment",
+  "status": "alpha",
+  "purpose": "Facilitates efficient and secure micropayment transactions on the internet.",
+  "principle": "Utilizes the L402 protocol to integrate payment capabilities directly into HTTP requests, allowing for streamlined payment processing.",
+  "reusability": "Designed as a protocol layer that can be integrated into existing web services to enable micropayments, with API support for customization.",
+  "limitations": "Currently in alpha stage, may have limited support for large-scale transactions and integration with existing payment gateways.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express"
+  ],
+  "name": "l402",
+  "slug": "l402-protocol-l402",
+  "description": "The Missing Piece in the Internet’s Payment Infrastructure",
+  "repository": "https://github.com/l402-protocol/l402",
+  "stars": 135,
+  "originator": "l402-protocol",
+  "tags": [
+    "micropayments",
+    "protocol",
+    "HTTP",
+    "payment infrastructure"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-21",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/l402-protocol/l402/blob/main/README.md",
+    "https://github.com/l402-protocol/l402/wiki",
+    "https://github.com/l402-protocol/l402/issues"
+  ],
+  "highlight": "Enables seamless micropayments over the internet using the L402 protocol."
+}

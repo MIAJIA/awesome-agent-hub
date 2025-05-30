@@ -1,0 +1,34 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable seamless communication and data exchange between Apify Actors using the Model Context Protocol.",
+  "principle": "Built on the Model Context Protocol (MCP) to standardize interactions and data sharing among distributed actors.",
+  "reusability": "Offers a standardized API for integration with Apify's ecosystem, enabling plug-and-play functionality with existing actors.",
+  "limitations": "Primarily designed for use within the Apify platform; may not support non-Apify environments. Still in alpha, so subject to significant changes.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Docker"
+  ],
+  "name": "actors-mcp-server",
+  "slug": "apify-actors-mcp-server",
+  "description": "Model Context Protocol (MCP) Server for Apify's Actors",
+  "repository": "https://github.com/apify/actors-mcp-server",
+  "stars": 214,
+  "originator": "apify",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/apify/actors-mcp-server/blob/main/README.md",
+    "https://github.com/apify/actors-mcp-server/wiki"
+  ],
+  "highlight": "Facilitates communication between Apify Actors using the Model Context Protocol (MCP) for enhanced interoperability."
+}

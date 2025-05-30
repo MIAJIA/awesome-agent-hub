@@ -1,0 +1,58 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide an open-source platform for monitoring, evaluating, and experimenting with large language models (LLMs)",
+  "principle": "Leverages observability techniques to track and analyze the performance and usage of LLMs, integrating with various LLM APIs for comprehensive monitoring",
+  "reusability": "Offers easy integration with a single line of code, supports multiple LLMs and environments, and provides an API for custom monitoring setups",
+  "limitations": "Primarily focused on LLMs, may not cover other AI model types; requires setup for specific use cases",
+  "platforms": [
+    "Docker",
+    "AWS",
+    "Azure"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "React",
+    "PostgreSQL",
+    "Docker"
+  ],
+  "name": "helicone",
+  "slug": "helicone-helicone",
+  "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+  "repository": "https://github.com/Helicone/helicone",
+  "stars": 3846,
+  "originator": "Helicone",
+  "tags": [
+    "agent-monitoring",
+    "analytics",
+    "evaluation",
+    "gpt",
+    "langchain",
+    "large-language-models",
+    "llama-index",
+    "llm",
+    "llm-cost",
+    "llm-evaluation",
+    "llm-observability",
+    "llmops",
+    "monitoring",
+    "open-source",
+    "openai",
+    "playground",
+    "prompt-engineering",
+    "prompt-management",
+    "ycombinator"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Helicone/helicone#readme",
+    "https://github.com/Helicone/helicone/wiki",
+    "https://github.com/Helicone/helicone/issues",
+    "https://github.com/Helicone/helicone/releases"
+  ],
+  "highlight": "One line of code to monitor, evaluate, and experiment with LLMs"
+}

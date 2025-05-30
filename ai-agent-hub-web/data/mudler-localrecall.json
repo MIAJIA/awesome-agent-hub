@@ -1,0 +1,36 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enhance agent capabilities by providing a local memory and knowledge base system.",
+  "principle": "Built using Go, it stores and retrieves information locally to support agent memory functions.",
+  "reusability": "Designed as a standalone component that can be integrated into various agent systems, with a WebUI for easy interaction.",
+  "limitations": "Limited to local storage; lacks cloud-based synchronization and scalability features.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "WebUI"
+  ],
+  "name": "LocalRecall",
+  "slug": "mudler-localrecall",
+  "description": ":brain: 100% Local Memory layer and Knowledge base for agents with WebUI ",
+  "repository": "https://github.com/mudler/LocalRecall",
+  "stars": 138,
+  "originator": "mudler",
+  "tags": [
+    "local memory",
+    "knowledge base",
+    "WebUI"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-22",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/mudler/LocalRecall#readme",
+    "https://github.com/mudler/LocalRecall/wiki"
+  ],
+  "highlight": "Provides a local memory layer and knowledge base for agents with a user-friendly WebUI."
+}

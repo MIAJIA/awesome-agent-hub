@@ -1,0 +1,50 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitate the creation and management of AI-driven workflows and automations with minimal coding effort",
+  "principle": "Utilizes a combination of low-code/no-code platforms and AI models to enable users to design and deploy custom workflows and automations",
+  "reusability": "Offers integration with platforms like n8n and Zapier, supports extensible workflows through plugins and APIs",
+  "limitations": "Primarily designed for users familiar with low-code/no-code environments, may require additional setup for complex workflows",
+  "platforms": [
+    "Self-hosted",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "n8n",
+    "Zapier",
+    "Ollama"
+  ],
+  "name": "lecca-io",
+  "slug": "lecca-digital-lecca-io",
+  "description": "Lecca.io | AI Agents & Automations",
+  "repository": "https://github.com/lecca-digital/lecca-io",
+  "stars": 352,
+  "originator": "lecca-digital",
+  "tags": [
+    "ai-agent",
+    "automation",
+    "llm",
+    "low-code",
+    "n8n",
+    "no-code",
+    "ollama",
+    "rag",
+    "self-hosted",
+    "typescript",
+    "workflow",
+    "zapier"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-19",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/lecca-digital/lecca-io/blob/main/README.md",
+    "https://github.com/lecca-digital/lecca-io/wiki",
+    "https://github.com/lecca-digital/lecca-io/issues",
+    "https://github.com/lecca-digital/lecca-io/pulls"
+  ],
+  "highlight": "Seamless orchestration of AI agents and automations for diverse workflows with low-code/no-code support"
+}

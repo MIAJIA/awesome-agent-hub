@@ -1,0 +1,39 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide concise summaries of academic papers delivered via Google Mail subscriptions",
+  "principle": "Leverages AI models like Llama for natural language processing to extract and summarize key information from academic papers",
+  "reusability": "Designed as a standalone tool, but can be integrated into email workflows for automated paper summarization",
+  "limitations": "May struggle with papers in languages other than English, and complex technical papers may not be fully captured in summaries",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Llama",
+    "Google Mail API"
+  ],
+  "name": "paper-summarizer",
+  "slug": "zhangleino1-paper-summarizer",
+  "description": "Read translation intelligent agent for Google Mail academic paper subscription",
+  "repository": "https://github.com/zhangleino1/paper-summarizer",
+  "stars": 100,
+  "originator": "zhangleino1",
+  "tags": [
+    "ai-agents",
+    "crewai",
+    "llama",
+    "paper",
+    "paper-agent",
+    "paper-summary"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/zhangleino1/paper-summarizer#readme"
+  ],
+  "highlight": "Automated summarization of academic papers from Google Mail subscriptions using advanced AI models"
+}

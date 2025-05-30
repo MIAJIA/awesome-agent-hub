@@ -1,0 +1,36 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Enable the automation of web-based tasks using a Gym-like environment",
+  "principle": "Builds on OpenAI's Gym framework to simulate web environments for training automation agents",
+  "reusability": "Designed as a framework that can be extended with custom web automation tasks; supports integration with reinforcement learning models",
+  "limitations": "Primarily focused on web environments, may not support non-web automation tasks; in alpha stage, so features may change",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI Gym"
+  ],
+  "name": "BrowserGym",
+  "slug": "servicenow-browsergym",
+  "description": "🌎💪 BrowserGym, a Gym environment for web task automation",
+  "repository": "https://github.com/ServiceNow/BrowserGym",
+  "stars": 751,
+  "originator": "ServiceNow",
+  "tags": [
+    "ai",
+    "llm",
+    "webagent"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ServiceNow/BrowserGym#readme",
+    "https://github.com/ServiceNow/BrowserGym/wiki"
+  ],
+  "highlight": "Provides a Gym environment specifically designed for web task automation"
+}

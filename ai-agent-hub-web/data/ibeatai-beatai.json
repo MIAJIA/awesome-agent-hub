@@ -1,0 +1,37 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide continuous sharing and translation of high-quality AI content, helping users to conquer AI challenges.",
+  "principle": "The repository focuses on curating and translating cutting-edge AI research and content, making it accessible to a broader audience.",
+  "reusability": "Content can be utilized for educational purposes, AI literacy improvement, and as a resource for staying updated with AI advancements.",
+  "limitations": "Primarily focused on content sharing and translation, not a software tool or API. Limited to the scope of curated AI content.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "GitHub Pages",
+    "Markdown",
+    "Translation Tools"
+  ],
+  "name": "BeatAI",
+  "slug": "ibeatai-beatai",
+  "description": "持续分享/翻译 AI 领域的优秀内容，帮你征服 AI，Just beat it! 欢迎 star 订阅.",
+  "repository": "https://github.com/ibeatai/BeatAI",
+  "stars": 3884,
+  "originator": "ibeatai",
+  "tags": [
+    "ai",
+    "engineering",
+    "llm",
+    "neural-network",
+    "transformer"
+  ],
+  "open_source": true,
+  "license": "CC-BY-4.0",
+  "last_updated": "2025-05-28",
+  "language": "Handlebars",
+  "useful_links": [
+    "https://github.com/ibeatai/BeatAI"
+  ],
+  "highlight": "A unique platform dedicated to translating and disseminating AI research and content to a Chinese-speaking audience."
+}

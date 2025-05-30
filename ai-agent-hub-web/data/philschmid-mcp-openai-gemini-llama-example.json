@@ -1,0 +1,38 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Demonstrate how to use the LLaMA model with OpenAI's Gemini for language processing and generation tasks.",
+  "principle": "Combines LLaMA's language model capabilities with OpenAI's Gemini integration to enhance NLP applications.",
+  "reusability": "Modular setup that allows easy integration into existing Python projects using provided examples and configurations.",
+  "limitations": "Experimental stage; may have limited support for production environments and lacks extensive documentation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LLaMA"
+  ],
+  "name": "mcp-openai-gemini-llama-example",
+  "slug": "philschmid-mcp-openai-gemini-llama-example",
+  "description": "N/A",
+  "repository": "https://github.com/philschmid/mcp-openai-gemini-llama-example",
+  "stars": 173,
+  "originator": "philschmid",
+  "tags": [
+    "LLaMA",
+    "OpenAI",
+    "NLP",
+    "language model"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-02-17",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/philschmid/mcp-openai-gemini-llama-example/tree/main/examples",
+    "https://github.com/philschmid/mcp-openai-gemini-llama-example/blob/main/README.md"
+  ],
+  "highlight": "Integration of LLaMA models with OpenAI's Gemini for advanced language tasks."
+}

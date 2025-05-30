@@ -1,0 +1,48 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide guidelines and a framework for developing LLM-powered applications that are reliable and production-ready.",
+  "principle": "Adheres to the 12-factor app methodology, emphasizing modularity, scalability, and maintainability in LLM application design.",
+  "reusability": "Designed for modular integration and extensibility, supporting various LLMs and orchestration patterns.",
+  "limitations": "Currently in alpha stage, may have limited documentation and features compared to mature frameworks.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "LangChain",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "name": "12-factor-agents",
+  "slug": "humanlayer-12-factor-agents",
+  "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+  "repository": "https://github.com/humanlayer/12-factor-agents",
+  "stars": 4029,
+  "originator": "humanlayer",
+  "tags": [
+    "12-factor",
+    "12-factor-agents",
+    "agents",
+    "ai",
+    "context-window",
+    "framework",
+    "llms",
+    "memory",
+    "orchestration",
+    "prompt-engineering",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-25",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/humanlayer/12-factor-agents/blob/main/README.md",
+    "https://github.com/humanlayer/12-factor-agents/wiki",
+    "https://github.com/humanlayer/12-factor-agents/issues"
+  ],
+  "highlight": "A framework for building robust LLM-powered applications with a focus on 12-factor principles."
+}

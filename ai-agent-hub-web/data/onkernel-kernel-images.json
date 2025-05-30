@@ -1,0 +1,38 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a lightweight and secure environment for running web browsers using unikernels",
+  "principle": "Utilizes unikernel technology to encapsulate web browsers within minimal operating system environments for improved security and performance",
+  "reusability": "Can be integrated into systems requiring secure browsing environments by deploying unikernels on supported platforms",
+  "limitations": "Limited to specific browsers and unikernel configurations; may require specialized knowledge to set up and deploy",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "Shell",
+    "Docker",
+    "Unikernel"
+  ],
+  "name": "kernel-images",
+  "slug": "onkernel-kernel-images",
+  "description": "We put browsers on a unikernel",
+  "repository": "https://github.com/onkernel/kernel-images",
+  "stars": 316,
+  "originator": "onkernel",
+  "tags": [
+    "container",
+    "docker",
+    "unikernel",
+    "vm"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Shell",
+  "useful_links": [
+    "https://github.com/onkernel/kernel-images/blob/main/README.md",
+    "https://github.com/onkernel/kernel-images/wiki"
+  ],
+  "highlight": "Runs web browsers on unikernels for lightweight and secure browsing environments"
+}

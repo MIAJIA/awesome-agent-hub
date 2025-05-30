@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To facilitate the design and execution of agentic workflows by leveraging Dapr and large language models.",
+  "principle": "Builds on Dapr for distributed application runtime and integrates with large language models for intelligent workflow automation.",
+  "reusability": "Offers modular components that can be easily integrated into existing systems using Dapr's APIs and configurations.",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and stability for production use.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Dapr",
+    "LLMs"
+  ],
+  "name": "floki",
+  "slug": "cyb3rward0g-floki",
+  "description": "Agentic Workflows Made Simple",
+  "repository": "https://github.com/Cyb3rWard0g/floki",
+  "stars": 142,
+  "originator": "Cyb3rWard0g",
+  "tags": [
+    "ai",
+    "aiagents",
+    "dapr",
+    "genai",
+    "llm"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Cyb3rWard0g/floki/blob/main/README.md",
+    "https://github.com/Cyb3rWard0g/floki/tree/main/docs"
+  ],
+  "highlight": "Simplifies the creation and management of agentic workflows using Dapr and LLMs."
+}

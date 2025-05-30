@@ -1,0 +1,42 @@
+{
+  "category": "productivity",
+  "status": "alpha",
+  "purpose": "To provide an AI-driven calendar that intelligently manages user schedules, enhancing time management and productivity.",
+  "principle": "Utilizes AI algorithms to analyze and optimize scheduling by learning user preferences and priorities.",
+  "reusability": "Offers integration with existing calendar systems via APIs, supports customization for different scheduling needs.",
+  "limitations": "Currently in alpha stage, may have limited features and potential bugs. Integration with certain calendar platforms might be limited.",
+  "platforms": [
+    "Web",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "name": "zero-calendar",
+  "slug": "zero-calendar-zero-calendar",
+  "description": "Zero Calendar is an open-source AI-native calendar that manages your schedule intelligently, giving you more time for what matters.",
+  "repository": "https://github.com/Zero-Calendar/zero-calendar",
+  "stars": 171,
+  "originator": "Zero-Calendar",
+  "tags": [
+    "ai",
+    "calendar",
+    "open-source",
+    "privacy",
+    "security"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-20",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Zero-Calendar/zero-calendar#readme",
+    "https://github.com/Zero-Calendar/zero-calendar/wiki",
+    "https://github.com/Zero-Calendar/zero-calendar/issues"
+  ],
+  "highlight": "AI-native calendar that intelligently manages and optimizes your schedule."
+}

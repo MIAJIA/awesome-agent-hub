@@ -1,0 +1,38 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "Facilitates automated phone call interactions using AI to enhance call center operations.",
+  "principle": "Utilizes Python-based frameworks to handle API requests and manage telephony integrations for call automation.",
+  "reusability": "Offers an API for seamless integration with existing call center platforms, allowing customization and extension.",
+  "limitations": "Currently in alpha stage, may have limited scalability and integration options, mainly supports specific telephony providers.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Twilio API"
+  ],
+  "name": "call-center-ai",
+  "slug": "microsoft-call-center-ai",
+  "description": "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!",
+  "repository": "https://github.com/microsoft/call-center-ai",
+  "stars": 477,
+  "originator": "microsoft",
+  "tags": [
+    "AI",
+    "telephony",
+    "call-center",
+    "automation"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/microsoft/call-center-ai/wiki",
+    "https://github.com/microsoft/call-center-ai/issues"
+  ],
+  "highlight": "Enables AI-driven phone call interactions via API, integrating with existing call center systems."
+}

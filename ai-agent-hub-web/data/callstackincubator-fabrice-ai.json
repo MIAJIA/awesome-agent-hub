@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation of AI agents through a lightweight and functional framework",
+  "principle": "Built on TypeScript, leveraging functional programming paradigms to enable composability and ease of use",
+  "reusability": "Offers a modular architecture allowing users to create and integrate custom agents with ease",
+  "limitations": "Being in alpha stage, it may have limited documentation and potential stability issues",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "name": "fabrice-ai",
+  "slug": "callstackincubator-fabrice-ai",
+  "description": "A lightweight, functional, and composable framework for building AI agents. No PhD required.",
+  "repository": "https://github.com/callstackincubator/fabrice-ai",
+  "stars": 281,
+  "originator": "callstackincubator",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents-framework",
+    "framework",
+    "llm",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-12-30",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/callstackincubator/fabrice-ai#readme",
+    "https://github.com/callstackincubator/fabrice-ai/tree/main/examples"
+  ],
+  "highlight": "Composable framework for building AI agents without requiring advanced expertise"
+}

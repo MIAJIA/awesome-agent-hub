@@ -1,0 +1,39 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a curated list of resources, tools, libraries, and projects related to ChatGPT and OpenAI's GPT models",
+  "principle": "Aggregates links and descriptions of various resources and tools to facilitate exploration and usage of ChatGPT and related technologies",
+  "reusability": "Easily accessible and extendable list format, open for contributions via GitHub",
+  "limitations": "Dependent on community contributions for updates and maintenance; primarily a static list without dynamic features",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-chatgpt",
+  "slug": "sindresorhus-awesome-chatgpt",
+  "description": "🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI",
+  "repository": "https://github.com/sindresorhus/awesome-chatgpt",
+  "stars": 5600,
+  "originator": "sindresorhus",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "awesome",
+    "awesome-list",
+    "chatgpt",
+    "gpt",
+    "gpt-3",
+    "gpt-4",
+    "openai"
+  ],
+  "open_source": true,
+  "license": "CC0-1.0",
+  "last_updated": "2024-12-19",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/sindresorhus/awesome-chatgpt"
+  ],
+  "highlight": "Comprehensive curated list of resources and tools related to ChatGPT and OpenAI technologies"
+}

@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the deployment and management of AI agents with a focus on enterprise applications",
+  "principle": "Built on a modular architecture allowing easy integration of different AI models and services",
+  "reusability": "Offers a pluggable SDK and APIs for integrating various AI models, supports customization and scalability",
+  "limitations": "Early-stage development, may lack comprehensive documentation and community support",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "LlamaIndex"
+  ],
+  "name": "eidolon",
+  "slug": "eidolon-ai-eidolon",
+  "description": "The first AI Agent Server, Eidolon is a pluggable Agent SDK and enterprise ready, deployment server for Agentic applications",
+  "repository": "https://github.com/eidolon-ai/eidolon",
+  "stars": 448,
+  "originator": "eidolon-ai",
+  "tags": [
+    "agents",
+    "generative-ai",
+    "langchain",
+    "llama",
+    "llm",
+    "openai",
+    "python",
+    "services"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-13",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/eidolon-ai/eidolon/blob/main/README.md",
+    "https://github.com/eidolon-ai/eidolon/wiki",
+    "https://github.com/eidolon-ai/eidolon/issues"
+  ],
+  "highlight": "Enterprise-ready, pluggable AI Agent SDK and deployment server for Agentic applications"
+}

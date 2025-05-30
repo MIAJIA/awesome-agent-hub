@@ -1,0 +1,49 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide a structured learning path for individuals interested in AI and large language models using freely available resources",
+  "principle": "Aggregates and organizes educational content, tutorials, and practical guides for learning AI from scratch",
+  "reusability": "Can be used as a self-paced learning guide, adaptable for educational curriculums, and as a reference for AI fundamentals",
+  "limitations": "Primarily focuses on introductory content, may not cover advanced AI topics in depth",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebooks",
+    "Hugging Face Transformers",
+    "PyTorch"
+  ],
+  "name": "learn-ai-engineering",
+  "slug": "ashishps1-learn-ai-engineering",
+  "description": "Learn AI and LLMs from scratch using free resources",
+  "repository": "https://github.com/ashishps1/learn-ai-engineering",
+  "stars": 1010,
+  "originator": "ashishps1",
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "deep-learning",
+    "generative-ai",
+    "large-language-models",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "ml",
+    "prompt-engineering",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-05-23",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/ashishps1/learn-ai-engineering#readme",
+    "https://github.com/ashishps1/learn-ai-engineering/tree/main/tutorials",
+    "https://github.com/ashishps1/learn-ai-engineering/tree/main/resources"
+  ],
+  "highlight": "Comprehensive AI and LLM learning resources for beginners using free materials"
+}

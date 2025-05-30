@@ -1,0 +1,39 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and deployment of OpenAPI-compliant servers for testing and development purposes",
+  "principle": "Utilizes OpenAPI specifications to automatically generate server implementations, enabling quick setup and testing of APIs",
+  "reusability": "Offers a modular architecture allowing easy customization and extension of server functionalities through plugins and configuration",
+  "limitations": "Primarily designed for development and testing environments; not recommended for production use without further customization",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "OpenAPI",
+    "Docker"
+  ],
+  "name": "openapi-servers",
+  "slug": "open-webui-openapi-servers",
+  "description": "OpenAPI Tool Servers",
+  "repository": "https://github.com/open-webui/openapi-servers",
+  "stars": 415,
+  "originator": "open-webui",
+  "tags": [
+    "ai",
+    "mcp",
+    "openapi"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/open-webui/openapi-servers#readme",
+    "https://github.com/open-webui/openapi-servers/wiki",
+    "https://github.com/open-webui/openapi-servers/issues"
+  ],
+  "highlight": "Provides customizable OpenAPI-compliant servers for rapid API prototyping and testing"
+}

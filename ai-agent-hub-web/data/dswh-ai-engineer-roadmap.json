@@ -1,0 +1,22 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "",
+  "principle": "",
+  "reusability": "",
+  "limitations": "",
+  "platforms": [],
+  "stack": [],
+  "name": "ai-engineer-roadmap",
+  "slug": "dswh-ai-engineer-roadmap",
+  "description": "A roadmap describing the required skills, learning resources and sample tools to become an AI Engineer ",
+  "repository": "https://github.com/dswh/ai-engineer-roadmap",
+  "stars": 475,
+  "originator": "dswh",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-06-05",
+  "language": "",
+  "useful_links": []
+}

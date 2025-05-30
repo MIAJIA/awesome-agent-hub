@@ -1,0 +1,55 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive toolkit for monitoring AI agents, tracking costs associated with large language models (LLMs), and benchmarking performance across different agent frameworks.",
+  "principle": "To enhance the efficiency and effectiveness of AI agents by providing tools that facilitate monitoring, evaluation, and cost management while ensuring seamless integration with popular LLMs and agent frameworks.",
+  "reusability": "Designed to be modular and extensible, allowing developers to integrate the SDK into various projects and frameworks without significant modifications.",
+  "limitations": "Currently in alpha status, which may imply incomplete features, potential instability, and the need for further testing before production use.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Langchain",
+    "Autogen",
+    "CamelAI"
+  ],
+  "name": "agentops",
+  "slug": "agentops-ai-agentops",
+  "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI",
+  "repository": "https://github.com/AgentOps-AI/agentops",
+  "stars": 4463,
+  "originator": "AgentOps-AI",
+  "tags": [
+    "agent",
+    "agentops",
+    "agents-sdk",
+    "ai",
+    "anthropic",
+    "autogen",
+    "cost-estimation",
+    "crewai",
+    "evals",
+    "evaluation-metrics",
+    "groq",
+    "langchain",
+    "llm",
+    "mistral",
+    "ollama",
+    "openai",
+    "openai-agents"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/AgentOps-AI/agentops/blob/main/README.md",
+    "https://github.com/AgentOps-AI/agentops/wiki",
+    "https://github.com/AgentOps-AI/agentops/blob/main/docs"
+  ],
+  "highlight": "Comprehensive toolkit for monitoring and benchmarking AI agents with seamless integration across popular LLMs and frameworks."
+}

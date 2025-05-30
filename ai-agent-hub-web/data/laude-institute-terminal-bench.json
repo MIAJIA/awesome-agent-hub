@@ -1,0 +1,33 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Evaluate the performance of large language models (LLMs) in executing complicated tasks within a terminal environment.",
+  "principle": "Utilizes a series of predefined terminal tasks and commands to test the capabilities of LLMs, measuring their ability to understand and execute terminal-based operations.",
+  "reusability": "Can be integrated into LLM development workflows to assess model performance on terminal tasks; provides a framework for extending with custom tasks.",
+  "limitations": "Primarily focused on terminal tasks; may not reflect performance in other types of environments or tasks outside the command line.",
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Shell",
+    "Python"
+  ],
+  "name": "terminal-bench",
+  "slug": "laude-institute-terminal-bench",
+  "description": "A benchmark for LLMs on complicated tasks in the terminal",
+  "repository": "https://github.com/laude-institute/terminal-bench",
+  "stars": 133,
+  "originator": "laude-institute",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Shell",
+  "useful_links": [
+    "https://github.com/laude-institute/terminal-bench/blob/main/README.md",
+    "https://github.com/laude-institute/terminal-bench/issues",
+    "https://github.com/laude-institute/terminal-bench/wiki"
+  ],
+  "highlight": "Benchmarking LLMs on complex terminal tasks to evaluate their performance and capabilities in command-line environments."
+}

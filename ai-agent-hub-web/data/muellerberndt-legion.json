@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Automate and optimize the process of web3 bug hunting by deploying autonomous agents.",
+  "principle": "Utilizes autonomous agents to perform tasks related to bug tracking and bounty management in web3 environments.",
+  "reusability": "Designed to be extensible with support for launching agents that can perform arbitrary tasks, providing a flexible framework for web3 bug hunting.",
+  "limitations": "Currently in alpha stage, which may include limited features and potential stability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "web3.py",
+    "Flask"
+  ],
+  "name": "legion",
+  "slug": "muellerberndt-legion",
+  "description": "Scrappy assistant that automates web3 bug hunting workflows. Tracks ongoing bug bounties and launches autonomous agents that can perform arbitrary tasks.",
+  "repository": "https://github.com/muellerberndt/legion",
+  "stars": 111,
+  "originator": "muellerberndt",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-03-29",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/muellerberndt/legion#readme",
+    "https://github.com/muellerberndt/legion/wiki"
+  ],
+  "highlight": "Autonomous agents that automate web3 bug hunting workflows and track ongoing bug bounties."
+}

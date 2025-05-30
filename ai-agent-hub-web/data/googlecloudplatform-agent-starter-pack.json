@@ -1,0 +1,44 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Accelerate the development and deployment of Generative AI agents on Google Cloud by providing ready-to-use templates and solutions for common challenges.",
+  "principle": "Built on Google Cloud infrastructure, utilizing Python for agent logic, with templates addressing deployment, operations, evaluation, and customization.",
+  "reusability": "Offers modular templates that can be adapted for various GenAI applications, with support for customization and integration with Google Cloud services.",
+  "limitations": "Primarily designed for use with Google Cloud, may require adaptation for other cloud platforms.",
+  "platforms": [
+    "Google Cloud Platform",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Google Cloud",
+    "Docker",
+    "Kubernetes"
+  ],
+  "name": "agent-starter-pack",
+  "slug": "googlecloudplatform-agent-starter-pack",
+  "description": "A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents.",
+  "repository": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+  "stars": 1789,
+  "originator": "GoogleCloudPlatform",
+  "tags": [
+    "agents",
+    "gcp",
+    "gemini",
+    "genai-agents",
+    "generative-ai",
+    "llmops",
+    "mlops",
+    "observability"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/GoogleCloudPlatform/agent-starter-pack/blob/main/README.md",
+    "https://cloud.google.com/docs",
+    "https://cloud.google.com/ai-platform"
+  ],
+  "highlight": "Production-ready GenAI agent templates for Google Cloud with comprehensive deployment and observability solutions."
+}

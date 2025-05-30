@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Enable developers to create and deploy custom engineering agents that interact with and enhance their codebases.",
+  "principle": "Leverages prompt-based generation to create agents that can understand and interact with code, using AI frameworks and knowledge graphs.",
+  "reusability": "Designed for easy integration into existing codebases with API support for custom agent creation and deployment.",
+  "limitations": "Currently in alpha stage, may have limited stability and feature set; primarily supports Python environments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "OpenAI",
+    "Knowledge Graph"
+  ],
+  "name": "potpie",
+  "slug": "potpie-ai-potpie",
+  "description": "Prompt-To-Agent : Create custom engineering agents for your codebase",
+  "repository": "https://github.com/potpie-ai/potpie",
+  "stars": 4593,
+  "originator": "potpie-ai",
+  "tags": [
+    "agents",
+    "ai-agents",
+    "ai-agents-framework",
+    "artificial-intelligence",
+    "developer-tools",
+    "devtools",
+    "generative-ai",
+    "knowledge-graph",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/potpie-ai/potpie#readme",
+    "https://github.com/potpie-ai/potpie/wiki"
+  ],
+  "highlight": "Facilitates the creation of custom AI agents tailored for specific codebases, enhancing developer productivity and code management."
+}

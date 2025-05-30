@@ -1,0 +1,46 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Provides a robust framework for developing and orchestrating AI agents with a focus on reliability and MCP support",
+  "principle": "Builds on the Model Context Protocol to enable seamless integration and coordination of AI models across different use cases",
+  "reusability": "Offers a modular architecture with plug-and-play components and APIs for easy integration with existing systems",
+  "limitations": "Currently in alpha stage, which may involve incomplete features and potential stability issues",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "LangChain",
+    "FastAPI"
+  ],
+  "name": "Upsonic",
+  "slug": "upsonic-upsonic",
+  "description": "The most reliable AI agent framework that supports MCP.",
+  "repository": "https://github.com/Upsonic/Upsonic",
+  "stars": 7491,
+  "originator": "Upsonic",
+  "tags": [
+    "agent",
+    "agent-framework",
+    "claude",
+    "computer-use",
+    "llms",
+    "mcp",
+    "model-context-protocol",
+    "openai",
+    "rag",
+    "reliability"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Upsonic/Upsonic/blob/main/README.md",
+    "https://github.com/Upsonic/Upsonic/wiki",
+    "https://github.com/Upsonic/Upsonic/issues"
+  ],
+  "highlight": "Supports the Model Context Protocol (MCP) for enhanced agent reliability and coordination"
+}

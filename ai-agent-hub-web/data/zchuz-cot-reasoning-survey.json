@@ -1,0 +1,38 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive survey of Chain of Thought Reasoning in AI, capturing advances, frontiers, and future directions.",
+  "principle": "Compiles and synthesizes recent research papers and findings on Chain of Thought Reasoning, presenting them in a structured survey format.",
+  "reusability": "Can be used as a reference for researchers and practitioners interested in Chain of Thought Reasoning; includes a collection of categorized research papers and methodologies.",
+  "limitations": "Focused primarily on academic research and may not cover all industry applications; relies on available literature up to the survey's publication date.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown",
+    "Python"
+  ],
+  "name": "CoT-Reasoning-Survey",
+  "slug": "zchuz-cot-reasoning-survey",
+  "description": "[ACL 2024] A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future",
+  "repository": "https://github.com/zchuz/CoT-Reasoning-Survey",
+  "stars": 449,
+  "originator": "zchuz",
+  "tags": [
+    "chain-of-thought",
+    "chain-of-thought-reasoning",
+    "deep-learning",
+    "large-language-model",
+    "natural-language-procressing",
+    "survey-paper"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-01-16",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/zchuz/CoT-Reasoning-Survey/blob/main/README.md",
+    "https://github.com/zchuz/CoT-Reasoning-Survey/tree/main/papers"
+  ],
+  "highlight": "Comprehensive survey of Chain of Thought Reasoning in AI, offering insights into current trends and future research directions."
+}

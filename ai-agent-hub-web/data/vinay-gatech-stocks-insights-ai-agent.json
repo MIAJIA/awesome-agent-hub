@@ -1,0 +1,33 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "Provide users with detailed stock data and news insights using advanced AI techniques.",
+  "principle": "Leverages LangChain and LangGraph to process and analyze stock data and news using Large Language Models (LLMs).",
+  "reusability": "Can be integrated into other systems via API support for stock data and news retrieval.",
+  "limitations": "Primarily focused on stock data; may not cover other financial instruments or markets comprehensively.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "LangGraph",
+    "LLMs"
+  ],
+  "name": "stocks-insights-ai-agent",
+  "slug": "vinay-gatech-stocks-insights-ai-agent",
+  "description": "Full Stack application for retrieving Stock Data and News using LLM, LangChain and LangGraph",
+  "repository": "https://github.com/vinay-gatech/stocks-insights-ai-agent",
+  "stars": 618,
+  "originator": "vinay-gatech",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-12-08",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/vinay-gatech/stocks-insights-ai-agent#readme"
+  ],
+  "highlight": "Integrates LLMs with financial data and news retrieval for comprehensive stock market insights."
+}

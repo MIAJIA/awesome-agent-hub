@@ -1,0 +1,45 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To enable developers to easily deploy, manage, and scale AI agents via an API.",
+  "principle": "Utilizes a RESTful API to interact with and manage AI agents, leveraging frameworks like LangChain for agent orchestration.",
+  "reusability": "Designed to be API-first, allowing integration with various applications and services through standard REST endpoints.",
+  "limitations": "Currently in alpha stage, may have limited features and potential bugs; primarily focused on AI agent management and orchestration.",
+  "platforms": [
+    "Docker",
+    "Vercel"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "LangChain",
+    "OpenAI",
+    "Vercel"
+  ],
+  "name": "superagent",
+  "slug": "superagent-ai-superagent",
+  "description": "🥷 Run AI-agents with an API",
+  "repository": "https://github.com/superagent-ai/superagent",
+  "stars": 5857,
+  "originator": "superagent-ai",
+  "tags": [
+    "agent",
+    "ai",
+    "assistant",
+    "generative-ai",
+    "llm",
+    "open-source",
+    "python",
+    "rag"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-01",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/superagent-ai/superagent#readme",
+    "https://superagent.ai/docs",
+    "https://superagent.ai/demo"
+  ],
+  "highlight": "Facilitates the deployment and management of AI agents through a unified API interface."
+}

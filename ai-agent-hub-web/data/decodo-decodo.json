@@ -1,0 +1,56 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates web scraping and data collection by offering rotating residential proxies to bypass IP bans and rate limits.",
+  "principle": "Utilizes a large pool of residential IP addresses to rotate requests, ensuring anonymity and access to data without being blocked.",
+  "reusability": "Can be integrated into web scraping tools and applications via simple configuration, supports both HTTP(S) and SOCKS5 protocols.",
+  "limitations": "May have limitations on the number of requests per second and the geographic distribution of available IPs.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Java",
+    "HTTP",
+    "SOCKS5"
+  ],
+  "name": "Decodo",
+  "slug": "decodo-decodo",
+  "description": "HTTP(S)/SOCKS5 rotating residential proxies - code examples & general information.",
+  "repository": "https://github.com/Decodo/Decodo",
+  "stars": 1129,
+  "originator": "Decodo",
+  "tags": [
+    "data-collection",
+    "data-gathering",
+    "http-proxy",
+    "https-proxy",
+    "ip-rotation",
+    "proxies",
+    "proxy",
+    "proxy-integration",
+    "proxy-list",
+    "proxy-rotator",
+    "proxy-scraper",
+    "proxy-server",
+    "python",
+    "python-scraper",
+    "residential-proxies",
+    "scraping",
+    "socks5-proxy",
+    "url-scraper",
+    "web-scraping",
+    "web-scraping-api"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-30",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/Decodo/Decodo#readme",
+    "https://github.com/Decodo/Decodo/wiki",
+    "https://github.com/Decodo/Decodo/issues"
+  ],
+  "highlight": "Provides a robust solution for rotating residential proxies with support for HTTP(S) and SOCKS5 protocols."
+}

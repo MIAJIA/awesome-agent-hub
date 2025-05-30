@@ -1,0 +1,47 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates the deployment and management of AI agents on macOS systems using containerization.",
+  "principle": "Leverages Docker and Apple's Virtualization framework to create isolated environments for AI agents, enabling efficient resource management and execution.",
+  "reusability": "Designed as a containerized solution, allowing for easy deployment and scaling of AI agents across macOS systems.",
+  "limitations": "Primarily supports macOS due to reliance on Apple's Virtualization framework; may have limited support for other operating systems.",
+  "platforms": [
+    "macOS",
+    "Docker"
+  ],
+  "stack": [
+    "Docker",
+    "Swift",
+    "Apple Virtualization Framework"
+  ],
+  "name": "cua",
+  "slug": "trycua-cua",
+  "description": "c/ua is the Docker Container for Computer-Use AI Agents.",
+  "repository": "https://github.com/trycua/cua",
+  "stars": 8132,
+  "originator": "trycua",
+  "tags": [
+    "agent",
+    "ai-agent",
+    "apple",
+    "computer-use",
+    "cua",
+    "lume",
+    "macos",
+    "manus",
+    "operator",
+    "swift",
+    "virtualization",
+    "virtualization-framework"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/trycua/cua#readme",
+    "https://github.com/trycua/cua/wiki",
+    "https://github.com/trycua/cua/issues"
+  ],
+  "highlight": "Provides a Docker-based environment for running AI agents on macOS using Apple's Virtualization framework."
+}

@@ -1,0 +1,37 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To provide a curated list of resources and benchmarks for understanding and advancing reasoning capabilities in foundation models.",
+  "principle": "Aggregates and organizes research papers and benchmarks related to reasoning in large language models and multimodal models.",
+  "reusability": "Open-source repository with a structured list of resources that can be easily accessed and utilized by researchers and developers.",
+  "limitations": "Primarily serves as a resource aggregator; does not provide original research or implementations.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "Awesome-Reasoning-Foundation-Models",
+  "slug": "reasoning-survey-awesome-reasoning-foundation-models",
+  "description": "✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models",
+  "repository": "https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models",
+  "stars": 583,
+  "originator": "reasoning-survey",
+  "tags": [
+    "foundation-models",
+    "llm",
+    "llm-reasoning",
+    "multimodal",
+    "reasoning",
+    "reasoning-agent",
+    "reasoning-language-models"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-25",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models#readme"
+  ],
+  "highlight": "Comprehensive collection of the latest research papers and benchmarks in reasoning with foundation models."
+}

@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To develop small, specialized agents that solve specific industrial problems using domain knowledge and AI.",
+  "principle": "Combines domain-specific knowledge with AI to create neurosymbolic agents capable of addressing industrial challenges.",
+  "reusability": "Designed for composability; can integrate with various industrial systems and processes. Provides extensible architecture for creating custom agents.",
+  "limitations": "Early-stage development; may lack extensive documentation and community support. Limited to specific industrial use cases.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "DANA architecture"
+  ],
+  "name": "openssa",
+  "slug": "aitomatic-openssa",
+  "description": "OpenSSA: Small Specialist Agents based on Domain-Aware Neurosymbolic Agent (DANA) architecture for industrial problem-solving",
+  "repository": "https://github.com/aitomatic/openssa",
+  "stars": 303,
+  "originator": "aitomatic",
+  "tags": [
+    "domain-knowledge",
+    "industrial-ai",
+    "small-models",
+    "specialist-agents"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-24",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/aitomatic/openssa#readme",
+    "https://github.com/aitomatic/openssa/issues",
+    "https://github.com/aitomatic/openssa/wiki"
+  ],
+  "highlight": "Specialist agents leveraging Domain-Aware Neurosymbolic Agent (DANA) architecture for industrial problem-solving"
+}

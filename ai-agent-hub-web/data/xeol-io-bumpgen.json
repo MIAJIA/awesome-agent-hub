@@ -1,0 +1,42 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "To streamline the process of upgrading npm packages by providing AI-generated version suggestions.",
+  "principle": "Analyzes package dependencies and suggests upgrades using AI to ensure compatibility and security.",
+  "reusability": "Can be integrated into existing JavaScript/TypeScript projects to automate package upgrades; provides CLI for easy use.",
+  "limitations": "Primarily focused on npm packages; may not handle complex dependency conflicts; requires manual review of AI suggestions.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "React",
+    "TSX"
+  ],
+  "name": "bumpgen",
+  "slug": "xeol-io-bumpgen",
+  "description": "bumpgen is an AI agent that upgrades npm packages ",
+  "repository": "https://github.com/xeol-io/bumpgen",
+  "stars": 123,
+  "originator": "xeol-io",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "appsec",
+    "bump-version",
+    "react",
+    "tsx",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-08-05",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/xeol-io/bumpgen#readme",
+    "https://github.com/xeol-io/bumpgen/issues",
+    "https://github.com/xeol-io/bumpgen/releases"
+  ],
+  "highlight": "Automates the process of upgrading npm packages with AI-driven suggestions."
+}

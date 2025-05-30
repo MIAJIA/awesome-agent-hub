@@ -1,0 +1,42 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "Provide a library of Jupyter notebooks to facilitate AI model development and experimentation",
+  "principle": "Offers pre-built Jupyter notebooks that demonstrate various AI and machine learning techniques",
+  "reusability": "Notebooks can be adapted for different datasets and AI models, promoting learning and experimentation",
+  "limitations": "Primarily educational; not optimized for production use or large-scale deployment",
+  "platforms": [
+    "Jupyter",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "name": "cookbook",
+  "slug": "mistralai-cookbook",
+  "description": "N/A",
+  "repository": "https://github.com/mistralai/cookbook",
+  "stars": 1732,
+  "originator": "mistralai",
+  "tags": [
+    "AI",
+    "machine learning",
+    "Jupyter",
+    "notebooks",
+    "education"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/mistralai/cookbook#readme",
+    "https://github.com/mistralai/cookbook/tree/main/notebooks"
+  ],
+  "highlight": "Comprehensive collection of Jupyter notebooks for AI model training and experimentation"
+}

@@ -1,0 +1,51 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a curated list and framework for exploring and evaluating top AI agents.",
+  "principle": "Aggregates information on AI agents using a collaborative approach, leveraging community contributions and evaluations.",
+  "reusability": "Offers a modular framework for adding new agents, with detailed documentation for integration and evaluation.",
+  "limitations": "Dependent on community contributions for updates; may lack real-time data on agent performance.",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "stack": [
+    "Python",
+    "GitHub API",
+    "Markdown"
+  ],
+  "name": "Best-AI-Agents",
+  "slug": "samuraigpt-best-ai-agents",
+  "description": "A list of top AI agents",
+  "repository": "https://github.com/SamurAIGPT/Best-AI-Agents",
+  "stars": 435,
+  "originator": "SamurAIGPT",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-agents-framework",
+    "best-ai-agents",
+    "chat",
+    "chatbot",
+    "chatgpt",
+    "gpt",
+    "gpt-4",
+    "groq",
+    "llm",
+    "llm-agent",
+    "openai",
+    "rag",
+    "vector"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-06-12",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/SamurAIGPT/Best-AI-Agents/blob/main/README.md",
+    "https://github.com/SamurAIGPT/Best-AI-Agents/wiki",
+    "https://github.com/SamurAIGPT/Best-AI-Agents/issues"
+  ],
+  "highlight": "Comprehensive collection and comparison of top AI agents across various domains."
+}

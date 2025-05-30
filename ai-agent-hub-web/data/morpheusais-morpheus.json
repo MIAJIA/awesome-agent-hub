@@ -1,0 +1,45 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To create a network that facilitates the development and deployment of smart agents using blockchain and AI technologies.",
+  "principle": "Combines blockchain technology with AI to enable decentralized and autonomous smart agents that can interact with smart contracts on the Ethereum network.",
+  "reusability": "Offers modular components and APIs to integrate with Ethereum smart contracts and AI models, facilitating the development of decentralized applications.",
+  "limitations": "Primarily focused on Ethereum, may not support other blockchain platforms; early-stage development may have limited features and stability.",
+  "platforms": [
+    "Ethereum",
+    "Node.js"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Ethereum",
+    "Smart Contracts",
+    "LLM Inference"
+  ],
+  "name": "Morpheus",
+  "slug": "morpheusais-morpheus",
+  "description": "Morpheus - A Network For Powering Smart Agents - Compute + Code + Capital + Community",
+  "repository": "https://github.com/MorpheusAIs/Morpheus",
+  "stars": 202,
+  "originator": "MorpheusAIs",
+  "tags": [
+    "agents",
+    "ai",
+    "compute",
+    "ethereum",
+    "llm-inference",
+    "llms",
+    "smart-agents",
+    "smart-contracts"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-06-20",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/MorpheusAIs/Morpheus#readme",
+    "https://github.com/MorpheusAIs/Morpheus/wiki",
+    "https://github.com/MorpheusAIs/Morpheus/issues"
+  ],
+  "highlight": "Integrates compute, code, capital, and community to empower smart agents on the Ethereum network."
+}

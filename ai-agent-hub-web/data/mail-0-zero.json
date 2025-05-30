@@ -1,0 +1,40 @@
+{
+  "category": "communication",
+  "status": "alpha",
+  "purpose": "To provide a secure and privacy-focused email application.",
+  "principle": "Built with TypeScript, leveraging modern web technologies to ensure a secure and customizable email experience.",
+  "reusability": "Designed as an open-source project, it can be customized and extended by developers, with support for plugins and integrations.",
+  "limitations": "Being in alpha status, it may have stability issues and limited feature set compared to mature email clients.",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Electron"
+  ],
+  "name": "Zero",
+  "slug": "mail-0-zero",
+  "description": "Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email",
+  "repository": "https://github.com/Mail-0/Zero",
+  "stars": 7694,
+  "originator": "Mail-0",
+  "tags": [
+    "ai",
+    "email",
+    "privacy",
+    "security"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Mail-0/Zero",
+    "https://discord.gg/0email"
+  ],
+  "highlight": "Zero prioritizes user privacy and security as an open-source email client."
+}

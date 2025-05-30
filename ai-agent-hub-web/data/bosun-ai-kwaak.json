@@ -1,0 +1,40 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Accelerate the reduction of technical debt using AI-driven automation and analysis.",
+  "principle": "Leverages AI agents to identify, prioritize, and automate the resolution of technical debt in software projects.",
+  "reusability": "Designed to be integrated into existing developer workflows, providing command-line tools and APIs for automation.",
+  "limitations": "Currently in alpha stage, may have limited support for certain programming languages and frameworks.",
+  "platforms": [
+    "Linux",
+    "MacOS"
+  ],
+  "stack": [
+    "Rust",
+    "OpenAI",
+    "LangChain"
+  ],
+  "name": "kwaak",
+  "slug": "bosun-ai-kwaak",
+  "description": "Burn through tech debt with AI agents!",
+  "repository": "https://github.com/bosun-ai/kwaak",
+  "stars": 243,
+  "originator": "bosun-ai",
+  "tags": [
+    "agents",
+    "artificial-intelligence",
+    "developer-tools",
+    "llm",
+    "rust",
+    "terminal-app"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/bosun-ai/kwaak/blob/main/README.md",
+    "https://github.com/bosun-ai/kwaak/wiki"
+  ],
+  "highlight": "Unique focus on using AI to directly address and manage technical debt in codebases."
+}

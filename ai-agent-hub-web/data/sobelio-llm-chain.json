@@ -1,0 +1,44 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation of complex workflows for large language models, enabling tasks like text summarization and complex task automation.",
+  "principle": "Built on Rust, it leverages modular chain building to orchestrate large language model interactions.",
+  "reusability": "Designed as a Rust crate, it can be integrated into Rust projects, offering modular components for building language model chains.",
+  "limitations": "Primarily focused on Rust developers; may require familiarity with Rust and language model concepts.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "stack": [
+    "Rust",
+    "OpenAI",
+    "LangChain",
+    "Llama"
+  ],
+  "name": "llm-chain",
+  "slug": "sobelio-llm-chain",
+  "description": "`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks",
+  "repository": "https://github.com/sobelio/llm-chain",
+  "stars": 1487,
+  "originator": "sobelio",
+  "tags": [
+    "chatgpt",
+    "langchain",
+    "llama",
+    "llm",
+    "openai",
+    "rust",
+    "text-summary"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-10-31",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/sobelio/llm-chain#readme",
+    "https://github.com/sobelio/llm-chain/wiki",
+    "https://docs.rs/llm-chain"
+  ],
+  "highlight": "Enables building complex chains for large language models with Rust, focusing on text summarization and task completion."
+}

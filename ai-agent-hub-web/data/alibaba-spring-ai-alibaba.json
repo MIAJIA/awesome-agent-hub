@@ -1,0 +1,37 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide Java developers with a comprehensive framework for building agentic AI applications.",
+  "principle": "Leverages the Spring framework to facilitate the development of AI-driven applications, providing pre-built components and integration capabilities.",
+  "reusability": "Highly modular with Spring-based components, allowing for easy integration and extension in Java applications.",
+  "limitations": "Currently in alpha stage, which may include incomplete features and possible instability in production environments.",
+  "platforms": [
+    "Java Virtual Machine"
+  ],
+  "stack": [
+    "Java",
+    "Spring Framework",
+    "Apache Maven"
+  ],
+  "name": "spring-ai-alibaba",
+  "slug": "alibaba-spring-ai-alibaba",
+  "description": "Agentic AI Framework for Java Developers",
+  "repository": "https://github.com/alibaba/spring-ai-alibaba",
+  "stars": 3636,
+  "originator": "alibaba",
+  "tags": [
+    "artificial-intelligence",
+    "java",
+    "spring-ai"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Java",
+  "useful_links": [
+    "https://github.com/alibaba/spring-ai-alibaba/blob/main/README.md",
+    "https://github.com/alibaba/spring-ai-alibaba/wiki",
+    "https://github.com/alibaba/spring-ai-alibaba/issues"
+  ],
+  "highlight": "A robust AI framework tailored for Java developers, seamlessly integrating with the Spring ecosystem."
+}

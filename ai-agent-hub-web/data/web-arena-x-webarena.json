@@ -1,0 +1,38 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Simulate and test autonomous agents in a realistic web environment to improve their interaction capabilities.",
+  "principle": "Builds on web scraping and interaction technologies to create a controlled, realistic web environment for agent testing.",
+  "reusability": "Modular design allows integration with various AI models and frameworks, supports custom scenarios and environments.",
+  "limitations": "Limited to web-based environments, may not cover all possible web interactions, early-stage development with potential stability issues.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "Selenium",
+    "BeautifulSoup"
+  ],
+  "name": "webarena",
+  "slug": "web-arena-x-webarena",
+  "description": "Code repo for \"WebArena: A Realistic Web Environment for Building Autonomous Agents\"",
+  "repository": "https://github.com/web-arena-x/webarena",
+  "stars": 1009,
+  "originator": "web-arena-x",
+  "tags": [
+    "agent",
+    "nlp"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-02-07",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/web-arena-x/webarena/blob/main/README.md",
+    "https://github.com/web-arena-x/webarena/wiki",
+    "https://github.com/web-arena-x/webarena/issues"
+  ],
+  "highlight": "Provides a realistic web environment for testing and developing autonomous web-based agents."
+}

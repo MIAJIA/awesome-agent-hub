@@ -1,0 +1,52 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitate the creation of integrations with various platforms by reverse engineering their internal APIs.",
+  "principle": "Utilizes reverse engineering techniques to understand and interact with undocumented APIs, enabling integration without official support.",
+  "reusability": "Designed to be adaptable for various platforms by leveraging reverse engineering, supports plugin-like architecture for custom integrations.",
+  "limitations": "May face legal and ethical challenges due to reverse engineering, limited by the complexity and variability of undocumented APIs.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "BeautifulSoup",
+    "Requests"
+  ],
+  "name": "Integuru",
+  "slug": "integuru-ai-integuru",
+  "description": "The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.",
+  "repository": "https://github.com/Integuru-AI/Integuru",
+  "stars": 4349,
+  "originator": "Integuru-AI",
+  "tags": [
+    "agent",
+    "agents",
+    "ai-agent",
+    "ai-agents",
+    "api",
+    "apis",
+    "automation",
+    "integration",
+    "integrations",
+    "llm",
+    "open-source",
+    "openapi",
+    "robotic-process-automation",
+    "rpa",
+    "unofficial-api",
+    "unofficial-apis"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-02-13",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Integuru-AI/Integuru/blob/main/README.md",
+    "https://github.com/Integuru-AI/Integuru/wiki",
+    "https://github.com/Integuru-AI/Integuru/issues"
+  ],
+  "highlight": "Builds permissionless integrations through reverse engineering of platforms' internal APIs."
+}

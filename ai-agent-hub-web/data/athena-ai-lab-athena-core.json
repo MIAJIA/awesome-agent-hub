@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a flexible and extensible framework for building, deploying, and managing AI agents across various applications",
+  "principle": "Built on a modular architecture using TypeScript, allowing easy integration and customization of agent behaviors and capabilities",
+  "reusability": "Offers a plugin system for extending agent capabilities, REST API for integration with other systems, and support for custom modules",
+  "limitations": "Currently in alpha stage with limited documentation, may have stability issues and incomplete features",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Docker"
+  ],
+  "name": "athena-core",
+  "slug": "athena-ai-lab-athena-core",
+  "description": "A General-Purpose AI Agent ✨",
+  "repository": "https://github.com/Athena-AI-Lab/athena-core",
+  "stars": 345,
+  "originator": "Athena-AI-Lab",
+  "tags": [],
+  "open_source": true,
+  "license": "BSD-3-Clause",
+  "last_updated": "2025-05-19",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Athena-AI-Lab/athena-core/blob/main/README.md",
+    "https://github.com/Athena-AI-Lab/athena-core/wiki",
+    "https://github.com/Athena-AI-Lab/athena-core/issues"
+  ],
+  "highlight": "General-purpose AI agent framework for creating and managing intelligent agents"
+}

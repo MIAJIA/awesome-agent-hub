@@ -1,0 +1,51 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "To automate hypothesis generation, data analysis, and report writing, with a focus on expanding capabilities into crypto market intelligence.",
+  "principle": "Leverages AI and multi-agent systems to automate complex research and analysis tasks, integrating with crypto market data sources.",
+  "reusability": "Extensible through APIs and plugins, allowing integration with various data sources and analytical tools.",
+  "limitations": "Currently in alpha stage, with potential limitations in handling real-time data and scaling multi-agent interactions.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "LangGraph",
+    "OpenAI",
+    "Hugging Face"
+  ],
+  "name": "DATAGEN",
+  "slug": "starpig1129-datagen",
+  "description": "DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing. Now expanding into crypto market intelligence. Learn more: https://datagen.digital/.",
+  "repository": "https://github.com/starpig1129/DATAGEN",
+  "stars": 1307,
+  "originator": "starpig1129",
+  "tags": [
+    "agent",
+    "ai",
+    "ai-data-analysis",
+    "artificial-intelligence",
+    "code-generation",
+    "data-analysis",
+    "data-analytics",
+    "data-science",
+    "langchain",
+    "langgraph",
+    "large-language-model",
+    "large-language-models",
+    "llm",
+    "multiagent-systems",
+    "python"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/starpig1129/DATAGEN",
+    "https://datagen.digital/"
+  ],
+  "highlight": "AI-driven multi-agent system for automating research tasks and expanding into crypto market intelligence."
+}

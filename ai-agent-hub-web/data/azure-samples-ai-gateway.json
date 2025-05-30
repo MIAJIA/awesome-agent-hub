@@ -1,0 +1,45 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Experiment with and enhance Azure API Management's capabilities by integrating AI technologies like Azure OpenAI and AI Foundry.",
+  "principle": "Leverages Azure API Management to facilitate AI integration, utilizing services like Azure OpenAI for advanced AI functionalities.",
+  "reusability": "Designed for extensibility within Azure environments, supports integration with various Azure AI services, and provides examples for demonstration.",
+  "limitations": "Primarily focused on Azure ecosystems, may not be directly applicable to non-Azure platforms.",
+  "platforms": [
+    "Azure"
+  ],
+  "stack": [
+    "Azure API Management",
+    "Azure OpenAI",
+    "AI Foundry",
+    "Jupyter Notebook"
+  ],
+  "name": "AI-Gateway",
+  "slug": "azure-samples-ai-gateway",
+  "description": "APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀",
+  "repository": "https://github.com/Azure-Samples/AI-Gateway",
+  "stars": 623,
+  "originator": "Azure-Samples",
+  "tags": [
+    "agents",
+    "apimanagement",
+    "autogen",
+    "azure",
+    "foundry",
+    "genai",
+    "mcp",
+    "mcp-server",
+    "openai",
+    "openai-api"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Jupyter Notebook",
+  "useful_links": [
+    "https://github.com/Azure-Samples/AI-Gateway/blob/main/README.md",
+    "https://github.com/Azure-Samples/AI-Gateway/tree/main/samples",
+    "https://github.com/Azure-Samples/AI-Gateway/wiki"
+  ],
+  "highlight": "Integrates Azure API Management with AI capabilities to explore and extend the potential of AI within API ecosystems."
+}

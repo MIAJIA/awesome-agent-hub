@@ -1,0 +1,40 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate seamless integration and management of AI-driven APIs in cloud-native architectures",
+  "principle": "Built on top of Envoy, it leverages AI to optimize API routing and management in cloud environments",
+  "reusability": "Designed as a plug-and-play solution with support for Envoy and cloud-native deployments",
+  "limitations": "Currently in alpha stage, may lack full feature completeness and stability for production environments",
+  "platforms": [
+    "Kubernetes",
+    "Linux"
+  ],
+  "stack": [
+    "Go",
+    "Envoy",
+    "Kubernetes"
+  ],
+  "name": "higress",
+  "slug": "alibaba-higress",
+  "description": "🤖 AI Gateway | AI Native API Gateway",
+  "repository": "https://github.com/alibaba/higress",
+  "stars": 5491,
+  "originator": "alibaba",
+  "tags": [
+    "ai-gateway",
+    "ai-native",
+    "api-gateway",
+    "cloud-native",
+    "envoy"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/alibaba/higress",
+    "https://github.com/alibaba/higress/wiki",
+    "https://github.com/alibaba/higress/issues"
+  ],
+  "highlight": "AI-native API gateway optimized for cloud-native environments"
+}

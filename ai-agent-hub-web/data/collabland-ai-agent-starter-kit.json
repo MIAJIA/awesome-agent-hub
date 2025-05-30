@@ -1,0 +1,30 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To serve as a starting point for developers to create AI agents that can integrate with Collab.Land ecosystems.",
+  "principle": "Built using TypeScript with a focus on modularity and extensibility, allowing developers to easily customize and expand functionality.",
+  "reusability": "Designed as a modular and extensible framework, enabling developers to build on top of its core functionalities and integrate with other systems.",
+  "limitations": "Primarily in alpha stage, so may lack comprehensive documentation and stability. Limited to use cases supported by Collab.Land.",
+  "platforms": [
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js"
+  ],
+  "name": "AI-Agent-Starter-Kit",
+  "slug": "collabland-ai-agent-starter-kit",
+  "description": "Collab.Land AI Agent Starter Kit",
+  "repository": "https://github.com/collabland/AI-Agent-Starter-Kit",
+  "stars": 163,
+  "originator": "collabland",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-01-29",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/collabland/AI-Agent-Starter-Kit#readme"
+  ],
+  "highlight": "Provides a foundational framework for building AI agents with Collab.Land integration."
+}

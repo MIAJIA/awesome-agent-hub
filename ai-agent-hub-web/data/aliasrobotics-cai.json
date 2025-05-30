@@ -1,0 +1,41 @@
+{
+  "category": "experimental",
+  "status": "alpha",
+  "purpose": "Enhance cybersecurity measures by leveraging AI for vulnerability detection and penetration testing",
+  "principle": "Utilizes machine learning algorithms and natural language processing to identify and analyze potential security threats",
+  "reusability": "Offers APIs and modular components for integration into existing cybersecurity frameworks and workflows",
+  "limitations": "Primarily focused on cybersecurity; may require customization for specific environments or threat models",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "FastAPI"
+  ],
+  "name": "cai",
+  "slug": "aliasrobotics-cai",
+  "description": "Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence",
+  "repository": "https://github.com/aliasrobotics/cai",
+  "stars": 879,
+  "originator": "aliasrobotics",
+  "tags": [
+    "artificial-intelligence",
+    "cybersecurity",
+    "generative-ai",
+    "llm",
+    "pentesting"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/aliasrobotics/cai/wiki",
+    "https://github.com/aliasrobotics/cai/issues",
+    "https://github.com/aliasrobotics/cai/releases"
+  ],
+  "highlight": "Bug Bounty-ready AI designed specifically for cybersecurity applications"
+}

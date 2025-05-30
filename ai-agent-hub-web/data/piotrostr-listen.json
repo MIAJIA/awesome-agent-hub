@@ -1,0 +1,43 @@
+{
+  "category": "finance",
+  "status": "alpha",
+  "purpose": "Facilitates trading and financial operations on the Solana blockchain by providing a suite of tools.",
+  "principle": "Built using Rust and TypeScript to interact with Solana's blockchain, leveraging smart contracts and decentralized exchanges.",
+  "reusability": "Modular design with CLI tools that can be integrated into larger Solana-based applications or used standalone.",
+  "limitations": "Primarily focused on the Solana blockchain; requires understanding of blockchain technology and trading concepts.",
+  "platforms": [
+    "Linux",
+    "MacOS",
+    "Windows"
+  ],
+  "stack": [
+    "Rust",
+    "TypeScript",
+    "Solana",
+    "CLI"
+  ],
+  "name": "listen",
+  "slug": "piotrostr-listen",
+  "description": "Solana Swiss Army Knife",
+  "repository": "https://github.com/piotrostr/listen",
+  "stars": 962,
+  "originator": "piotrostr",
+  "tags": [
+    "ai",
+    "dex",
+    "memecoins",
+    "rust",
+    "solana",
+    "trading"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/piotrostr/listen/blob/main/README.md",
+    "https://github.com/piotrostr/listen/wiki",
+    "https://github.com/piotrostr/listen/issues"
+  ],
+  "highlight": "Comprehensive toolset for interacting with Solana blockchain, focusing on trading and financial operations."
+}

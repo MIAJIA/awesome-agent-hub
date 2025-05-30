@@ -1,0 +1,47 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a robust infrastructure for collecting, processing, and analyzing customer data across various platforms",
+  "principle": "Utilizes a data pipeline architecture to capture, enrich, and analyze event data in real-time, leveraging cloud-native technologies",
+  "reusability": "Offers modular components that can be integrated into existing data infrastructures, supports multiple data destinations, and provides APIs for custom integrations",
+  "limitations": "Requires setup and configuration of multiple components, may involve complex data integration processes, primarily designed for large-scale data operations",
+  "platforms": [
+    "AWS",
+    "Docker"
+  ],
+  "stack": [
+    "Scala",
+    "AWS",
+    "Kinesis",
+    "Redshift",
+    "S3",
+    "Kafka"
+  ],
+  "name": "snowplow",
+  "slug": "snowplow-snowplow",
+  "description": "The leader in Customer Data Infrastructure",
+  "repository": "https://github.com/snowplow/snowplow",
+  "stars": 6925,
+  "originator": "snowplow",
+  "tags": [
+    "analytics",
+    "data",
+    "data-collection",
+    "data-pipeline",
+    "marketing-analytics",
+    "product-analytics",
+    "snowplow",
+    "snowplow-events",
+    "snowplow-pipeline"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Scala",
+  "useful_links": [
+    "https://github.com/snowplow/snowplow/wiki",
+    "https://docs.snowplow.io/",
+    "https://discourse.snowplow.io/"
+  ],
+  "highlight": "Comprehensive customer data collection and processing pipeline with real-time analytics capabilities"
+}

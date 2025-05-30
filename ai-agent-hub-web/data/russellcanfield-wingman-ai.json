@@ -1,0 +1,34 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Enhance developer productivity by providing AI-assisted coding capabilities within Visual Studio Code.",
+  "principle": "Leverages AI models from platforms like OpenAI, HuggingFace, and Anthropic to assist with coding tasks directly in the IDE.",
+  "reusability": "Can be easily integrated into any VSCode setup, supports multiple AI model providers for flexibility.",
+  "limitations": "Dependent on external AI service providers, may have varying performance based on model selected.",
+  "platforms": [
+    "VSCode"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "VSCode Extension API",
+    "OpenAI",
+    "HuggingFace",
+    "Anthropic"
+  ],
+  "name": "wingman-ai",
+  "slug": "russellcanfield-wingman-ai",
+  "description": "An open-source VSCode extension, the AI coding assistant, integrates with Ollama, HuggingFace, OpenAI, and Anthropic.",
+  "repository": "https://github.com/RussellCanfield/wingman-ai",
+  "stars": 231,
+  "originator": "RussellCanfield",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-19",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/RussellCanfield/wingman-ai"
+  ],
+  "highlight": "Integrates multiple AI platforms to provide a versatile coding assistant within VSCode."
+}

@@ -1,0 +1,56 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitate the development and deployment of secure, scalable AI agent infrastructures.",
+  "principle": "Built on a modular architecture with components for authentication, observability, debugging, telemetry, and runtime management.",
+  "reusability": "Designed as a plug-and-play framework with API support for easy integration into existing systems.",
+  "limitations": "Currently in alpha stage; may have stability issues and limited documentation.",
+  "platforms": [
+    "Linux",
+    "Docker",
+    "Kubernetes"
+  ],
+  "stack": [
+    "Python",
+    "FastAPI",
+    "Docker",
+    "Kubernetes",
+    "Prometheus"
+  ],
+  "name": "golf",
+  "slug": "golf-mcp-golf",
+  "description": "Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents ",
+  "repository": "https://github.com/golf-mcp/golf",
+  "stars": 503,
+  "originator": "golf-mcp",
+  "tags": [
+    "agent-runtime",
+    "ai",
+    "ai-agent",
+    "ai-agent-tools",
+    "ai-agents",
+    "ai-platform",
+    "aiagents",
+    "auth",
+    "authentication",
+    "authorization",
+    "mcp",
+    "mcp-framework",
+    "mcp-server",
+    "mcp-servers",
+    "mcp-tools",
+    "mcps",
+    "observability",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/golf-mcp/golf/wiki",
+    "https://github.com/golf-mcp/golf/issues",
+    "https://github.com/golf-mcp/golf/releases"
+  ],
+  "highlight": "Comprehensive framework for building and scaling secure AI agent infrastructures with built-in support for authentication, observability, and telemetry."
+}

@@ -1,0 +1,48 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitate safe and monitored interaction between AI agents and humans in high-stakes environments.",
+  "principle": "Integrates with communication platforms like Slack and email to provide human-in-the-loop approval workflows for AI function calls.",
+  "reusability": "Offers integration with various communication tools, supports custom workflows, and is compatible with multiple LLMs and frameworks.",
+  "limitations": "Primarily focused on tool-based interactions, may require customization for specific use cases and environments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Slack API",
+    "Email APIs",
+    "LLMs"
+  ],
+  "name": "humanlayer",
+  "slug": "humanlayer-humanlayer",
+  "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+  "repository": "https://github.com/humanlayer/humanlayer",
+  "stars": 806,
+  "originator": "humanlayer",
+  "tags": [
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "approval-process",
+    "escalation-policy",
+    "function-calling",
+    "human-as-tool",
+    "human-in-the-loop",
+    "humanlayer",
+    "llm",
+    "llms"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/humanlayer/humanlayer#readme",
+    "https://github.com/humanlayer/humanlayer/wiki",
+    "https://github.com/humanlayer/humanlayer/issues"
+  ],
+  "highlight": "Enables AI agents to interact with humans through tool-based and asynchronous workflows with human oversight."
+}

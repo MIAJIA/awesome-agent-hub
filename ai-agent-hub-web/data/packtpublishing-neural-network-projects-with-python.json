@@ -1,0 +1,43 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide hands-on projects and examples for learning and implementing neural networks using Python.",
+  "principle": "Utilizes popular Python libraries like TensorFlow and PyTorch to build and train neural network models for various tasks.",
+  "reusability": "Projects can be adapted and extended for custom applications; code is modular and well-documented for educational purposes.",
+  "limitations": "Primarily educational, not optimized for production environments; may require additional tuning for specific use cases.",
+  "platforms": [
+    "Cross-platform",
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "NumPy",
+    "Scikit-learn"
+  ],
+  "name": "Neural-Network-Projects-with-Python",
+  "slug": "packtpublishing-neural-network-projects-with-python",
+  "description": "Neural Network Projects with Python, Published by Packt",
+  "repository": "https://github.com/PacktPublishing/Neural-Network-Projects-with-Python",
+  "stars": 322,
+  "originator": "PacktPublishing",
+  "tags": [
+    "neural networks",
+    "machine learning",
+    "Python",
+    "education",
+    "projects"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-09",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/PacktPublishing/Neural-Network-Projects-with-Python/blob/master/README.md",
+    "https://github.com/PacktPublishing/Neural-Network-Projects-with-Python/tree/master/docs"
+  ],
+  "highlight": "Comprehensive collection of neural network projects leveraging Python for practical applications."
+}

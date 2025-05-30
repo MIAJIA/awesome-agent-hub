@@ -1,0 +1,52 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide an accessible version of Auto GPT that can perform tasks independently without the need for paid APIs.",
+  "principle": "Leverages open-source AI models and libraries to simulate the functionalities of Auto GPT without relying on proprietary APIs.",
+  "reusability": "Designed to be easily deployable and modifiable, allowing integration with other systems without dependency on paid APIs.",
+  "limitations": "Limited by the capabilities of open-source models compared to proprietary ones, potential performance and accuracy constraints.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI API",
+    "Flask"
+  ],
+  "name": "Free-Auto-GPT",
+  "slug": "intelligenzaartificiale-free-auto-gpt",
+  "description": "Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. ",
+  "repository": "https://github.com/IntelligenzaArtificiale/Free-Auto-GPT",
+  "stars": 2500,
+  "originator": "IntelligenzaArtificiale",
+  "tags": [
+    "ai",
+    "auto-gpt",
+    "autogpt",
+    "autogpt-no-paid-api",
+    "chatgpt",
+    "chatgpt-api",
+    "chatgpt-free",
+    "democratize-ai",
+    "free-autogpt",
+    "gpt-4",
+    "gpt-4-api",
+    "gpt4",
+    "open-source-auto-gpt",
+    "open-source-gpt",
+    "openai",
+    "python",
+    "reverse-engineering"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-06-19",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/IntelligenzaArtificiale/Free-Auto-GPT/blob/main/README.md",
+    "https://github.com/IntelligenzaArtificiale/Free-Auto-GPT/wiki"
+  ],
+  "highlight": "A free implementation of Auto GPT that does not rely on paid APIs, democratizing access to autonomous AI capabilities."
+}

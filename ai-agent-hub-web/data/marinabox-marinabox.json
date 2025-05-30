@@ -1,0 +1,32 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To facilitate the creation and management of secure and isolated environments for AI agents, ensuring operational independence and security",
+  "principle": "Utilizes containerization technologies to create isolated environments, leveraging Python for orchestration and security management",
+  "reusability": "Designed to be modular and extensible, allowing integration with various AI frameworks and tools through APIs",
+  "limitations": "Currently in alpha stage, may have limited support for complex multi-agent scenarios and lacks extensive documentation",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Docker"
+  ],
+  "name": "marinabox",
+  "slug": "marinabox-marinabox",
+  "description": "MarinaBox is a toolkit for creating and managing secure, isolated environments for AI agents",
+  "repository": "https://github.com/marinabox/marinabox",
+  "stars": 129,
+  "originator": "marinabox",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-20",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/marinabox/marinabox/blob/main/README.md",
+    "https://github.com/marinabox/marinabox/wiki"
+  ],
+  "highlight": "Provides secure, isolated environments for AI agents to operate independently"
+}

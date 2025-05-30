@@ -1,0 +1,35 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide developers with a curated list of tools, frameworks, and resources for creating AI-powered web agents",
+  "principle": "Aggregates and categorizes various open-source tools and frameworks for easy access and exploration",
+  "reusability": "Serves as a reference guide for developers looking to explore or integrate AI web agent technologies",
+  "limitations": "As a resource list, it does not provide direct functionalities but rather points to external tools and frameworks",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "awesome-web-agents",
+  "slug": "steel-dev-awesome-web-agents",
+  "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
+  "repository": "https://github.com/steel-dev/awesome-web-agents",
+  "stars": 407,
+  "originator": "steel-dev",
+  "tags": [
+    "ai",
+    "ai-agents",
+    "browser-automation",
+    "llms",
+    "llms-benchmarking"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-04-08",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/steel-dev/awesome-web-agents#readme"
+  ],
+  "highlight": "Comprehensive list of resources and tools for building AI web agents"
+}

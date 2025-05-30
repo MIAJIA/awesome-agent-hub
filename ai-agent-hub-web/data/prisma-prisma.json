@@ -1,0 +1,62 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a robust and efficient ORM for developers using Node.js and TypeScript, enabling seamless interaction with various databases.",
+  "principle": "Prisma uses a declarative data modeling approach and generates a type-safe client to interact with databases. It supports migrations, type safety, and real-time data access.",
+  "reusability": "Prisma can be integrated into any Node.js application. It offers a Prisma Client for database operations and Prisma Migrate for schema migrations, supporting multiple databases.",
+  "limitations": "Prisma is primarily designed for Node.js and TypeScript environments, and may not be suitable for other programming languages. Some advanced database features might not be fully supported.",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "Node.js",
+    "TypeScript",
+    "Prisma",
+    "PostgreSQL",
+    "MySQL",
+    "MariaDB",
+    "SQL Server",
+    "SQLite",
+    "MongoDB",
+    "CockroachDB"
+  ],
+  "name": "prisma",
+  "slug": "prisma-prisma",
+  "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+  "repository": "https://github.com/prisma/prisma",
+  "stars": 42396,
+  "originator": "prisma",
+  "tags": [
+    "cockroachdb",
+    "database",
+    "javascript",
+    "mariadb",
+    "mongo",
+    "mongodb",
+    "mongodb-orm",
+    "mssql",
+    "mysql",
+    "nodejs",
+    "orm",
+    "postgres",
+    "postgresql",
+    "prisma",
+    "prisma-client",
+    "query-builder",
+    "sql-server",
+    "sqlite",
+    "sqlserver",
+    "typescript"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://www.prisma.io/docs",
+    "https://www.prisma.io/tutorials",
+    "https://www.prisma.io/blog"
+  ],
+  "highlight": "Prisma is a next-generation ORM that simplifies database access and management for Node.js and TypeScript applications."
+}

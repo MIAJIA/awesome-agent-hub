@@ -1,0 +1,36 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Reduce manual effort in security operations by automating the detection and analysis of new alerts",
+  "principle": "Leverages machine learning models and rule-based systems to identify and analyze security threats",
+  "reusability": "Offers a modular architecture with API support for integration into existing security infrastructure",
+  "limitations": "Currently in alpha stage with limited coverage of threat types and potential false positives",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "TensorFlow",
+    "scikit-learn",
+    "PostgreSQL"
+  ],
+  "name": "diana",
+  "slug": "dwillowtree-diana",
+  "description": "Save toil in security operations with: Detection & Intelligence Analysis for New Alerts (D.I.A.N.A. )",
+  "repository": "https://github.com/dwillowtree/diana",
+  "stars": 182,
+  "originator": "dwillowtree",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2024-09-04",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/dwillowtree/diana#readme",
+    "https://github.com/dwillowtree/diana/wiki",
+    "https://github.com/dwillowtree/diana/issues"
+  ],
+  "highlight": "Automates detection and intelligence analysis to streamline security operations"
+}

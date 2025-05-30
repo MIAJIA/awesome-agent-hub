@@ -1,0 +1,47 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the development of applications using large language models by providing a structured framework.",
+  "principle": "Builds on Python with integrations for large language models like GPT-4 and frameworks like LangChain for agent development.",
+  "reusability": "Designed for easy integration with existing Python projects, supports modular development of language agents.",
+  "limitations": "Currently in alpha stage, may lack comprehensive documentation and robustness for production use.",
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "GPT-4"
+  ],
+  "name": "promptulate",
+  "slug": "undertone0809-promptulate-1",
+  "description": "🚀Lightweight Large language model automation and Autonomous Language Agents development framework. Build your LLM Agent Application in a pythonic way!",
+  "repository": "https://github.com/Undertone0809/promptulate",
+  "stars": 575,
+  "originator": "Undertone0809",
+  "tags": [
+    "agent",
+    "autogen",
+    "chatgpt",
+    "gpt-4",
+    "langchain",
+    "language-agent",
+    "llm",
+    "pne",
+    "prompt",
+    "prompt-engineering",
+    "promptulate",
+    "python"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-08",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Undertone0809/promptulate#readme",
+    "https://github.com/Undertone0809/promptulate/wiki"
+  ],
+  "highlight": "Lightweight framework for developing autonomous language agents with a focus on LLM automation."
+}

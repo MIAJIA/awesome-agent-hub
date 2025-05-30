@@ -1,0 +1,39 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Enhance strategic decision-making in the game of Diplomacy using AI techniques.",
+  "principle": "Utilizes reinforcement learning and strategic modeling to simulate and predict optimal moves in the game of Diplomacy.",
+  "reusability": "Modular design allows integration with different game interfaces and supports custom strategy modules.",
+  "limitations": "Primarily focused on the game of Diplomacy, limited to predefined scenarios and strategies, requires substantial computational resources for training.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "NumPy",
+    "Gym"
+  ],
+  "name": "AI_Diplomacy",
+  "slug": "alx-ai-ai-diplomacy",
+  "description": "N/A",
+  "repository": "https://github.com/Alx-AI/AI_Diplomacy",
+  "stars": 229,
+  "originator": "Alx-AI",
+  "tags": [
+    "AI",
+    "Diplomacy",
+    "Reinforcement Learning",
+    "Strategy Games"
+  ],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Alx-AI/AI_Diplomacy/blob/main/README.md",
+    "https://github.com/Alx-AI/AI_Diplomacy/wiki"
+  ],
+  "highlight": "Leverages advanced AI strategies to simulate human-like negotiation and alliance-building in Diplomacy."
+}

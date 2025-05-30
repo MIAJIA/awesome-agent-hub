@@ -1,0 +1,43 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To create autonomous AI agents that can perform tasks with minimal human intervention using GPT-4.",
+  "principle": "Builds on OpenAI's GPT-4 model, enabling agents to make decisions and perform tasks autonomously.",
+  "reusability": "Highly modular with a plugin system for extending capabilities; can be integrated with various APIs and services.",
+  "limitations": "Still in alpha, may have stability issues and limited to tasks that can be defined within the capabilities of GPT-4.",
+  "platforms": [
+    "Cross-platform",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI API",
+    "LangChain",
+    "LlamaIndex"
+  ],
+  "name": "AutoGPT",
+  "slug": "significant-gravitas-autogpt",
+  "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "repository": "https://github.com/Significant-Gravitas/AutoGPT",
+  "stars": 175696,
+  "originator": "Significant-Gravitas",
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "gpt-4",
+    "llama-api",
+    "openai",
+    "python"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/Significant-Gravitas/AutoGPT/wiki",
+    "https://github.com/Significant-Gravitas/AutoGPT/issues",
+    "https://github.com/Significant-Gravitas/AutoGPT/discussions"
+  ],
+  "highlight": "First open-source attempt to make GPT-4 autonomous and self-improving."
+}

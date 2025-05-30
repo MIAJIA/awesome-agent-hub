@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and integration of OpenAI-compatible plugins across various applications and platforms.",
+  "principle": "Builds on a plugin architecture allowing seamless integration of AI capabilities into different environments without being tied to a specific UI.",
+  "reusability": "Highly composable with support for multiple plugins, easily integrated into existing systems via API.",
+  "limitations": "Alpha status may imply limited stability and incomplete feature set; primarily supports Python environments.",
+  "platforms": [
+    "Linux",
+    "MacOS",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI API"
+  ],
+  "name": "pipelines",
+  "slug": "open-webui-pipelines",
+  "description": "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework ",
+  "repository": "https://github.com/open-webui/pipelines",
+  "stars": 1820,
+  "originator": "open-webui",
+  "tags": [
+    "open-webui"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-22",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/open-webui/pipelines#readme",
+    "https://github.com/open-webui/pipelines/wiki",
+    "https://github.com/open-webui/pipelines/issues"
+  ],
+  "highlight": "Versatile, UI-agnostic framework for integrating OpenAI-compatible plugins"
+}

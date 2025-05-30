@@ -1,0 +1,36 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Automate web browsing tasks and data extraction processes.",
+  "principle": "Combines browser automation with AI models to intelligently navigate and extract data from web pages.",
+  "reusability": "Offers a modular architecture with API support for integration into larger systems, customizable scraping workflows.",
+  "limitations": "May face challenges with dynamically loaded content and JavaScript-heavy websites; limited support for non-standard web elements.",
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "stack": [
+    "Python",
+    "Selenium",
+    "BeautifulSoup",
+    "Requests"
+  ],
+  "name": "TheAgenticBrowser",
+  "slug": "theagenticai-theagenticbrowser",
+  "description": "Open-source AI agent for web automation and scraping.",
+  "repository": "https://github.com/TheAgenticAI/TheAgenticBrowser",
+  "stars": 158,
+  "originator": "TheAgenticAI",
+  "tags": [],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-02-01",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/TheAgenticAI/TheAgenticBrowser/wiki",
+    "https://github.com/TheAgenticAI/TheAgenticBrowser/issues",
+    "https://github.com/TheAgenticAI/TheAgenticBrowser/releases"
+  ],
+  "highlight": "Seamless web automation and scraping using AI-driven techniques."
+}

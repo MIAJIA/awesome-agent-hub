@@ -1,0 +1,30 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates research and development in the field of Android AI agents by providing a platform for experimentation and prototyping.",
+  "principle": "Builds on Python and utilizes AI/ML frameworks to create and manage Android-based AI agents for various experimental purposes.",
+  "reusability": "Designed for research and experimentation, allowing users to prototype and test AI agent models on Android devices.",
+  "limitations": "Limited to experimental use; not optimized for production environments or large-scale deployments.",
+  "platforms": [
+    "Android"
+  ],
+  "stack": [
+    "Python",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "name": "Android-Lab",
+  "slug": "thudm-android-lab",
+  "description": "N/A",
+  "repository": "https://github.com/THUDM/Android-Lab",
+  "stars": 214,
+  "originator": "THUDM",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-08",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/THUDM/Android-Lab#readme"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To provide a management and control platform for PostgreSQL databases, enhancing operational efficiency and database performance monitoring.",
+  "principle": "Built on Python, leveraging PostgreSQL for database operations and management tasks.",
+  "reusability": "Modular design with API endpoints for database management tasks, easily integrable into existing PostgreSQL setups.",
+  "limitations": "Primarily focused on PostgreSQL; may not support other database systems without adaptation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "PostgreSQL"
+  ],
+  "name": "pg-mcp-server",
+  "slug": "stuzero-pg-mcp-server",
+  "description": "N/A",
+  "repository": "https://github.com/stuzero/pg-mcp-server",
+  "stars": 456,
+  "originator": "stuzero",
+  "tags": [
+    "PostgreSQL",
+    "database management",
+    "server"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/stuzero/pg-mcp-server#readme",
+    "https://github.com/stuzero/pg-mcp-server/wiki"
+  ],
+  "highlight": "High-performance PostgreSQL management and control server"
+}

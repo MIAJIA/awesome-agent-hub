@@ -1,0 +1,49 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Facilitate AI-driven code understanding and generation by leveraging GitHub repositories as a knowledge source.",
+  "principle": "Utilizes LLMs to perform RAG by extracting and generating contextual information from GitHub repositories.",
+  "reusability": "Designed as a Python library with API support for easy integration into AI and chatbot applications.",
+  "limitations": "Primarily focused on public GitHub projects, limited to Python language, and may require fine-tuning for specific use cases.",
+  "platforms": [
+    "Linux",
+    "Windows",
+    "MacOS"
+  ],
+  "stack": [
+    "Python",
+    "LangChain",
+    "GitHub API",
+    "JinaAI"
+  ],
+  "name": "llama-github",
+  "slug": "jetxu-llm-llama-github",
+  "description": "Llama-github is an open-source Python library that empowers LLM Chatbots, AI Agents, and Auto-dev Solutions to conduct Agentic RAG from actively selected GitHub public projects. It Augments through LLMs and Generates context for any coding question, in order to streamline the development of sophisticated AI-driven applications.",
+  "repository": "https://github.com/JetXu-LLM/llama-github",
+  "stars": 292,
+  "originator": "JetXu-LLM",
+  "tags": [
+    "ai-agent",
+    "ai-code-generator",
+    "chatbot",
+    "code-generation",
+    "github",
+    "github-api",
+    "github-search",
+    "jinaai",
+    "langchain",
+    "llm",
+    "python-library",
+    "retrieval-augmented-generation"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/JetXu-LLM/llama-github/blob/main/README.md",
+    "https://github.com/JetXu-LLM/llama-github/blob/main/docs",
+    "https://github.com/JetXu-LLM/llama-github/issues"
+  ],
+  "highlight": "Empowers AI agents to perform Retrieval-Augmented Generation (RAG) from selected GitHub projects, enhancing coding context generation."
+}

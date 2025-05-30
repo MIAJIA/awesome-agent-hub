@@ -1,0 +1,41 @@
+{
+  "category": "commerce",
+  "status": "alpha",
+  "purpose": "To enable developers to quickly create AI-driven, serverless e-commerce platforms using a modular approach.",
+  "principle": "Built with a serverless architecture using JavaScript, it leverages modern libraries and frameworks to offer modular components for e-commerce functionality.",
+  "reusability": "Designed with modularity in mind, it allows developers to integrate various e-commerce components easily, supporting plugin architecture and API integrations.",
+  "limitations": "Currently in alpha stage, which may include limited features and potential instability; requires JavaScript knowledge.",
+  "platforms": [
+    "Node.js",
+    "AWS Lambda",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "Serverless"
+  ],
+  "name": "storecraft",
+  "slug": "store-craft-storecraft",
+  "description": "⭐ Rapidly build AI-powered, modular e-commerce backends with JavaScript",
+  "repository": "https://github.com/store-craft/storecraft",
+  "stars": 335,
+  "originator": "store-craft",
+  "tags": [
+    "ecommerce",
+    "ecommerce-platform",
+    "javascript",
+    "serverless"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2025-05-28",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/store-craft/storecraft#readme",
+    "https://github.com/store-craft/storecraft/wiki",
+    "https://github.com/store-craft/storecraft/issues"
+  ],
+  "highlight": "Rapidly build AI-powered, modular e-commerce backends with JavaScript"
+}

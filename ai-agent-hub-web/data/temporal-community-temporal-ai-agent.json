@@ -1,0 +1,34 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "Facilitate complex, stateful conversations with AI agents within Temporal workflows.",
+  "principle": "Leverages Temporal's workflow orchestration to manage stateful conversations with AI agents, enabling multi-turn dialogue handling.",
+  "reusability": "Designed to be integrated into existing Temporal workflows, allowing users to extend their workflow capabilities with AI-driven conversational logic.",
+  "limitations": "Primarily a demo; lacks comprehensive documentation for production use, and may require customization for specific use cases.",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "Python",
+    "Temporal",
+    "OpenAI"
+  ],
+  "name": "temporal-ai-agent",
+  "slug": "temporal-community-temporal-ai-agent",
+  "description": "This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.",
+  "repository": "https://github.com/temporal-community/temporal-ai-agent",
+  "stars": 314,
+  "originator": "temporal-community",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/temporal-community/temporal-ai-agent/blob/main/README.md",
+    "https://docs.temporal.io/",
+    "https://github.com/temporalio/sdk-python"
+  ],
+  "highlight": "Integrates AI-driven conversation capabilities within Temporal workflows for enhanced multi-turn dialogue management."
+}

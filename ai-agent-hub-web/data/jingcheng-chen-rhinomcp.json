@@ -1,0 +1,37 @@
+{
+  "category": "art",
+  "status": "alpha",
+  "purpose": "To integrate AI capabilities with Rhino 3D for automated design and modeling processes",
+  "principle": "Utilizes the Model Context Protocol (MCP) to facilitate communication between Rhino 3D and AI agents, enabling automated design tasks",
+  "reusability": "Designed as a plugin for Rhino 3D, allowing easy integration with existing workflows and AI systems through MCP",
+  "limitations": "Currently in alpha status, may have limited functionality and stability; specific to Rhino 3D environments",
+  "platforms": [
+    "Windows",
+    "Rhino 3D"
+  ],
+  "stack": [
+    "Python",
+    "Rhino 3D",
+    "Model Context Protocol (MCP)"
+  ],
+  "name": "rhinomcp",
+  "slug": "jingcheng-chen-rhinomcp",
+  "description": "RhinoMCP connects Rhino 3D to AI Agent through the Model Context Protocol (MCP)",
+  "repository": "https://github.com/jingcheng-chen/rhinomcp",
+  "stars": 152,
+  "originator": "jingcheng-chen",
+  "tags": [
+    "Rhino 3D",
+    "AI integration",
+    "design automation"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-08",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/jingcheng-chen/rhinomcp#readme",
+    "https://github.com/jingcheng-chen/rhinomcp/wiki"
+  ],
+  "highlight": "Connects Rhino 3D to AI agents using the Model Context Protocol (MCP) for enhanced design automation"
+}

@@ -1,0 +1,39 @@
+{
+  "category": "workflow-automation",
+  "status": "alpha",
+  "purpose": "To enable computer control and automation through a visual language model, allowing users to interact with computers using visual inputs and natural language.",
+  "principle": "Utilizes a Visual Language Model (VLM) to interpret visual inputs and execute corresponding computer control commands.",
+  "reusability": "Designed for integration with various applications through a modular architecture, providing APIs for extending functionality.",
+  "limitations": "Currently in alpha stage, may have limited support for complex visual inputs and language commands, and might require specific configurations.",
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "stack": [
+    "Python",
+    "PyTorch",
+    "Transformers",
+    "OpenAI"
+  ],
+  "name": "ScreenAgent",
+  "slug": "niuzaisheng-screenagent",
+  "description": "ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)",
+  "repository": "https://github.com/niuzaisheng/ScreenAgent",
+  "stars": 456,
+  "originator": "niuzaisheng",
+  "tags": [
+    "agent",
+    "ai",
+    "llm",
+    "vlm"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-11-25",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/niuzaisheng/ScreenAgent#readme",
+    "https://github.com/niuzaisheng/ScreenAgent/wiki"
+  ],
+  "highlight": "ScreenAgent leverages a Visual Language Model to enable computer control through visual inputs and natural language commands."
+}

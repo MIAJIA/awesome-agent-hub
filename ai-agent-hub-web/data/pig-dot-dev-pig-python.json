@@ -1,0 +1,32 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Provide a comprehensive Python SDK for interacting with the Pig platform, enabling developers to integrate Pig's features into their applications seamlessly.",
+  "principle": "Leverages Python to offer a set of tools and libraries that facilitate communication with the Pig API, allowing for streamlined integration and feature utilization.",
+  "reusability": "Designed as a Python package that can be easily installed and integrated into existing Python projects, with comprehensive API documentation for seamless integration.",
+  "limitations": "Currently in alpha stage, which may mean limited features and potential for bugs. Limited to Python environments.",
+  "platforms": [
+    "Python"
+  ],
+  "stack": [
+    "Python",
+    "Requests"
+  ],
+  "name": "pig-python",
+  "slug": "pig-dot-dev-pig-python",
+  "description": "The official Python SDK for Pig",
+  "repository": "https://github.com/pig-dot-dev/pig-python",
+  "stars": 149,
+  "originator": "pig-dot-dev",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-03-11",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/pig-dot-dev/pig-python#readme",
+    "https://github.com/pig-dot-dev/pig-python/issues",
+    "https://github.com/pig-dot-dev/pig-python/wiki"
+  ],
+  "highlight": "Official SDK providing streamlined access to Pig's API for Python developers."
+}

@@ -1,0 +1,46 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide a comprehensive learning pathway for individuals seeking to gain knowledge and skills in various fields of artificial intelligence and machine learning, from foundational concepts to advanced techniques.",
+  "principle": "The repository is built on the principle of open-source education, allowing learners to access resources freely and contribute to the knowledge base.",
+  "reusability": "The materials and resources provided in this repository are designed to be reusable across different learning scenarios, enabling users to adapt content for personal or educational use.",
+  "limitations": "The repository is currently in alpha status, which means that some resources may be incomplete or in development. Users should be aware that the learning path may evolve over time.",
+  "platforms": [
+    "Web",
+    "Jupyter Notebook"
+  ],
+  "stack": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "name": "AI-ML-Roadmap-from-scratch",
+  "slug": "aadi1011-ai-ml-roadmap-from-scratch",
+  "description": "Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.",
+  "repository": "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch",
+  "stars": 340,
+  "originator": "aadi1011",
+  "tags": [
+    "ai",
+    "aiml",
+    "artificial-intelligence",
+    "data-science",
+    "deep-learning",
+    "free",
+    "hacktoberfest",
+    "hacktoberfest2024",
+    "learning",
+    "machine-learning",
+    "machine-learning-from-scratch",
+    "resources",
+    "roadmap",
+    "tutorial"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-03-16",
+  "language": "The repository includes content in multiple programming languages such as Python, TypeScript, and Java, among others, catering to a wide audience with varying preferences.",
+  "useful_links": [
+    "https://github.com/aadi1011/AI-ML-Roadmap-from-scratch"
+  ],
+  "highlight": "Comprehensive AI and ML learning roadmap from foundational to advanced levels."
+}

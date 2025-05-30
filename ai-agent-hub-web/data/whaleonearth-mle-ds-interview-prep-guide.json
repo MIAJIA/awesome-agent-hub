@@ -1,0 +1,42 @@
+{
+  "category": "education",
+  "status": "alpha",
+  "purpose": "To provide a detailed preparation guide for individuals aiming to succeed in Machine Learning and Data Science interviews.",
+  "principle": "Organizes content and exercises around key topics in Machine Learning and Data Science, including algorithms, system design, and problem-solving.",
+  "reusability": "The guide can be used by individuals preparing for interviews or by educators as a supplementary resource for teaching ML concepts.",
+  "limitations": "Primarily focused on preparation for interviews, may not cover the latest advancements in the field comprehensively.",
+  "platforms": [
+    "Cross-platform"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub"
+  ],
+  "name": "MLE-DS-Interview-Prep-Guide",
+  "slug": "whaleonearth-mle-ds-interview-prep-guide",
+  "description": "This repo is meant to serve as a detailed guide for Machine Learning/AI interviews.",
+  "repository": "https://github.com/whaleonearth/MLE-DS-Interview-Prep-Guide",
+  "stars": 166,
+  "originator": "whaleonearth",
+  "tags": [
+    "data-science",
+    "genai",
+    "interview-practice",
+    "interviews",
+    "interviews-preparation",
+    "large-language-model",
+    "leetcode",
+    "llm",
+    "machine-learning-algorithms",
+    "machine-learning-algorithms-from-scratch",
+    "machine-learning-design"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-08",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/whaleonearth/MLE-DS-Interview-Prep-Guide"
+  ],
+  "highlight": "Comprehensive guide for preparing for Machine Learning and Data Science interviews, covering algorithms, design, and practical exercises."
+}

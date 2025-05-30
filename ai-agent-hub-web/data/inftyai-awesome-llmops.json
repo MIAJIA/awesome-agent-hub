@@ -1,0 +1,36 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Curate and organize a comprehensive list of the best tools and resources for managing LLMOps (Large Language Model Operations).",
+  "principle": "Aggregates community-contributed tools and resources focused on LLMOps into a structured and accessible format.",
+  "reusability": "Can be used as a reference by developers and researchers looking for tools and resources related to LLMOps. Contributions are open for community submissions.",
+  "limitations": "Depends on community contributions for updates and completeness; may not cover all available LLMOps tools.",
+  "platforms": [
+    "GitHub"
+  ],
+  "stack": [
+    "Markdown"
+  ],
+  "name": "Awesome-LLMOps",
+  "slug": "inftyai-awesome-llmops",
+  "description": "🎉 An awesome & curated list of best LLMOps tools.",
+  "repository": "https://github.com/InftyAI/Awesome-LLMOps",
+  "stars": 108,
+  "originator": "InftyAI",
+  "tags": [
+    "ai",
+    "ai-developer-tools",
+    "awesome",
+    "awesome-list",
+    "llm",
+    "llmops"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-26",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/InftyAI/Awesome-LLMOps#readme"
+  ],
+  "highlight": "Comprehensive and community-curated list of LLMOps tools, providing a centralized resource for developers and researchers."
+}

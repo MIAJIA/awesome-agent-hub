@@ -1,0 +1,43 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enhance and automate SQL query creation and optimization for PostgreSQL databases",
+  "principle": "Leverages large language models (LLMs) such as OpenAI and Anthropic to interpret natural language inputs and generate optimized SQL queries",
+  "reusability": "Offers a REST API for seamless integration into existing applications, supports plug-and-play with PostgreSQL databases",
+  "limitations": "Primarily focused on PostgreSQL, may not support other SQL databases; performance dependent on the quality of the underlying AI models",
+  "platforms": [
+    "Docker",
+    "Linux"
+  ],
+  "stack": [
+    "TypeScript",
+    "OpenAI",
+    "Anthropic",
+    "PostgreSQL"
+  ],
+  "name": "agent",
+  "slug": "xataio-agent",
+  "description": "AI agent expert in PostgreSQL",
+  "repository": "https://github.com/xataio/agent",
+  "stars": 770,
+  "originator": "xataio",
+  "tags": [
+    "agent",
+    "ai",
+    "anthropic",
+    "llm",
+    "openai",
+    "postgres",
+    "postgresql"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/xataio/agent#readme",
+    "https://github.com/xataio/agent/wiki",
+    "https://github.com/xataio/agent/issues"
+  ],
+  "highlight": "Specializes in advanced PostgreSQL query generation and optimization using AI"
+}

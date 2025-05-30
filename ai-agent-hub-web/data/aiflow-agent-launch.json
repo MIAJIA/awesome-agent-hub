@@ -1,0 +1,40 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide developers with an intuitive and efficient environment for the rapid construction of intelligent agents.",
+  "principle": "Builds on a combination of RAG for knowledge retrieval and LLMOps for operationalizing large language models, facilitating agent creation.",
+  "reusability": "Offers a modular toolkit with components that can be easily integrated into existing systems, supports API-based interactions.",
+  "limitations": "Currently in alpha stage, may have limited functionality and stability, primarily supports TypeScript environment.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "RAG",
+    "LLMOps"
+  ],
+  "name": "Launch",
+  "slug": "aiflow-agent-launch",
+  "description": "Launching the \"Agent Creation Toolkit\", providing developers with an intuitive and efficient Development Environment, supporting the rapid construction of intelligent agents. The toolkit will integrate RAG (Retrieval-Augmented Generation) Knowledge Base and LLMOps toolchain.",
+  "repository": "https://github.com/AIFlow-agent/Launch",
+  "stars": 202,
+  "originator": "AIFlow-agent",
+  "tags": [
+    "agent development",
+    "RAG",
+    "LLMOps",
+    "toolkit"
+  ],
+  "open_source": true,
+  "license": "GPL-3.0",
+  "last_updated": "2025-03-23",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/AIFlow-agent/Launch#readme",
+    "https://github.com/AIFlow-agent/Launch/wiki",
+    "https://github.com/AIFlow-agent/Launch/issues"
+  ],
+  "highlight": "Integrates RAG (Retrieval-Augmented Generation) Knowledge Base and LLMOps toolchain for rapid intelligent agent development."
+}

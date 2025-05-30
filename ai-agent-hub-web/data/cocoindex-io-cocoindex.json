@@ -1,0 +1,54 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Facilitates real-time data transformation and indexing for AI applications, enabling efficient data processing and knowledge graph creation.",
+  "principle": "Leverages change data capture and streaming technologies to incrementally process and transform data in real-time, optimized for high performance.",
+  "reusability": "Designed as a framework with API support for integration into various AI and data processing pipelines, allowing for composability and extensibility.",
+  "limitations": "Currently in alpha stage, may have stability issues and limited documentation. Primarily focused on Rust language for core functionalities.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "Python"
+  ],
+  "name": "cocoindex",
+  "slug": "cocoindex-io-cocoindex",
+  "description": "Real-time data transformation framework for AI. Ultra performant, with incremental processing.",
+  "repository": "https://github.com/cocoindex-io/cocoindex",
+  "stars": 1606,
+  "originator": "cocoindex-io",
+  "tags": [
+    "ai",
+    "change-data-capture",
+    "data",
+    "data-engineering",
+    "data-indexing",
+    "data-infrastructure",
+    "data-processing",
+    "dataflow",
+    "etl",
+    "help-wanted",
+    "indexing",
+    "knowledge-graph",
+    "llm",
+    "pipeline",
+    "python",
+    "rag",
+    "real-time",
+    "rust",
+    "semantic-search",
+    "streaming"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/cocoindex-io/cocoindex#readme",
+    "https://github.com/cocoindex-io/cocoindex/wiki",
+    "https://github.com/cocoindex-io/cocoindex/issues"
+  ],
+  "highlight": "Ultra performant real-time data transformation with incremental processing for AI applications."
+}

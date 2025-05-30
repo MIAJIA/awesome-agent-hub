@@ -1,0 +1,34 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Serve as a debugging agent that autonomously identifies and resolves issues in software systems",
+  "principle": "Leverages machine learning and rule-based systems to detect, diagnose, and fix bugs in real-time",
+  "reusability": "Designed for integration into existing software development workflows with API support for extensibility",
+  "limitations": "Limited to specific programming languages and environments, requires significant initial configuration",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "name": "deebo-prototype",
+  "slug": "snagasuri-deebo-prototype",
+  "description": "Autonomous debugging agent MCP server",
+  "repository": "https://github.com/snagasuri/deebo-prototype",
+  "stars": 566,
+  "originator": "snagasuri",
+  "tags": [],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-25",
+  "language": "JavaScript",
+  "useful_links": [
+    "https://github.com/snagasuri/deebo-prototype#readme",
+    "https://github.com/snagasuri/deebo-prototype/wiki"
+  ],
+  "highlight": "Autonomous debugging capabilities to streamline software troubleshooting processes"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the creation and management of AI agents in a headless integrated development environment",
+  "principle": "Built on Go, it offers a streamlined environment for AI agent development without a traditional GUI",
+  "reusability": "Designed to be integrated into existing development workflows with a focus on AI agent orchestration",
+  "limitations": "Being in alpha, it may lack extensive documentation and community support, and could have limited features compared to full IDEs",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Go",
+    "GitHub Actions"
+  ],
+  "name": "hide",
+  "slug": "hide-org-hide",
+  "description": "🤖 Headless IDE for AI agents",
+  "repository": "https://github.com/hide-org/hide",
+  "stars": 188,
+  "originator": "hide-org",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-20",
+  "language": "Go",
+  "useful_links": [
+    "https://github.com/hide-org/hide#readme",
+    "https://github.com/hide-org/hide/wiki"
+  ],
+  "highlight": "Provides a headless IDE specifically designed for developing and managing AI agents"
+}

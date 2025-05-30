@@ -1,0 +1,53 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "Facilitates the coordination and orchestration of multiple AI agents to perform complex tasks autonomously.",
+  "principle": "Builds on multi-agent system architecture to enable communication and task distribution among agents.",
+  "reusability": "Designed for plug-and-play integration with existing AI models and frameworks, supports API-based orchestration.",
+  "limitations": "Being in alpha stage, it may have stability issues and limited documentation.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "OpenAI",
+    "Azure",
+    "Claude AI",
+    "Llama3"
+  ],
+  "name": "superagentx",
+  "slug": "superagentxai-superagentx",
+  "description": "Lightweight Multi Agent AI Orchestrator Framework with AGI Capabilities.",
+  "repository": "https://github.com/superagentxai/superagentx",
+  "stars": 141,
+  "originator": "superagentxai",
+  "tags": [
+    "agentic-ai",
+    "agentic-framework",
+    "agents",
+    "agi",
+    "autonomous-agents",
+    "azure-openai",
+    "bedrock",
+    "claude-ai",
+    "deepseek",
+    "gemini",
+    "llama3",
+    "llms",
+    "memory",
+    "ollama",
+    "openai",
+    "orchestration"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-28",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/superagentxai/superagentx#readme",
+    "https://github.com/superagentxai/superagentx/wiki",
+    "https://github.com/superagentxai/superagentx/issues"
+  ],
+  "highlight": "Lightweight framework for orchestrating multiple AI agents with potential AGI capabilities."
+}

@@ -1,0 +1,41 @@
+{
+  "category": "programming",
+  "status": "alpha",
+  "purpose": "Provide an intuitive graphical user interface for interacting with large language models, both on local machines and in the cloud.",
+  "principle": "Built using Rust for performance and safety, leveraging the Makepad framework for GUI development, and integrating with various LLM APIs for AI capabilities.",
+  "reusability": "Designed with modularity in mind, allowing integration with different LLMs and deployment on various platforms. Offers a flexible architecture for extending functionality.",
+  "limitations": "As an alpha release, it may have limited features and potential stability issues. Compatibility with specific LLMs or cloud services might require additional configuration.",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "stack": [
+    "Rust",
+    "Makepad",
+    "Robius"
+  ],
+  "name": "moly",
+  "slug": "moxin-org-moly",
+  "description": "Moly: A Desktop + Cloud AI LLM GUI app in pure Rust",
+  "repository": "https://github.com/moxin-org/moly",
+  "stars": 282,
+  "originator": "moxin-org",
+  "tags": [
+    "ai",
+    "llm",
+    "makepad",
+    "robius",
+    "rust-lang"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/moxin-org/moly#readme",
+    "https://github.com/moxin-org/moly/issues",
+    "https://github.com/moxin-org/moly/wiki"
+  ],
+  "highlight": "A versatile AI LLM GUI application built entirely in Rust, supporting both desktop and cloud environments."
+}

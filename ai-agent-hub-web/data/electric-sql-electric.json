@@ -1,0 +1,45 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enable real-time, bi-directional data synchronization between PostgreSQL databases and client-side applications.",
+  "principle": "Utilizes Conflict-free Replicated Data Types (CRDTs) to ensure consistent data replication and synchronization across distributed systems.",
+  "reusability": "Offers APIs and libraries for integration with existing Postgres databases, supports offline-first applications with automatic conflict resolution.",
+  "limitations": "Currently in alpha stage, may have limited support for complex data types and large-scale deployments.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Elixir",
+    "PostgreSQL",
+    "CRDTs"
+  ],
+  "name": "electric",
+  "slug": "electric-sql-electric",
+  "description": "Real-time sync for Postgres.",
+  "repository": "https://github.com/electric-sql/electric",
+  "stars": 8438,
+  "originator": "electric-sql",
+  "tags": [
+    "crdt",
+    "crdts",
+    "elixir",
+    "local-first",
+    "offline",
+    "postgres",
+    "replication",
+    "sql",
+    "sqlite",
+    "sync"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-28",
+  "language": "Elixir",
+  "useful_links": [
+    "https://github.com/electric-sql/electric#readme",
+    "https://electric-sql.com/docs",
+    "https://electric-sql.com/tutorials"
+  ],
+  "highlight": "Seamless real-time synchronization between Postgres and client applications using CRDTs."
+}

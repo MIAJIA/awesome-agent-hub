@@ -1,0 +1,60 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "To simplify the process of building data APIs for AI agents and data applications using SQL databases",
+  "principle": "Leverages TypeScript to define and manage SQL-based data APIs, supporting various databases and providing a structured API framework",
+  "reusability": "Offers a modular architecture with plugins for different databases, supports RESTful API generation, and allows customization through TypeScript",
+  "limitations": "Currently in alpha stage, which may imply limited features and potential instability; primarily focused on SQL databases",
+  "platforms": [
+    "Node.js",
+    "Docker"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "Snowflake",
+    "BigQuery",
+    "DuckDB",
+    "ClickHouse"
+  ],
+  "name": "vulcan-sql",
+  "slug": "canner-vulcan-sql",
+  "description": "Data API Framework for AI Agents and Data Apps",
+  "repository": "https://github.com/Canner/vulcan-sql",
+  "stars": 681,
+  "originator": "Canner",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "analytics",
+    "api-builder",
+    "bigquery",
+    "clickhouse",
+    "data-lake",
+    "data-warehouse",
+    "database",
+    "duckdb",
+    "ksqldb",
+    "postgresql",
+    "reporting",
+    "restful-api",
+    "snowflake",
+    "spreadsheet",
+    "sql",
+    "typescript",
+    "vulcan-sql",
+    "vulcansql"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2024-07-01",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/Canner/vulcan-sql#readme",
+    "https://github.com/Canner/vulcan-sql/wiki",
+    "https://github.com/Canner/vulcan-sql/issues"
+  ],
+  "highlight": "Framework for creating data APIs from SQL databases with TypeScript"
+}

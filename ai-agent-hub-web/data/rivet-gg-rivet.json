@@ -1,0 +1,53 @@
+{
+  "category": "infra-tools",
+  "status": "alpha",
+  "purpose": "Enable developers to build scalable and stateful serverless applications with ease.",
+  "principle": "Builds on serverless architecture using Cloudflare Durable Objects to manage state across distributed systems, providing a seamless experience for real-time applications.",
+  "reusability": "Offers APIs and integrations for easy deployment and scaling of stateful applications, with support for popular game engines and cloud platforms.",
+  "limitations": "Primarily focused on Cloudflare infrastructure, may require adaptation for other cloud providers.",
+  "platforms": [
+    "Cloudflare",
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Rust",
+    "Cloudflare Durable Objects",
+    "Deno",
+    "FoundationDB"
+  ],
+  "name": "rivet",
+  "slug": "rivet-gg-rivet",
+  "description": "🔩 Serverless for stateful backends",
+  "repository": "https://github.com/rivet-gg/rivet",
+  "stars": 3469,
+  "originator": "rivet-gg",
+  "tags": [
+    "actor",
+    "actors",
+    "bevy",
+    "cloudflare",
+    "cloudflare-durable-objects",
+    "deno",
+    "durable-objects",
+    "foundationdb",
+    "game-development",
+    "godot",
+    "multiplayer",
+    "partykit",
+    "realtime",
+    "rust",
+    "serverless",
+    "unreal-engine"
+  ],
+  "open_source": true,
+  "license": "Apache-2.0",
+  "last_updated": "2025-05-29",
+  "language": "Rust",
+  "useful_links": [
+    "https://github.com/rivet-gg/rivet#readme",
+    "https://github.com/rivet-gg/rivet/wiki",
+    "https://docs.rivet.gg/"
+  ],
+  "highlight": "Serverless platform optimized for stateful backend applications, leveraging Cloudflare Durable Objects for state management."
+}

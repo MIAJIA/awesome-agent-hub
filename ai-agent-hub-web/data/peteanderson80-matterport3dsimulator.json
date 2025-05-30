@@ -1,0 +1,40 @@
+{
+  "category": "research-and-analysis",
+  "status": "alpha",
+  "purpose": "Facilitates research in reinforcement learning by providing a simulator that uses real-world panoramic images.",
+  "principle": "Utilizes the Matterport3D dataset to simulate environments for reinforcement learning tasks, allowing agents to interact with photorealistic scenes.",
+  "reusability": "Designed for research purposes, can be integrated into reinforcement learning workflows and customized for various experiments.",
+  "limitations": "Primarily focused on the Matterport3D dataset, may not generalize to other datasets without adaptation.",
+  "platforms": [
+    "Linux"
+  ],
+  "stack": [
+    "C++",
+    "Python",
+    "Matterport3D dataset"
+  ],
+  "name": "Matterport3DSimulator",
+  "slug": "peteanderson80-matterport3dsimulator",
+  "description": "AI Research Platform for Reinforcement Learning from Real Panoramic Images.",
+  "repository": "https://github.com/peteanderson80/Matterport3DSimulator",
+  "stars": 592,
+  "originator": "peteanderson80",
+  "tags": [
+    "matterport3d-dataset",
+    "matterport3d-simulator",
+    "natural-language-processing",
+    "reinforcement-learning",
+    "rl",
+    "simulator",
+    "vision-and-language"
+  ],
+  "open_source": true,
+  "license": "NOASSERTION",
+  "last_updated": "2024-07-12",
+  "language": "C++",
+  "useful_links": [
+    "https://github.com/peteanderson80/Matterport3DSimulator/blob/master/README.md",
+    "https://github.com/peteanderson80/Matterport3DSimulator/wiki"
+  ],
+  "highlight": "Enables reinforcement learning research using real panoramic images from the Matterport3D dataset."
+}

@@ -1,0 +1,50 @@
+{
+  "category": "iot",
+  "status": "alpha",
+  "purpose": "Facilitates real-time AI speech interactions for AI toys, companions, and devices with long-duration conversations.",
+  "principle": "Integrates OpenAI's Realtime API with Arduino ESP32 and Deno edge functions, using secure WebSockets for communication.",
+  "reusability": "Can be integrated into various AI devices and applications through Arduino and Deno, supports secure WebSocket connections.",
+  "limitations": "Dependent on network connectivity for uninterrupted conversations, hardware limitations of ESP32, requires OpenAI API access.",
+  "platforms": [
+    "Arduino",
+    "ESP32",
+    "Deno"
+  ],
+  "stack": [
+    "TypeScript",
+    "Deno",
+    "Arduino",
+    "ESP32",
+    "OpenAI API",
+    "Secure WebSockets"
+  ],
+  "name": "ElatoAI",
+  "slug": "akdeb-elatoai",
+  "description": "Realtime AI speech with OpenAI Realtime API on Arduino ESP32 with Secure Websockets and Deno edge functions with >15 minutes uninterrupted conversations globally for AI toys, AI companions, AI devices and more",
+  "repository": "https://github.com/akdeb/ElatoAI",
+  "stars": 988,
+  "originator": "akdeb",
+  "tags": [
+    "ai",
+    "arduino",
+    "deno",
+    "esp32",
+    "hardware",
+    "openai",
+    "realtime",
+    "realtime-api",
+    "speech-to-speech",
+    "supabase",
+    "websocket"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-05-27",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/akdeb/ElatoAI#readme",
+    "https://github.com/akdeb/ElatoAI/wiki",
+    "https://github.com/akdeb/ElatoAI/issues"
+  ],
+  "highlight": "Enables uninterrupted real-time AI speech interactions using OpenAI's Realtime API on Arduino ESP32 with secure WebSockets."
+}

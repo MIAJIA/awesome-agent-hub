@@ -1,0 +1,44 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "To aggregate and track the latest AI-driven tools and resources for game development, providing a centralized hub for developers.",
+  "principle": "Curates and organizes AI tools and resources relevant to game development, leveraging community contributions and updates.",
+  "reusability": "Serves as a curated list that developers can refer to for finding AI tools across various domains in game development; highly modular and adaptable to different projects.",
+  "limitations": "Primarily a resource list; does not include direct integration or deployment capabilities for the tools listed.",
+  "platforms": [
+    "Web"
+  ],
+  "stack": [
+    "Markdown",
+    "GitHub Pages"
+  ],
+  "name": "ai-game-devtools",
+  "slug": "yuan-manx-ai-game-devtools",
+  "description": "Here we will keep track of the latest AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥",
+  "repository": "https://github.com/Yuan-ManX/ai-game-devtools",
+  "stars": 850,
+  "originator": "Yuan-ManX",
+  "tags": [
+    "ai-platform",
+    "ai-toolkit",
+    "aigc",
+    "artificial-intelligence",
+    "awesome-list",
+    "deep-learning",
+    "game-ai",
+    "game-development",
+    "game-engine",
+    "mechine-learing",
+    "unity"
+  ],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-04-07",
+  "language": "Markdown",
+  "useful_links": [
+    "https://github.com/Yuan-ManX/ai-game-devtools/blob/main/README.md",
+    "https://github.com/Yuan-ManX/ai-game-devtools/issues",
+    "https://github.com/Yuan-ManX/ai-game-devtools/pulls"
+  ],
+  "highlight": "Comprehensive repository tracking the latest AI tools for game development, covering a wide range of assets including images, audio, and 3D models."
+}

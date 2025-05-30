@@ -1,0 +1,33 @@
+{
+  "category": "gaming",
+  "status": "alpha",
+  "purpose": "Enhance gameplay by providing an AI-driven agent for the Snake game, offering intelligent decision-making and strategy optimization.",
+  "principle": "Utilizes reinforcement learning techniques to train the agent for optimal pathfinding and decision-making in the Snake game environment.",
+  "reusability": "Can be integrated into existing Snake game projects as a module, offering configurable parameters for different gameplay scenarios.",
+  "limitations": "Currently optimized for the classic Snake game; performance may vary with different game variations or rule sets.",
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "stack": [
+    "TypeScript",
+    "Node.js",
+    "TensorFlow.js"
+  ],
+  "name": "SnakeAI",
+  "slug": "snake-ai-agent-snakeai",
+  "description": "N/A",
+  "repository": "https://github.com/snake-ai-agent/SnakeAI",
+  "stars": 209,
+  "originator": "snake-ai-agent",
+  "tags": [],
+  "open_source": true,
+  "license": "MIT",
+  "last_updated": "2025-02-15",
+  "language": "TypeScript",
+  "useful_links": [
+    "https://github.com/snake-ai-agent/SnakeAI#readme",
+    "https://github.com/snake-ai-agent/SnakeAI/wiki",
+    "https://github.com/snake-ai-agent/SnakeAI/issues"
+  ]
+}

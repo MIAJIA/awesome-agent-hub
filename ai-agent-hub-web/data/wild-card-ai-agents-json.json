@@ -1,0 +1,33 @@
+{
+  "category": "meta-agents",
+  "status": "alpha",
+  "purpose": "To provide a framework for creating, managing, and deploying AI agents using JSON configurations.",
+  "principle": "Utilizes JSON configurations to define and orchestrate AI agent behaviors and interactions.",
+  "reusability": "Highly composable with JSON-based configuration files, allowing easy integration and customization of AI agents.",
+  "limitations": "Limited to JSON-based configurations; complex behaviors may require extensive setup.",
+  "platforms": [
+    "Linux",
+    "Docker"
+  ],
+  "stack": [
+    "Python",
+    "Flask",
+    "JSON"
+  ],
+  "name": "agents-json",
+  "slug": "wild-card-ai-agents-json",
+  "description": "N/A",
+  "repository": "https://github.com/wild-card-ai/agents-json",
+  "stars": 1232,
+  "originator": "wild-card-ai",
+  "tags": [],
+  "open_source": true,
+  "license": "AGPL-3.0",
+  "last_updated": "2025-05-16",
+  "language": "Python",
+  "useful_links": [
+    "https://github.com/wild-card-ai/agents-json/wiki",
+    "https://github.com/wild-card-ai/agents-json/issues"
+  ],
+  "highlight": "A flexible framework for orchestrating and managing JSON-based AI agents."
+}

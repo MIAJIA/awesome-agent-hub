@@ -62,7 +62,7 @@ export default function HeroSection() {
         </h1>
 
         <p className="text-xl md:text-2xl text-gray-300 mb-12 max-w-2xl mx-auto">
-          Find, use, and build reusable AI agents across domains
+          Discover, inspire, and build AI agents across domains
         </p>
 
         {/*

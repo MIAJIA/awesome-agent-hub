@@ -8,6 +8,14 @@ import { Button } from "@/components/ui/button"
 export default function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
+  const scrollToSection = (sectionId: string) => {
+    const element = document.getElementById(sectionId)
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" })
+    }
+    setIsMenuOpen(false)
+  }
+
   return (
     <nav className="sticky top-0 z-50 bg-gray-900/80 backdrop-blur-md border-b border-gray-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -23,22 +31,35 @@ export default function Navigation() {
           </Link>
 
           {/* Desktop Navigation */}
-          {/*
           <div className="hidden md:flex items-center space-x-8">
-            <Link href="/discover" className="text-gray-300 hover:text-white transition-colors">
-              Discover
+            <button
+              onClick={() => scrollToSection("building")}
+              className="text-gray-300 hover:text-pink-400 transition-colors"
+            >
+              Building
+            </button>
+            <button
+              onClick={() => scrollToSection("using")}
+              className="text-gray-300 hover:text-cyan-400 transition-colors"
+            >
+              Using
+            </button>
+            <button
+              onClick={() => scrollToSection("discussing")}
+              className="text-gray-300 hover:text-green-400 transition-colors"
+            >
+              Discussing
+            </button>
+            <Link href="/build" className="text-gray-300 hover:text-white transition-colors">
+              Explore Hub
             </Link>
-            <Link href="/categories" className="text-gray-300 hover:text-white transition-colors">
-              Browse by Category
-            </Link>
-            <Link href="/trends" className="text-gray-300 hover:text-white transition-colors">
-              Trends
+            <Link href="/discussions" className="text-gray-300 hover:text-white transition-colors">
+              Community
             </Link>
             <Button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white">
               Submit Agent
             </Button>
           </div>
-          */}
 
           {/* Mobile menu button */}
           <div className="md:hidden">
@@ -49,24 +70,37 @@ export default function Navigation() {
         </div>
 
         {/* Mobile Navigation */}
-        {/*
         {isMenuOpen && (
           <div className="md:hidden py-4 space-y-2">
-            <Link href="/discover" className="block text-gray-300 hover:text-white py-2">
-              Discover
+            <button
+              onClick={() => scrollToSection("building")}
+              className="block text-gray-300 hover:text-pink-400 py-2 transition-colors"
+            >
+              Building
+            </button>
+            <button
+              onClick={() => scrollToSection("using")}
+              className="block text-gray-300 hover:text-cyan-400 py-2 transition-colors"
+            >
+              Using
+            </button>
+            <button
+              onClick={() => scrollToSection("discussing")}
+              className="block text-gray-300 hover:text-green-400 py-2 transition-colors"
+            >
+              Discussing
+            </button>
+            <Link href="/build" className="block text-gray-300 hover:text-white py-2">
+              Explore Hub
             </Link>
-            <Link href="/categories" className="block text-gray-300 hover:text-white py-2">
-              Browse by Category
-            </Link>
-            <Link href="/trends" className="block text-gray-300 hover:text-white py-2">
-              Trends
+            <Link href="/discussions" className="block text-gray-300 hover:text-white py-2">
+              Community
             </Link>
             <Button className="w-full bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white mt-4">
               Submit Agent
             </Button>
           </div>
         )}
-        */}
       </div>
     </nav>
   )

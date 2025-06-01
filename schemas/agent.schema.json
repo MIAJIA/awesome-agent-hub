@@ -92,6 +92,14 @@
       "default": [],
       "description": "User-defined labels"
     },
+    "search_keywords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": [],
+      "description": "A list of keywords to enhance searchability, potentially including terms for auto-suggest and natural language matching. These can be manually curated or LLM-generated."
+    },
     "reusability": {
       "type": "string",
       "description": "Notes on composability, plug-and-play, API support etc."

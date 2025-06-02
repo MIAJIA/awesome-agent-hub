@@ -109,14 +109,6 @@ export default function AgentDetailPage({ params }: AgentDetailPageProps) {
             </div>
 
             <div className="flex space-x-3">
-              <Button variant="outline" size="sm" className="border-gray-600 text-gray-300 hover:bg-gray-800">
-                <Star className="w-4 h-4 mr-2" />
-                Star
-              </Button>
-              <Button variant="outline" size="sm" className="border-gray-600 text-gray-300 hover:bg-gray-800">
-                <Heart className="w-4 h-4 mr-2" />
-                Save
-              </Button>
             </div>
           </div>
 

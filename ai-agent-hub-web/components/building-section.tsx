@@ -169,17 +169,19 @@ const projects: Agent[] = [
 
 export default function BuildingSection() {
   const router = useRouter();
-  // Ref for scroll container
+  // Ref for the scrollable container
   const scrollRef = React.useRef<HTMLDivElement>(null);
 
-  const scroll = (direction: 'left' | 'right') => {
+  const scroll = (direction: "left" | "right") => {
     const container = scrollRef.current;
     if (container) {
-      const scrollAmount = 320; // width of one card + gap
-      container.scrollBy({
-        left: direction === 'left' ? -scrollAmount : scrollAmount,
-        behavior: 'smooth',
-      });
+      const scrollAmount = 400;
+      const current = container.scrollLeft;
+      const newPosition =
+        direction === "left"
+          ? Math.max(0, current - scrollAmount)
+          : current + scrollAmount;
+      container.scrollTo({ left: newPosition, behavior: "smooth" });
     }
   };
 
@@ -192,22 +194,39 @@ export default function BuildingSection() {
           </span>
         </h2>
 
-        {/* Scroll buttons */}
-        <div className="flex justify-end mb-2 gap-2">
-          <Button variant="ghost" size="icon" onClick={() => scroll('left')} className="border border-gray-700/50">
-            <ChevronLeft className="w-5 h-5" />
-          </Button>
-          <Button variant="ghost" size="icon" onClick={() => scroll('right')} className="border border-gray-700/50">
-            <ChevronRight className="w-5 h-5" />
-          </Button>
-        </div>
+        <div className="relative">
+          {/* Left Button */}
+          <button
+            type="button"
+            onClick={() => scroll("left")}
+            className="absolute left-0 top-1/2 -translate-y-1/2 z-10 bg-gray-900/80 hover:bg-pink-500/80 text-white rounded-full p-2 shadow transition-all border border-gray-700 hidden md:block"
+            style={{ boxShadow: "0 2px 8px rgba(0,0,0,0.12)" }}
+            aria-label="Scroll left"
+          >
+            <ChevronLeft className="w-6 h-6" />
+          </button>
+          {/* Right Button */}
+          <button
+            type="button"
+            onClick={() => scroll("right")}
+            className="absolute right-0 top-1/2 -translate-y-1/2 z-10 bg-gray-900/80 hover:bg-pink-500/80 text-white rounded-full p-2 shadow transition-all border border-gray-700 hidden md:block"
+            style={{ boxShadow: "0 2px 8px rgba(0,0,0,0.12)" }}
+            aria-label="Scroll right"
+          >
+            <ChevronRight className="w-6 h-6" />
+          </button>
 
-        <div ref={scrollRef} className="flex space-x-6 overflow-x-auto scrollbar-hide pb-4 relative">
-          {projects.map((project) => (
-            <div key={project.slug} className="flex-none w-72 sm:w-80">
-              <AgentCard agent={project} onViewDetails={() => router.push(`/agent/${project.slug}`)} />
-            </div>
-          ))}
+          <div
+            ref={scrollRef}
+            className="flex space-x-6 overflow-x-auto scrollbar-hide pb-4"
+            style={{ scrollBehavior: "smooth" }}
+          >
+            {projects.map((project) => (
+              <div key={project.slug} className="flex-none w-72 sm:w-80">
+                <AgentCard agent={project} onViewDetails={() => router.push(`/agent/${project.slug}`)} />
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </section>

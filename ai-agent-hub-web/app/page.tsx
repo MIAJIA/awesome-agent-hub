@@ -11,9 +11,9 @@ export default function HomePage() {
     <div className="min-h-screen bg-gray-900">
       <Navigation />
       <HeroSection />
-      <DiscussingSection />
       <BuildingSection />
       <UsingSection />
+      <DiscussingSection />
       <JoinConversation />
       <SimpleFooter />
     </div>

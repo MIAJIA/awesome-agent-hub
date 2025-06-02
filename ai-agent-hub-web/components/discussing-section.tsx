@@ -164,7 +164,7 @@ export default function DiscussingSection() {
           </span>
         </h2>
 
-        <div className="flex flex-col items-center space-y-6 max-w-3xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
           {cleanedDiscussions.map((discussion, index) => (
             <div
               key={index}

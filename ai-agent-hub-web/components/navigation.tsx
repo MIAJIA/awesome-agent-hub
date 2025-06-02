@@ -30,29 +30,11 @@ export default function Navigation() {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
-            <button
-              onClick={() => scrollToSection("building")}
-              className="text-gray-300 hover:text-pink-400 transition-colors"
-            >
-              Building
-            </button>
-            <button
-              onClick={() => scrollToSection("using")}
-              className="text-gray-300 hover:text-cyan-400 transition-colors"
-            >
-              Using
-            </button>
-            <button
-              onClick={() => scrollToSection("discussing")}
-              className="text-gray-300 hover:text-green-400 transition-colors"
-            >
-              Discussing
-            </button>
+            <Link href="/" className="text-gray-300 hover:text-white transition-colors">
+              Home
+            </Link>
             <Link href="/build" className="text-gray-300 hover:text-white transition-colors">
               Explore Hub
-            </Link>
-            <Link href="/discussions" className="text-gray-300 hover:text-white transition-colors">
-              Community
             </Link>
             <Button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white">
               Submit Agent
@@ -70,29 +52,11 @@ export default function Navigation() {
         {/* Mobile Navigation */}
         {isMenuOpen && (
           <div className="md:hidden py-4 space-y-2">
-            <button
-              onClick={() => scrollToSection("building")}
-              className="block text-gray-300 hover:text-pink-400 py-2 transition-colors"
-            >
-              Building
-            </button>
-            <button
-              onClick={() => scrollToSection("using")}
-              className="block text-gray-300 hover:text-cyan-400 py-2 transition-colors"
-            >
-              Using
-            </button>
-            <button
-              onClick={() => scrollToSection("discussing")}
-              className="block text-gray-300 hover:text-green-400 py-2 transition-colors"
-            >
-              Discussing
-            </button>
+            <Link href="/" className="block text-gray-300 hover:text-white py-2">
+              Home
+            </Link>
             <Link href="/build" className="block text-gray-300 hover:text-white py-2">
               Explore Hub
-            </Link>
-            <Link href="/discussions" className="block text-gray-300 hover:text-white py-2">
-              Community
             </Link>
             <Button className="w-full bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white mt-4">
               Submit Agent

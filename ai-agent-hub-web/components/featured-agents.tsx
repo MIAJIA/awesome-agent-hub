@@ -421,10 +421,12 @@ export default function FeaturedAgents() {
                 )}
 
                 {/* Agent Cards */}
-                <div id={`category-${category.id}`} className="flex overflow-x-auto space-x-4 sm:space-x-6 pb-4 scrollbar-thin scrollbar-thumb-gray-700 scrollbar-track-gray-800/30">
+                <div id={`category-${category.id}`} className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                   {filteredAgents.length > 0 ? (
                     filteredAgents.map((agent) => (
-                      <div key={agent.slug} className="flex-none w-72 sm:w-80">
+                      <div key={agent.slug}
+                        className="w-full"
+                      >
                         <AgentCard agent={agent} onViewDetails={() => setSelectedAgent(agent)} />
                       </div>
                     ))

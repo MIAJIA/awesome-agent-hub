@@ -177,9 +177,9 @@ export default function BuildingSection() {
           </span>
         </h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+        <div className="flex space-x-6 overflow-x-auto scrollbar-hide pb-4 min-w-0 snap-x snap-mandatory">
           {projects.map((project) => (
-            <div key={project.slug} className="w-full">
+            <div key={project.slug} className="flex-none w-72 sm:w-80 snap-start">
               <AgentCard agent={project} onViewDetails={() => router.push(`/agent/${project.slug}`)} />
             </div>
           ))}

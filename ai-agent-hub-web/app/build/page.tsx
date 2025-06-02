@@ -1,14 +1,11 @@
 import Navigation from "@/components/navigation"
-import HeroSection from "@/components/hero-section"
 import FeaturedAgents from "@/components/featured-agents"
 
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-gray-900">
       <Navigation />
-      <HeroSection />
       <FeaturedAgents />
-
       {/* Footer */}
       <footer className="border-t border-gray-800 py-12">
         <div className="max-w-7xl mx-auto px-4 text-center">

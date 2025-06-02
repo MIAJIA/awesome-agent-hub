@@ -4,21 +4,9 @@ import { useState } from "react"
 import Link from "next/link"
 import { Menu, X, GitBranch, Mail } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import {
-  Dialog,
-  DialogContent,
-  DialogDescription,
-  DialogHeader,
-  DialogTitle,
-  DialogTrigger,
-  DialogFooter,
-  DialogClose
-} from "@/components/ui/dialog"
-import NewsletterSubscribeForm from "@/components/NewsletterSubscribeForm"
 
 export default function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
-  const [isSubscribeModalOpen, setIsSubscribeModalOpen] = useState(false)
 
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId)
@@ -49,24 +37,11 @@ export default function Navigation() {
               Explore Hub
             </Link>
 
-            <Dialog open={isSubscribeModalOpen} onOpenChange={setIsSubscribeModalOpen}>
-              <DialogTrigger asChild>
-                <Button variant="outline" className="text-gray-300 border-gray-600 hover:bg-gray-700 hover:text-white">
-                  <Mail className="mr-2 h-4 w-4" /> Subscribe
-                </Button>
-              </DialogTrigger>
-              <DialogContent className="sm:max-w-[425px] bg-gray-800 border-gray-700 text-white">
-                <DialogHeader>
-                  <DialogTitle className="text-purple-300">Stay Updated</DialogTitle>
-                  <DialogDescription className="text-gray-400">
-                    Subscribe to our newsletter for the latest on AI agents.
-                  </DialogDescription>
-                </DialogHeader>
-                <div className="py-4">
-                  <NewsletterSubscribeForm />
-                </div>
-              </DialogContent>
-            </Dialog>
+            <Button variant="outline" className="text-gray-300 border-gray-600 hover:bg-gray-700 hover:text-white" asChild>
+              <a href="https://miajia.substack.com/subscribe" target="_blank" rel="noopener noreferrer">
+                <Mail className="mr-2 h-4 w-4" /> Subscribe
+              </a>
+            </Button>
 
             <Button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white" asChild>
               <a
@@ -96,13 +71,11 @@ export default function Navigation() {
             <Link href="/build" className="block text-gray-300 hover:text-white py-2" onClick={() => setIsMenuOpen(false)}>
               Explore Hub
             </Link>
-            <Dialog open={isSubscribeModalOpen} onOpenChange={setIsSubscribeModalOpen}>
-              <DialogTrigger asChild>
-                <Button variant="outline" className="w-full text-gray-300 border-gray-600 hover:bg-gray-700 hover:text-white justify-start py-2">
-                  <Mail className="mr-2 h-4 w-4" /> Subscribe to Newsletter
-                </Button>
-              </DialogTrigger>
-            </Dialog>
+            <Button variant="outline" className="w-full text-gray-300 border-gray-600 hover:bg-gray-700 hover:text-white justify-start py-2" asChild>
+              <a href="https://miajia.substack.com/subscribe" target="_blank" rel="noopener noreferrer" onClick={() => setIsMenuOpen(false)}>
+                <Mail className="mr-2 h-4 w-4" /> Subscribe to Newsletter
+              </a>
+            </Button>
             <Button className="w-full bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white mt-4" asChild>
               <a
                 href="https://github.com/MIAJIA/awesome-open-agents/blob/main/CONTRIBUTING.md"

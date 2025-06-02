@@ -208,38 +208,6 @@ export default function DiscussingSection() {
               </div>
             ))}
           </div>
-
-          <div className="flex flex-col justify-center">
-            <div className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 rounded-2xl p-8 border border-gray-700/50">
-              <div className="flex -space-x-4 mb-6">
-                {avatars.map((avatar, index) => (
-                  <div
-                    key={index}
-                    className={`w-12 h-12 ${avatar.color} rounded-full flex items-center justify-center text-white font-semibold border-2 border-gray-800`}
-                  >
-                    {avatar.initials}
-                  </div>
-                ))}
-              </div>
-
-              <h3 className="text-2xl font-bold text-white mb-4">Join the conversation</h3>
-
-              <p className="text-gray-400 mb-6">
-                Connect with builders, researchers, and enthusiasts shaping the future of agent technology.
-              </p>
-
-              <Button className="w-full bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white" asChild>
-                <a
-                  href="https://discord.gg/NKK8JVcakk"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <Users className="w-4 h-4 mr-2" />
-                  Join Community
-                </a>
-              </Button>
-            </div>
-          </div>
         </div>
       </div>
     </section>

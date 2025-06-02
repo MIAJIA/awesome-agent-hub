@@ -164,50 +164,48 @@ export default function DiscussingSection() {
           </span>
         </h2>
 
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-          <div className="lg:col-span-2 space-y-6">
-            {cleanedDiscussions.map((discussion, index) => (
-              <div
-                key={index}
-                className="bg-gradient-to-br from-gray-800/50 to-gray-900/50 rounded-2xl p-6 border border-gray-700/50 hover:border-green-500/50 transition-all duration-300"
-              >
-                <h3 className="text-xl font-semibold text-white mb-3">{discussion.headline}</h3>
-                <div className="flex flex-wrap gap-2 mb-2">
-                  {discussion.tags.map(tag => (
-                    <span key={tag} className="px-2 py-0.5 bg-gray-700/60 text-xs text-green-300 rounded-full">{tag}</span>
+        <div className="flex flex-col items-center space-y-6 max-w-3xl mx-auto">
+          {cleanedDiscussions.map((discussion, index) => (
+            <div
+              key={index}
+              className="w-full bg-gradient-to-br from-gray-800/50 to-gray-900/50 rounded-2xl p-6 border border-gray-700/50 hover:border-green-500/50 transition-all duration-300"
+            >
+              <h3 className="text-xl font-semibold text-white mb-3">{discussion.headline}</h3>
+              <div className="flex flex-wrap gap-2 mb-2">
+                {discussion.tags.map(tag => (
+                  <span key={tag} className="px-2 py-0.5 bg-gray-700/60 text-xs text-green-300 rounded-full">{tag}</span>
+                ))}
+              </div>
+              <p className="text-gray-300 mb-4 leading-relaxed">
+                <ReactMarkdown>{discussion.summary}</ReactMarkdown>
+              </p>
+              <div className="bg-green-600/10 border border-green-600/30 rounded-lg p-4 border-l-4 border-l-green-500">
+                <h4 className="text-green-400 font-medium mb-2 flex items-center">
+                  <TrendingUp className="w-4 h-4 mr-2" />
+                  Why it matters
+                </h4>
+                <p className="text-gray-300 text-sm">
+                  <ReactMarkdown>{discussion.impact}</ReactMarkdown>
+                </p>
+              </div>
+              {discussion.mentions.length > 0 && (
+                <div className="mt-3 text-xs text-gray-400 flex flex-wrap items-center gap-2">
+                  <span className="font-medium text-gray-500">References:</span>
+                  {discussion.mentions.map((m, i) => (
+                    <a
+                      key={i}
+                      href={m.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="underline text-blue-400 hover:text-blue-300"
+                    >
+                      [{m.source}{discussion.mentions.length > 1 ? ` #${i + 1}` : ''}]
+                    </a>
                   ))}
                 </div>
-                <p className="text-gray-300 mb-4 leading-relaxed">
-                  <ReactMarkdown>{discussion.summary}</ReactMarkdown>
-                </p>
-                <div className="bg-green-600/10 border border-green-600/30 rounded-lg p-4 border-l-4 border-l-green-500">
-                  <h4 className="text-green-400 font-medium mb-2 flex items-center">
-                    <TrendingUp className="w-4 h-4 mr-2" />
-                    Why it matters
-                  </h4>
-                  <p className="text-gray-300 text-sm">
-                    <ReactMarkdown>{discussion.impact}</ReactMarkdown>
-                  </p>
-                </div>
-                {discussion.mentions.length > 0 && (
-                  <div className="mt-3 text-xs text-gray-400 flex flex-wrap items-center gap-2">
-                    <span className="font-medium text-gray-500">References:</span>
-                    {discussion.mentions.map((m, i) => (
-                      <a
-                        key={i}
-                        href={m.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="underline text-blue-400 hover:text-blue-300"
-                      >
-                        [{m.source}{discussion.mentions.length > 1 ? ` #${i + 1}` : ''}]
-                      </a>
-                    ))}
-                  </div>
-                )}
-              </div>
-            ))}
-          </div>
+              )}
+            </div>
+          ))}
         </div>
       </div>
     </section>

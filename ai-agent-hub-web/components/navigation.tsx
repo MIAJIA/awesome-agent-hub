@@ -36,8 +36,14 @@ export default function Navigation() {
             <Link href="/build" className="text-gray-300 hover:text-white transition-colors">
               Explore Hub
             </Link>
-            <Button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white">
-              Submit Agent
+            <Button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white" asChild>
+              <a
+                href="https://github.com/MIAJIA/awesome-open-agents/blob/main/CONTRIBUTING.md"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Submit Agent
+              </a>
             </Button>
           </div>
 
@@ -58,8 +64,14 @@ export default function Navigation() {
             <Link href="/build" className="block text-gray-300 hover:text-white py-2">
               Explore Hub
             </Link>
-            <Button className="w-full bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white mt-4">
-              Submit Agent
+            <Button className="w-full bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white mt-4" asChild>
+              <a
+                href="https://github.com/MIAJIA/awesome-open-agents/blob/main/CONTRIBUTING.md"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Submit Agent
+              </a>
             </Button>
           </div>
         )}

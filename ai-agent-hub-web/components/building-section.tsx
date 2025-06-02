@@ -1,10 +1,11 @@
 "use client"
 
-import { Star, Users, ExternalLink } from "lucide-react"
+import { Star, Users, ExternalLink, ChevronLeft, ChevronRight } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import AgentCard from "./agent-card"
 import { useRouter } from "next/navigation"
+import React from "react"
 
 type Agent = {
   name: string;
@@ -168,6 +169,20 @@ const projects: Agent[] = [
 
 export default function BuildingSection() {
   const router = useRouter();
+  // Ref for scroll container
+  const scrollRef = React.useRef<HTMLDivElement>(null);
+
+  const scroll = (direction: 'left' | 'right') => {
+    const container = scrollRef.current;
+    if (container) {
+      const scrollAmount = 320; // width of one card + gap
+      container.scrollBy({
+        left: direction === 'left' ? -scrollAmount : scrollAmount,
+        behavior: 'smooth',
+      });
+    }
+  };
+
   return (
     <section id="building" className="py-20 bg-gray-800/50">
       <div className="max-w-7xl mx-auto px-4">
@@ -177,9 +192,19 @@ export default function BuildingSection() {
           </span>
         </h2>
 
-        <div className="flex space-x-6 overflow-x-auto scrollbar-hide pb-4 min-w-0 snap-x snap-mandatory">
+        {/* Scroll buttons */}
+        <div className="flex justify-end mb-2 gap-2">
+          <Button variant="ghost" size="icon" onClick={() => scroll('left')} className="border border-gray-700/50">
+            <ChevronLeft className="w-5 h-5" />
+          </Button>
+          <Button variant="ghost" size="icon" onClick={() => scroll('right')} className="border border-gray-700/50">
+            <ChevronRight className="w-5 h-5" />
+          </Button>
+        </div>
+
+        <div ref={scrollRef} className="flex space-x-6 overflow-x-auto scrollbar-hide pb-4 relative">
           {projects.map((project) => (
-            <div key={project.slug} className="flex-none w-72 sm:w-80 snap-start">
+            <div key={project.slug} className="flex-none w-72 sm:w-80">
               <AgentCard agent={project} onViewDetails={() => router.push(`/agent/${project.slug}`)} />
             </div>
           ))}

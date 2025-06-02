@@ -12,8 +12,8 @@ export default function HomePage() {
       <HeroSection />
       <BuildingSection />
       <UsingSection />
-      <DiscussingSection />
       <SimpleFooter />
+      <DiscussingSection />
     </div>
   )
 }

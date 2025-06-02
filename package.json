@@ -28,7 +28,8 @@
     "ajv-formats": "^2.1.1",
     "dotenv": "^16.5.0",
     "node-fetch": "^2.7.0",
-    "openai": "^4.103.0"
+    "openai": "^4.103.0",
+    "react-markdown": "^10.1.0"
   },
   "devDependencies": {
     "jest": "^29.7.0"

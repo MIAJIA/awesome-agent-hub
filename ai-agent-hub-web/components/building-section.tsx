@@ -3,43 +3,171 @@
 import { Star, Users, ExternalLink } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
+import AgentCard from "./agent-card"
+import { useRouter } from "next/navigation"
 
-const projects = [
+type Agent = {
+  name: string;
+  slug: string;
+  description: string;
+  highlight?: string;
+  purpose?: string;
+  repository: string;
+  stars: number;
+  category: string;
+  originator?: string;
+  principle?: string;
+  stack: string[];
+  tags: string[];
+  reusability?: string;
+  limitations?: string;
+  status: 'alpha' | 'beta' | 'production';
+  open_source: boolean;
+  license?: string;
+  useful_links: string[];
+  last_updated: string;
+  language?: string;
+  platforms: string[];
+  downloads?: number;
+  forks?: number;
+  avatar?: string;
+}
+
+const projects: Agent[] = [
   {
-    title: "Autonomous Research Agent",
-    description: "Self-directed agent that conducts deep research across multiple domains and synthesizes findings.",
-    users: "1.2k",
-    rating: "4.8",
-    tags: ["Research", "AI"],
-    gradient: "from-blue-500 to-purple-600",
+    name: "LocalAI",
+    slug: "mudler-localai",
+    description: "Self-hosted, local-first AI platform that runs on consumer-grade hardware without requiring a GPU.",
+    highlight: undefined,
+    purpose: undefined,
+    repository: "https://github.com/mudler/LocalAI",
+    stars: 32874,
+    category: "infra-tools",
+    originator: "mudler",
+    principle: undefined,
+    stack: ["Go", "Libp2p", "Kubernetes", "Docker"],
+    tags: ["AI", "Open Source", "Local"],
+    reusability: undefined,
+    limitations: undefined,
+    status: "alpha",
+    open_source: true,
+    license: "MIT",
+    useful_links: [],
+    last_updated: "2025-05-28",
+    language: "Go",
+    platforms: ["Linux", "Windows", "MacOS", "Docker"],
+    downloads: undefined,
+    forks: undefined,
+    avatar: undefined,
   },
   {
-    title: "Multi-Modal Content Creator",
-    description: "Creates cohesive content across text, image, and audio formats with consistent brand voice.",
-    users: "3.4k",
-    rating: "4.9",
-    tags: ["Content", "Creative"],
-    gradient: "from-green-500 to-teal-600",
+    name: "UI-TARS-desktop",
+    slug: "bytedance-ui-tars-desktop",
+    description: "Enables computer control through natural language using a Vision-Language Model.",
+    highlight: undefined,
+    purpose: undefined,
+    repository: "https://github.com/bytedance/UI-TARS-desktop",
+    stars: 14293,
+    category: "productivity",
+    originator: "bytedance",
+    principle: undefined,
+    stack: ["TypeScript", "Electron", "Vite"],
+    tags: ["GUI", "Vision", "Agent"],
+    reusability: undefined,
+    limitations: undefined,
+    status: "alpha",
+    open_source: true,
+    license: "Apache-2.0",
+    useful_links: [],
+    last_updated: "2025-05-28",
+    language: "TypeScript",
+    platforms: ["Windows", "macOS", "Linux"],
+    downloads: undefined,
+    forks: undefined,
+    avatar: undefined,
   },
   {
-    title: "Workflow Automation Suite",
-    description: "Connects to your tools and automates repetitive tasks with intelligent decision-making.",
-    users: "5.7k",
-    rating: "4.7",
-    tags: ["Productivity", "Business"],
-    gradient: "from-orange-500 to-red-600",
+    name: "Goose",
+    slug: "block-goose",
+    description: "Extensible AI agent framework that allows installation, execution, editing, and testing with any LLM.",
+    highlight: undefined,
+    purpose: undefined,
+    repository: "https://github.com/block/goose",
+    stars: 13164,
+    category: "meta-agents",
+    originator: "block",
+    principle: undefined,
+    stack: ["Rust", "LLM integrations"],
+    tags: ["Framework", "LLM", "Extensible"],
+    reusability: undefined,
+    limitations: undefined,
+    status: "alpha",
+    open_source: true,
+    license: "Apache-2.0",
+    useful_links: [],
+    last_updated: "2025-05-29",
+    language: "Rust",
+    platforms: ["Linux", "macOS", "Windows"],
+    downloads: undefined,
+    forks: undefined,
+    avatar: undefined,
   },
   {
-    title: "Personal Finance Advisor",
-    description: "Analyzes spending patterns and provides personalized financial advice and investment strategies.",
-    users: "2.8k",
-    rating: "4.6",
-    tags: ["Finance", "Personal"],
-    gradient: "from-purple-500 to-pink-600",
+    name: "IntentKit",
+    slug: "crestalnetwork-intentkit",
+    description: "Open and fair framework for building AI agents with powerful skills.",
+    highlight: undefined,
+    purpose: undefined,
+    repository: "https://github.com/crestalnetwork/intentkit",
+    stars: 6417,
+    category: "meta-agents",
+    originator: "crestalnetwork",
+    principle: undefined,
+    stack: ["Python", "Blockchain", "Web3"],
+    tags: ["Skills", "Python", "Web3"],
+    reusability: undefined,
+    limitations: undefined,
+    status: "alpha",
+    open_source: true,
+    license: "MIT",
+    useful_links: [],
+    last_updated: "2025-05-28",
+    language: "Python",
+    platforms: ["Linux", "Docker"],
+    downloads: undefined,
+    forks: undefined,
+    avatar: undefined,
+  },
+  {
+    name: "Forge",
+    slug: "antinomyhq-forge",
+    description: "Supports integration with over 300 AI models for pair programming.",
+    highlight: undefined,
+    purpose: undefined,
+    repository: "https://github.com/antinomyhq/forge",
+    stars: 2171,
+    category: "programming",
+    originator: "antinomyhq",
+    principle: undefined,
+    stack: ["Rust", "Command-line Interface", "AI Model APIs"],
+    tags: ["Pair Programming", "Rust", "CLI"],
+    reusability: undefined,
+    limitations: undefined,
+    status: "alpha",
+    open_source: true,
+    license: "Apache-2.0",
+    useful_links: [],
+    last_updated: "2025-05-28",
+    language: "Rust",
+    platforms: ["Linux", "macOS", "Windows"],
+    downloads: undefined,
+    forks: undefined,
+    avatar: undefined,
   },
 ]
 
 export default function BuildingSection() {
+  const router = useRouter();
   return (
     <section id="building" className="py-20 bg-gray-800/50">
       <div className="max-w-7xl mx-auto px-4">
@@ -50,67 +178,9 @@ export default function BuildingSection() {
         </h2>
 
         <div className="flex space-x-6 overflow-x-auto scrollbar-hide pb-4">
-          {projects.map((project, index) => (
-            <div
-              key={index}
-              className="group relative bg-gradient-to-br from-gray-800/50 to-gray-900/50 rounded-2xl border border-gray-700/50 hover:border-pink-500/50 transition-all duration-300 cursor-pointer backdrop-blur-sm overflow-hidden
-                flex-none w-72 sm:w-80 h-80"
-            >
-              {/* Hover glow effect */}
-              <div className="absolute inset-0 bg-gradient-to-r from-pink-600/10 to-red-600/10 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-
-              {/* Content container */}
-              <div className="relative z-10 flex flex-col h-full p-6">
-                {/* Header with gradient icon */}
-                <div className="flex items-start justify-between mb-4">
-                  <div className="flex items-center space-x-3 flex-1 min-w-0">
-                    <div
-                      className={`w-12 h-12 bg-gradient-to-r ${project.gradient} rounded-xl flex items-center justify-center text-white font-bold text-lg flex-shrink-0`}
-                    >
-                      🚀
-                    </div>
-                    <div className="min-w-0 flex-1">
-                      <h3 className="text-lg font-semibold text-white group-hover:text-pink-400 transition-colors truncate">
-                        {project.title}
-                      </h3>
-                      <div className="flex items-center space-x-2 mt-1">
-                        <div className="flex items-center text-gray-400 text-sm">
-                          <Star className="w-3 h-3 mr-1 fill-yellow-400 text-yellow-400" />
-                          <span>{project.rating}</span>
-                        </div>
-                        <span className="text-gray-500">•</span>
-                        <div className="flex items-center text-gray-400 text-sm">
-                          <Users className="w-3 h-3 mr-1" />
-                          <span>{project.users}</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                {/* Description */}
-                <p className="text-gray-300 text-sm mb-4 line-clamp-3 flex-1 leading-relaxed">{project.description}</p>
-
-                {/* Tags */}
-                <div className="flex flex-wrap gap-2 mb-4">
-                  {project.tags.map((tag) => (
-                    <Badge key={tag} className="bg-pink-600/20 text-pink-400 border-pink-600/30 text-xs">
-                      {tag}
-                    </Badge>
-                  ))}
-                </div>
-
-                {/* Action button - Fixed at bottom */}
-                <div className="mt-auto">
-                  <Button
-                    size="sm"
-                    className="w-full bg-gradient-to-r from-pink-600 to-red-600 hover:from-pink-700 hover:to-red-700 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300 h-8 text-xs"
-                  >
-                    View Project
-                    <ExternalLink className="w-3 h-3 ml-1" />
-                  </Button>
-                </div>
-              </div>
+          {projects.map((project) => (
+            <div key={project.slug} className="flex-none w-72 sm:w-80">
+              <AgentCard agent={project} onViewDetails={() => router.push(`/agent/${project.slug}`)} />
             </div>
           ))}
         </div>

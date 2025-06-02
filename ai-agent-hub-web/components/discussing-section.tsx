@@ -228,9 +228,15 @@ export default function DiscussingSection() {
                 Connect with builders, researchers, and enthusiasts shaping the future of agent technology.
               </p>
 
-              <Button className="w-full bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white">
-                <Users className="w-4 h-4 mr-2" />
-                Join Community
+              <Button className="w-full bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 text-white" asChild>
+                <a
+                  href="https://discord.gg/NKK8JVcakk"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <Users className="w-4 h-4 mr-2" />
+                  Join Community
+                </a>
               </Button>
             </div>
           </div>

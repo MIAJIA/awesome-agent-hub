@@ -13,23 +13,39 @@ import {
   Calendar,
   BarChart,
   Globe,
+  Video,
+  FileText,
+  Book,
+  Mail,
 } from "lucide-react"
 
 const tools = [
-  { name: "NeuraTech", description: "Advanced reasoning models", icon: Brain },
-  { name: "AgentFlow", description: "Agent orchestration", icon: Bot },
-  { name: "VectorDB", description: "Knowledge storage", icon: Database },
-  { name: "DialogOS", description: "Conversation design", icon: MessageSquare },
-  { name: "CodePilot", description: "Autonomous coding", icon: Code },
-  { name: "VisualCore", description: "Image understanding", icon: Eye },
-  { name: "CommandAI", description: "System automation", icon: Terminal },
-  { name: "DocSense", description: "Document intelligence", icon: FileSearch },
-  { name: "SupportGPT", description: "Customer assistance", icon: Headphones },
-  { name: "TaskMaster", description: "Project management", icon: Calendar },
-  { name: "MetricView", description: "Analytics platform", icon: BarChart },
-  { name: "WorldModel", description: "Simulation engine", icon: Globe },
-]
+  { name: "ChatGPT", description: "Advanced reasoning models", icon: Brain },
+  { name: "n8n", description: "Workflow automation", icon: Bot },
+  { name: "Cursor", description: "AI-first code editor", icon: Code },
+  { name: "Fireflies.ai", description: "AI for Meeting Analysis", icon: MessageSquare },
+  { name: "ElevenLabs", description: "AI voice generation", icon: Headphones },
+  { name: "Synthesia", description: "AI video generation", icon: Video },
+  { name: "Quillbot", description: "AI paraphrasing & writing tool", icon: FileText },
+  { name: "Midjourney", description: "Image Generation", icon: Eye },
+  { name: "Motion", description: "Time Management", icon: Calendar },
+  { name: "ThoughtSpot", description: "Analytics platform", icon: BarChart },
+  // find mail icon for me
+  { name: "Superhuman", description: "Email Assistant", icon: Mail },
+  // find notion icon for me
+  { name: "Notion AI", description: "AI for Notion", icon: Book },
 
+]
+// zapier
+//ElevenLabs – AI 语音生成器
+// Synthesia	AI Video Generation (Avatars)
+//Writer.com	Enterprise AI Content Governance	5% prof. adoption 	Axis #14 Productivity, Forbes AI 50
+// 12	Quillbot	AI Paraphrasing & Writing Tool
+//Character.AI	Customizable AI Chatbots
+// Perplexity	AI Search Engine
+// Cursor (Anysphere): A rapidly growing AI-first code editor that allows developers to write and edit code using natural language, showing significant traction and high-value contracts.  
+// Fireflies.ai: AI for Meeting Analysis
+// In an increasingly remote and hybrid work environment, tools that enhance meeting productivity have become invaluable.
 export default function UsingSection() {
   return (
     <section id="using" className="py-20 bg-gray-900">

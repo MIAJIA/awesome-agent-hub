@@ -40,8 +40,11 @@ type Category = {
   agents: Agent[];
 }
 
-export default function FeaturedAgents() {
-  const [categories, setCategories] = useState<Category[]>([])
+interface FeaturedAgentsProps {
+  categories: Category[];
+}
+
+export default function FeaturedAgents({ categories }: FeaturedAgentsProps) {
   const [selectedAgent, setSelectedAgent] = useState<Agent | null>(null)
   const [expandedInsights, setExpandedInsights] = useState<Record<string, boolean>>({})
   const [insightData, setInsightData] = useState<Record<string, any>>({})
@@ -52,47 +55,18 @@ export default function FeaturedAgents() {
   const [showAllTagsForCategory, setShowAllTagsForCategory] = useState<Record<string, boolean>>({})
 
   useEffect(() => {
-    fetch('/api/agents')
-      .then(res => res.json())
-      .then((agents: any[]) => {
-        const normalized = agents.map(agent => ({
-          ...agent,
-          stack: agent.stack ?? [],
-          tags: agent.tags ?? [],
-          platforms: agent.platforms ?? [],
-          useful_links: agent.useful_links ?? [],
-          last_updated: agent.last_updated ?? '',
-          status: agent.status === 'experimental' || !agent.status ? 'alpha' : agent.status,
-          open_source: agent.open_source ?? false,
-          category: agent.category === 'finance' ? 'payment' : agent.category,
-        })) as Agent[];
-
-        const grouped: Record<string, Agent[]> = {}
-        normalized.forEach(agent => {
-          if (!grouped[agent.category]) grouped[agent.category] = []
-          grouped[agent.category].push(agent)
-        })
-
-        const cats: Category[] = Object.entries(grouped).map(([id, agents]) => ({
-          id,
-          name: id,
-          agents: agents.sort((a, b) => b.stars - a.stars)
-        }))
-        setCategories(cats)
-
-        const initialSelectedTags: Record<string, string[]> = {}
-        const initialExpandedState: Record<string, boolean> = {};
-        const initialShowAllTagsState: Record<string, boolean> = {};
-        cats.forEach(cat => {
-          initialSelectedTags[cat.id] = []
-          initialExpandedState[cat.id] = false;
-          initialShowAllTagsState[cat.id] = false;
-        })
-        setSelectedFilterTags(initialSelectedTags)
-        setExpandedTagFilters(initialExpandedState);
-        setShowAllTagsForCategory(initialShowAllTagsState);
-      })
-  }, [])
+    const initialSelectedTags: Record<string, string[]> = {}
+    const initialExpandedState: Record<string, boolean> = {}
+    const initialShowAllTagsState: Record<string, boolean> = {}
+    categories.forEach(cat => {
+      initialSelectedTags[cat.id] = []
+      initialExpandedState[cat.id] = false
+      initialShowAllTagsState[cat.id] = false
+    })
+    setSelectedFilterTags(initialSelectedTags)
+    setExpandedTagFilters(initialExpandedState)
+    setShowAllTagsForCategory(initialShowAllTagsState)
+  }, [categories])
 
   const tagsPerCategory = useMemo(() => {
     const calculatedTags: Record<string, string[]> = {}
@@ -133,15 +107,15 @@ export default function FeaturedAgents() {
     setExpandedTagFilters(prev => ({
       ...prev,
       [categoryId]: !prev[categoryId]
-    }));
-  };
+    }))
+  }
 
   const toggleShowAllTags = (categoryId: string) => {
     setShowAllTagsForCategory(prev => ({
       ...prev,
       [categoryId]: !prev[categoryId]
-    }));
-  };
+    }))
+  }
 
   const scrollCategory = (categoryId: string, direction: "left" | "right") => {
     const container = document.getElementById(`category-${categoryId}`)
@@ -195,8 +169,7 @@ export default function FeaturedAgents() {
       <div className="max-w-7xl mx-auto">
         {categories.length === 0 ? (
           <div className="flex flex-col items-center justify-center py-24">
-            <Loader2 className="w-10 h-10 animate-spin text-blue-400 mb-4" />
-            <span className="text-lg text-gray-400">Loading agents...</span>
+            <span className="text-lg text-gray-400">No agents match your current search or filters.</span>
           </div>
         ) : (
           <>
@@ -218,7 +191,7 @@ export default function FeaturedAgents() {
 
                 return (
                   <div key={category.id} className="relative">
-                    <div className="flex items-center justify-between mb-4 sm:mb-6">
+                    <div id={`category-title-${category.id}`} className="flex items-center justify-between mb-4 sm:mb-6 scroll-mt-20">
                       <h3 className="text-xl sm:text-2xl font-semibold text-white flex items-center">
                         <span className="truncate">{category.name.toUpperCase()}</span>
                         <span className="ml-2 text-base text-gray-400 font-normal">({filteredAgents.length})</span>

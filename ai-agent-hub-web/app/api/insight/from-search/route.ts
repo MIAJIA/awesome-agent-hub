@@ -77,7 +77,7 @@ Please generate a concise (4-6 sentences) and relevant insight based *only* on t
 5. Highlight both recurring patterns across agents and any notable outliers in terms of purpose, stack, or limitations related to "${searchTerm}".
 6. Techical infrastructure and tools used by the agents.
 
-Do not invent information not present in the agent summaries. The insight should be directly helpful and actionable for someone searching for "${searchTerm}". Output only the generated insight text.`;
+Do not invent information not present in the agent summaries. The insight should be directly helpful and actionable for someone searching for "${searchTerm}". Ensure your entire response forms a complete and coherent paragraph, ending with a full stop. Output only the generated insight text.`;
 
     // --- Calling OpenAI API ---
     console.log("[API /api/insight/from-search] Sending request to OpenAI...");
@@ -87,8 +87,8 @@ Do not invent information not present in the agent summaries. The insight should
         { role: 'system', content: systemPrompt },
         { role: 'user', content: userPrompt }
       ],
-      max_tokens: 150, // Adjust as needed
-      temperature: 0.7, // Adjust for creativity vs. factuality
+      max_tokens: 500,
+      temperature: 0.7,
       n: 1, // Number of completions to generate
     });
 
